@@ -1,0 +1,9 @@
+game_id,date,team,opponent,pts,team_abbr
+20260509_DAL_IND,"Saturday, May 09, 2026",Indiana Fever,Dallas Wings,100,IND
+20260509_DAL_IND,"Saturday, May 09, 2026",Dallas Wings,Indiana Fever,101,DAL
+20260509_PHX_LV,"Saturday, May 09, 2026",Las Vegas Aces,Phoenix Mercury,0,LV
+20260509_PHX_LV,"Saturday, May 09, 2026",Phoenix Mercury,Las Vegas Aces,0,PHX
+20260510_ATL_MIN,"Sunday, May 10, 2026",Minnesota Lynx,Atlanta Dream,0,MIN
+20260510_ATL_MIN,"Sunday, May 10, 2026",Atlanta Dream,Minnesota Lynx,0,ATL
+20260510_CHI_POR,"Sunday, May 10, 2026",Portland Fire,Chicago Sky,0,POR
+20260510_CHI_POR,"Sunday, May 10, 2026",Chicago Sky,Portland Fire,0,CHI

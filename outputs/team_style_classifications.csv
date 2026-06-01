@@ -1,0 +1,16 @@
+team,possessions,shot_value,offensive_flow,ball_security,defensive_pressure,offensive_rating,tempo_style,shot_profile,flow_profile,security_profile,defense_profile,offense_profile
+Atlanta Dream,80.84,0.606,0.605,0.825,0.136,103.87,Controlled Tempo,Balanced Shot Profile,Moderate Ball Movement,Average Ball Protection,Low Disruption Defense,Average Offensive Production
+Chicago Sky,78.96,0.638,0.667,0.886,0.094,124.113,Controlled Tempo,Balanced Shot Profile,Connected Offensive Flow,Elite Ball Security,Low Disruption Defense,Elite Offensive Efficiency
+Connecticut Sun,91.14,0.388,0.639,0.824,0.174,86.298,Elite Fast Tempo,Difficult Shot Environment,Moderate Ball Movement,Average Ball Protection,Active Defensive Presence,Developing Offensive Structure
+Dallas Wings,84.36,0.566,0.602,0.865,0.136,105.321,Balanced Tempo,Balanced Shot Profile,Moderate Ball Movement,Strong Ball Security,Low Disruption Defense,Average Offensive Production
+Golden State Valkyries,78.8,0.809,0.734,0.886,0.206,118.064,Controlled Tempo,High Value Shot Creation,Elite Offensive Flow,Elite Ball Security,Elite Defensive Pressure,Elite Offensive Efficiency
+Indiana Fever,93.24,0.494,0.575,0.85,0.169,111.54,Elite Fast Tempo,Balanced Shot Profile,Stagnant Offensive Flow,Average Ball Protection,Active Defensive Presence,Strong Offensive Production
+Las Vegas Aces,85.0,0.352,0.653,0.818,0.148,100.732,Balanced Tempo,Difficult Shot Environment,Moderate Ball Movement,Average Ball Protection,Active Defensive Presence,Average Offensive Production
+Los Angeles Sparks,89.04,0.487,0.379,0.787,0.166,87.601,Fast Tempo,Difficult Shot Environment,Stagnant Offensive Flow,Turnover Vulnerable,Active Defensive Presence,Developing Offensive Structure
+Minnesota Lynx,84.12,0.511,0.598,0.821,0.178,105.94,Balanced Tempo,Balanced Shot Profile,Moderate Ball Movement,Average Ball Protection,Aggressive Defensive Pressure,Average Offensive Production
+New York Liberty,85.96,0.821,0.672,0.809,0.161,116.444,Fast Tempo,Elite Shot Creation,Connected Offensive Flow,Turnover Vulnerable,Active Defensive Presence,Strong Offensive Production
+Phoenix Mercury,82.16,0.732,0.714,0.855,0.167,106.41,Balanced Tempo,Balanced Shot Profile,Elite Offensive Flow,Average Ball Protection,Active Defensive Presence,Average Offensive Production
+Portland Fire,82.2,0.744,0.566,0.871,0.17,110.496,Balanced Tempo,High Value Shot Creation,Stagnant Offensive Flow,Strong Ball Security,Active Defensive Presence,Average Offensive Production
+Seattle Storm,79.2,0.816,0.567,0.822,0.146,106.642,Controlled Tempo,Elite Shot Creation,Stagnant Offensive Flow,Average Ball Protection,Low Disruption Defense,Average Offensive Production
+Toronto Tempo,85.4,0.651,0.588,0.813,0.218,76.112,Balanced Tempo,Balanced Shot Profile,Moderate Ball Movement,Turnover Vulnerable,Elite Defensive Pressure,Developing Offensive Structure
+Washington Mystics,84.72,0.438,0.633,0.816,0.178,94.718,Balanced Tempo,Difficult Shot Environment,Moderate Ball Movement,Turnover Vulnerable,Aggressive Defensive Pressure,Developing Offensive Structure

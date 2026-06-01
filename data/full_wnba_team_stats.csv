@@ -1,0 +1,127 @@
+game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,reb,ast,stl,blk,to,pf,pts
+20260508_CON_NY,"Friday, May 08, 2026",Connecticut Sun,New York Liberty,CON,32-83,39,4-22,18,7-15,47,12,20,32,21,5,2,16,25,75
+20260508_CON_NY,"Friday, May 08, 2026",New York Liberty,Connecticut Sun,NY,35-67,52,10-31,32,26-31,84,7,30,37,26,9,5,16,23,106
+20260508_WSH_TOR,"Friday, May 08, 2026",Washington Mystics,Toronto Tempo,WSH,25-64,39,5-24,21,13-22,59,9,35,44,14,10,5,18,28,68
+20260508_WSH_TOR,"Friday, May 08, 2026",Toronto Tempo,Washington Mystics,TOR,17-63,27,5-25,20,26-35,74,9,28,37,10,10,2,16,26,65
+20260509_GS_SEA,"Saturday, May 09, 2026",Golden State Valkyries,Seattle Storm,GS,31-74,42,15-37,41,14-22,64,13,22,35,22,5,5,9,23,91
+20260509_GS_SEA,"Saturday, May 09, 2026",Seattle Storm,Golden State Valkyries,SEA,26-63,41,9-26,35,19-27,70,13,28,41,16,4,5,14,22,80
+20260509_DAL_IND,"Saturday, May 09, 2026",Dallas Wings,Indiana Fever,DAL,39-66,59,12-23,52,17-24,71,3,24,27,26,9,2,15,28,107
+20260509_DAL_IND,"Saturday, May 09, 2026",Indiana Fever,Dallas Wings,IND,40-77,52,7-24,29,17-21,81,7,21,28,23,4,2,14,25,104
+20260509_PHX_LV,"Saturday, May 09, 2026",Phoenix Mercury,Las Vegas Aces,PHX,38-77,49,11-24,46,12-15,80,7,30,37,23,11,4,7,10,99
+20260509_PHX_LV,"Saturday, May 09, 2026",Las Vegas Aces,Phoenix Mercury,LV,29-71,41,4-19,21,4-8,50,6,29,35,19,5,8,17,15,66
+20260510_ATL_MIN,"Sunday, May 10, 2026",Atlanta Dream,Minnesota Lynx,ATL,31-73,42,7-29,24,22-30,73,19,27,46,22,9,6,20,18,91
+20260510_ATL_MIN,"Sunday, May 10, 2026",Minnesota Lynx,Atlanta Dream,MIN,35-70,50,5-18,28,15-22,68,7,18,25,20,10,7,15,24,90
+20260510_CHI_POR,"Sunday, May 10, 2026",Chicago Sky,Portland Fire,CHI,33-69,48,6-17,35,26-34,76,14,32,46,22,4,8,9,17,98
+20260510_CHI_POR,"Sunday, May 10, 2026",Portland Fire,Chicago Sky,POR,29-71,41,9-29,31,16-20,80,3,21,24,20,6,7,8,24,83
+20260510_SEA_CON,"Sunday, May 10, 2026",Seattle Storm,Connecticut Sun,SEA,27-61,44,10-22,45,25-33,76,7,25,32,14,10,8,14,22,89
+20260510_SEA_CON,"Sunday, May 10, 2026",Connecticut Sun,Seattle Storm,CON,29-73,40,8-23,35,16-22,73,10,31,41,18,7,3,16,28,82
+20260510_NY_WSH,"Sunday, May 10, 2026",New York Liberty,Washington Mystics,NY,33-69,48,9-27,33,23-28,82,8,26,34,19,7,5,15,31,98
+20260510_NY_WSH,"Sunday, May 10, 2026",Washington Mystics,New York Liberty,WSH,34-80,43,5-26,19,20-29,69,19,23,42,24,7,1,13,27,93
+20260510_LV_LA,"Sunday, May 10, 2026",Las Vegas Aces,Los Angeles Sparks,LV,43-69,62,7-20,35,12-17,71,6,25,31,28,11,10,14,16,105
+20260510_LV_LA,"Sunday, May 10, 2026",Los Angeles Sparks,Las Vegas Aces,LA,29-78,37,9-31,29,11-16,69,15,17,32,11,8,0,19,17,78
+20260511_PHX_GS,"Monday, May 11, 2026",Phoenix Mercury,Golden State Valkyries,PHX,26-54,48,11-22,50,16-19,84,4,20,24,20,2,3,17,21,79
+20260511_PHX_GS,"Monday, May 11, 2026",Golden State Valkyries,Phoenix Mercury,GS,33-67,49,13-33,39,16-18,89,6,24,30,25,10,4,9,21,95
+20260513_ATL_DAL,"Wednesday, May 13, 2026",Atlanta Dream,Dallas Wings,ATL,26-69,38,9-33,27,16-17,94,11,33,44,13,5,3,9,18,77
+20260513_ATL_DAL,"Wednesday, May 13, 2026",Dallas Wings,Atlanta Dream,DAL,28-73,38,4-26,15,12-14,86,7,27,34,15,3,4,8,17,72
+20260513_MIN_PHX,"Wednesday, May 13, 2026",Minnesota Lynx,Phoenix Mercury,MIN,32-64,50,7-19,37,17-24,71,9,34,43,20,5,4,15,28,88
+20260513_MIN_PHX,"Wednesday, May 13, 2026",Phoenix Mercury,Minnesota Lynx,PHX,26-71,37,9-29,31,23-33,70,9,22,31,20,11,4,11,22,84
+20260513_NY_POR,"Wednesday, May 13, 2026",New York Liberty,Portland Fire,NY,33-62,53,13-28,46,17-18,94,8,23,31,23,7,3,18,16,96
+20260513_NY_POR,"Wednesday, May 13, 2026",Portland Fire,New York Liberty,POR,34-68,50,15-33,45,15-15,100,8,18,26,15,8,4,13,21,98
+20260513_SEA_TOR,"Wednesday, May 13, 2026",Seattle Storm,Toronto Tempo,SEA,27-58,47,7-20,35,12-17,71,3,25,28,18,6,5,19,21,73
+20260513_SEA_TOR,"Wednesday, May 13, 2026",Toronto Tempo,Seattle Storm,TOR,30-69,43,11-29,38,15-18,83,9,24,33,21,11,4,12,17,86
+20260514_LV_CON,"Thursday, May 14, 2026",Las Vegas Aces,Connecticut Sun,LV,39-72,54,5-16,31,15-21,71,12,34,46,21,9,6,15,19,98
+20260514_LV_CON,"Thursday, May 14, 2026",Connecticut Sun,Las Vegas Aces,CON,23-70,33,3-13,23,20-24,83,8,21,29,16,6,3,13,20,69
+20260514_CHI_GS,"Thursday, May 14, 2026",Chicago Sky,Golden State Valkyries,CHI,25-69,36,6-20,30,13-21,62,8,31,39,19,7,8,8,19,69
+20260514_CHI_GS,"Thursday, May 14, 2026",Golden State Valkyries,Chicago Sky,GS,22-75,29,7-26,27,12-16,75,14,28,42,10,3,9,11,19,63
+20260514_IND_LA,"Thursday, May 14, 2026",Indiana Fever,Los Angeles Sparks,IND,31-63,49,9-30,30,16-19,84,8,25,33,23,7,3,16,24,87
+20260514_IND_LA,"Thursday, May 14, 2026",Los Angeles Sparks,Indiana Fever,LA,28-57,49,2-15,13,20-25,80,4,20,24,13,12,4,19,24,78
+20260515_MIN_DAL,"Friday, May 15, 2026",Minnesota Lynx,Dallas Wings,MIN,35-58,60,6-13,46,14-18,78,6,25,31,20,6,7,16,19,90
+20260515_MIN_DAL,"Friday, May 15, 2026",Dallas Wings,Minnesota Lynx,DAL,31-67,46,5-17,29,19-22,86,9,17,26,22,9,3,11,18,86
+20260515_NY_POR,"Friday, May 15, 2026",New York Liberty,Portland Fire,NY,34-67,51,15-38,39,17-20,85,4,28,32,32,7,0,12,19,100
+20260515_NY_POR,"Friday, May 15, 2026",Portland Fire,New York Liberty,POR,30-68,44,9-31,29,13-20,65,7,23,30,22,7,2,15,22,82
+20260515_LV_CON,"Friday, May 15, 2026",Las Vegas Aces,Connecticut Sun,LV,35-58,60,6-13,46,25-32,78,3,25,28,24,6,6,17,18,101
+20260515_LV_CON,"Friday, May 15, 2026",Connecticut Sun,Las Vegas Aces,CON,36-81,44,9-25,36,13-15,87,11,21,32,24,11,2,13,25,94
+20260515_WSH_IND,"Friday, May 15, 2026",Washington Mystics,Indiana Fever,WSH,38-68,56,6-16,38,22-28,79,8,36,44,18,3,8,20,28,104
+20260515_WSH_IND,"Friday, May 15, 2026",Indiana Fever,Washington Mystics,IND,36-92,39,17-42,40,13-19,68,11,18,29,23,13,4,11,25,102
+20260516_TOR_LA,"Saturday, May 16, 2026",Toronto Tempo,Los Angeles Sparks,TOR,31-70,44,12-33,36,21-22,95,10,16,26,22,13,4,13,24,95
+20260516_TOR_LA,"Saturday, May 16, 2026",Los Angeles Sparks,Toronto Tempo,LA,37-58,64,9-21,43,16-20,80,2,22,24,26,6,1,16,18,99
+20260516_CHI_PHX,"Saturday, May 16, 2026",Chicago Sky,Phoenix Mercury,CHI,29-68,43,6-22,27,19-26,73,6,21,27,16,5,7,11,30,83
+20260516_CHI_PHX,"Saturday, May 16, 2026",Phoenix Mercury,Chicago Sky,PHX,24-62,39,6-21,29,37-41,90,10,30,40,12,5,7,15,22,91
+20260517_LV_ATL,"Sunday, May 17, 2026",Las Vegas Aces,Atlanta Dream,LV,31-73,42,10-27,37,13-17,76,6,32,38,21,5,8,13,23,85
+20260517_LV_ATL,"Sunday, May 17, 2026",Atlanta Dream,Las Vegas Aces,ATL,27-73,37,5-23,22,25-37,68,11,34,45,15,9,5,13,23,84
+20260517_SEA_IND,"Sunday, May 17, 2026",Seattle Storm,Indiana Fever,SEA,25-71,35,6-23,26,22-27,81,3,21,24,17,9,8,8,22,78
+20260517_SEA_IND,"Sunday, May 17, 2026",Indiana Fever,Seattle Storm,IND,31-67,46,5-21,24,22-22,100,7,31,38,22,5,6,17,23,89
+20260517_CHI_MIN,"Sunday, May 17, 2026",Chicago Sky,Minnesota Lynx,CHI,30-67,45,6-20,30,20-25,80,9,30,39,17,7,4,14,16,86
+20260517_CHI_MIN,"Sunday, May 17, 2026",Minnesota Lynx,Chicago Sky,MIN,32-73,44,7-22,32,8-12,67,8,27,35,20,10,3,15,21,79
+20260517_TOR_LA,"Sunday, May 17, 2026",Toronto Tempo,Los Angeles Sparks,TOR,29-61,48,9-24,38,39-42,93,9,16,25,17,8,3,12,27,106
+20260517_TOR_LA,"Sunday, May 17, 2026",Los Angeles Sparks,Toronto Tempo,LA,33-64,52,7-23,30,23-30,77,9,17,26,26,6,3,13,32,96
+20260519_WSH_DAL,"Tuesday, May 19, 2026",Washington Mystics,Dallas Wings,WSH,24-49,49,5-12,42,16-20,80,2,22,24,16,3,1,18,17,69
+20260519_WSH_DAL,"Tuesday, May 19, 2026",Dallas Wings,Washington Mystics,DAL,33-70,47,11-24,46,15-17,88,11,20,31,30,10,1,8,20,92
+20260519_CON_POR,"Tuesday, May 19, 2026",Connecticut Sun,Portland Fire,CON,32-63,51,7-20,35,11-20,55,10,22,32,23,9,6,17,25,82
+20260519_CON_POR,"Tuesday, May 19, 2026",Portland Fire,Connecticut Sun,POR,28-62,45,7-22,32,20-26,77,7,20,27,23,11,3,15,23,83
+20260520_TOR_PHX,"Wednesday, May 20, 2026",Toronto Tempo,Phoenix Mercury,TOR,34-74,46,15-36,42,15-18,83,8,27,35,15,4,2,11,26,98
+20260520_TOR_PHX,"Wednesday, May 20, 2026",Phoenix Mercury,Toronto Tempo,PHX,32-70,46,4-22,18,22-28,79,8,24,32,20,6,1,9,17,90
+20260520_POR_IND,"Wednesday, May 20, 2026",Portland Fire,Indiana Fever,POR,27-62,44,3-16,19,16-17,94,3,25,28,9,8,3,12,26,73
+20260520_POR_IND,"Wednesday, May 20, 2026",Indiana Fever,Portland Fire,IND,28-62,45,9-28,32,25-29,86,5,31,36,21,6,5,14,21,90
+20260521_DAL_CHI,"Thursday, May 21, 2026",Dallas Wings,Chicago Sky,DAL,36-72,50,9-21,43,18-23,78,9,27,36,28,5,1,8,20,99
+20260521_DAL_CHI,"Thursday, May 21, 2026",Chicago Sky,Dallas Wings,CHI,32-67,48,5-21,24,20-24,83,6,24,30,20,4,5,9,23,89
+20260521_CON_SEA,"Thursday, May 21, 2026",Connecticut Sun,Seattle Storm,CON,32-72,44,5-20,25,11-17,65,11,27,38,14,10,3,11,19,80
+20260521_CON_SEA,"Thursday, May 21, 2026",Seattle Storm,Connecticut Sun,SEA,25-63,40,6-23,26,22-25,88,5,21,26,15,8,6,14,15,78
+20260522_GS_NY,"Friday, May 22, 2026",Golden State Valkyries,New York Liberty,GS,28-71,39,13-35,37,18-25,72,9,27,36,18,5,3,5,17,87
+20260522_GS_NY,"Friday, May 22, 2026",New York Liberty,Golden State Valkyries,NY,26-62,42,6-24,25,12-16,75,6,31,37,20,2,4,14,22,70
+20260522_TOR_MIN,"Friday, May 22, 2026",Toronto Tempo,Minnesota Lynx,TOR,24-71,34,12-41,29,12-14,86,9,16,25,19,5,3,13,23,72
+20260522_TOR_MIN,"Friday, May 22, 2026",Minnesota Lynx,Toronto Tempo,MIN,38-69,55,10-24,42,14-21,67,15,31,46,24,7,3,14,14,100
+20260522_LA_PHX,"Friday, May 22, 2026",Los Angeles Sparks,Phoenix Mercury,LA,31-64,48,15-32,47,20-22,91,7,24,31,23,8,4,17,25,97
+20260522_LA_PHX,"Friday, May 22, 2026",Phoenix Mercury,Los Angeles Sparks,PHX,29-69,42,8-25,32,22-29,76,11,22,33,17,9,2,13,24,88
+20260522_DAL_ATL,"Friday, May 22, 2026",Dallas Wings,Atlanta Dream,DAL,28-74,38,7-28,25,6-12,50,10,16,26,21,9,8,14,18,69
+20260522_DAL_ATL,"Friday, May 22, 2026",Atlanta Dream,Dallas Wings,ATL,34-62,55,6-15,40,12-13,92,5,30,35,22,6,4,17,12,86
+20260522_GS_IND,"Friday, May 22, 2026",Golden State Valkyries,Indiana Fever,GS,26-70,37,7-22,32,23-27,85,10,18,28,11,9,3,14,24,82
+20260522_GS_IND,"Friday, May 22, 2026",Indiana Fever,Golden State Valkyries,IND,29-63,46,10-26,38,22-29,76,8,26,34,22,7,2,18,26,90
+20260523_CON_SEA,"Saturday, May 23, 2026",Connecticut Sun,Seattle Storm,CON,23-62,37,4-17,24,9-14,64,8,25,33,15,9,3,12,18,59
+20260523_CON_SEA,"Saturday, May 23, 2026",Seattle Storm,Connecticut Sun,SEA,28-60,47,8-21,38,13-17,76,6,32,38,22,7,7,15,18,77
+20260523_MIN_CHI,"Saturday, May 23, 2026",Minnesota Lynx,Chicago Sky,MIN,32-74,43,4-16,25,17-21,81,13,41,54,19,7,7,19,24,85
+20260523_MIN_CHI,"Saturday, May 23, 2026",Chicago Sky,Minnesota Lynx,CHI,23-73,32,6-29,21,23-30,77,7,21,28,14,11,2,11,22,75
+20260523_POR_TOR,"Saturday, May 23, 2026",Portland Fire,Toronto Tempo,POR,35-70,50,11-23,48,18-21,86,10,23,33,24,7,7,14,22,99
+20260523_POR_TOR,"Saturday, May 23, 2026",Toronto Tempo,Portland Fire,TOR,30-66,45,6-25,24,14-18,78,10,19,29,19,3,4,17,21,80
+20260524_LA_LV,"Sunday, May 24, 2026",Los Angeles Sparks,Las Vegas Aces,LA,37-67,55,14-29,48,13-15,87,4,26,30,26,8,1,17,24,101
+20260524_LA_LV,"Sunday, May 24, 2026",Las Vegas Aces,Los Angeles Sparks,LV,34-76,45,10-29,34,17-21,81,13,23,36,21,6,9,14,20,95
+20260524_PHX_ATL,"Sunday, May 24, 2026",Phoenix Mercury,Atlanta Dream,PHX,29-66,44,4-21,19,18-19,95,9,27,36,14,8,6,15,19,80
+20260524_PHX_ATL,"Sunday, May 24, 2026",Atlanta Dream,Phoenix Mercury,ATL,30-68,44,11-26,42,11-21,52,12,26,38,22,9,3,14,16,82
+20260524_DAL_NY,"Sunday, May 24, 2026",Dallas Wings,New York Liberty,DAL,30-65,46,15-35,43,16-19,84,6,28,34,22,6,5,8,16,91
+20260524_DAL_NY,"Sunday, May 24, 2026",New York Liberty,Dallas Wings,NY,28-72,39,8-26,31,12-14,86,10,24,34,21,4,0,9,18,76
+20260524_WSH_SEA,"Sunday, May 24, 2026",Washington Mystics,Seattle Storm,WSH,23-57,40,4-20,20,35-41,85,6,20,26,14,9,5,13,26,85
+20260524_WSH_SEA,"Sunday, May 24, 2026",Seattle Storm,Washington Mystics,SEA,26-59,44,13-28,46,32-34,94,3,21,24,20,10,3,14,28,97
+20260526_POR_NY,"Tuesday, May 26, 2026",Portland Fire,New York Liberty,POR,31-75,41,9-26,35,10-14,71,8,21,29,18,12,6,12,22,81
+20260526_POR_NY,"Tuesday, May 26, 2026",New York Liberty,Portland Fire,NY,21-52,40,8-24,33,24-26,92,4,23,27,17,8,8,19,20,74
+20260526_CON_GS,"Tuesday, May 26, 2026",Connecticut Sun,Golden State Valkyries,CON,22-57,39,6-18,33,20-28,71,8,24,32,13,10,4,18,26,70
+20260526_CON_GS,"Tuesday, May 26, 2026",Golden State Valkyries,Connecticut Sun,GS,34-73,47,13-33,39,16-23,70,11,24,35,24,7,2,12,25,97
+20260527_PHX_NY,"Wednesday, May 27, 2026",Phoenix Mercury,New York Liberty,PHX,25-59,42,10-30,33,14-22,64,7,25,32,19,7,5,16,21,74
+20260527_PHX_NY,"Wednesday, May 27, 2026",New York Liberty,Phoenix Mercury,NY,28-67,42,14-30,47,14-14,100,6,26,32,19,9,2,11,20,84
+20260528_TOR_CHI,"Thursday, May 28, 2026",Toronto Tempo,Chicago Sky,TOR,37-66,56,12-26,46,25-30,83,10,27,37,22,6,4,13,25,111
+20260528_TOR_CHI,"Thursday, May 28, 2026",Chicago Sky,Toronto Tempo,CHI,36-75,48,7-31,23,25-29,86,9,18,27,31,7,3,9,24,104
+20260528_ATL_MIN,"Thursday, May 28, 2026",Atlanta Dream,Minnesota Lynx,ATL,29-65,45,11-31,35,12-16,75,10,17,27,23,5,2,16,10,81
+20260528_ATL_MIN,"Thursday, May 28, 2026",Minnesota Lynx,Atlanta Dream,MIN,40-67,60,7-19,37,9-10,90,5,19,24,26,10,2,14,16,96
+20260528_CON_POR,"Thursday, May 28, 2026",Connecticut Sun,Portland Fire,CON,24-62,39,1-21,5,12-22,55,14,19,33,17,9,3,17,22,61
+20260528_CON_POR,"Thursday, May 28, 2026",Portland Fire,Connecticut Sun,POR,24-52,46,7-22,32,16-24,67,6,20,26,16,10,3,19,21,71
+20260528_WSH_SEA,"Thursday, May 28, 2026",Washington Mystics,Seattle Storm,WSH,28-66,42,7-21,33,15-16,94,13,27,40,19,4,2,12,22,78
+20260528_WSH_SEA,"Thursday, May 28, 2026",Seattle Storm,Washington Mystics,SEA,22-63,35,5-23,22,15-19,79,12,19,31,14,7,3,11,21,64
+20260529_LV_DAL,"Friday, May 29, 2026",Las Vegas Aces,Dallas Wings,LV,36-82,44,8-20,40,7-12,58,8,25,33,21,5,3,5,15,87
+20260529_LV_DAL,"Friday, May 29, 2026",Dallas Wings,Las Vegas Aces,DAL,33-67,49,10-22,45,19-22,86,8,31,39,23,1,5,10,16,95
+20260529_IND_GS,"Friday, May 29, 2026",Indiana Fever,Golden State Valkyries,IND,30-73,41,9-28,32,19-21,90,7,27,34,22,7,5,11,25,88
+20260529_IND_GS,"Friday, May 29, 2026",Golden State Valkyries,Indiana Fever,GS,31-68,46,8-21,38,20-28,71,8,29,37,24,5,11,11,21,90
+20260529_PHX_NY,"Friday, May 29, 2026",Phoenix Mercury,New York Liberty,PHX,21-62,34,6-24,25,20-22,91,3,20,23,14,11,3,9,20,68
+20260529_PHX_NY,"Friday, May 29, 2026",New York Liberty,Phoenix Mercury,NY,26-60,43,8-25,32,15-17,88,7,33,40,18,5,5,16,21,75
+20260529_LA_WSH,"Friday, May 29, 2026",Los Angeles Sparks,Washington Mystics,LA,33-66,50,6-20,30,20-28,71,9,20,29,23,8,2,14,24,92
+20260529_LA_WSH,"Friday, May 29, 2026",Washington Mystics,Los Angeles Sparks,WSH,31-61,51,5-22,23,20-29,69,7,24,31,26,4,4,15,27,87
+20260529_MIN_CHI,"Friday, May 29, 2026",Minnesota Lynx,Chicago Sky,MIN,28-71,39,8-28,29,15-18,83,6,37,43,20,13,7,14,17,79
+20260529_MIN_CHI,"Friday, May 29, 2026",Chicago Sky,Minnesota Lynx,CHI,20-70,29,5-30,17,13-18,72,9,32,41,15,6,6,17,19,58
+20260530_ATL_POR,"Saturday, May 30, 2026",Atlanta Dream,Portland Fire,ATL,30-68,44,9-30,30,17-20,85,12,17,29,22,16,1,15,14,86
+20260530_ATL_POR,"Saturday, May 30, 2026",Portland Fire,Atlanta Dream,POR,25-56,45,9-27,33,7-8,88,6,17,23,18,4,4,28,22,66
+20260530_SEA_TOR,"Saturday, May 30, 2026",Seattle Storm,Toronto Tempo,SEA,29-71,41,7-27,26,7-8,88,9,23,32,21,7,4,17,20,72
+20260530_SEA_TOR,"Saturday, May 30, 2026",Toronto Tempo,Seattle Storm,TOR,26-59,44,10-29,34,31-33,94,6,28,34,14,12,1,12,13,93
+20260530_LA_CON,"Saturday, May 30, 2026",Los Angeles Sparks,Connecticut Sun,LA,27-66,41,8-25,32,19-26,73,11,18,29,16,9,7,16,24,81
+20260530_LA_CON,"Saturday, May 30, 2026",Connecticut Sun,Los Angeles Sparks,CON,28-67,42,6-22,27,22-31,71,12,25,37,18,11,9,16,29,84
+20260531_IND_POR,"Sunday, May 31, 2026",Indiana Fever,Portland Fire,IND,24-58,41,5-22,23,31-35,89,9,17,26,21,6,3,17,24,84
+20260531_IND_POR,"Sunday, May 31, 2026",Portland Fire,Indiana Fever,POR,36-70,51,9-23,39,19-20,95,8,17,25,26,8,5,11,26,100
+20260531_LV_GS,"Sunday, May 31, 2026",Las Vegas Aces,Golden State Valkyries,LV,33-69,48,8-22,36,17-21,81,12,33,45,26,5,8,15,18,91
+20260531_LV_GS,"Sunday, May 31, 2026",Golden State Valkyries,Las Vegas Aces,GS,25-74,34,16-35,46,15-17,88,9,24,33,16,9,0,12,21,81

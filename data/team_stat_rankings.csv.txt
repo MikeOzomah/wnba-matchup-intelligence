@@ -1,0 +1,16 @@
+team,points_rank,rebounds_rank,assists_rank,blocks_rank,steals_rank,fg_pct_rank,three_pm_rank,three_pct_rank,ft_pct_rank
+Atlanta Dream,5,1,8,5,4,5,3,5,3
+Chicago Sky,,,,,,,,,
+Connecticut Sun,,,,,,,,,
+Dallas Wings,,,,,,,,,
+Golden State Valkyries,,,,,,,,,
+Indiana Fever,,,,,,,,,
+Las Vegas Aces,,,,,,,,,
+Los Angeles Sparks,,,,,,,,,
+Minnesota Lynx,,,,,,,,,
+New York Liberty,,,,,,,,,
+Phoenix Mercury,,,,,,,,,
+Portland Fire,,,,,,,,,
+Seattle Storm,,,,,,,,,
+Toronto Tempo,,,,,,,,,
+Washington Mystics,,,,,,,,,

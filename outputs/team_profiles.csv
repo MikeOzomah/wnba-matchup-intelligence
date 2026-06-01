@@ -1,0 +1,9 @@
+team,pts,possessions,offensive_rating,effective_fg_pct,turnover_pct,assist_turnover_ratio,free_throw_rate,three_point_rate,ball_security,shot_value,offensive_flow
+Dallas Wings,107.0,88.56,120.822,0.682,0.169,1.733,0.364,0.348,0.831,0.803,0.667
+Phoenix Mercury,99.0,83.6,118.421,0.565,0.084,3.286,0.195,0.312,0.916,0.584,0.605
+Indiana Fever,104.0,93.24,111.54,0.565,0.15,1.643,0.273,0.312,0.85,0.494,0.575
+Las Vegas Aces,66.0,85.52,77.175,0.437,0.199,1.118,0.113,0.268,0.801,0.225,0.655
+Atlanta Dream,0.0,,,,,,,,,,
+Chicago Sky,0.0,,,,,,,,,,
+Minnesota Lynx,0.0,,,,,,,,,,
+Portland Fire,0.0,,,,,,,,,,

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WNBA Matchup Analyzer</title>
+</head>
+<body>
+    <h1>WNBA Matchup Analyzer</h1>
+    <div class="analyzer-box">
+        <label for="mode">Select Mode:</label>
+        <select id="mode">
+            <option value="player-matchup">Player Matchup</option>
+            <option value="team-report">Team Report</option>
+            <option value="team-vs-team">Team vs Team Matchup</option>
+        </select>
+        <div id="playerMatchupFields">
+            <label for="playerName">Player Name</label>
+            <input type="text" id="playerName" placeholder="e.g. Alyssa Thomas">
+            <label for="opponentTeam">Opponent Team</label>
+            <input type="text" id="opponentTeam" placeholder="e.g. Phoenix Mercury">
+        </div>
+        <div id="teamReportFields" style="display:none;">
+            <label for="teamReportName">Team Name</label>
+            <input type="text" id="teamReportName" placeholder="e.g. Phoenix Mercury">
+        </div>
+        <div id="teamVsTeamFields" style="display:none;">
+            <label for="teamA">Team A</label>
+            <input type="text" id="teamA" placeholder="e.g. Dallas Wings">
+            <label for="teamB">Team B</label>
+            <input type="text" id="teamB" placeholder="e.g. Indiana Fever">
+        </div>
+        <button id="analyzeBtn">Analyze</button>
+    </div>
+    <div id="results" class="results" style="display:none;"></div>
+    <div id="error" class="error"></div>
+    <script>
+        const modeSelect = document.getElementById('mode');
+        const playerMatchupFields = document.getElementById('playerMatchupFields');
+        const teamReportFields = document.getElementById('teamReportFields');
+        const teamVsTeamFields = document.getElementById('teamVsTeamFields');
+        const btn = document.getElementById('analyzeBtn');
+        const resultsDiv = document.getElementById('results');
+        const errorDiv = document.getElementById('error');
+
+        modeSelect.onchange = function() {
+            playerMatchupFields.style.display = 'none';
+            teamReportFields.style.display = 'none';
+            teamVsTeamFields.style.display = 'none';
+            if (modeSelect.value === 'player-matchup') {
+                playerMatchupFields.style.display = '';
+            } else if (modeSelect.value === 'team-report') {
+                teamReportFields.style.display = '';
+            } else if (modeSelect.value === 'team-vs-team') {
+                teamVsTeamFields.style.display = '';
+            }
+            resultsDiv.style.display = 'none';
+            errorDiv.textContent = '';
+        };
+
+        btn.onclick = async function() {
+            resultsDiv.style.display = 'none';
+            errorDiv.textContent = '';
+            let url = '';
+            if (modeSelect.value === 'player-matchup') {
+                const player = document.getElementById('playerName').value.trim();
+                const team = document.getElementById('opponentTeam').value.trim();
+                if (!player || !team) {
+                    errorDiv.textContent = 'Please enter both a player name and an opponent team.';
+                    return;
+                }
+                url = `http://127.0.0.1:8000/player-matchup/${encodeURIComponent(player)}/${encodeURIComponent(team)}`;
+            } else if (modeSelect.value === 'team-report') {
+                const team = document.getElementById('teamReportName').value.trim();
+                if (!team) {
+                    errorDiv.textContent = 'Please enter a team name.';
+                    return;
+                }
+                url = `http://127.0.0.1:8000/team/${encodeURIComponent(team)}`;
+            } else if (modeSelect.value === 'team-vs-team') {
+                const teamA = document.getElementById('teamA').value.trim();
+                const teamB = document.getElementById('teamB').value.trim();
+                if (!teamA || !teamB) {
+                    errorDiv.textContent = 'Please enter both team names.';
+                    return;
+                }
+                url = `http://127.0.0.1:8000/matchup/${encodeURIComponent(teamA)}/${encodeURIComponent(teamB)}`;
+            }
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    const err = await response.json();
+                    throw new Error(err.detail || 'API error');
+                }
+                const data = await response.json();
+                renderResults(data);
+            } catch (e) {
+                resultsDiv.style.display = 'none';
+                errorDiv.textContent = e.message || 'Could not fetch data.';
+            }
+        };
+
+        function renderResults(data) {
+            let html = '';
+            if (modeSelect.value === 'player-matchup') {
+                html += `<div><strong>Player:</strong> ${data.player} (${data.player_team})</div>`;
+                html += `<div><strong>Opponent Team:</strong> ${data.opponent_team}</div>`;
+                html += `<div><strong>Archetypes:</strong> <ul>`;
+                (data.archetypes || []).forEach(a => html += `<li>${a}</li>`);
+                html += `</ul></div>`;
+                html += `<div><strong>Summary:</strong> <ul>`;
+                (data.player_summary || []).forEach(line => html += `<li>${line}</li>`);
+                html += `</ul></div>`;
+                html += `<div><strong>Keys to Success:</strong> <ul>`;
+                (data.matchup_keys || []).forEach(key => html += `<li>${key}</li>`);
+                html += `</ul></div>`;
+                if (data.player_stats) {
+                    html += `<div><strong>Player Stats:</strong> <ul>`;
+                    Object.entries(data.player_stats).forEach(([k, v]) => {
+                        html += `<li><strong>${k.replace(/_/g, ' ')}:</strong> ${v}</li>`;
+                    });
+                    html += `</ul></div>`;
+                }
+            } else if (modeSelect.value === 'team-report') {
+                html += `<div><strong>Team:</strong> ${data.data ? data.data.team : ''}</div>`;
+                html += `<div><strong>Summary:</strong> ${data.summary || ''}</div>`;
+                if (data.data) {
+                    html += `<div><strong>Team Stats:</strong> <ul>`;
+                    Object.entries(data.data).forEach(([k, v]) => {
+                        html += `<li><strong>${k.replace(/_/g, ' ')}:</strong> ${v}</li>`;
+                    });
+                    html += `</ul></div>`;
+                }
+            } else if (modeSelect.value === 'team-vs-team') {
+                html += `<div><strong>Team A vs Team B:</strong> ${data.data ? data.data.team_a : ''} vs ${data.data ? data.data.team_b : ''}</div>`;
+                html += `<div><strong>Summary:</strong> ${data.summary || ''}</div>`;
+                if (data.data) {
+                    html += `<div><strong>Matchup Data:</strong> <ul>`;
+                    Object.entries(data.data).forEach(([k, v]) => {
+                        html += `<li><strong>${k.replace(/_/g, ' ')}:</strong> ${v}</li>`;
+                    });
+                    html += `</ul></div>`;
+                }
+            }
+            resultsDiv.innerHTML = html;
+            resultsDiv.style.display = 'block';
+        }
+    </script>
+</body>
+</html>

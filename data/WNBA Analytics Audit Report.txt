@@ -1,0 +1,245 @@
+WNBA Analytics Audit Report
+CRITICAL ISSUES 🔴
+1. Defensive Metrics Merge Logic is Broken
+File: defensive_metrics.py (lines 24-29)
+
+Problem: The merge requires BOTH game_id AND opponent to match, but the structure creates a logical impossibility:
+
+DataFrame df has columns: game_id, team, opponent
+DataFrame opponent_df is renamed to have: game_id, opponent (renamed from team)
+Merge condition: on=["game_id", "opponent"]
+Result: Trying to match df.opponent with opponent_df.opponent (which is actually the opposite team)
+Impact: All opponent stats will be NaN/missing. Any analysis using opp_offensive_rating, opp_shot_value, etc. is calculating on empty data.
+
+Fix Required: Rename opponent_df team column to something else, or restructure the merge entirely.
+
+2. Critical Division-by-Zero Issues Not Fully Handled
+File: clean_player_data.py (lines 19-21)
+
+Problems:
+
+player_offensive_flow = ast / fgm - fails when FGM = 0 (bench players, 0-pt games)
+assist_turnover_ratio = ast / to - fails when TO = 0 (no turnovers is actually good, should not be NaN)
+Script replaces infinity with NaN, but this creates SILENT DATA LOSS
+No warning that 5-40% of player records may be NaN for these metrics
+Similar Issue in: advanced_metrics.py line 24
+
+offensive_flow = ast / fgm
+assist_turnover_ratio = ast / to
+Impact: Users see incomplete player profiles without realizing it's data quality issue.
+
+3. Inconsistent File Paths & Missing Column Validation
+File: Multiple (analyzed 5+ scripts)
+
+Problems:
+
+advanced_metrics.py reads from ../data/full_wnba_team_stats.csv - no error handling if missing
+defensive_metrics.py reads from ../outputs/advanced_wnba_metrics.csv - assumes it exists
+team_style_classifications.py reads ../outputs/defensive_metrics.csv - depends on broken merge
+No validation that required columns exist before operations
+Example: If offensive_rating column is missing, all thresholds fail silently.
+
+Impact: One missing file breaks entire downstream pipeline with cryptic errors.
+
+4. Name Matching is Unsafe for API Users
+File: lineup_ecosystem_engine.py, matchup_engine.py, player_matchup_engine.py
+
+Problem: Functions like name_matches() use string fuzzy matching:
+
+if "." in input_name:
+    input_initial = input_parts[0].replace(".", "").lower()
+    input_last = input_parts[-1].lower()
+    return (
+        full_parts[0].lower().startswith(input_initial)
+        and full_parts[-1].lower() == input_last
+    )
+
+Issues:
+
+"A. Thomas" could match both "Alyssa Thomas" AND "Angel Thomas"
+Typos like "Allyssa" won't match "Alyssa"
+No penalty for multiple matches
+No API returns "did you mean?" suggestions
+Impact: Frontend users get wrong player data with no feedback.
+
+MEDIUM-PRIORITY ISSUES 🟡
+1. Double-Counting in Lineup Scores
+File: lineup_matchup_engine.py (lines 127-185)
+
+Problem:
+if "Primary Offensive Engine" in tags:
+    scores["pace"] += 2
+    scores["creation"] += 3  # +3 for primary
+
+if "Primary Creator" in tags:
+    scores["creation"] += 2  # +2 again if also primary creator
+
+A player classified as both "Primary Offensive Engine" AND "High Gravity Shooter" gets double credit. Same tags can appear multiple times in classify_player() logic.
+
+Impact: Lineups with versatile players (high scoring + playmaking) get inflated scores.
+
+2. Arbitrary Thresholds Without Calibration
+File: Multiple (all threshold-based)
+
+Problems:
+
+team_style_classifications.py uses hard cutoffs like possessions >= 90 for "Fast Tempo" - no WNBA benchmarking
+offensive_flow >= 0.65 - where does this come from?
+offensive_rating >= 115 - is this league average?
+player_shot_value >= 0.75 - what's the actual distribution?
+Impact: Classifications may not reflect real WNBA competition levels. Missing context on whether thresholds are:
+
+League average
+Elite level
+Bottom quartile
+3. Inactive/Missing Player Data Not Detected
+File: player_influence_engine.py (line 73)
+
+Problem:
+if not influence_tags:
+    continue  # Skip silently
+
+Players with no notable stats are silently dropped from analysis. But API users might expect to see all players.
+
+Also: clean_player_data.py doesn't validate if player was actually in the game (0 minutes -> shouldn't be in box score).
+
+Impact:
+
+Incomplete rosters on frontend
+Confusing when a known player "disappears"
+4. Team/Player Aggregation Ignores Season Structure
+File: All groupby operations
+
+Problem:
+
+team_profiles = df.groupby("team").mean() - averages across entire season
+No distinction between preseason/regular season within same aggregation
+advanced_metrics.py calculates offensive_rating per-game, but then aggregates: is it team's true ORating or average of per-game ORatings?
+Impact:
+
+Early-season data skews metrics (different rosters, less chemistry)
+Can't show "recent form" vs "season average"
+Conflates preseason (if mixed) with competitive games
+5. Defensive Metrics Conceptually Flawed
+File: defensive_metrics.py (lines 29-42)
+
+Current Logic:
+
+df["defensive_pressure"] = 1 - df["opp_ball_security"]
+df["opponent_offensive_rating_allowed"] = df["opp_offensive_rating"]
+
+Problem:
+
+defensive_pressure = 1 - opp_ball_security is circular logic
+"Opponent's ball security" isn't really a defensive stat - it's opponent's turnover rate
+opponent_offensive_rating_allowed is just copying opponent's own ORating (confuses offensive performance with defensive impact)
+Basketball Concept: Defensive metrics should show what defense allows, not what offense produced. This is inverted.
+
+Example: If Team A scores 120 ORating against Team B, the values get:
+
+Team B's opponent_offensive_rating_allowed = 120 [PASS] Correct
+But Team B's defensive_pressure = 1 - 0.92 = 0.08 [FAIL] This is backwards
+Impact: Defensive analysis is unreliable. Users can't distinguish "good defense" from "playing vs poor offense."
+
+NICE-TO-HAVE IMPROVEMENTS 🟢
+1. Missing Context in Thresholds
+Add comments explaining where thresholds come from
+Show distribution of values to justify cutoffs
+Example: "Fast Tempo >= 90 (league avg is 85, elite is 95)"
+2. Player Availability Status
+Track injury status, DNP-CD, GTD players
+Flag when lineup analysis includes injured players
+3. Confidence Intervals / Sample Size
+Players with < 5 games shouldn't get same weight as season-long players
+Add games_played filter to outputs
+4. Caching Strategy
+Current pipeline recalculates everything every run
+Intermediate files should have timestamps
+API should cache computed results
+5. Better Error Messages
+Currently: "Team not found" with list of all teams (overwhelming)
+Better: "Team not found. Did you mean: Dallas Wings, Las Vegas Aces, Denver Nuggets?"
+6. Missing Defensive Steals/Blocks Analysis
+Steals and blocks are ignored in defensive metrics
+Only "turnover vulnerability" is measured
+Should have independent defensive activity metrics
+FORMULAS & BASKETBALL ASSUMPTIONS AUDIT
+Formula	Status	Issue
+possessions = FGA - OREB + TO + 0.44*FTA	✅ Correct	Standard basketball-reference formula
+offensive_rating = (PTS / possessions) * 100	✅ Correct	Industry standard
+effective_fg_pct = (FGM + 0.5*3PM) / FGA	✅ Correct	NBA/WNBA standard
+ball_security = 1 - turnover_pct	[WARNING]️ Oversimplified	Ignores forced vs unforced TOs, steals prevention
+shot_value = (3PM*3 + FTM) / FGA	🔴 Flawed	Should be weighted by frequency; doesn't account for missed FTs; ignores 2-pointers
+offensive_flow = AST / FGM	🔴 Problematic	Penalizes efficient scorers; bench players get NaN; doesn't show ball movement quality
+defensive_pressure = 1 - opp_ball_security	🔴 Circular	Doesn't measure defense, just opponent turnover rate
+Tempo thresholds (90+ possessions)	[WARNING]️ Needs calibration	No WNBA normalization; game length varies
+FILES TO FIX FIRST (Priority Order)
+WEEK 1 (Critical):
+
+defensive_metrics.py - Fix the merge logic
+
+Current merge is broken
+Rewrite opponent joining logic
+Validate all defensive columns are populated
+clean_player_data.py - Handle division by zero properly
+
+Add explicit handling for FGM=0, TO=0 cases
+Document what values mean NaN vs 0
+Add validation that output has no unexpected NaN patterns
+advanced_metrics.py - Same division-by-zero issues
+
+Handle FGM=0 for offensive_flow
+Handle TO=0 for assist_turnover_ratio
+WEEK 2 (Important):
+
+team_style_classifications.py - Recalibrate thresholds
+
+Run distribution analysis on all metrics
+Justify each threshold with WNBA context
+Add comment documenting where each comes from
+lineup_ecosystem_engine.py & matchup_engine.py - Improve name matching
+
+Add fuzzy matching (difflib or Levenshtein)
+Return confidence scores
+Implement "did you mean?" suggestions
+Add validation that name match is unique
+WEEK 3 (Polish):
+
+defensive_metrics.py - Redesign defensive metrics
+
+Separate "opponent's offensive output" from "team's defensive impact"
+Add steals/blocks into defensive profile
+Create proper defensive rating calculation
+All aggregation scripts - Add season phase filters
+
+Allow filtering by preseason/regular season
+Add "last N games" option
+Document aggregation method explicitly
+DATASET CONSISTENCY ISSUES
+File	Reads	Problem
+extract_data.py	ESPN API	✅ No issues
+extract_player_data.py	ESPN API	✅ No issues
+clean_data.py	wnba_preseason_team_game_data.csv	[WARNING]️ Hardcoded path, no validation
+clean_player_data.py	player_box_scores.csv	[WARNING]️ Hardcoded path, no FGM=0 check
+advanced_metrics.py	full_wnba_team_stats.csv	🔴 File doesn't exist in workspace
+defensive_metrics.py	advanced_wnba_metrics.csv	🔴 Depends on broken file
+team_style_classifications.py	defensive_metrics.csv	🔴 Depends on broken file
+player_influence_engine.py	cleaned_player_data.csv	[WARNING]️ May have NaN columns
+OUTPUTS USEFUL FOR REAL WEBSITE?
+Output	Current State	Website Ready?	Issue
+Team profiles	Descriptive text	[WARNING]️ Partial	No visual indicators, thresholds unexplained
+Matchup analysis	Prose-based	[WARNING]️ Partial	Too verbose, needs TL;DR, missing win probability
+Lineups	Player stats + tags	✅ Yes	Good for frontend card layout
+Player profiles	Stats + influence tags	✅ Yes	Needs sample size warnings
+Style classifications	6 categorical dimensions	✅ Yes	Good for visual comparison
+Game environment	Narrative insights	[WARNING]️ Partial	Needs confidence scores, data source attribution
+SUMMARY: What to Communicate to Users on Frontend
+Before launching website, add disclaimers for:
+
+Preseason vs Regular Season - "Data includes preseason games through May 21"
+Sample Size - "Team profile based on 2 games; may not be stable"
+Metric Explanations - "Offensive Flow = Assists per Field Goal Made"
+Data Freshness - "Last updated: [timestamp]"
+Confidence - "High" vs "Medium" vs "Low" based on games played
+Recommendation: Fix defensive metrics and division-by-zero issues before ANY frontend launch. These are data integrity problems that will undermine user trust.
+
