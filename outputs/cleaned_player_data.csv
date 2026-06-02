@@ -291,7 +291,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260509_PHX_LV,"Saturday, May 09, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Noemie Brochant,F,18.0,3-6,1-1,1-1,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,8.0,9.0,3.0,6.0,1.0,1.0,1.0,1.0,0.6666666666666666,0.0,0.0
 20260509_PHX_LV,"Saturday, May 09, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Kyara Linskens,C,14.0,1-4,0-1,0-0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,0.0,2.0,5.0,1.0,4.0,0.0,1.0,0.0,0.0,0.0,1.0,999.0
 20260509_PHX_LV,"Saturday, May 09, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Kiana Williams,G,21.0,4-9,3-7,0-0,0.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,11.0,9.0,4.0,9.0,3.0,7.0,0.0,0.0,1.0,0.25,1.0
-20260509_PHX_LV,"Saturday, May 09, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Sha Carter,G,12.0,1-2,0-1,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,-1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,999.0
+20260509_PHX_LV,"Saturday, May 09, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Quionche Carter,G,12.0,1-2,0-1,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,-1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,999.0
 20260509_PHX_LV,"Saturday, May 09, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Stephanie Talbot,F,19.0,1-6,0-4,0-0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,-19.0,1.0,6.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
 20260509_PHX_LV,"Saturday, May 09, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,NaLyssa Smith,F,21.0,4-7,0-0,3-6,2.0,4.0,6.0,1.0,0.0,2.0,0.0,3.0,11.0,-16.0,4.0,7.0,0.0,0.0,3.0,6.0,0.42857142857142855,0.25,999.0
 20260509_PHX_LV,"Saturday, May 09, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,A'ja Wilson,C,24.0,8-15,2-3,1-2,1.0,3.0,4.0,4.0,2.0,2.0,2.0,0.0,19.0,-22.0,8.0,15.0,2.0,3.0,1.0,2.0,0.4666666666666667,0.5,2.0
@@ -432,7 +432,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260511_PHX_GS,"Monday, May 11, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Noemie Brochant,F,16.0,3-5,3-5,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,9.0,-11.0,3.0,5.0,3.0,5.0,0.0,0.0,1.8,0.0,0.0
 20260511_PHX_GS,"Monday, May 11, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Kyara Linskens,C,5.0,1-2,0-1,0-0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,-6.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 20260511_PHX_GS,"Monday, May 11, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Kiana Williams,G,12.0,2-2,2-2,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,6.0,-14.0,2.0,2.0,2.0,2.0,0.0,0.0,3.0,0.0,0.0
-20260511_PHX_GS,"Monday, May 11, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Sha Carter,G,6.0,0-1,0-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-13.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260511_PHX_GS,"Monday, May 11, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Quionche Carter,G,6.0,0-1,0-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-13.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
 20260511_PHX_GS,"Monday, May 11, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Peyton Williams,F,,,,,,,,,,,,,,,,,,,,,,,
 20260511_PHX_GS,"Monday, May 11, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
 20260511_PHX_GS,"Monday, May 11, 2026",regular_season,Golden State Valkyries,Phoenix Mercury,Kayla Thornton,F,31.0,8-14,3-8,0-0,1.0,2.0,3.0,0.0,0.0,0.0,1.0,3.0,19.0,6.0,8.0,14.0,3.0,8.0,0.0,0.0,0.6428571428571429,0.0,0.0
@@ -490,7 +490,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Kiana Williams,G,14.0,1-6,1-5,0-0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,3.0,-4.0,1.0,6.0,1.0,5.0,0.0,0.0,0.5,1.0,999.0
 20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Anneli Maley,F,,,,,,,,,,,,,,,,,,,,,,,
 20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
-20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Sha Carter,G,,,,,,,,,,,,,,,,,,,,,,,
+20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Quionche Carter,G,,,,,,,,,,,,,,,,,,,,,,,
 20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,New York Liberty,Portland Fire,Breanna Stewart,F,38.0,4-12,0-2,8-8,1.0,9.0,10.0,4.0,2.0,3.0,2.0,5.0,16.0,-2.0,4.0,12.0,0.0,2.0,8.0,8.0,0.6666666666666666,1.0,2.0
 20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,New York Liberty,Portland Fire,Jonquel Jones,C,34.0,6-11,3-6,2-2,1.0,6.0,7.0,3.0,1.0,0.0,4.0,3.0,17.0,-3.0,6.0,11.0,3.0,6.0,2.0,2.0,1.0,0.5,0.75
 20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,New York Liberty,Portland Fire,Betnijah Laney-Hamilton,G,25.0,3-7,2-6,2-2,0.0,3.0,3.0,3.0,0.0,0.0,4.0,1.0,10.0,-11.0,3.0,7.0,2.0,6.0,2.0,2.0,1.1428571428571428,1.0,0.75
@@ -745,7 +745,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260516_CHI_PHX,"Saturday, May 16, 2026",regular_season,Phoenix Mercury,Chicago Sky,Kiana Williams,G,8.0,0-1,0-1,2-2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,-15.0,0.0,1.0,0.0,1.0,2.0,2.0,2.0,,0.0
 20260516_CHI_PHX,"Saturday, May 16, 2026",regular_season,Phoenix Mercury,Chicago Sky,Anneli Maley,F,,,,,,,,,,,,,,,,,,,,,,,
 20260516_CHI_PHX,"Saturday, May 16, 2026",regular_season,Phoenix Mercury,Chicago Sky,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
-20260516_CHI_PHX,"Saturday, May 16, 2026",regular_season,Phoenix Mercury,Chicago Sky,Sha Carter,G,,,,,,,,,,,,,,,,,,,,,,,
+20260516_CHI_PHX,"Saturday, May 16, 2026",regular_season,Phoenix Mercury,Chicago Sky,Quionche Carter,G,,,,,,,,,,,,,,,,,,,,,,,
 20260517_LV_ATL,"Sunday, May 17, 2026",regular_season,Las Vegas Aces,Atlanta Dream,Stephanie Talbot,F,16.0,0-1,0-0,0-0,1.0,4.0,5.0,2.0,0.0,2.0,0.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,999.0
 20260517_LV_ATL,"Sunday, May 17, 2026",regular_season,Las Vegas Aces,Atlanta Dream,NaLyssa Smith,F,20.0,6-7,0-1,1-3,3.0,3.0,6.0,1.0,0.0,0.0,2.0,5.0,13.0,6.0,6.0,7.0,0.0,1.0,1.0,3.0,0.14285714285714285,0.16666666666666666,0.5
 20260517_LV_ATL,"Sunday, May 17, 2026",regular_season,Las Vegas Aces,Atlanta Dream,A'ja Wilson,C,31.0,6-12,2-2,6-7,0.0,6.0,6.0,1.0,0.0,2.0,4.0,5.0,20.0,-3.0,6.0,12.0,2.0,2.0,6.0,7.0,1.0,0.16666666666666666,0.25
@@ -909,7 +909,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260520_TOR_PHX,"Wednesday, May 20, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Kyara Linskens,C,3.0,0-1,0-0,2-2,2.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,-5.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,,0.0
 20260520_TOR_PHX,"Wednesday, May 20, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Kiana Williams,G,12.0,3-6,1-3,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,13.0,3.0,6.0,1.0,3.0,0.0,0.0,0.5,0.0,0.0
 20260520_TOR_PHX,"Wednesday, May 20, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
-20260520_TOR_PHX,"Wednesday, May 20, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Sha Carter,G,,,,,,,,,,,,,,,,,,,,,,,
+20260520_TOR_PHX,"Wednesday, May 20, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Quionche Carter,G,,,,,,,,,,,,,,,,,,,,,,,
 20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Bridget Carleton,F,25.0,6-13,2-6,2-2,0.0,3.0,3.0,0.0,3.0,0.0,0.0,3.0,16.0,-21.0,6.0,13.0,2.0,6.0,2.0,2.0,0.6153846153846154,0.0,0.0
 20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Emily Engstler,F,21.0,2-10,1-3,0-0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,2.0,5.0,-27.0,2.0,10.0,1.0,3.0,0.0,0.0,0.3,0.0,0.0
 20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Nyadiew Puoch,F,20.0,0-1,0-0,0-0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,-21.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
@@ -1057,7 +1057,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260522_LA_PHX,"Friday, May 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Marta Suarez,F,9.0,2-4,2-4,0-0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,6.0,6.0,-13.0,2.0,4.0,2.0,4.0,0.0,0.0,1.5,0.0,0.0
 20260522_LA_PHX,"Friday, May 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Noemie Brochant,F,15.0,0-4,0-2,0-0,1.0,2.0,3.0,1.0,0.0,1.0,2.0,1.0,0.0,-4.0,0.0,4.0,0.0,2.0,0.0,0.0,0.0,,0.5
 20260522_LA_PHX,"Friday, May 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Kiana Williams,G,11.0,1-2,1-1,0-0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,3.0,-2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.5,1.0,1.0
-20260522_LA_PHX,"Friday, May 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Sha Carter,G,0.0,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260522_LA_PHX,"Friday, May 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Quionche Carter,G,0.0,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
 20260522_LA_PHX,"Friday, May 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Kyara Linskens,C,,,,,,,,,,,,,,,,,,,,,,,
 20260522_LA_PHX,"Friday, May 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
 20260522_DAL_ATL,"Friday, May 22, 2026",regular_season,Dallas Wings,Atlanta Dream,Jessica Shepard,F,31.0,5-11,0-1,0-0,6.0,5.0,11.0,2.0,0.0,0.0,3.0,3.0,10.0,-26.0,5.0,11.0,0.0,1.0,0.0,0.0,0.0,0.4,0.667
@@ -1220,7 +1220,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Kiana Williams,G,20.0,0-5,0-4,3-3,0.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0,3.0,1.0,0.0,5.0,0.0,4.0,3.0,3.0,0.6,,1.0
 20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Valeriane Ayayi,F,,,,,,,,,,,,,,,,,,,,,,,
 20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
-20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Sha Carter,G,,,,,,,,,,,,,,,,,,,,,,,
+20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Quionche Carter,G,,,,,,,,,,,,,,,,,,,,,,,
 20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Monique Akoa Makani,G,,,,,,,,,,,,,,,,,,,,,,,
 20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Naz Hillmon,F,23.0,2-2,0-0,0-1,2.0,2.0,4.0,0.0,0.0,0.0,1.0,0.0,4.0,-1.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Angel Reese,F,32.0,6-16,0-1,5-10,5.0,5.0,10.0,4.0,4.0,1.0,3.0,4.0,17.0,4.0,6.0,16.0,0.0,1.0,5.0,10.0,0.3125,0.6666666666666666,1.333
@@ -1344,7 +1344,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260527_PHX_NY,"Wednesday, May 27, 2026",regular_season,Phoenix Mercury,New York Liberty,Jovana Nogic,G,14.0,3-5,3-5,0-1,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,9.0,-4.0,3.0,5.0,3.0,5.0,0.0,1.0,1.8,0.3333333333333333,0.5
 20260527_PHX_NY,"Wednesday, May 27, 2026",regular_season,Phoenix Mercury,New York Liberty,Kiana Williams,G,7.0,1-2,1-2,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,2.0,1.0,2.0,0.0,0.0,1.5,0.0,0.0
 20260527_PHX_NY,"Wednesday, May 27, 2026",regular_season,Phoenix Mercury,New York Liberty,Marta Suarez,F,,,,,,,,,,,,,,,,,,,,,,,
-20260527_PHX_NY,"Wednesday, May 27, 2026",regular_season,Phoenix Mercury,New York Liberty,Sha Carter,G,,,,,,,,,,,,,,,,,,,,,,,
+20260527_PHX_NY,"Wednesday, May 27, 2026",regular_season,Phoenix Mercury,New York Liberty,Quionche Carter,G,,,,,,,,,,,,,,,,,,,,,,,
 20260527_PHX_NY,"Wednesday, May 27, 2026",regular_season,New York Liberty,Phoenix Mercury,Breanna Stewart,F,34.0,4-10,0-3,3-3,0.0,6.0,6.0,2.0,1.0,0.0,4.0,2.0,11.0,10.0,4.0,10.0,0.0,3.0,3.0,3.0,0.3,0.5,0.5
 20260527_PHX_NY,"Wednesday, May 27, 2026",regular_season,New York Liberty,Phoenix Mercury,Leonie Fiebich,F,33.0,3-4,2-3,1-1,0.0,0.0,0.0,1.0,2.0,0.0,3.0,3.0,9.0,5.0,3.0,4.0,2.0,3.0,1.0,1.0,1.75,0.3333333333333333,0.333
 20260527_PHX_NY,"Wednesday, May 27, 2026",regular_season,New York Liberty,Phoenix Mercury,Jonquel Jones,C,31.0,5-16,3-7,4-4,3.0,9.0,12.0,4.0,1.0,0.0,0.0,0.0,17.0,15.0,5.0,16.0,3.0,7.0,4.0,4.0,0.8125,0.8,999.0
@@ -1516,7 +1516,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260529_PHX_NY,"Friday, May 29, 2026",regular_season,Phoenix Mercury,New York Liberty,Jovana Nogic,G,12.0,2-7,2-5,2-2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,8.0,0.0,2.0,7.0,2.0,5.0,2.0,2.0,1.1428571428571428,0.0,0.0
 20260529_PHX_NY,"Friday, May 29, 2026",regular_season,Phoenix Mercury,New York Liberty,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
 20260529_PHX_NY,"Friday, May 29, 2026",regular_season,Phoenix Mercury,New York Liberty,Kiana Williams,G,,,,,,,,,,,,,,,,,,,,,,,
-20260529_PHX_NY,"Friday, May 29, 2026",regular_season,Phoenix Mercury,New York Liberty,Sha Carter,G,,,,,,,,,,,,,,,,,,,,,,,
+20260529_PHX_NY,"Friday, May 29, 2026",regular_season,Phoenix Mercury,New York Liberty,Quionche Carter,G,,,,,,,,,,,,,,,,,,,,,,,
 20260529_PHX_NY,"Friday, May 29, 2026",regular_season,New York Liberty,Phoenix Mercury,Breanna Stewart,F,29.0,4-11,1-4,0-0,2.0,6.0,8.0,4.0,1.0,0.0,2.0,0.0,9.0,4.0,4.0,11.0,1.0,4.0,0.0,0.0,0.2727272727272727,1.0,2.0
 20260529_PHX_NY,"Friday, May 29, 2026",regular_season,New York Liberty,Phoenix Mercury,Leonie Fiebich,F,30.0,1-6,0-2,1-1,1.0,1.0,2.0,1.0,1.0,0.0,4.0,1.0,3.0,2.0,1.0,6.0,0.0,2.0,1.0,1.0,0.16666666666666666,1.0,0.25
 20260529_PHX_NY,"Friday, May 29, 2026",regular_season,New York Liberty,Phoenix Mercury,Jonquel Jones,C,31.0,2-9,1-4,4-4,3.0,6.0,9.0,2.0,1.0,2.0,2.0,4.0,9.0,8.0,2.0,9.0,1.0,4.0,4.0,4.0,0.7777777777777778,1.0,1.0
@@ -1699,3 +1699,51 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260531_LV_GS,"Sunday, May 31, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Kaitlyn Chen,G,12.0,2-4,1-1,0-0,0.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,5.0,5.0,2.0,4.0,1.0,1.0,0.0,0.0,0.75,1.5,999.0
 20260531_LV_GS,"Sunday, May 31, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Ndjakalenga Mwenentanda,G,4.0,0-0,0-0,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
 20260531_LV_GS,"Sunday, May 31, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Juste Jocyte,G,5.0,1-2,1-1,2-2,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,5.0,10.0,1.0,2.0,1.0,1.0,2.0,2.0,2.5,1.0,999.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Jordan Horston,F,27.0,1-7,0-2,0-0,1.0,5.0,6.0,1.0,0.0,4.0,2.0,1.0,2.0,-13.0,1.0,7.0,0.0,2.0,0.0,0.0,0.0,1.0,0.5
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Stefanie Dolson,C,20.0,1-4,0-2,0-0,0.0,2.0,2.0,0.0,0.0,2.0,1.0,4.0,2.0,-18.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Natisha Hiedeman,G,26.0,3-9,0-2,5-5,0.0,2.0,2.0,2.0,0.0,0.0,3.0,1.0,11.0,-22.0,3.0,9.0,0.0,2.0,5.0,5.0,0.5555555555555556,0.6666666666666666,0.667
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Flau'jae Johnson,G,25.0,4-12,1-5,7-10,2.0,8.0,10.0,1.0,1.0,1.0,5.0,6.0,16.0,-22.0,4.0,12.0,1.0,5.0,7.0,10.0,0.8333333333333334,0.25,0.2
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Jade Melbourne,G,25.0,2-8,1-3,0-0,0.0,3.0,3.0,1.0,0.0,0.0,1.0,6.0,5.0,-23.0,2.0,8.0,1.0,3.0,0.0,0.0,0.375,0.5,1.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Katie Lou Samuelson,F,12.0,2-2,2-2,0-2,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,6.0,-3.0,2.0,2.0,2.0,2.0,0.0,2.0,3.0,1.0,999.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Mackenzie Holmes,F,14.0,1-2,0-0,0-0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Awa Fam,C,31.0,4-10,0-1,0-0,3.0,4.0,7.0,1.0,4.0,0.0,2.0,2.0,8.0,-17.0,4.0,10.0,0.0,1.0,0.0,0.0,0.0,0.25,0.5
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Lexie Brown,G,5.0,0-0,0-0,0-0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,999.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Zia Cooke,G,16.0,2-7,0-2,0-0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,4.0,-1.0,2.0,7.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Joyner Holmes,F,,,,,,,,,,,,,,,,,,,,,,,
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Ezi Magbegor,F,,,,,,,,,,,,,,,,,,,,,,,
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Seattle Storm,Dallas Wings,Dominique Malonga,C,,,,,,,,,,,,,,,,,,,,,,,
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Jessica Shepard,F,23.0,4-9,0-0,1-2,2.0,6.0,8.0,1.0,1.0,0.0,0.0,0.0,9.0,16.0,4.0,9.0,0.0,0.0,1.0,2.0,0.1111111111111111,0.25,999.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Maddy Siegrist,F,22.0,3-10,1-2,2-2,6.0,3.0,9.0,2.0,1.0,0.0,0.0,1.0,9.0,21.0,3.0,10.0,1.0,2.0,2.0,2.0,0.5,0.6666666666666666,999.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Arike Ogunbowale,G,18.0,2-13,0-5,5-6,4.0,1.0,5.0,0.0,1.0,0.0,1.0,0.0,9.0,9.0,2.0,13.0,0.0,5.0,5.0,6.0,0.38461538461538464,0.0,0.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Paige Bueckers,G,24.0,4-12,1-5,1-2,1.0,8.0,9.0,7.0,1.0,0.0,2.0,1.0,10.0,18.0,4.0,12.0,1.0,5.0,1.0,2.0,0.3333333333333333,1.75,3.5
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Azzi Fudd,G,24.0,4-7,1-4,0-0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,9.0,15.0,4.0,7.0,1.0,4.0,0.0,0.0,0.42857142857142855,0.0,0.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Alysha Clark,F,18.0,1-3,1-3,3-4,2.0,3.0,5.0,1.0,1.0,0.0,0.0,4.0,6.0,5.0,1.0,3.0,1.0,3.0,3.0,4.0,2.0,1.0,999.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Alanna Smith,F,22.0,2-6,0-3,1-2,0.0,4.0,4.0,3.0,0.0,0.0,4.0,4.0,5.0,10.0,2.0,6.0,0.0,3.0,1.0,2.0,0.16666666666666666,1.5,0.75
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Li Yueru,C,9.0,1-2,0-1,0-0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,-1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Odyssey Sims,G,21.0,1-5,0-0,0-2,0.0,2.0,2.0,4.0,1.0,0.0,1.0,0.0,2.0,13.0,1.0,5.0,0.0,0.0,0.0,2.0,0.0,4.0,4.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Aziaha James,G,18.0,7-14,1-2,3-4,2.0,1.0,3.0,1.0,0.0,0.0,0.0,3.0,18.0,9.0,7.0,14.0,1.0,2.0,3.0,4.0,0.42857142857142855,0.14285714285714285,999.0
+20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,JJ Quinerly,G,,,,,,,,,,,,,,,,,,,,,,,
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Natasha Howard,F,23.0,5-7,0-0,1-1,1.0,3.0,4.0,3.0,3.0,0.0,2.0,1.0,11.0,21.0,5.0,7.0,0.0,0.0,1.0,1.0,0.14285714285714285,0.6,1.5
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Nia Coffey,F,22.0,3-5,2-4,0-0,1.0,5.0,6.0,2.0,1.0,0.0,0.0,1.0,8.0,16.0,3.0,5.0,2.0,4.0,0.0,0.0,1.2,0.6666666666666666,999.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Kayla McBride,G,22.0,3-7,1-4,0-0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,2.0,7.0,19.0,3.0,7.0,1.0,4.0,0.0,0.0,0.42857142857142855,1.6666666666666667,999.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Courtney Williams,G,29.0,13-20,3-3,1-1,1.0,4.0,5.0,2.0,0.0,1.0,2.0,2.0,30.0,20.0,13.0,20.0,3.0,3.0,1.0,1.0,0.5,0.15384615384615385,1.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Olivia Miles,G,28.0,7-9,0-0,5-5,0.0,4.0,4.0,9.0,3.0,0.0,4.0,4.0,19.0,23.0,7.0,9.0,0.0,0.0,5.0,5.0,0.5555555555555556,1.2857142857142858,2.25
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Antonia Delaere,F,24.0,4-6,3-4,2-2,0.0,2.0,2.0,6.0,0.0,0.0,0.0,2.0,13.0,23.0,4.0,6.0,3.0,4.0,2.0,2.0,1.8333333333333333,1.5,999.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Anastasiia Olairi Kosu,F,18.0,4-6,0-0,4-4,4.0,2.0,6.0,0.0,1.0,3.0,0.0,2.0,12.0,18.0,4.0,6.0,0.0,0.0,4.0,4.0,0.6666666666666666,0.0,0.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Teaira McCowan,C,16.0,3-4,0-0,0-0,1.0,5.0,6.0,0.0,1.0,0.0,2.0,6.0,6.0,13.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Maya Caldwell,G,18.0,2-5,1-2,0-0,0.0,2.0,2.0,0.0,0.0,1.0,1.0,2.0,5.0,17.0,2.0,5.0,1.0,2.0,0.0,0.0,0.6,0.0,0.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Napheesa Collier,F,,,,,,,,,,,,,,,,,,,,,,,
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Dorka Juhasz,F,,,,,,,,,,,,,,,,,,,,,,,
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Emma Cechova,F,,,,,,,,,,,,,,,,,,,,,,,
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Alyssa Thomas,F,25.0,1-6,0-0,4-4,2.0,1.0,3.0,5.0,0.0,0.0,3.0,1.0,6.0,-27.0,1.0,6.0,0.0,0.0,4.0,4.0,0.6666666666666666,5.0,1.667
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Natasha Mack,F,20.0,2-4,0-0,0-0,5.0,6.0,11.0,1.0,0.0,0.0,1.0,2.0,4.0,-20.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.5,1.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Noemie Brochant,F,24.0,4-8,3-6,0-0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,11.0,-22.0,4.0,8.0,3.0,6.0,0.0,0.0,1.125,0.0,0.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Kahleah Copper,G,27.0,5-13,3-7,5-8,0.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,18.0,-28.0,5.0,13.0,3.0,7.0,5.0,8.0,1.0769230769230769,0.2,0.5
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Monique Akoa Makani,G,24.0,1-6,0-3,8-8,0.0,0.0,0.0,5.0,2.0,0.0,3.0,2.0,10.0,-23.0,1.0,6.0,0.0,3.0,8.0,8.0,1.3333333333333333,5.0,1.667
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,DeWanna Bonner,F,7.0,1-5,0-1,0-0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,-14.0,1.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Valeriane Ayayi,F,11.0,0-3,0-1,0-0,0.0,1.0,1.0,4.0,0.0,0.0,0.0,2.0,0.0,-2.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Kyara Linskens,C,20.0,3-7,1-3,0-0,1.0,2.0,3.0,0.0,2.0,0.0,0.0,2.0,7.0,-14.0,3.0,7.0,1.0,3.0,0.0,0.0,0.42857142857142855,0.0,0.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Jovana Nogic,G,16.0,3-6,2-4,0-0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,8.0,-11.0,3.0,6.0,2.0,4.0,0.0,0.0,1.0,0.0,0.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Lexi Held,G,15.0,1-3,1-2,2-2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,-7.0,1.0,3.0,1.0,2.0,2.0,2.0,1.6666666666666667,0.0,0.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Quionche Carter,G,10.0,1-3,0-0,4-5,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,6.0,-2.0,1.0,3.0,0.0,0.0,4.0,5.0,1.3333333333333333,2.0,999.0
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,

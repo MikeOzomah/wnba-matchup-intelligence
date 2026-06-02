@@ -125,3 +125,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260531_IND_POR,"Sunday, May 31, 2026",Portland Fire,Indiana Fever,POR,36-70,51,9-23,39,19-20,95,8,17,25,26,8,5,11,26,100
 20260531_LV_GS,"Sunday, May 31, 2026",Las Vegas Aces,Golden State Valkyries,LV,33-69,48,8-22,36,17-21,81,12,33,45,26,5,8,15,18,91
 20260531_LV_GS,"Sunday, May 31, 2026",Golden State Valkyries,Las Vegas Aces,GS,25-74,34,16-35,46,15-17,88,9,24,33,16,9,0,12,21,81
+20260602_SEA_DAL,"Tuesday, June 02, 2026",Seattle Storm,Dallas Wings,SEA,20-61,33,4-19,21,12-17,71,6,30,36,11,6,7,17,22,56
+20260602_SEA_DAL,"Tuesday, June 02, 2026",Dallas Wings,Seattle Storm,DAL,29-81,36,5-25,20,16-24,67,18,30,48,19,7,1,8,15,79
+20260602_MIN_PHX,"Tuesday, June 02, 2026",Minnesota Lynx,Phoenix Mercury,MIN,44-69,64,10-17,59,13-13,100,8,27,35,27,10,5,11,22,111
+20260602_MIN_PHX,"Tuesday, June 02, 2026",Phoenix Mercury,Minnesota Lynx,PHX,22-64,34,10-27,37,23-27,85,11,13,24,18,6,0,14,12,77
+20260602_CON_ATL,"Tuesday, June 02, 2026",Connecticut Sun,Atlanta Dream,CON,,41,,26,,,,,,,,,,,0
+20260602_CON_ATL,"Tuesday, June 02, 2026",Atlanta Dream,Connecticut Sun,ATL,,43,,31,,,,,,,,,,,0
+20260602_CHI_WSH,"Tuesday, June 02, 2026",Chicago Sky,Washington Mystics,CHI,,41,,25,,,,,,,,,,,0
+20260602_CHI_WSH,"Tuesday, June 02, 2026",Washington Mystics,Chicago Sky,WSH,,46,,26,,,,,,,,,,,0
+20260603_POR_GS,"Wednesday, June 03, 2026",Portland Fire,Golden State Valkyries,POR,,46,,35,,,,,,,,,,,0
+20260603_POR_GS,"Wednesday, June 03, 2026",Golden State Valkyries,Portland Fire,GS,,40,,38,,,,,,,,,,,0
+20260603_LV_LA,"Wednesday, June 03, 2026",Las Vegas Aces,Los Angeles Sparks,LV,,49,,35,,,,,,,,,,,0
+20260603_LV_LA,"Wednesday, June 03, 2026",Los Angeles Sparks,Las Vegas Aces,LA,,49,,36,,,,,,,,,,,0
