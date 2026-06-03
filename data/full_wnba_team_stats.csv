@@ -129,11 +129,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260602_SEA_DAL,"Tuesday, June 02, 2026",Dallas Wings,Seattle Storm,DAL,29-81,36,5-25,20,16-24,67,18,30,48,19,7,1,8,15,79
 20260602_MIN_PHX,"Tuesday, June 02, 2026",Minnesota Lynx,Phoenix Mercury,MIN,44-69,64,10-17,59,13-13,100,8,27,35,27,10,5,11,22,111
 20260602_MIN_PHX,"Tuesday, June 02, 2026",Phoenix Mercury,Minnesota Lynx,PHX,22-64,34,10-27,37,23-27,85,11,13,24,18,6,0,14,12,77
-20260602_CON_ATL,"Tuesday, June 02, 2026",Connecticut Sun,Atlanta Dream,CON,,41,,26,,,,,,,,,,,0
-20260602_CON_ATL,"Tuesday, June 02, 2026",Atlanta Dream,Connecticut Sun,ATL,,43,,31,,,,,,,,,,,0
-20260602_CHI_WSH,"Tuesday, June 02, 2026",Chicago Sky,Washington Mystics,CHI,,41,,25,,,,,,,,,,,0
-20260602_CHI_WSH,"Tuesday, June 02, 2026",Washington Mystics,Chicago Sky,WSH,,46,,26,,,,,,,,,,,0
-20260603_POR_GS,"Wednesday, June 03, 2026",Portland Fire,Golden State Valkyries,POR,,46,,35,,,,,,,,,,,0
-20260603_POR_GS,"Wednesday, June 03, 2026",Golden State Valkyries,Portland Fire,GS,,40,,38,,,,,,,,,,,0
-20260603_LV_LA,"Wednesday, June 03, 2026",Las Vegas Aces,Los Angeles Sparks,LV,,49,,35,,,,,,,,,,,0
-20260603_LV_LA,"Wednesday, June 03, 2026",Los Angeles Sparks,Las Vegas Aces,LA,,49,,36,,,,,,,,,,,0
+20260602_CON_ATL,"Tuesday, June 02, 2026",Connecticut Sun,Atlanta Dream,CON,26-55,47,4-17,24,19-29,66,3,25,28,17,8,5,14,18,75
+20260602_CON_ATL,"Tuesday, June 02, 2026",Atlanta Dream,Connecticut Sun,ATL,32-68,47,14-37,38,13-18,72,9,26,35,22,10,1,13,20,91
+20260602_CHI_WSH,"Tuesday, June 02, 2026",Chicago Sky,Washington Mystics,CHI,28-64,44,6-16,38,10-16,63,5,24,29,19,9,10,18,22,72
+20260602_CHI_WSH,"Tuesday, June 02, 2026",Washington Mystics,Chicago Sky,WSH,32-73,44,6-17,35,20-32,63,17,29,46,18,11,2,16,16,90
+20260603_POR_GS,"Wednesday, June 03, 2026",Portland Fire,Golden State Valkyries,POR,28-61,46,9-24,38,12-16,75,8,20,28,19,3,2,15,18,77
+20260603_POR_GS,"Wednesday, June 03, 2026",Golden State Valkyries,Portland Fire,GS,32-69,46,18-40,45,13-18,72,9,19,28,25,9,4,7,16,95
+20260603_LV_LA,"Wednesday, June 03, 2026",Las Vegas Aces,Los Angeles Sparks,LV,31-69,45,8-24,33,9-16,56,8,36,44,24,7,8,10,23,79
+20260603_LV_LA,"Wednesday, June 03, 2026",Los Angeles Sparks,Las Vegas Aces,LA,20-65,31,6-23,26,23-27,85,8,30,38,13,4,4,11,16,69
+20260603_TOR_NY,"Wednesday, June 03, 2026",Toronto Tempo,New York Liberty,TOR,,43,,34,,,,,,,,,,,0
+20260603_TOR_NY,"Wednesday, June 03, 2026",New York Liberty,Toronto Tempo,NY,,46,,36,,,,,,,,,,,0
+20260604_PHX_SEA,"Thursday, June 04, 2026",Phoenix Mercury,Seattle Storm,PHX,,42,,32,,,,,,,,,,,0
+20260604_PHX_SEA,"Thursday, June 04, 2026",Seattle Storm,Phoenix Mercury,SEA,,40,,32,,,,,,,,,,,0

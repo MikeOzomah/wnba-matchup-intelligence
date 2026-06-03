@@ -1747,3 +1747,95 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Lexi Held,G,15,1-3,1-2,2-2,0,0,0,0,0,0,0,1,5,-7
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Quionche Carter,G,10,1-3,0-0,4-5,0,0,0,2,1,0,0,0,6,-2
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Sami Whitcomb,G,,,,,,,,,,,,,,
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Diamond Miller,F,26,2-6,0-3,4-4,0,3,3,1,0,0,1,4,8,-8
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Aneesah Morrow,F,30,7-12,2-5,4-7,1,12,13,2,0,2,1,1,20,-15
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Brittney Griner,C,29,3-8,0-0,1-2,0,4,4,3,2,3,1,2,7,-12
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Saniya Rivers,G,29,4-6,1-1,2-2,0,1,1,2,0,0,0,0,11,-5
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Leila Lacan,G,28,4-13,1-6,2-4,1,1,2,5,1,0,4,3,11,-15
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Nell Angloma,F,10,2-3,0-0,2-2,0,0,0,0,3,0,1,2,6,-6
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Olivia Nelson-Ododa,C,11,3-3,0-0,4-8,0,1,1,0,1,0,1,2,10,-4
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Kennedy Burke,G,18,1-3,0-1,0-0,1,2,3,0,1,0,4,2,2,-7
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Charlisse Leger-Walker,G,16,0-1,0-1,0-0,0,0,0,3,0,0,1,1,0,-11
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Gianna Kneepkens,G,5,0-0,0-0,0-0,0,1,1,1,0,0,0,1,0,+3
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Aaliyah Edwards,F,,,,,,,,,,,,,,
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Connecticut Sun,Atlanta Dream,Raegan Beers,F,,,,,,,,,,,,,,
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Naz Hillmon,F,35,2-7,1-3,0-0,1,6,7,3,0,0,2,4,5,+13
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Angel Reese,F,29,4-9,1-2,3-4,7,6,13,5,1,0,2,3,12,+23
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Allisha Gray,G,36,9-17,3-9,5-7,1,6,7,2,1,1,2,2,26,+15
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Jordin Canada,G,36,5-8,1-3,1-2,0,3,3,10,4,0,4,4,12,+17
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Rhyne Howard,G,37,12-24,8-19,4-5,0,2,2,2,3,0,1,1,36,+18
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Sika Kone,F,3,0-1,0-0,0-0,0,0,0,0,0,0,0,0,0,+1
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Madina Okot,C,9,0-0,0-0,0-0,0,2,2,0,1,0,1,5,0,-6
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Te-Hina Paopao,G,8,0-1,0-0,0-0,0,1,1,0,0,0,1,0,0,+4
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Aaliyah Nye,G,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-1
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Indya Nivar,G,1,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,-1
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Isobel Borlase,G,5,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0,-3
+20260602_CON_ATL,"Tuesday, June 02, 2026",regular_season,Atlanta Dream,Connecticut Sun,Brionna Jones,F,,,,,,,,,,,,,,
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Azura Stevens,F,19,3-7,1-2,0-0,0,5,5,3,1,2,3,3,7,-9
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Kamilla Cardoso,C,33,6-13,0-0,0-0,3,10,13,5,1,6,1,4,12,-12
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Skylar Diggins,G,27,3-6,2-2,6-7,0,1,1,1,0,1,2,2,14,-12
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Natasha Cloud,G,24,0-4,0-1,0-0,0,0,0,3,0,0,4,6,0,-19
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Jacy Sheldon,G,31,4-7,1-2,0-0,0,0,0,1,0,0,2,2,9,-11
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Elizabeth Williams,C,23,4-10,0-0,2-5,1,5,6,3,2,1,0,1,10,-13
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Rachel Banham,G,18,2-4,1-3,0-0,0,0,0,2,0,0,2,1,5,-1
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Saylor Poffenbarger,G,6,0-0,0-0,0-0,1,2,3,0,1,0,0,1,0,-2
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Sydney Taylor,G,20,6-13,1-6,2-4,0,1,1,1,4,0,4,2,15,-11
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Rickea Jackson,F,,,,,,,,,,,,,,
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Courtney Vandersloot,G,,,,,,,,,,,,,,
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,DiJonai Carrington,G,,,,,,,,,,,,,,
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Chicago Sky,Washington Mystics,Gabriela Jaquez,G,,,,,,,,,,,,,,
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Michaela Onyenwere,F,22,5-6,1-2,2-2,3,4,7,2,1,0,5,1,13,+25
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Kiki Iriafen,F,27,4-11,1-3,6-10,3,8,11,2,0,0,1,2,15,+14
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Shakira Austin,C,25,5-13,1-1,6-9,1,7,8,1,3,1,5,0,17,+17
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Cotie McMahon,G,25,3-7,0-0,2-4,1,1,2,4,3,1,1,2,8,+6
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Georgia Amoore,G,21,1-3,1-2,0-0,1,0,1,2,0,0,0,4,3,+21
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Angela Dugalic,F,13,3-8,0-2,2-2,3,4,7,1,0,0,1,2,8,+1
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Lauren Betts,C,15,4-8,0-0,0-0,1,3,4,0,1,0,0,2,8,+4
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Rori Harmon,G,1,0-0,0-0,0-0,0,0,0,1,0,0,1,0,0,+2
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Lucy Olsen,G,11,1-3,1-1,0-0,1,0,1,2,0,0,0,0,3,+5
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Cassandre Prosper,G,20,3-7,1-2,0-1,3,2,5,0,2,0,2,1,7,-3
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Alicia Florez Getino,G,19,3-7,0-4,2-4,0,0,0,3,1,0,0,2,8,-2
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Bridget Carleton,F,30,4-6,2-4,1-1,1,2,3,1,1,0,0,4,11,-17
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Emily Engstler,F,29,4-12,2-3,2-4,4,4,8,1,1,2,0,3,12,-9
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Nyadiew Puoch,F,13,0-2,0-2,0-0,1,1,2,0,0,0,1,1,0,-3
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Megan Gustafson,C,24,6-12,0-1,1-1,1,7,8,2,0,0,2,3,13,-8
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Carla Leite,G,24,2-6,0-0,6-6,0,1,1,7,0,0,4,2,10,-3
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Frieda Buhner,F,10,0-1,0-1,0-0,0,0,0,1,0,0,1,0,0,-9
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Luisa Geiselsoder,C,11,1-4,1-2,0-0,0,0,0,0,0,0,1,1,3,-14
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Serah Williams,C,9,2-2,1-1,2-4,0,1,1,0,0,0,0,1,7,+1
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Karlie Samuelson,G,12,1-4,0-3,0-0,0,0,0,1,0,0,1,2,2,+3
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Holly Winterburn,G,4,0-1,0-1,0-0,0,1,1,1,0,0,0,0,0,-3
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Sarah Ashlee Barker,G,23,3-5,2-4,0-0,0,3,3,3,0,0,2,1,8,-16
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Teja Oblak,G,12,5-6,1-2,0-0,1,0,1,2,1,0,3,0,11,-12
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Kayla Thornton,F,26,6-13,5-10,2-2,4,4,8,0,1,1,1,2,19,+21
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Gabby Williams,F,27,4-13,0-5,0-0,0,2,2,2,1,0,0,1,8,+21
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Cecilia Zandalasini,F,23,2-7,1-4,4-5,0,1,1,3,4,0,2,2,9,+21
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Kiah Stokes,C,20,2-3,2-3,0-0,2,3,5,1,2,3,0,2,6,+8
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Veronica Burton,G,23,3-5,2-2,2-4,1,2,3,9,0,0,1,2,10,+22
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Laeticia Amihere,F,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,+1
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Janelle Salaun,F,23,6-10,3-6,3-3,1,3,4,1,0,0,0,2,18,+5
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Tiffany Hayes,G,13,0-0,0-0,1-2,0,0,0,4,1,0,0,2,1,-4
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Kaila Charles,G,13,3-6,1-3,0-0,1,2,3,1,0,0,1,2,7,-3
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Kaitlyn Chen,G,17,3-4,2-2,1-2,0,0,0,2,0,0,0,1,9,-4
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Ndjakalenga Mwenentanda,G,1,0-0,0-0,0-0,0,0,0,1,0,0,0,0,0,+1
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Golden State Valkyries,Portland Fire,Juste Jocyte,G,13,3-8,2-5,0-0,0,2,2,1,0,0,2,0,8,+1
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,Stephanie Talbot,F,25,3-6,2-4,0-0,1,5,6,0,0,0,0,4,8,+24
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,NaLyssa Smith,F,21,3-5,0-0,1-4,2,2,4,0,0,1,2,5,7,-9
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,A'ja Wilson,C,34,10-20,1-3,4-7,3,12,15,1,3,5,3,1,25,+1
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,Chelsea Gray,G,34,4-11,1-6,3-3,0,4,4,11,2,0,1,2,12,+3
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,Jackie Young,G,36,7-17,2-5,0-0,1,3,4,9,1,0,2,3,16,+5
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,Cheyenne Parker-Tyus,F,8,2-4,0-0,1-2,0,4,4,2,0,1,1,5,5,+10
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,Brianna Turner,F,21,0-0,0-0,0-0,1,3,4,1,0,1,1,1,0,+16
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,Kierstan Bell,F,22,2-6,2-6,0-0,0,3,3,0,1,0,0,2,6,0
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,Janiah Barker,F,,,,,,,,,,,,,,
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Nneka Ogwumike,F,31,3-10,0-1,6-6,3,9,12,2,1,1,2,2,12,-2
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Dearica Hamby,F,24,0-7,0-1,2-3,3,3,6,2,0,1,0,3,2,-12
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Erica Wheeler,G,26,3-6,2-4,2-3,0,0,0,1,0,0,3,5,10,-11
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Ariel Atkins,G,29,2-13,1-6,4-4,0,7,7,2,2,0,1,2,9,-4
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Rae Burrell,G,33,8-14,2-4,4-6,0,1,1,1,0,0,3,0,22,-7
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Cameron Brink,F,25,3-10,1-4,2-2,1,7,8,3,0,2,1,3,9,-6
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Jihyun Park,F,4,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,-6
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Ta'Niya Latson,G,6,0-1,0-1,2-2,1,1,2,1,0,0,1,0,2,+3
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Chance Gray,G,21,1-4,0-2,1-1,0,2,2,1,1,0,0,0,3,-5
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Emma Cannon,F,,,,,,,,,,,,,,
+20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Sania Feagin,F,,,,,,,,,,,,,,
