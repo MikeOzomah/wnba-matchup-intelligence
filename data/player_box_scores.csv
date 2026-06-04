@@ -1727,7 +1727,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Nia Coffey,F,22,3-5,2-4,0-0,1,5,6,2,1,0,0,1,8,+16
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Kayla McBride,G,22,3-7,1-4,0-0,0,0,0,5,1,0,0,2,7,+19
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Courtney Williams,G,29,13-20,3-3,1-1,1,4,5,2,0,1,2,2,30,+20
-20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Olivia Miles,G,28,7-9,0-0,5-5,0,4,4,9,3,0,4,4,19,+23
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Olivia Miles,G,28,7-9,0-0,5-5,0,4,4,10,3,0,4,4,19,+23
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Antonia Delaere,F,24,4-6,3-4,2-2,0,2,2,6,0,0,0,2,13,+23
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Anastasiia Olairi Kosu,F,18,4-6,0-0,4-4,4,2,6,0,1,3,0,2,12,+18
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Teaira McCowan,C,16,3-4,0-0,0-0,1,5,6,0,1,0,2,6,6,+13
@@ -1839,3 +1839,52 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Chance Gray,G,21,1-4,0-2,1-1,0,2,2,1,1,0,0,0,3,-5
 20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Emma Cannon,F,,,,,,,,,,,,,,
 20260603_LV_LA,"Wednesday, June 03, 2026",regular_season,Los Angeles Sparks,Las Vegas Aces,Sania Feagin,F,,,,,,,,,,,,,,
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Nyara Sabally,F,29,5-10,1-3,0-0,2,4,6,3,0,0,1,3,11,-24
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Laura Juskaite,F,20,3-9,1-3,1-2,2,3,5,2,2,0,0,5,8,-21
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Brittney Sykes,G,34,8-18,0-1,1-1,1,4,5,1,3,1,2,2,17,-12
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Marina Mabrey,G,26,7-13,2-6,1-2,1,2,3,4,0,1,1,2,17,-16
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Kiki Rice,G,23,3-8,0-1,3-3,1,4,5,2,0,0,3,1,9,-4
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Maria Conde,F,21,2-5,1-2,2-2,1,5,6,1,0,0,0,1,7,-1
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Teonni Key,F,9,0-1,0-0,0-0,0,1,1,1,0,0,0,1,0,+3
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Nikolina Milic,F,8,2-4,0-0,0-0,0,0,0,1,0,0,0,0,4,+8
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Kia Nurse,G,4,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,+1
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Julie Allemand,G,23,3-6,1-3,0-0,0,1,1,2,2,1,0,2,7,-12
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Tima Pouye,G,3,1-1,0-0,0-0,0,0,0,0,0,0,0,0,2,+3
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Isabelle Harrison,F,,,,,,,,,,,,,,
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,Toronto Tempo,New York Liberty,Temi Fagbenle,C,,,,,,,,,,,,,,
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Breanna Stewart,F,30,5-15,1-5,8-8,0,9,9,4,0,1,1,1,19,+8
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Leonie Fiebich,F,26,4-7,2-4,4-4,2,0,2,4,0,0,1,1,14,+17
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Jonquel Jones,C,34,9-14,4-7,0-0,5,12,17,2,0,2,2,2,22,+16
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Marine Johannes,G,27,6-10,3-6,0-0,1,1,2,2,1,1,2,3,15,+7
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Pauline Astier,G,28,4-9,2-3,0-1,0,0,0,5,0,0,0,4,10,+20
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Satou Sabally,F,14,3-7,2-4,4-5,1,4,5,0,0,0,2,2,12,-2
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Han Xu,C,10,2-2,0-0,0-0,0,2,2,1,0,0,0,0,4,+4
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Rebekah Gardner,G,15,0-4,0-1,0-0,2,1,3,3,1,0,0,0,0,-4
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Betnijah Laney-Hamilton,G,17,0-3,0-2,1-2,0,0,0,3,1,0,2,0,1,+9
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Raquel Carrera,F,,,,,,,,,,,,,,
+20260603_TOR_NY,"Wednesday, June 03, 2026",regular_season,New York Liberty,Toronto Tempo,Rebecca Allen,G,,,,,,,,,,,,,,
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Alyssa Thomas,F,34,4-9,0-0,1-3,1,8,9,5,2,0,4,2,9,+2
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Natasha Mack,F,26,7-7,0-0,2-2,4,6,10,2,0,3,1,1,16,+11
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Noemie Brochant,F,24,2-7,0-2,0-0,0,4,4,1,2,2,2,2,4,-6
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Kahleah Copper,G,35,4-14,2-6,6-6,1,5,6,1,1,0,1,2,16,+4
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Monique Akoa Makani,G,28,3-8,1-4,5-7,1,5,6,2,2,0,3,3,12,+4
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,DeWanna Bonner,F,25,3-12,0-7,4-5,0,2,2,1,2,0,1,2,10,0
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Valeriane Ayayi,F,4,0-2,0-0,1-2,3,0,3,1,0,0,0,1,1,+2
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Jovana Nogic,G,12,1-2,0-1,2-2,0,2,2,2,0,0,0,1,4,-4
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Lexi Held,G,13,0-3,0-2,0-0,0,2,2,2,2,1,1,1,0,+7
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Kyara Linskens,C,,,,,,,,,,,,,,
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Sami Whitcomb,G,,,,,,,,,,,,,,
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Phoenix Mercury,Seattle Storm,Quionche Carter,G,,,,,,,,,,,,,,
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Jordan Horston,F,21,2-5,1-4,0-0,1,4,5,1,0,1,2,1,5,-4
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Stefanie Dolson,C,25,0-1,0-1,0-0,0,2,2,1,1,0,2,3,0,0
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Awa Fam,C,33,9-17,0-4,0-0,1,5,6,2,1,2,2,3,18,-1
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Natisha Hiedeman,G,30,6-17,3-8,0-1,1,3,4,4,2,1,0,2,15,+3
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Flau'jae Johnson,G,29,3-11,2-6,1-2,0,4,4,5,2,0,4,2,9,+5
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Katie Lou Samuelson,F,17,1-7,1-5,0-0,0,2,2,1,1,0,1,1,3,-2
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Mackenzie Holmes,F,19,2-5,0-1,0-0,1,5,6,1,1,1,0,2,4,-8
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Zia Cooke,G,14,4-9,1-3,0-0,0,1,1,0,1,0,2,1,9,-9
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Jade Melbourne,G,13,1-1,1-1,2-2,0,4,4,2,1,0,1,3,5,-4
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Joyner Holmes,F,,,,,,,,,,,,,,
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Ezi Magbegor,F,,,,,,,,,,,,,,
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Dominique Malonga,C,,,,,,,,,,,,,,
+20260604_PHX_SEA,"Thursday, June 04, 2026",regular_season,Seattle Storm,Phoenix Mercury,Lexie Brown,G,,,,,,,,,,,,,,

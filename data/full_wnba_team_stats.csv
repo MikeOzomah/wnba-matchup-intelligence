@@ -127,7 +127,7 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260531_LV_GS,"Sunday, May 31, 2026",Golden State Valkyries,Las Vegas Aces,GS,25-74,34,16-35,46,15-17,88,9,24,33,16,9,0,12,21,81
 20260602_SEA_DAL,"Tuesday, June 02, 2026",Seattle Storm,Dallas Wings,SEA,20-61,33,4-19,21,12-17,71,6,30,36,11,6,7,17,22,56
 20260602_SEA_DAL,"Tuesday, June 02, 2026",Dallas Wings,Seattle Storm,DAL,29-81,36,5-25,20,16-24,67,18,30,48,19,7,1,8,15,79
-20260602_MIN_PHX,"Tuesday, June 02, 2026",Minnesota Lynx,Phoenix Mercury,MIN,44-69,64,10-17,59,13-13,100,8,27,35,27,10,5,11,22,111
+20260602_MIN_PHX,"Tuesday, June 02, 2026",Minnesota Lynx,Phoenix Mercury,MIN,44-69,64,10-17,59,13-13,100,8,27,35,28,10,5,11,22,111
 20260602_MIN_PHX,"Tuesday, June 02, 2026",Phoenix Mercury,Minnesota Lynx,PHX,22-64,34,10-27,37,23-27,85,11,13,24,18,6,0,14,12,77
 20260602_CON_ATL,"Tuesday, June 02, 2026",Connecticut Sun,Atlanta Dream,CON,26-55,47,4-17,24,19-29,66,3,25,28,17,8,5,14,18,75
 20260602_CON_ATL,"Tuesday, June 02, 2026",Atlanta Dream,Connecticut Sun,ATL,32-68,47,14-37,38,13-18,72,9,26,35,22,10,1,13,20,91
@@ -137,7 +137,11 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260603_POR_GS,"Wednesday, June 03, 2026",Golden State Valkyries,Portland Fire,GS,32-69,46,18-40,45,13-18,72,9,19,28,25,9,4,7,16,95
 20260603_LV_LA,"Wednesday, June 03, 2026",Las Vegas Aces,Los Angeles Sparks,LV,31-69,45,8-24,33,9-16,56,8,36,44,24,7,8,10,23,79
 20260603_LV_LA,"Wednesday, June 03, 2026",Los Angeles Sparks,Las Vegas Aces,LA,20-65,31,6-23,26,23-27,85,8,30,38,13,4,4,11,16,69
-20260603_TOR_NY,"Wednesday, June 03, 2026",Toronto Tempo,New York Liberty,TOR,,43,,34,,,,,,,,,,,0
-20260603_TOR_NY,"Wednesday, June 03, 2026",New York Liberty,Toronto Tempo,NY,,46,,36,,,,,,,,,,,0
-20260604_PHX_SEA,"Thursday, June 04, 2026",Phoenix Mercury,Seattle Storm,PHX,,42,,32,,,,,,,,,,,0
-20260604_PHX_SEA,"Thursday, June 04, 2026",Seattle Storm,Phoenix Mercury,SEA,,40,,32,,,,,,,,,,,0
+20260603_TOR_NY,"Wednesday, June 03, 2026",Toronto Tempo,New York Liberty,TOR,34-75,45,6-19,32,8-10,80,8,24,32,17,7,3,7,17,82
+20260603_TOR_NY,"Wednesday, June 03, 2026",New York Liberty,Toronto Tempo,NY,33-71,46,14-32,44,17-20,85,11,29,40,24,3,4,10,13,97
+20260604_PHX_SEA,"Thursday, June 04, 2026",Phoenix Mercury,Seattle Storm,PHX,24-64,38,3-22,14,21-27,78,10,34,44,17,11,6,13,15,72
+20260604_PHX_SEA,"Thursday, June 04, 2026",Seattle Storm,Phoenix Mercury,SEA,28-73,38,9-33,27,3-5,60,4,30,34,17,10,5,14,18,68
+20260604_ATL_IND,"Thursday, June 04, 2026",Atlanta Dream,Indiana Fever,ATL,,44,,32,,,,,,,,,,,0
+20260604_ATL_IND,"Thursday, June 04, 2026",Indiana Fever,Atlanta Dream,IND,,45,,32,,,,,,,,,,,0
+20260605_GS_MIN,"Friday, June 05, 2026",Golden State Valkyries,Minnesota Lynx,GS,,41,,39,,,,,,,,,,,0
+20260605_GS_MIN,"Friday, June 05, 2026",Minnesota Lynx,Golden State Valkyries,MIN,,51,,36,,,,,,,,,,,0
