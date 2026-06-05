@@ -141,7 +141,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260603_TOR_NY,"Wednesday, June 03, 2026",New York Liberty,Toronto Tempo,NY,33-71,46,14-32,44,17-20,85,11,29,40,24,3,4,10,13,97
 20260604_PHX_SEA,"Thursday, June 04, 2026",Phoenix Mercury,Seattle Storm,PHX,24-64,38,3-22,14,21-27,78,10,34,44,17,11,6,13,15,72
 20260604_PHX_SEA,"Thursday, June 04, 2026",Seattle Storm,Phoenix Mercury,SEA,28-73,38,9-33,27,3-5,60,4,30,34,17,10,5,14,18,68
-20260604_ATL_IND,"Thursday, June 04, 2026",Atlanta Dream,Indiana Fever,ATL,,44,,32,,,,,,,,,,,0
-20260604_ATL_IND,"Thursday, June 04, 2026",Indiana Fever,Atlanta Dream,IND,,45,,32,,,,,,,,,,,0
-20260605_GS_MIN,"Friday, June 05, 2026",Golden State Valkyries,Minnesota Lynx,GS,,41,,39,,,,,,,,,,,0
-20260605_GS_MIN,"Friday, June 05, 2026",Minnesota Lynx,Golden State Valkyries,MIN,,51,,36,,,,,,,,,,,0
+20260604_ATL_IND,"Thursday, June 04, 2026",Atlanta Dream,Indiana Fever,ATL,23-67,34,6-21,29,19-24,79,9,21,30,14,9,3,11,19,71
+20260604_ATL_IND,"Thursday, June 04, 2026",Indiana Fever,Atlanta Dream,IND,30-63,48,11-25,44,12-15,80,6,29,35,16,6,7,14,22,83
+20260605_GS_MIN,"Friday, June 05, 2026",Golden State Valkyries,Minnesota Lynx,GS,30-76,39,14-37,38,10-10,100,9,22,31,21,6,7,7,18,84
+20260605_GS_MIN,"Friday, June 05, 2026",Minnesota Lynx,Golden State Valkyries,MIN,29-73,40,13-26,50,16-19,84,14,29,43,18,4,7,12,15,87
+20260605_CON_CHI,"Friday, June 05, 2026",Connecticut Sun,Chicago Sky,CON,,41,,26,,,,,,,,,,,0
+20260605_CON_CHI,"Friday, June 05, 2026",Chicago Sky,Connecticut Sun,CHI,,41,,26,,,,,,,,,,,0
+20260606_DAL_LA,"Saturday, June 06, 2026",Dallas Wings,Los Angeles Sparks,DAL,,45,,35,,,,,,,,,,,0
+20260606_DAL_LA,"Saturday, June 06, 2026",Los Angeles Sparks,Dallas Wings,LA,,47,,35,,,,,,,,,,,0
+20260606_PHX_POR,"Saturday, June 06, 2026",Phoenix Mercury,Portland Fire,PHX,,41,,31,,,,,,,,,,,0
+20260606_PHX_POR,"Saturday, June 06, 2026",Portland Fire,Phoenix Mercury,POR,,46,,35,,,,,,,,,,,0
