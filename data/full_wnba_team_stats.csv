@@ -159,7 +159,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260606_WSH_ATL,"Saturday, June 06, 2026",Atlanta Dream,Washington Mystics,ATL,32-66,48,13-25,52,32-41,78,16,26,42,21,16,4,11,26,109
 20260607_IND_NY,"Sunday, June 07, 2026",Indiana Fever,New York Liberty,IND,29-72,40,8-25,32,9-15,60,9,32,41,20,4,5,14,27,75
 20260607_IND_NY,"Sunday, June 07, 2026",New York Liberty,Indiana Fever,NY,24-66,36,2-18,11,33-40,83,13,34,47,14,9,2,11,19,83
-20260607_CHI_TOR,"Sunday, June 07, 2026",Chicago Sky,Toronto Tempo,CHI,,42,,27,,,,,,,,,,,0
-20260607_CHI_TOR,"Sunday, June 07, 2026",Toronto Tempo,Chicago Sky,TOR,,43,,34,,,,,,,,,,,0
-20260607_POR_LA,"Sunday, June 07, 2026",Portland Fire,Los Angeles Sparks,POR,,45,,35,,,,,,,,,,,0
-20260607_POR_LA,"Sunday, June 07, 2026",Los Angeles Sparks,Portland Fire,LA,,48,,34,,,,,,,,,,,0
+20260607_CHI_TOR,"Sunday, June 07, 2026",Chicago Sky,Toronto Tempo,CHI,23-65,35,6-25,24,16-26,62,7,30,37,15,4,5,16,24,68
+20260607_CHI_TOR,"Sunday, June 07, 2026",Toronto Tempo,Chicago Sky,TOR,30-77,39,4-22,18,21-27,78,11,33,44,19,7,4,9,22,85
+20260607_POR_LA,"Sunday, June 07, 2026",Portland Fire,Los Angeles Sparks,POR,26-72,36,3-28,11,17-22,77,14,28,42,19,5,5,15,21,72
+20260607_POR_LA,"Sunday, June 07, 2026",Los Angeles Sparks,Portland Fire,LA,32-75,43,8-30,27,17-22,77,15,27,42,17,11,4,12,22,89
+20260608_NY_CON,"Monday, June 08, 2026",New York Liberty,Connecticut Sun,NY,,45,,35,,,,,,,,,,,0
+20260608_NY_CON,"Monday, June 08, 2026",Connecticut Sun,New York Liberty,CON,,41,,26,,,,,,,,,,,0
+20260608_IND_WSH,"Monday, June 08, 2026",Indiana Fever,Washington Mystics,IND,,45,,33,,,,,,,,,,,0
+20260608_IND_WSH,"Monday, June 08, 2026",Washington Mystics,Indiana Fever,WSH,,45,,28,,,,,,,,,,,0
+20260609_SEA_LV,"Tuesday, June 09, 2026",Seattle Storm,Las Vegas Aces,SEA,,40,,32,,,,,,,,,,,0
+20260609_SEA_LV,"Tuesday, June 09, 2026",Las Vegas Aces,Seattle Storm,LV,,48,,36,,,,,,,,,,,0

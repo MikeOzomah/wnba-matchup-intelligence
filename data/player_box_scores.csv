@@ -2111,3 +2111,54 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260607_IND_NY,"Sunday, June 07, 2026",regular_season,New York Liberty,Indiana Fever,Marine Fauthoux,G,5,0-2,0-2,0-0,0,2,2,0,0,0,0,1,0,-5
 20260607_IND_NY,"Sunday, June 07, 2026",regular_season,New York Liberty,Indiana Fever,Raquel Carrera,F,,,,,,,,,,,,,,
 20260607_IND_NY,"Sunday, June 07, 2026",regular_season,New York Liberty,Indiana Fever,Rebecca Allen,G,,,,,,,,,,,,,,
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Azura Stevens,F,24,8-15,0-4,2-2,2,8,10,0,0,0,0,3,18,-11
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Kamilla Cardoso,C,23,2-6,0-0,5-8,2,6,8,2,0,1,2,5,9,-15
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Skylar Diggins,G,27,2-8,0-2,3-4,1,0,1,3,0,0,1,1,7,-14
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Rachel Banham,G,22,1-5,1-5,0-0,0,2,2,1,0,0,2,2,3,-11
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Jacy Sheldon,G,21,4-7,2-2,0-0,1,2,3,2,1,0,5,5,10,-7
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Elizabeth Williams,C,22,0-4,0-0,4-8,1,2,3,2,1,2,0,3,4,-4
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Natasha Cloud,G,27,2-7,1-3,1-2,0,4,4,3,0,1,3,1,6,-6
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Saylor Poffenbarger,G,8,0-3,0-3,0-0,0,3,3,1,0,0,0,1,0,-2
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Sydney Taylor,G,8,0-2,0-2,0-0,0,0,0,0,0,1,1,1,0,-8
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Gabriela Jaquez,G,19,4-8,2-4,1-2,0,3,3,1,2,0,2,2,11,-7
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Rickea Jackson,F,,,,,,,,,,,,,,
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,Courtney Vandersloot,G,,,,,,,,,,,,,,
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Chicago Sky,Toronto Tempo,DiJonai Carrington,G,,,,,,,,,,,,,,
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Nyara Sabally,F,25,7-14,0-1,1-2,3,3,6,1,1,1,1,3,15,+16
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Laura Juskaite,F,22,2-10,0-3,6-7,1,3,4,1,0,0,0,3,10,+7
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Brittney Sykes,G,30,9-23,0-3,7-9,2,5,7,3,1,0,0,2,25,+17
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Marina Mabrey,G,30,3-9,1-5,2-2,0,4,4,6,2,1,3,0,9,+15
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Julie Allemand,G,26,1-2,0-1,2-2,1,5,6,3,1,0,1,1,4,+16
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Isabelle Harrison,F,17,6-9,2-2,0-1,2,4,6,2,1,0,0,4,14,+15
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Maria Conde,F,24,2-8,1-5,0-0,1,5,6,2,0,0,1,1,5,+4
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Teonni Key,F,12,0-0,0-0,1-2,1,3,4,0,1,2,1,5,1,-4
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Kia Nurse,G,9,0-2,0-2,2-2,0,1,1,0,0,0,1,3,2,-1
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Tima Pouye,G,3,0-0,0-0,0-0,0,0,0,1,0,0,1,0,0,0
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Temi Fagbenle,C,,,,,,,,,,,,,,
+20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Kiki Rice,G,,,,,,,,,,,,,,
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Bridget Carleton,F,26,1-4,1-4,4-4,1,6,7,2,0,0,3,1,7,-10
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Emily Engstler,F,25,4-7,0-2,2-2,1,7,8,0,1,0,2,5,10,-12
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Megan Gustafson,C,25,6-13,0-2,4-5,7,4,11,0,0,1,0,2,16,-14
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Sarah Ashlee Barker,G,28,2-8,1-5,1-1,0,2,2,7,1,1,3,4,6,-15
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Carla Leite,G,25,4-13,0-2,2-6,0,4,4,4,0,1,4,2,10,-21
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Frieda Buhner,F,15,3-10,1-5,0-0,2,0,2,1,1,0,0,2,7,-5
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Nyadiew Puoch,F,14,2-3,0-0,0-0,1,0,1,0,0,0,0,2,4,-7
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Luisa Geiselsoder,C,15,2-4,0-2,0-0,1,3,4,0,0,1,1,2,4,-3
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Karlie Samuelson,G,11,1-3,0-2,4-4,1,0,1,0,1,1,0,0,6,-2
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Teja Oblak,G,17,1-7,0-4,0-0,0,2,2,5,1,0,2,1,2,+4
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Holly Winterburn,G,,,,,,,,,,,,,,
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Jordan Harrison,G,,,,,,,,,,,,,,
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Nneka Ogwumike,F,32,8-14,2-6,2-2,6,11,17,2,2,0,2,2,20,+24
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Dearica Hamby,F,30,8-14,0-1,6-10,6,6,12,0,2,1,0,3,22,+12
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Erica Wheeler,G,27,2-7,2-6,0-0,0,1,1,4,1,0,0,2,6,+32
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Kelsey Plum,G,35,5-10,1-3,5-5,1,5,6,7,3,0,1,4,16,+16
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Ariel Atkins,G,18,3-9,0-3,0-0,1,1,2,2,1,0,3,2,6,+8
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Cameron Brink,F,10,0-3,0-0,2-2,0,0,0,0,1,1,2,4,2,+1
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Rae Burrell,G,26,4-11,2-6,0-0,1,2,3,1,1,0,2,1,10,+4
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Kate Martin,G,8,2-5,1-3,0-1,0,0,0,1,0,2,0,4,5,-3
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Chance Gray,G,15,0-2,0-2,2-2,0,1,1,0,0,0,2,0,2,-9
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Emma Cannon,F,,,,,,,,,,,,,,
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Sania Feagin,F,,,,,,,,,,,,,,
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Jihyun Park,F,,,,,,,,,,,,,,
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Laura Ziegler,F,,,,,,,,,,,,,,
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Ta'Niya Latson,G,,,,,,,,,,,,,,
