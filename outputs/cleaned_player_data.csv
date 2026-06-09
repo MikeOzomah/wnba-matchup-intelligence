@@ -400,7 +400,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260510_NY_WSH,"Sunday, May 10, 2026",regular_season,Washington Mystics,New York Liberty,Michaela Onyenwere,F,,,,,,,,,,,,,,,,,,,,,,,
 20260510_NY_WSH,"Sunday, May 10, 2026",regular_season,Washington Mystics,New York Liberty,Cotie McMahon,G,,,,,,,,,,,,,,,,,,,,,,,
 20260510_NY_WSH,"Sunday, May 10, 2026",regular_season,Washington Mystics,New York Liberty,Darianna Littlepage-Buggs,G,,,,,,,,,,,,,,,,,,,,,,,
-20260510_NY_WSH,"Sunday, May 10, 2026",regular_season,Washington Mystics,New York Liberty,Alicia Florez Getino,G,,,,,,,,,,,,,,,,,,,,,,,
+20260510_NY_WSH,"Sunday, May 10, 2026",regular_season,Washington Mystics,New York Liberty,Alicia Florez,G,,,,,,,,,,,,,,,,,,,,,,,
 20260510_LV_LA,"Sunday, May 10, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,Stephanie Talbot,F,18,4-5,0-1,0-0,0.0,2.0,2.0,3.0,3.0,0.0,1.0,0.0,8.0,5.0,4.0,5.0,0.0,1.0,0.0,0.0,0.0,0.75,3.0
 20260510_LV_LA,"Sunday, May 10, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,NaLyssa Smith,F,16,5-5,0-0,2-4,2.0,4.0,6.0,2.0,0.0,2.0,0.0,4.0,12.0,14.0,5.0,5.0,0.0,0.0,2.0,4.0,0.4,0.4,999.0
 20260510_LV_LA,"Sunday, May 10, 2026",regular_season,Las Vegas Aces,Los Angeles Sparks,A'ja Wilson,C,30,7-14,0-2,5-6,0.0,4.0,4.0,3.0,1.0,2.0,3.0,1.0,19.0,19.0,7.0,14.0,0.0,2.0,5.0,6.0,0.35714285714285715,0.42857142857142855,1.0
@@ -1440,7 +1440,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260528_WSH_SEA,"Thursday, May 28, 2026",regular_season,Washington Mystics,Seattle Storm,Lauren Betts,C,11,1-2,0-0,4-4,0.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,6.0,4.0,1.0,2.0,0.0,0.0,4.0,4.0,2.0,0.0,0.0
 20260528_WSH_SEA,"Thursday, May 28, 2026",regular_season,Washington Mystics,Seattle Storm,Cotie McMahon,G,8,0-1,0-1,0-0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,1.0,0.0,7.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,2.0
 20260528_WSH_SEA,"Thursday, May 28, 2026",regular_season,Washington Mystics,Seattle Storm,Cassandre Prosper,G,10,1-3,0-1,0-0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,4.0,2.0,5.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-20260528_WSH_SEA,"Thursday, May 28, 2026",regular_season,Washington Mystics,Seattle Storm,Alicia Florez Getino,G,23,4-9,1-3,0-0,2.0,3.0,5.0,3.0,2.0,0.0,1.0,4.0,9.0,7.0,4.0,9.0,1.0,3.0,0.0,0.0,0.3333333333333333,0.75,3.0
+20260528_WSH_SEA,"Thursday, May 28, 2026",regular_season,Washington Mystics,Seattle Storm,Alicia Florez,G,23,4-9,1-3,0-0,2.0,3.0,5.0,3.0,2.0,0.0,1.0,4.0,9.0,7.0,4.0,9.0,1.0,3.0,0.0,0.0,0.3333333333333333,0.75,3.0
 20260528_WSH_SEA,"Thursday, May 28, 2026",regular_season,Washington Mystics,Seattle Storm,Rori Harmon,G,,,,,,,,,,,,,,,,,,,,,,,
 20260528_WSH_SEA,"Thursday, May 28, 2026",regular_season,Washington Mystics,Seattle Storm,Lucy Olsen,G,,,,,,,,,,,,,,,,,,,,,,,
 20260528_WSH_SEA,"Thursday, May 28, 2026",regular_season,Washington Mystics,Seattle Storm,Alex Wilson,G,,,,,,,,,,,,,,,,,,,,,,,
@@ -1547,7 +1547,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Lauren Betts,C,10,1-3,0-0,0-0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,2.0,-2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Cotie McMahon,G,5,2-2,1-1,0-2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,-2.0,2.0,2.0,1.0,1.0,0.0,2.0,1.5,0.0,0.0
 20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Cassandre Prosper,G,6,2-2,1-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,5.0,3.0,2.0,2.0,1.0,1.0,0.0,0.0,1.5,0.0,0.0
-20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Alicia Florez Getino,G,25,1-9,0-5,3-4,1.0,0.0,1.0,7.0,0.0,0.0,0.0,3.0,5.0,-5.0,1.0,9.0,0.0,5.0,3.0,4.0,0.3333333333333333,7.0,999.0
+20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Alicia Florez,G,25,1-9,0-5,3-4,1.0,0.0,1.0,7.0,0.0,0.0,0.0,3.0,5.0,-5.0,1.0,9.0,0.0,5.0,3.0,4.0,0.3333333333333333,7.0,999.0
 20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Rori Harmon,G,,,,,,,,,,,,,,,,,,,,,,,
 20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Lucy Olsen,G,,,,,,,,,,,,,,,,,,,,,,,
 20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Alex Wilson,G,,,,,,,,,,,,,,,,,,,,,,,
@@ -1794,7 +1794,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Rori Harmon,G,1,0-0,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,1.0
 20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Lucy Olsen,G,11,1-3,1-1,0-0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,3.0,5.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,2.0,999.0
 20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Cassandre Prosper,G,20,3-7,1-2,0-1,3.0,2.0,5.0,0.0,2.0,0.0,2.0,1.0,7.0,-3.0,3.0,7.0,1.0,2.0,0.0,1.0,0.42857142857142855,0.0,0.0
-20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Alicia Florez Getino,G,19,3-7,0-4,2-4,0.0,0.0,0.0,3.0,1.0,0.0,0.0,2.0,8.0,-2.0,3.0,7.0,0.0,4.0,2.0,4.0,0.2857142857142857,1.0,999.0
+20260602_CHI_WSH,"Tuesday, June 02, 2026",regular_season,Washington Mystics,Chicago Sky,Alicia Florez,G,19,3-7,0-4,2-4,0.0,0.0,0.0,3.0,1.0,0.0,0.0,2.0,8.0,-2.0,3.0,7.0,0.0,4.0,2.0,4.0,0.2857142857142857,1.0,999.0
 20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Bridget Carleton,F,30,4-6,2-4,1-1,1.0,2.0,3.0,1.0,1.0,0.0,0.0,4.0,11.0,-17.0,4.0,6.0,2.0,4.0,1.0,1.0,1.1666666666666667,0.25,999.0
 20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Emily Engstler,F,29,4-12,2-3,2-4,4.0,4.0,8.0,1.0,1.0,2.0,0.0,3.0,12.0,-9.0,4.0,12.0,2.0,3.0,2.0,4.0,0.6666666666666666,0.25,999.0
 20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Nyadiew Puoch,F,13,0-2,0-2,0-0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,-3.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,,0.0
@@ -2071,7 +2071,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260606_WSH_ATL,"Saturday, June 06, 2026",regular_season,Washington Mystics,Atlanta Dream,Rori Harmon,G,2,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
 20260606_WSH_ATL,"Saturday, June 06, 2026",regular_season,Washington Mystics,Atlanta Dream,Cotie McMahon,G,15,2-4,0-1,3-4,1.0,1.0,2.0,0.0,0.0,0.0,2.0,3.0,7.0,-5.0,2.0,4.0,0.0,1.0,3.0,4.0,0.75,0.0,0.0
 20260606_WSH_ATL,"Saturday, June 06, 2026",regular_season,Washington Mystics,Atlanta Dream,Cassandre Prosper,G,11,2-2,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,4.0,-12.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.5,999.0
-20260606_WSH_ATL,"Saturday, June 06, 2026",regular_season,Washington Mystics,Atlanta Dream,Alicia Florez Getino,G,20,1-7,0-2,0-2,1.0,1.0,2.0,0.0,1.0,0.0,4.0,2.0,2.0,-29.0,1.0,7.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0
+20260606_WSH_ATL,"Saturday, June 06, 2026",regular_season,Washington Mystics,Atlanta Dream,Alicia Florez,G,20,1-7,0-2,0-2,1.0,1.0,2.0,0.0,1.0,0.0,4.0,2.0,2.0,-29.0,1.0,7.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0
 20260606_WSH_ATL,"Saturday, June 06, 2026",regular_season,Washington Mystics,Atlanta Dream,Lucy Olsen,G,,,,,,,,,,,,,,,,,,,,,,,
 20260606_WSH_ATL,"Saturday, June 06, 2026",regular_season,Atlanta Dream,Washington Mystics,Naz Hillmon,F,25,2-6,2-4,0-0,2.0,4.0,6.0,1.0,1.0,1.0,0.0,3.0,6.0,24.0,2.0,6.0,2.0,4.0,0.0,0.0,1.0,0.5,999.0
 20260606_WSH_ATL,"Saturday, June 06, 2026",regular_season,Atlanta Dream,Washington Mystics,Angel Reese,F,25,4-9,0-0,10-10,7.0,10.0,17.0,0.0,4.0,1.0,3.0,3.0,18.0,25.0,4.0,9.0,0.0,0.0,10.0,10.0,1.1111111111111112,0.0,0.0
@@ -2162,3 +2162,77 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Jihyun Park,F,,,,,,,,,,,,,,,,,,,,,,,
 20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Laura Ziegler,F,,,,,,,,,,,,,,,,,,,,,,,
 20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Los Angeles Sparks,Portland Fire,Ta'Niya Latson,G,,,,,,,,,,,,,,,,,,,,,,,
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Breanna Stewart,F,34,9-17,1-4,9-9,2.0,7.0,9.0,3.0,3.0,0.0,2.0,2.0,28.0,10.0,9.0,17.0,1.0,4.0,9.0,9.0,0.7058823529411765,0.3333333333333333,1.5
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Leonie Fiebich,F,28,2-5,1-3,0-0,2.0,5.0,7.0,1.0,0.0,0.0,1.0,1.0,5.0,7.0,2.0,5.0,1.0,3.0,0.0,0.0,0.6,0.5,1.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Han Xu,C,22,4-8,1-2,5-6,2.0,4.0,6.0,2.0,0.0,2.0,1.0,4.0,14.0,13.0,4.0,8.0,1.0,2.0,5.0,6.0,1.0,0.5,2.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Marine Johannes,G,24,2-7,1-5,2-2,0.0,4.0,4.0,3.0,1.0,0.0,2.0,3.0,7.0,12.0,2.0,7.0,1.0,5.0,2.0,2.0,0.7142857142857143,1.5,1.5
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Pauline Astier,G,26,2-8,0-1,2-2,1.0,2.0,3.0,4.0,0.0,1.0,4.0,1.0,6.0,9.0,2.0,8.0,0.0,1.0,2.0,2.0,0.25,2.0,1.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Satou Sabally,F,19,4-6,1-3,0-0,0.0,2.0,2.0,2.0,0.0,0.0,2.0,3.0,9.0,0.0,4.0,6.0,1.0,3.0,0.0,0.0,0.5,0.5,1.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Raquel Carrera,F,13,2-3,0-1,3-4,2.0,3.0,5.0,1.0,0.0,1.0,2.0,4.0,7.0,1.0,2.0,3.0,0.0,1.0,3.0,4.0,1.0,0.5,0.5
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Rebekah Gardner,G,8,1-1,0-0,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0,-4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Betnijah Laney-Hamilton,G,18,3-6,1-3,4-6,0.0,5.0,5.0,0.0,0.0,0.0,3.0,4.0,11.0,0.0,3.0,6.0,1.0,3.0,4.0,6.0,1.1666666666666667,0.0,0.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Marine Fauthoux,G,6,0-0,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,-3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,1.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Anneli Maley,F,,,,,,,,,,,,,,,,,,,,,,,
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Jonquel Jones,C,,,,,,,,,,,,,,,,,,,,,,,
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Rebecca Allen,G,,,,,,,,,,,,,,,,,,,,,,,
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,New York Liberty,Connecticut Sun,Sabrina Ionescu,G,,,,,,,,,,,,,,,,,,,,,,,
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Aaliyah Edwards,F,28,6-15,0-0,3-3,2.0,3.0,5.0,0.0,3.0,0.0,1.0,2.0,15.0,-14.0,6.0,15.0,0.0,0.0,3.0,3.0,0.2,0.0,0.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Diamond Miller,F,23,4-8,2-4,0-0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,3.0,10.0,-12.0,4.0,8.0,2.0,4.0,0.0,0.0,0.75,0.5,999.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Olivia Nelson-Ododa,C,26,6-6,0-0,3-4,2.0,6.0,8.0,1.0,0.0,1.0,0.0,5.0,15.0,-3.0,6.0,6.0,0.0,0.0,3.0,4.0,0.5,0.16666666666666666,999.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Saniya Rivers,G,29,6-15,0-2,0-4,2.0,3.0,5.0,3.0,0.0,2.0,2.0,3.0,12.0,-12.0,6.0,15.0,0.0,2.0,0.0,4.0,0.0,0.5,1.5
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Leila Lacan,G,26,3-9,1-4,0-1,0.0,0.0,0.0,7.0,2.0,0.0,1.0,2.0,7.0,-16.0,3.0,9.0,1.0,4.0,0.0,1.0,0.3333333333333333,2.3333333333333335,7.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Raegan Beers,F,14,2-3,0-0,0-0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,5.0,4.0,-6.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Nell Angloma,F,12,2-3,0-0,3-7,1.0,1.0,2.0,2.0,0.0,0.0,2.0,3.0,7.0,4.0,2.0,3.0,0.0,0.0,3.0,7.0,1.0,1.0,1.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Kennedy Burke,G,15,0-3,0-1,1-1,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,1.0,1.0,1.0,0.3333333333333333,,0.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Charlisse Leger-Walker,G,14,2-3,0-0,0-0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,3.0,4.0,7.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Gianna Kneepkens,G,13,1-5,0-2,3-3,0.0,1.0,1.0,4.0,0.0,0.0,0.0,1.0,5.0,7.0,1.0,5.0,0.0,2.0,3.0,3.0,0.6,4.0,999.0
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Aneesah Morrow,F,,,,,,,,,,,,,,,,,,,,,,,
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Brittney Griner,C,,,,,,,,,,,,,,,,,,,,,,,
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Hailey Van Lith,G,,,,,,,,,,,,,,,,,,,,,,,
+20260608_NY_CON,"Monday, June 08, 2026",regular_season,Connecticut Sun,New York Liberty,Ashlon Jackson,G,,,,,,,,,,,,,,,,,,,,,,,
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Monique Billings,F,19,2-9,0-2,0-0,0.0,2.0,2.0,0.0,2.0,0.0,0.0,5.0,4.0,12.0,2.0,9.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Aliyah Boston,C,24,4-7,0-0,6-7,2.0,8.0,10.0,3.0,2.0,2.0,5.0,5.0,14.0,0.0,4.0,7.0,0.0,0.0,6.0,7.0,0.8571428571428571,0.75,0.6
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Kelsey Mitchell,G,31,6-14,1-6,2-2,0.0,2.0,2.0,3.0,1.0,1.0,1.0,5.0,15.0,5.0,6.0,14.0,1.0,6.0,2.0,2.0,0.35714285714285715,0.5,3.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Lexie Hull,G,22,3-3,2-2,0-0,0.0,3.0,3.0,0.0,0.0,0.0,1.0,4.0,8.0,4.0,3.0,3.0,2.0,2.0,0.0,0.0,2.0,0.0,0.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Caitlin Clark,G,31,7-16,4-10,1-3,0.0,3.0,3.0,5.0,1.0,0.0,5.0,3.0,19.0,-1.0,7.0,16.0,4.0,10.0,1.0,3.0,0.8125,0.7142857142857143,1.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Myisha Hines-Allen,F,18,2-2,0-0,1-2,0.0,4.0,4.0,1.0,1.0,0.0,3.0,1.0,5.0,-1.0,2.0,2.0,0.0,0.0,1.0,2.0,0.5,0.5,0.333
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Makayla Timpson,F,2,0-0,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,999.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Damiris Dantas,C,12,1-3,1-2,0-0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,-6.0,1.0,3.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Sophie Cunningham,G,23,3-8,2-4,0-0,0.0,2.0,2.0,3.0,0.0,0.0,0.0,1.0,8.0,-6.0,3.0,8.0,2.0,4.0,0.0,0.0,0.75,1.0,999.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Tyasha Harris,G,11,1-4,0-3,0-0,0.0,1.0,1.0,3.0,0.0,1.0,1.0,0.0,2.0,1.0,1.0,4.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Raven Johnson,G,7,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Indiana Fever,Washington Mystics,Grace VanSlooten,F,,,,,,,,,,,,,,,,,,,,,,,
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Michaela Onyenwere,F,24,4-7,3-4,6-6,1.0,1.0,2.0,1.0,1.0,0.0,2.0,5.0,17.0,6.0,4.0,7.0,3.0,4.0,6.0,6.0,2.142857142857143,0.25,0.5
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Kiki Iriafen,F,8,1-2,0-0,0-0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,2.0,-9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,999.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Shakira Austin,C,34,4-11,0-1,2-4,2.0,7.0,9.0,4.0,0.0,1.0,5.0,1.0,10.0,-2.0,4.0,11.0,0.0,1.0,2.0,4.0,0.18181818181818182,1.0,0.8
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Sonia Citron,G,38,3-9,2-4,4-4,0.0,0.0,0.0,5.0,1.0,2.0,2.0,1.0,12.0,-5.0,3.0,9.0,2.0,4.0,4.0,4.0,1.1111111111111112,1.6666666666666667,2.5
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Georgia Amoore,G,29,4-6,4-4,0-0,0.0,1.0,1.0,4.0,1.0,1.0,2.0,1.0,12.0,2.0,4.0,6.0,4.0,4.0,0.0,0.0,2.0,1.0,2.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Angela Dugalic,F,18,3-5,0-1,1-2,0.0,5.0,5.0,1.0,2.0,1.0,2.0,5.0,7.0,-3.0,3.0,5.0,0.0,1.0,1.0,2.0,0.2,0.3333333333333333,0.5
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Lauren Betts,C,12,4-5,0-0,0-0,1.0,2.0,3.0,1.0,0.0,0.0,0.0,2.0,8.0,1.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.25,999.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Cotie McMahon,G,22,2-10,0-3,3-4,0.0,7.0,7.0,3.0,0.0,0.0,1.0,2.0,7.0,7.0,2.0,10.0,0.0,3.0,3.0,4.0,0.3,1.5,3.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Cassandre Prosper,G,6,0-2,0-1,1-4,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,-3.0,0.0,2.0,0.0,1.0,1.0,4.0,0.5,,0.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Alicia Florez,G,9,0-1,0-0,0-0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,4.0,0.0,-4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,1.0
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Rori Harmon,G,,,,,,,,,,,,,,,,,,,,,,,
+20260608_IND_WSH,"Monday, June 08, 2026",regular_season,Washington Mystics,Indiana Fever,Lucy Olsen,G,,,,,,,,,,,,,,,,,,,,,,,
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Jordan Horston,F,18,0-7,0-2,0-0,2.0,5.0,7.0,1.0,3.0,0.0,1.0,1.0,0.0,3.0,0.0,7.0,0.0,2.0,0.0,0.0,0.0,,1.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Dominique Malonga,C,17,7-12,1-2,4-4,3.0,2.0,5.0,0.0,1.0,0.0,2.0,5.0,19.0,8.0,7.0,12.0,1.0,2.0,4.0,4.0,0.5833333333333334,0.0,0.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Awa Fam,C,29,7-11,1-3,1-1,1.0,2.0,3.0,1.0,0.0,0.0,3.0,3.0,16.0,-13.0,7.0,11.0,1.0,3.0,1.0,1.0,0.36363636363636365,0.14285714285714285,0.333
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Natisha Hiedeman,G,28,6-12,4-6,1-2,0.0,5.0,5.0,5.0,3.0,0.0,1.0,1.0,17.0,-4.0,6.0,12.0,4.0,6.0,1.0,2.0,1.0833333333333333,0.8333333333333334,5.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Flau'jae Johnson,G,24,5-9,1-1,2-2,0.0,2.0,2.0,7.0,0.0,0.0,0.0,3.0,13.0,-1.0,5.0,9.0,1.0,1.0,2.0,2.0,0.5555555555555556,1.4,999.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Katie Lou Samuelson,F,20,3-6,1-4,0-0,0.0,3.0,3.0,0.0,2.0,0.0,0.0,0.0,7.0,-19.0,3.0,6.0,1.0,4.0,0.0,0.0,0.5,0.0,0.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Mackenzie Holmes,F,12,1-1,1-1,0-0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Stefanie Dolson,C,16,1-3,1-2,0-0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,4.0,3.0,-15.0,1.0,3.0,1.0,2.0,0.0,0.0,1.0,2.0,2.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Zia Cooke,G,13,2-6,2-3,1-2,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,7.0,-10.0,2.0,6.0,2.0,3.0,1.0,2.0,1.1666666666666667,0.5,999.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Jade Melbourne,G,23,1-7,0-3,4-4,0.0,0.0,0.0,5.0,1.0,0.0,1.0,1.0,6.0,0.0,1.0,7.0,0.0,3.0,4.0,4.0,0.5714285714285714,5.0,5.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Ezi Magbegor,F,,,,,,,,,,,,,,,,,,,,,,,
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Seattle Storm,Las Vegas Aces,Taylor Thierry,F,,,,,,,,,,,,,,,,,,,,,,,
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,Stephanie Talbot,F,17,1-4,1-3,0-0,2.0,1.0,3.0,3.0,1.0,0.0,2.0,2.0,3.0,18.0,1.0,4.0,1.0,3.0,0.0,0.0,0.75,3.0,1.5
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,NaLyssa Smith,F,26,6-6,0-0,4-5,0.0,9.0,9.0,0.0,0.0,0.0,1.0,0.0,16.0,16.0,6.0,6.0,0.0,0.0,4.0,5.0,0.6666666666666666,0.0,0.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,A'ja Wilson,C,36,10-19,3-5,11-13,4.0,8.0,12.0,9.0,1.0,3.0,2.0,1.0,34.0,12.0,10.0,19.0,3.0,5.0,11.0,13.0,1.0526315789473684,0.9,4.5
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,Chelsea Gray,G,35,5-10,1-4,1-1,1.0,4.0,5.0,8.0,0.0,0.0,1.0,3.0,12.0,7.0,5.0,10.0,1.0,4.0,1.0,1.0,0.4,1.6,8.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,Jackie Young,G,34,10-19,4-9,5-5,0.0,3.0,3.0,6.0,0.0,1.0,4.0,2.0,29.0,15.0,10.0,19.0,4.0,9.0,5.0,5.0,0.8947368421052632,0.6,1.5
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,Cheyenne Parker-Tyus,F,10,0-1,0-1,0-0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,-8.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,Brianna Turner,F,6,0-2,0-0,0-0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,Kierstan Bell,F,8,1-2,0-1,0-0,2.0,2.0,4.0,0.0,0.0,0.0,1.0,0.0,2.0,-3.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,Jewell Loyd,G,28,2-7,1-5,0-0,1.0,1.0,2.0,0.0,1.0,0.0,1.0,3.0,5.0,-7.0,2.0,7.0,1.0,5.0,0.0,0.0,0.42857142857142855,0.0,0.0
+20260609_SEA_LV,"Tuesday, June 09, 2026",regular_season,Las Vegas Aces,Seattle Storm,Janiah Barker,F,,,,,,,,,,,,,,,,,,,,,,,

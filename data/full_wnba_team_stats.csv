@@ -163,9 +163,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260607_CHI_TOR,"Sunday, June 07, 2026",Toronto Tempo,Chicago Sky,TOR,30-77,39,4-22,18,21-27,78,11,33,44,19,7,4,9,22,85
 20260607_POR_LA,"Sunday, June 07, 2026",Portland Fire,Los Angeles Sparks,POR,26-72,36,3-28,11,17-22,77,14,28,42,19,5,5,15,21,72
 20260607_POR_LA,"Sunday, June 07, 2026",Los Angeles Sparks,Portland Fire,LA,32-75,43,8-30,27,17-22,77,15,27,42,17,11,4,12,22,89
-20260608_NY_CON,"Monday, June 08, 2026",New York Liberty,Connecticut Sun,NY,,45,,35,,,,,,,,,,,0
-20260608_NY_CON,"Monday, June 08, 2026",Connecticut Sun,New York Liberty,CON,,41,,26,,,,,,,,,,,0
-20260608_IND_WSH,"Monday, June 08, 2026",Indiana Fever,Washington Mystics,IND,,45,,33,,,,,,,,,,,0
-20260608_IND_WSH,"Monday, June 08, 2026",Washington Mystics,Indiana Fever,WSH,,45,,28,,,,,,,,,,,0
-20260609_SEA_LV,"Tuesday, June 09, 2026",Seattle Storm,Las Vegas Aces,SEA,,40,,32,,,,,,,,,,,0
-20260609_SEA_LV,"Tuesday, June 09, 2026",Las Vegas Aces,Seattle Storm,LV,,48,,36,,,,,,,,,,,0
+20260608_NY_CON,"Monday, June 08, 2026",New York Liberty,Connecticut Sun,NY,29-61,48,6-22,27,25-29,86,9,33,42,17,4,4,19,24,89
+20260608_NY_CON,"Monday, June 08, 2026",Connecticut Sun,New York Liberty,CON,32-70,46,3-13,23,13-23,57,7,21,28,21,8,3,10,28,80
+20260608_IND_WSH,"Monday, June 08, 2026",Indiana Fever,Washington Mystics,IND,29-66,44,10-29,34,10-14,71,3,25,28,19,8,4,17,26,78
+20260608_IND_WSH,"Monday, June 08, 2026",Washington Mystics,Indiana Fever,WSH,25-58,43,9-18,50,17-24,71,5,26,31,21,5,6,15,23,76
+20260609_SEA_LV,"Tuesday, June 09, 2026",Seattle Storm,Las Vegas Aces,SEA,33-74,45,12-27,44,13-15,87,6,21,27,22,10,1,9,23,91
+20260609_SEA_LV,"Tuesday, June 09, 2026",Las Vegas Aces,Seattle Storm,LV,35-70,50,10-28,36,21-24,88,11,28,39,27,4,5,12,13,101
+20260609_ATL_CHI,"Tuesday, June 09, 2026",Atlanta Dream,Chicago Sky,ATL,,43,,34,,,,,,,,,,,0
+20260609_ATL_CHI,"Tuesday, June 09, 2026",Chicago Sky,Atlanta Dream,CHI,,41,,26,,,,,,,,,,,0
+20260610_DAL_MIN,"Wednesday, June 10, 2026",Dallas Wings,Minnesota Lynx,DAL,,46,,36,,,,,,,,,,,0
+20260610_DAL_MIN,"Wednesday, June 10, 2026",Minnesota Lynx,Dallas Wings,MIN,,50,,37,,,,,,,,,,,0
+20260610_PHX_GS,"Wednesday, June 10, 2026",Phoenix Mercury,Golden State Valkyries,PHX,,41,,31,,,,,,,,,,,0
+20260610_PHX_GS,"Wednesday, June 10, 2026",Golden State Valkyries,Phoenix Mercury,GS,,41,,38,,,,,,,,,,,0
