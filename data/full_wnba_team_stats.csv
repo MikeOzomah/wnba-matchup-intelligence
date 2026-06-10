@@ -169,9 +169,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260608_IND_WSH,"Monday, June 08, 2026",Washington Mystics,Indiana Fever,WSH,25-58,43,9-18,50,17-24,71,5,26,31,21,5,6,15,23,76
 20260609_SEA_LV,"Tuesday, June 09, 2026",Seattle Storm,Las Vegas Aces,SEA,33-74,45,12-27,44,13-15,87,6,21,27,22,10,1,9,23,91
 20260609_SEA_LV,"Tuesday, June 09, 2026",Las Vegas Aces,Seattle Storm,LV,35-70,50,10-28,36,21-24,88,11,28,39,27,4,5,12,13,101
-20260609_ATL_CHI,"Tuesday, June 09, 2026",Atlanta Dream,Chicago Sky,ATL,,43,,34,,,,,,,,,,,0
-20260609_ATL_CHI,"Tuesday, June 09, 2026",Chicago Sky,Atlanta Dream,CHI,,41,,26,,,,,,,,,,,0
-20260610_DAL_MIN,"Wednesday, June 10, 2026",Dallas Wings,Minnesota Lynx,DAL,,46,,36,,,,,,,,,,,0
-20260610_DAL_MIN,"Wednesday, June 10, 2026",Minnesota Lynx,Dallas Wings,MIN,,50,,37,,,,,,,,,,,0
-20260610_PHX_GS,"Wednesday, June 10, 2026",Phoenix Mercury,Golden State Valkyries,PHX,,41,,31,,,,,,,,,,,0
-20260610_PHX_GS,"Wednesday, June 10, 2026",Golden State Valkyries,Phoenix Mercury,GS,,41,,38,,,,,,,,,,,0
+20260609_ATL_CHI,"Tuesday, June 09, 2026",Atlanta Dream,Chicago Sky,ATL,31-70,44,5-26,19,15-16,94,12,24,36,18,9,0,16,15,82
+20260609_ATL_CHI,"Tuesday, June 09, 2026",Chicago Sky,Atlanta Dream,CHI,24-53,45,8-15,53,19-25,76,4,21,25,17,6,7,15,21,75
+20260610_DAL_MIN,"Wednesday, June 10, 2026",Dallas Wings,Minnesota Lynx,DAL,29-77,38,8-28,29,10-10,100,8,23,31,19,9,3,12,18,76
+20260610_DAL_MIN,"Wednesday, June 10, 2026",Minnesota Lynx,Dallas Wings,MIN,38-71,54,7-14,50,17-18,94,6,35,41,21,9,3,12,11,100
+20260610_PHX_GS,"Wednesday, June 10, 2026",Phoenix Mercury,Golden State Valkyries,PHX,30-65,46,9-25,36,12-18,67,9,24,33,23,7,2,12,20,81
+20260610_PHX_GS,"Wednesday, June 10, 2026",Golden State Valkyries,Phoenix Mercury,GS,27-61,44,10-29,34,23-28,82,6,21,27,18,8,2,9,21,87
+20260610_CON_TOR,"Wednesday, June 10, 2026",Connecticut Sun,Toronto Tempo,CON,,42,,26,,,,,,,,,,,0
+20260610_CON_TOR,"Wednesday, June 10, 2026",Toronto Tempo,Connecticut Sun,TOR,,43,,33,,,,,,,,,,,0
+20260611_LA_SEA,"Thursday, June 11, 2026",Los Angeles Sparks,Seattle Storm,LA,,47,,34,,,,,,,,,,,0
+20260611_LA_SEA,"Thursday, June 11, 2026",Seattle Storm,Los Angeles Sparks,SEA,,40,,33,,,,,,,,,,,0
