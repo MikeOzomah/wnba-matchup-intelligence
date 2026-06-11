@@ -2309,3 +2309,51 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260610_PHX_GS,"Wednesday, June 10, 2026",regular_season,Golden State Valkyries,Phoenix Mercury,Laeticia Amihere,F,,,,,,,,,,,,,,,,,,,,,,,
 20260610_PHX_GS,"Wednesday, June 10, 2026",regular_season,Golden State Valkyries,Phoenix Mercury,Nadia Fingall,C,,,,,,,,,,,,,,,,,,,,,,,
 20260610_PHX_GS,"Wednesday, June 10, 2026",regular_season,Golden State Valkyries,Phoenix Mercury,Juste Jocyte,G,,,,,,,,,,,,,,,,,,,,,,,
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Aaliyah Edwards,F,30,8-9,1-1,7-12,1.0,3.0,4.0,0.0,0.0,0.0,3.0,4.0,24.0,-3.0,8.0,9.0,1.0,1.0,7.0,12.0,1.1111111111111112,0.0,0.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Diamond Miller,F,30,4-12,1-4,2-4,2.0,2.0,4.0,1.0,0.0,0.0,2.0,2.0,11.0,-2.0,4.0,12.0,1.0,4.0,2.0,4.0,0.4166666666666667,0.25,0.5
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Olivia Nelson-Ododa,C,29,2-2,0-0,5-6,5.0,8.0,13.0,1.0,0.0,1.0,5.0,6.0,9.0,-3.0,2.0,2.0,0.0,0.0,5.0,6.0,2.5,0.5,0.2
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Saniya Rivers,G,35,3-11,2-5,4-4,1.0,6.0,7.0,7.0,1.0,2.0,1.0,4.0,12.0,4.0,3.0,11.0,2.0,5.0,4.0,4.0,0.9090909090909091,2.3333333333333335,7.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Leila Lacan,G,32,9-16,4-8,2-4,0.0,1.0,1.0,7.0,1.0,1.0,2.0,6.0,24.0,-3.0,9.0,16.0,4.0,8.0,2.0,4.0,0.875,0.7777777777777778,3.5
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Raegan Beers,F,9,1-1,0-0,1-2,2.0,2.0,4.0,1.0,0.0,1.0,0.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,2.0,1.0,1.0,999.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Nell Angloma,F,11,2-5,0-0,0-1,0.0,2.0,2.0,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,2.0,5.0,0.0,0.0,0.0,1.0,0.0,0.5,999.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Kennedy Burke,G,29,3-12,1-6,4-4,6.0,0.0,6.0,2.0,1.0,0.0,2.0,1.0,11.0,-5.0,3.0,12.0,1.0,6.0,4.0,4.0,0.5833333333333334,0.6666666666666666,1.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Charlisse Leger-Walker,G,18,2-6,0-1,0-0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,4.0,-9.0,2.0,6.0,0.0,1.0,0.0,0.0,0.0,0.5,0.5
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Gianna Kneepkens,G,0,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Aneesah Morrow,F,,,,,,,,,,,,,,,,,,,,,,,
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Connecticut Sun,Toronto Tempo,Brittney Griner,C,,,,,,,,,,,,,,,,,,,,,,,
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Nyara Sabally,F,30,3-5,0-1,9-10,2.0,3.0,5.0,3.0,0.0,0.0,0.0,5.0,15.0,6.0,3.0,5.0,0.0,1.0,9.0,10.0,1.8,1.0,999.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Laura Juskaite,F,37,5-7,1-1,8-8,2.0,4.0,6.0,2.0,4.0,1.0,0.0,5.0,19.0,16.0,5.0,7.0,1.0,1.0,8.0,8.0,1.5714285714285714,0.4,999.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Brittney Sykes,G,41,11-20,3-6,13-13,1.0,3.0,4.0,1.0,2.0,1.0,2.0,3.0,38.0,4.0,11.0,20.0,3.0,6.0,13.0,13.0,1.1,0.09090909090909091,0.5
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Marina Mabrey,G,34,8-20,4-12,1-2,0.0,1.0,1.0,1.0,3.0,0.0,3.0,3.0,21.0,4.0,8.0,20.0,4.0,12.0,1.0,2.0,0.65,0.125,0.333
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Julie Allemand,G,36,3-5,0-1,0-0,0.0,2.0,2.0,4.0,2.0,0.0,4.0,4.0,6.0,14.0,3.0,5.0,0.0,1.0,0.0,0.0,0.0,1.3333333333333333,1.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Isabelle Harrison,F,13,1-5,0-1,3-8,2.0,1.0,3.0,2.0,0.0,0.0,0.0,6.0,5.0,-3.0,1.0,5.0,0.0,1.0,3.0,8.0,0.6,2.0,999.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Maria Conde,F,15,0-2,0-0,0-0,1.0,1.0,2.0,2.0,1.0,1.0,2.0,2.0,0.0,-10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,1.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Teonni Key,F,9,0-4,0-1,0-0,2.0,1.0,3.0,1.0,0.0,0.0,0.0,3.0,0.0,-9.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Kia Nurse,G,3,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Tima Pouye,G,8,0-0,0-0,2-2,1.0,1.0,2.0,2.0,0.0,0.0,0.0,1.0,2.0,-1.0,0.0,0.0,0.0,0.0,2.0,2.0,,,999.0
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Temi Fagbenle,C,,,,,,,,,,,,,,,,,,,,,,,
+20260610_CON_TOR,"Wednesday, June 10, 2026",regular_season,Toronto Tempo,Connecticut Sun,Kiki Rice,G,,,,,,,,,,,,,,,,,,,,,,,
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Nneka Ogwumike,F,33,9-18,1-5,5-5,4.0,5.0,9.0,1.0,1.0,0.0,0.0,0.0,24.0,-7.0,9.0,18.0,1.0,5.0,5.0,5.0,0.4444444444444444,0.1111111111111111,999.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Dearica Hamby,F,28,3-8,0-1,0-0,3.0,7.0,10.0,0.0,0.0,0.0,0.0,2.0,6.0,7.0,3.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Erica Wheeler,G,26,3-9,2-7,2-2,0.0,1.0,1.0,1.0,0.0,0.0,2.0,4.0,10.0,-5.0,3.0,9.0,2.0,7.0,2.0,2.0,0.8888888888888888,0.3333333333333333,0.5
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Kelsey Plum,G,33,6-17,2-9,5-8,0.0,1.0,1.0,11.0,4.0,0.0,3.0,2.0,19.0,4.0,6.0,17.0,2.0,9.0,5.0,8.0,0.6470588235294118,1.8333333333333333,3.667
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Ariel Atkins,G,25,2-8,1-4,2-2,1.0,5.0,6.0,3.0,4.0,0.0,0.0,3.0,7.0,4.0,2.0,8.0,1.0,4.0,2.0,2.0,0.625,1.5,999.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Cameron Brink,F,18,5-7,2-4,3-3,4.0,2.0,6.0,1.0,0.0,2.0,1.0,5.0,15.0,10.0,5.0,7.0,2.0,4.0,3.0,3.0,1.2857142857142858,0.2,1.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Jihyun Park,F,2,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Rae Burrell,G,27,1-4,1-3,1-2,0.0,2.0,2.0,1.0,0.0,2.0,2.0,0.0,4.0,4.0,1.0,4.0,1.0,3.0,1.0,2.0,1.0,1.0,0.5
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Chance Gray,G,7,0-3,0-1,3-3,1.0,2.0,3.0,2.0,1.0,0.0,1.0,0.0,3.0,7.0,0.0,3.0,0.0,1.0,3.0,3.0,1.0,,2.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Emma Cannon,F,,,,,,,,,,,,,,,,,,,,,,,
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Sania Feagin,F,,,,,,,,,,,,,,,,,,,,,,,
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Ta'Niya Latson,G,,,,,,,,,,,,,,,,,,,,,,,
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Jordan Horston,F,26,5-10,1-4,0-0,0.0,4.0,4.0,4.0,1.0,1.0,0.0,4.0,11.0,3.0,5.0,10.0,1.0,4.0,0.0,0.0,0.3,0.8,999.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Dominique Malonga,C,24,6-11,1-2,2-2,0.0,7.0,7.0,2.0,0.0,0.0,4.0,4.0,15.0,5.0,6.0,11.0,1.0,2.0,2.0,2.0,0.45454545454545453,0.3333333333333333,0.5
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Awa Fam,C,30,4-6,2-4,2-2,1.0,5.0,6.0,4.0,0.0,2.0,3.0,0.0,12.0,-1.0,4.0,6.0,2.0,4.0,2.0,2.0,1.3333333333333333,1.0,1.333
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Natisha Hiedeman,G,29,6-12,2-7,2-2,0.0,1.0,1.0,5.0,1.0,0.0,3.0,3.0,16.0,10.0,6.0,12.0,2.0,7.0,2.0,2.0,0.6666666666666666,0.8333333333333334,1.667
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Flau'jae Johnson,G,30,4-11,1-4,5-6,2.0,10.0,12.0,6.0,0.0,0.0,0.0,1.0,14.0,0.0,4.0,11.0,1.0,4.0,5.0,6.0,0.7272727272727273,1.5,999.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Katie Lou Samuelson,F,9,1-3,1-3,0-0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,3.0,-13.0,1.0,3.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Mackenzie Holmes,F,7,0-0,0-0,0-0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,-9.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Stefanie Dolson,C,19,1-4,0-2,0-0,1.0,1.0,2.0,2.0,0.0,0.0,1.0,3.0,2.0,-5.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Zia Cooke,G,10,2-4,1-2,1-1,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,6.0,-5.0,2.0,4.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Jade Melbourne,G,16,1-3,0-1,2-3,0.0,1.0,1.0,3.0,1.0,0.0,1.0,3.0,4.0,-10.0,1.0,3.0,0.0,1.0,2.0,3.0,0.6666666666666666,3.0,3.0
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Ezi Magbegor,F,,,,,,,,,,,,,,,,,,,,,,,
+20260611_LA_SEA,"Thursday, June 11, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Taylor Thierry,F,,,,,,,,,,,,,,,,,,,,,,,
