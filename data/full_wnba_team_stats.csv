@@ -179,11 +179,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260610_CON_TOR,"Wednesday, June 10, 2026",Toronto Tempo,Connecticut Sun,TOR,31-69,45,8-24,33,36-43,84,11,17,28,18,12,3,11,32,106
 20260611_LA_SEA,"Thursday, June 11, 2026",Los Angeles Sparks,Seattle Storm,LA,29-75,39,9-35,26,21-25,84,13,25,38,20,10,4,9,17,88
 20260611_LA_SEA,"Thursday, June 11, 2026",Seattle Storm,Los Angeles Sparks,SEA,30-64,47,9-29,31,14-16,88,5,30,35,26,5,4,15,21,83
-20260611_CHI_IND,"Thursday, June 11, 2026",Chicago Sky,Indiana Fever,CHI,,41,,28,,,,,,,,,,,0
-20260611_CHI_IND,"Thursday, June 11, 2026",Indiana Fever,Chicago Sky,IND,,45,,33,,,,,,,,,,,0
-20260611_NY_ATL,"Thursday, June 11, 2026",New York Liberty,Atlanta Dream,NY,,45,,35,,,,,,,,,,,0
-20260611_NY_ATL,"Thursday, June 11, 2026",Atlanta Dream,New York Liberty,ATL,,43,,32,,,,,,,,,,,0
-20260612_PHX_DAL,"Friday, June 12, 2026",Phoenix Mercury,Dallas Wings,PHX,,42,,31,,,,,,,,,,,0
-20260612_PHX_DAL,"Friday, June 12, 2026",Dallas Wings,Phoenix Mercury,DAL,,45,,35,,,,,,,,,,,0
-20260612_LV_POR,"Friday, June 12, 2026",Las Vegas Aces,Portland Fire,LV,,48,,36,,,,,,,,,,,0
-20260612_LV_POR,"Friday, June 12, 2026",Portland Fire,Las Vegas Aces,POR,,45,,33,,,,,,,,,,,0
+20260611_CHI_IND,"Thursday, June 11, 2026",Chicago Sky,Indiana Fever,CHI,34-77,44,7-24,29,31-38,82,13,21,34,22,6,7,16,25,106
+20260611_CHI_IND,"Thursday, June 11, 2026",Indiana Fever,Chicago Sky,IND,39-87,45,7-28,25,29-31,94,19,27,46,22,8,6,15,27,114
+20260611_NY_ATL,"Thursday, June 11, 2026",New York Liberty,Atlanta Dream,NY,32-59,54,16-31,52,24-28,86,7,33,40,24,2,4,19,22,104
+20260611_NY_ATL,"Thursday, June 11, 2026",Atlanta Dream,New York Liberty,ATL,33-75,44,9-29,31,15-27,56,9,15,24,22,11,2,5,21,90
+20260612_PHX_DAL,"Friday, June 12, 2026",Phoenix Mercury,Dallas Wings,PHX,25-64,39,6-18,33,14-18,78,7,23,30,21,10,1,16,15,70
+20260612_PHX_DAL,"Friday, June 12, 2026",Dallas Wings,Phoenix Mercury,DAL,37-71,52,4-18,22,7-8,88,7,30,37,24,9,4,16,17,85
+20260612_LV_POR,"Friday, June 12, 2026",Las Vegas Aces,Portland Fire,LV,36-72,50,14-28,50,19-29,66,17,25,42,25,6,4,14,15,105
+20260612_LV_POR,"Friday, June 12, 2026",Portland Fire,Las Vegas Aces,POR,36-68,53,8-26,31,9-12,75,1,18,19,22,7,3,9,25,89
+20260612_TOR_WSH,"Friday, June 12, 2026",Toronto Tempo,Washington Mystics,TOR,,43,,33,,,,,,,,,,,0
+20260612_TOR_WSH,"Friday, June 12, 2026",Washington Mystics,Toronto Tempo,WSH,,45,,30,,,,,,,,,,,0
+20260613_GS_SEA,"Saturday, June 13, 2026",Golden State Valkyries,Seattle Storm,GS,,41,,38,,,,,,,,,,,0
+20260613_GS_SEA,"Saturday, June 13, 2026",Seattle Storm,Golden State Valkyries,SEA,,41,,32,,,,,,,,,,,0
