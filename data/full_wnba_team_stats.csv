@@ -187,7 +187,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260612_PHX_DAL,"Friday, June 12, 2026",Dallas Wings,Phoenix Mercury,DAL,37-71,52,4-18,22,7-8,88,7,30,37,24,9,4,16,17,85
 20260612_LV_POR,"Friday, June 12, 2026",Las Vegas Aces,Portland Fire,LV,36-72,50,14-28,50,19-29,66,17,25,42,25,6,4,14,15,105
 20260612_LV_POR,"Friday, June 12, 2026",Portland Fire,Las Vegas Aces,POR,36-68,53,8-26,31,9-12,75,1,18,19,22,7,3,9,25,89
-20260612_TOR_WSH,"Friday, June 12, 2026",Toronto Tempo,Washington Mystics,TOR,,43,,33,,,,,,,,,,,0
-20260612_TOR_WSH,"Friday, June 12, 2026",Washington Mystics,Toronto Tempo,WSH,,45,,30,,,,,,,,,,,0
-20260613_GS_SEA,"Saturday, June 13, 2026",Golden State Valkyries,Seattle Storm,GS,,41,,38,,,,,,,,,,,0
-20260613_GS_SEA,"Saturday, June 13, 2026",Seattle Storm,Golden State Valkyries,SEA,,41,,32,,,,,,,,,,,0
+20260612_TOR_WSH,"Friday, June 12, 2026",Toronto Tempo,Washington Mystics,TOR,31-64,48,7-22,32,16-18,89,5,16,21,23,18,5,17,24,85
+20260612_TOR_WSH,"Friday, June 12, 2026",Washington Mystics,Toronto Tempo,WSH,31-65,48,2-18,11,22-26,85,15,24,39,22,8,2,22,14,86
+20260613_GS_SEA,"Saturday, June 13, 2026",Golden State Valkyries,Seattle Storm,GS,24-66,36,8-37,22,20-23,87,10,23,33,18,6,6,13,18,76
+20260613_GS_SEA,"Saturday, June 13, 2026",Seattle Storm,Golden State Valkyries,SEA,25-66,38,10-23,43,12-18,67,6,25,31,17,6,5,11,23,72
+20260613_IND_CON,"Saturday, June 13, 2026",Indiana Fever,Connecticut Sun,IND,,45,,33,,,,,,,,,,,0
+20260613_IND_CON,"Saturday, June 13, 2026",Connecticut Sun,Indiana Fever,CON,,42,,27,,,,,,,,,,,0
+20260614_MIN_LV,"Sunday, June 14, 2026",Minnesota Lynx,Las Vegas Aces,MIN,,50,,38,,,,,,,,,,,0
+20260614_MIN_LV,"Sunday, June 14, 2026",Las Vegas Aces,Minnesota Lynx,LV,,48,,37,,,,,,,,,,,0
+20260614_DAL_POR,"Sunday, June 14, 2026",Dallas Wings,Portland Fire,DAL,,46,,34,,,,,,,,,,,0
+20260614_DAL_POR,"Sunday, June 14, 2026",Portland Fire,Dallas Wings,POR,,45,,33,,,,,,,,,,,0
+20260614_LA_PHX,"Sunday, June 14, 2026",Los Angeles Sparks,Phoenix Mercury,LA,,46,,33,,,,,,,,,,,0
+20260614_LA_PHX,"Sunday, June 14, 2026",Phoenix Mercury,Los Angeles Sparks,PHX,,41,,31,,,,,,,,,,,0

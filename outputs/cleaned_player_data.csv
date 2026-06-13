@@ -2455,3 +2455,51 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Karlie Samuelson,G,12,0-1,0-1,1-2,0.0,1.0,1.0,2.0,0.0,1.0,1.0,2.0,1.0,-3.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,,2.0
 20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Teja Oblak,G,12,3-5,0-0,3-3,0.0,3.0,3.0,6.0,1.0,0.0,0.0,1.0,9.0,4.0,3.0,5.0,0.0,0.0,3.0,3.0,0.6,2.0,999.0
 20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Holly Winterburn,G,,,,,,,,,,,,,,,,,,,,,,,
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Isabelle Harrison,F,28,4-7,0-1,0-0,2.0,4.0,6.0,3.0,4.0,1.0,0.0,2.0,8.0,9.0,4.0,7.0,0.0,1.0,0.0,0.0,0.0,0.75,999.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Laura Juskaite,F,23,2-6,0-3,4-4,0.0,0.0,0.0,0.0,2.0,0.0,1.0,4.0,8.0,-9.0,2.0,6.0,0.0,3.0,4.0,4.0,0.6666666666666666,0.0,0.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Brittney Sykes,G,31,7-14,1-2,5-6,2.0,0.0,2.0,3.0,1.0,1.0,5.0,4.0,20.0,-5.0,7.0,14.0,1.0,2.0,5.0,6.0,0.5714285714285714,0.42857142857142855,0.6
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Marina Mabrey,G,28,9-15,5-10,4-4,0.0,1.0,1.0,3.0,1.0,0.0,4.0,1.0,27.0,-4.0,9.0,15.0,5.0,10.0,4.0,4.0,1.2666666666666666,0.3333333333333333,0.75
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Julie Allemand,G,26,4-5,1-2,0-0,0.0,2.0,2.0,3.0,3.0,1.0,2.0,2.0,9.0,15.0,4.0,5.0,1.0,2.0,0.0,0.0,0.6,0.75,1.5
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Maria Conde,F,22,3-7,0-2,1-2,0.0,6.0,6.0,4.0,1.0,0.0,3.0,4.0,7.0,7.0,3.0,7.0,0.0,2.0,1.0,2.0,0.14285714285714285,1.3333333333333333,1.333
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Teonni Key,F,15,1-2,0-0,0-0,0.0,1.0,1.0,2.0,3.0,2.0,0.0,0.0,2.0,-9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,999.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Temi Fagbenle,C,8,0-2,0-0,0-0,1.0,2.0,3.0,1.0,2.0,0.0,2.0,5.0,0.0,-6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,0.5
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Kia Nurse,G,3,0-1,0-0,0-0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,-3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,999.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Tima Pouye,G,17,1-5,0-2,2-2,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,1.0,5.0,0.0,2.0,2.0,2.0,0.4,3.0,999.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Nyara Sabally,F,,,,,,,,,,,,,,,,,,,,,,,
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Toronto Tempo,Washington Mystics,Kiki Rice,G,,,,,,,,,,,,,,,,,,,,,,,
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Michaela Onyenwere,F,29,7-15,1-3,2-2,5.0,3.0,8.0,1.0,1.0,0.0,1.0,2.0,17.0,-7.0,7.0,15.0,1.0,3.0,2.0,2.0,0.3333333333333333,0.14285714285714285,1.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Angela Dugalic,F,18,3-6,0-2,4-4,1.0,5.0,6.0,0.0,0.0,0.0,1.0,0.0,10.0,-2.0,3.0,6.0,0.0,2.0,4.0,4.0,0.6666666666666666,0.0,0.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Shakira Austin,C,32,3-6,0-1,6-7,4.0,7.0,11.0,3.0,0.0,2.0,9.0,2.0,12.0,7.0,3.0,6.0,0.0,1.0,6.0,7.0,1.0,1.0,0.333
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Sonia Citron,G,34,6-16,1-6,4-5,1.0,4.0,5.0,3.0,2.0,0.0,2.0,3.0,17.0,1.0,6.0,16.0,1.0,6.0,4.0,5.0,0.4375,0.5,1.5
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Georgia Amoore,G,26,0-4,0-4,1-2,0.0,0.0,0.0,7.0,0.0,0.0,1.0,2.0,1.0,-15.0,0.0,4.0,0.0,4.0,1.0,2.0,0.25,,7.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Lauren Betts,C,21,8-9,0-0,2-2,3.0,1.0,4.0,1.0,2.0,0.0,3.0,0.0,18.0,3.0,8.0,9.0,0.0,0.0,2.0,2.0,0.2222222222222222,0.125,0.333
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Cotie McMahon,G,23,4-6,0-1,1-2,0.0,2.0,2.0,3.0,2.0,0.0,1.0,1.0,9.0,7.0,4.0,6.0,0.0,1.0,1.0,2.0,0.16666666666666666,0.75,3.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Cassandre Prosper,G,3,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,-4.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Alicia Florez,G,14,0-3,0-1,2-2,1.0,2.0,3.0,4.0,1.0,0.0,3.0,2.0,2.0,15.0,0.0,3.0,0.0,1.0,2.0,2.0,0.6666666666666666,,1.333
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Kiki Iriafen,F,,,,,,,,,,,,,,,,,,,,,,,
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Rori Harmon,G,,,,,,,,,,,,,,,,,,,,,,,
+20260612_TOR_WSH,"Friday, June 12, 2026",regular_season,Washington Mystics,Toronto Tempo,Lucy Olsen,G,,,,,,,,,,,,,,,,,,,,,,,
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Kayla Thornton,F,24,1-7,0-4,0-0,2.0,2.0,4.0,1.0,1.0,2.0,1.0,2.0,2.0,-8.0,1.0,7.0,0.0,4.0,0.0,0.0,0.0,1.0,1.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Gabby Williams,F,32,6-16,2-7,5-5,1.0,0.0,1.0,4.0,1.0,0.0,3.0,0.0,19.0,-2.0,6.0,16.0,2.0,7.0,5.0,5.0,0.6875,0.6666666666666666,1.333
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Cecilia Zandalasini,F,13,1-6,0-3,0-0,0.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,2.0,-5.0,1.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Kiah Stokes,C,23,1-1,0-0,0-0,0.0,5.0,5.0,1.0,1.0,1.0,0.0,2.0,2.0,7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,999.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Veronica Burton,G,30,3-9,1-5,4-6,1.0,4.0,5.0,8.0,2.0,1.0,3.0,3.0,11.0,2.0,3.0,9.0,1.0,5.0,4.0,6.0,0.7777777777777778,2.6666666666666665,2.667
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Janelle Salaun,F,33,7-14,5-12,3-3,2.0,5.0,7.0,1.0,0.0,0.0,2.0,6.0,22.0,9.0,7.0,14.0,5.0,12.0,3.0,3.0,1.2857142857142858,0.14285714285714285,0.5
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Tiffany Hayes,G,24,5-9,0-2,7-7,2.0,2.0,4.0,3.0,0.0,0.0,4.0,1.0,17.0,10.0,5.0,9.0,0.0,2.0,7.0,7.0,0.7777777777777778,0.6,0.75
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Kaila Charles,G,11,0-3,0-3,1-2,2.0,1.0,3.0,0.0,0.0,1.0,0.0,3.0,1.0,5.0,0.0,3.0,0.0,3.0,1.0,2.0,0.3333333333333333,,0.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Kaitlyn Chen,G,10,0-1,0-1,0-0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Laeticia Amihere,F,,,,,,,,,,,,,,,,,,,,,,,
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Nadia Fingall,C,,,,,,,,,,,,,,,,,,,,,,,
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Golden State Valkyries,Seattle Storm,Juste Jocyte,G,,,,,,,,,,,,,,,,,,,,,,,
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Jordan Horston,F,26,2-7,0-2,1-2,1.0,4.0,5.0,5.0,2.0,2.0,1.0,2.0,5.0,-5.0,2.0,7.0,0.0,2.0,1.0,2.0,0.14285714285714285,2.5,5.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Dominique Malonga,C,25,3-10,0-0,3-3,3.0,5.0,8.0,2.0,0.0,1.0,2.0,3.0,9.0,-8.0,3.0,10.0,0.0,0.0,3.0,3.0,0.3,0.6666666666666666,1.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Awa Fam,C,35,3-9,2-5,0-2,1.0,5.0,6.0,1.0,0.0,1.0,1.0,5.0,8.0,7.0,3.0,9.0,2.0,5.0,0.0,2.0,0.6666666666666666,0.3333333333333333,1.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Natisha Hiedeman,G,33,8-17,5-10,5-7,0.0,4.0,4.0,5.0,2.0,1.0,3.0,3.0,26.0,1.0,8.0,17.0,5.0,10.0,5.0,7.0,1.1764705882352942,0.625,1.667
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Flau'jae Johnson,G,29,4-9,0-2,0-0,0.0,5.0,5.0,1.0,0.0,0.0,3.0,5.0,8.0,8.0,4.0,9.0,0.0,2.0,0.0,0.0,0.0,0.25,0.333
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Katie Lou Samuelson,F,12,2-2,2-2,2-2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,8.0,-5.0,2.0,2.0,2.0,2.0,2.0,2.0,4.0,0.0,0.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Mackenzie Holmes,F,4,0-0,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,-4.0,0.0,0.0,0.0,0.0,0.0,0.0,,,999.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Stefanie Dolson,C,8,1-1,1-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,-3.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Zia Cooke,G,4,0-4,0-0,0-0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-11.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Jade Melbourne,G,27,2-7,0-1,1-2,0.0,0.0,0.0,2.0,2.0,0.0,1.0,4.0,5.0,0.0,2.0,7.0,0.0,1.0,1.0,2.0,0.14285714285714285,1.0,2.0
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Ezi Magbegor,F,,,,,,,,,,,,,,,,,,,,,,,
+20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Taylor Thierry,F,,,,,,,,,,,,,,,,,,,,,,,
