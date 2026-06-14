@@ -2503,3 +2503,103 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Jade Melbourne,G,27,2-7,0-1,1-2,0.0,0.0,0.0,2.0,2.0,0.0,1.0,4.0,5.0,0.0,2.0,7.0,0.0,1.0,1.0,2.0,0.14285714285714285,1.0,2.0
 20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Ezi Magbegor,F,,,,,,,,,,,,,,,,,,,,,,,
 20260613_GS_SEA,"Saturday, June 13, 2026",regular_season,Seattle Storm,Golden State Valkyries,Taylor Thierry,F,,,,,,,,,,,,,,,,,,,,,,,
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Monique Billings,F,27,3-5,0-0,4-4,1.0,7.0,8.0,2.0,1.0,2.0,0.0,2.0,10.0,18.0,3.0,5.0,0.0,0.0,4.0,4.0,0.8,0.6666666666666666,999.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Aliyah Boston,C,32,5-13,1-2,2-5,2.0,9.0,11.0,5.0,1.0,0.0,2.0,3.0,13.0,16.0,5.0,13.0,1.0,2.0,2.0,5.0,0.38461538461538464,1.0,2.5
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Kelsey Mitchell,G,37,6-15,2-9,5-7,0.0,2.0,2.0,5.0,1.0,0.0,4.0,2.0,19.0,11.0,6.0,15.0,2.0,9.0,5.0,7.0,0.7333333333333333,0.8333333333333334,1.25
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Lexie Hull,G,22,0-3,0-2,2-2,3.0,3.0,6.0,2.0,0.0,0.0,2.0,1.0,2.0,12.0,0.0,3.0,0.0,2.0,2.0,2.0,0.6666666666666666,,1.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Caitlin Clark,G,36,10-17,5-10,0-0,0.0,3.0,3.0,5.0,0.0,1.0,6.0,2.0,25.0,15.0,10.0,17.0,5.0,10.0,0.0,0.0,0.8823529411764706,0.5,0.833
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Myisha Hines-Allen,F,10,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,-9.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Makayla Timpson,F,11,1-1,0-0,0-1,2.0,3.0,5.0,0.0,0.0,2.0,1.0,0.0,2.0,-5.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Sophie Cunningham,G,18,4-5,3-4,0-0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,2.0,11.0,-2.0,4.0,5.0,3.0,4.0,0.0,0.0,1.8,0.0,0.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Tyasha Harris,G,4,0-1,0-1,0-0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Raven Johnson,G,3,1-1,1-1,0-0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,-4.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Grace VanSlooten,F,,,,,,,,,,,,,,,,,,,,,,,
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Damiris Dantas,C,,,,,,,,,,,,,,,,,,,,,,,
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Justine Pissott,G,,,,,,,,,,,,,,,,,,,,,,,
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Indiana Fever,Connecticut Sun,Bree Hall,G,,,,,,,,,,,,,,,,,,,,,,,
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Aaliyah Edwards,F,14,3-6,1-1,0-0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,2.0,7.0,-11.0,3.0,6.0,1.0,1.0,0.0,0.0,0.5,0.3333333333333333,1.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Diamond Miller,F,17,1-5,1-3,1-1,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,4.0,-17.0,1.0,5.0,1.0,3.0,1.0,1.0,0.8,1.0,1.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Brittney Griner,C,22,5-11,0-0,0-0,1.0,1.0,2.0,4.0,0.0,2.0,1.0,3.0,10.0,-9.0,5.0,11.0,0.0,0.0,0.0,0.0,0.0,0.8,4.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Saniya Rivers,G,27,4-10,1-4,0-0,0.0,3.0,3.0,4.0,2.0,1.0,0.0,3.0,9.0,-5.0,4.0,10.0,1.0,4.0,0.0,0.0,0.3,1.0,999.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Leila Lacan,G,30,5-9,1-2,0-0,1.0,0.0,1.0,7.0,4.0,0.0,1.0,5.0,11.0,-6.0,5.0,9.0,1.0,2.0,0.0,0.0,0.3333333333333333,1.4,7.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Aneesah Morrow,F,21,4-14,0-4,0-0,2.0,3.0,5.0,2.0,0.0,0.0,0.0,2.0,8.0,7.0,4.0,14.0,0.0,4.0,0.0,0.0,0.0,0.5,999.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Raegan Beers,F,2,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Nell Angloma,F,9,0-1,0-0,1-2,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,-5.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,,0.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Olivia Nelson-Ododa,C,21,6-12,0-0,0-2,3.0,4.0,7.0,1.0,0.0,0.0,1.0,2.0,12.0,-7.0,6.0,12.0,0.0,0.0,0.0,2.0,0.0,0.16666666666666666,1.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Kennedy Burke,G,24,3-4,0-1,4-4,1.0,3.0,4.0,0.0,0.0,0.0,1.0,0.0,10.0,7.0,3.0,4.0,0.0,1.0,4.0,4.0,1.0,0.0,0.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Charlisse Leger-Walker,G,14,1-3,1-2,0-0,0.0,0.0,0.0,4.0,1.0,0.0,1.0,2.0,3.0,-4.0,1.0,3.0,1.0,2.0,0.0,0.0,1.0,4.0,4.0
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Hailey Van Lith,G,,,,,,,,,,,,,,,,,,,,,,,
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Gianna Kneepkens,G,,,,,,,,,,,,,,,,,,,,,,,
+20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Ashlon Jackson,G,,,,,,,,,,,,,,,,,,,,,,,
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Natasha Howard,F,32,8-12,0-0,6-6,5.0,4.0,9.0,2.0,4.0,1.0,2.0,6.0,22.0,1.0,8.0,12.0,0.0,0.0,6.0,6.0,0.5,0.25,1.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Nia Coffey,F,26,1-2,1-2,0-0,2.0,1.0,3.0,2.0,0.0,2.0,0.0,2.0,3.0,0.0,1.0,2.0,1.0,2.0,0.0,0.0,1.5,2.0,999.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Kayla McBride,G,34,6-14,3-8,4-4,0.0,2.0,2.0,5.0,2.0,0.0,0.0,3.0,19.0,-4.0,6.0,14.0,3.0,8.0,4.0,4.0,0.9285714285714286,0.8333333333333334,999.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Courtney Williams,G,33,8-19,1-3,0-0,0.0,5.0,5.0,4.0,0.0,0.0,1.0,1.0,17.0,-3.0,8.0,19.0,1.0,3.0,0.0,0.0,0.15789473684210525,0.5,4.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Olivia Miles,G,34,11-20,3-6,4-4,0.0,4.0,4.0,1.0,1.0,0.0,6.0,3.0,29.0,-3.0,11.0,20.0,3.0,6.0,4.0,4.0,0.65,0.09090909090909091,0.167
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Liatu King,F,9,1-2,0-1,2-4,2.0,2.0,4.0,0.0,0.0,0.0,0.0,2.0,4.0,-4.0,1.0,2.0,0.0,1.0,2.0,4.0,1.0,0.0,0.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Antonia Delaere,F,13,1-1,1-1,0-0,0.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,3.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,2.0,2.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Anastasiia Olairi Kosu,F,10,0-2,0-0,0-0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Teaira McCowan,C,2,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Maya Caldwell,G,6,0-2,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Stephanie Talbot,F,20,0-1,0-1,0-0,3.0,0.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,9.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,NaLyssa Smith,F,27,7-9,0-0,1-2,2.0,4.0,6.0,0.0,1.0,0.0,1.0,2.0,15.0,-2.0,7.0,9.0,0.0,0.0,1.0,2.0,0.1111111111111111,0.0,0.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,A'ja Wilson,C,32,9-15,1-2,5-6,2.0,8.0,10.0,1.0,2.0,3.0,3.0,4.0,24.0,3.0,9.0,15.0,1.0,2.0,5.0,6.0,0.5333333333333333,0.1111111111111111,0.333
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Chelsea Gray,G,34,7-15,6-10,3-3,0.0,4.0,4.0,7.0,2.0,0.0,3.0,1.0,23.0,3.0,7.0,15.0,6.0,10.0,3.0,3.0,1.4,1.0,2.333
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Jackie Young,G,37,5-10,1-5,5-5,2.0,3.0,5.0,10.0,1.0,0.0,3.0,2.0,16.0,5.0,5.0,10.0,1.0,5.0,5.0,5.0,0.8,2.0,3.333
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Cheyenne Parker-Tyus,F,12,4-6,1-1,0-0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,9.0,3.0,4.0,6.0,1.0,1.0,0.0,0.0,0.5,0.25,999.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Brianna Turner,F,2,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Kierstan Bell,F,2,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Jewell Loyd,G,26,2-6,2-5,3-3,1.0,1.0,2.0,3.0,2.0,0.0,0.0,2.0,9.0,-7.0,2.0,6.0,2.0,5.0,3.0,3.0,1.5,1.5,999.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Chennedy Carter,G,8,2-5,0-1,0-0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,4.0,-2.0,2.0,5.0,0.0,1.0,0.0,0.0,0.0,0.5,999.0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Janiah Barker,F,,,,,,,,,,,,,,,,,,,,,,,
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Jessica Shepard,F,35,5-10,0-0,3-5,4.0,10.0,14.0,2.0,1.0,0.0,3.0,1.0,13.0,3.0,5.0,10.0,0.0,0.0,3.0,5.0,0.3,0.4,0.667
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Maddy Siegrist,F,14,2-4,1-3,0-0,1.0,1.0,2.0,2.0,0.0,0.0,0.0,1.0,5.0,6.0,2.0,4.0,1.0,3.0,0.0,0.0,0.75,1.0,999.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Arike Ogunbowale,G,35,7-16,2-7,6-8,0.0,6.0,6.0,2.0,0.0,0.0,2.0,2.0,22.0,1.0,7.0,16.0,2.0,7.0,6.0,8.0,0.75,0.2857142857142857,1.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Azzi Fudd,G,32,7-17,3-8,1-1,1.0,3.0,4.0,3.0,2.0,2.0,1.0,5.0,18.0,7.0,7.0,17.0,3.0,8.0,1.0,1.0,0.5882352941176471,0.42857142857142855,3.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Aziaha James,G,34,6-18,1-7,4-6,1.0,5.0,6.0,4.0,2.0,0.0,1.0,1.0,17.0,2.0,6.0,18.0,1.0,7.0,4.0,6.0,0.3888888888888889,0.6666666666666666,4.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Alysha Clark,F,16,0-1,0-1,1-2,1.0,0.0,1.0,2.0,0.0,0.0,1.0,3.0,1.0,-13.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,,2.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Alanna Smith,F,11,1-3,0-1,2-2,0.0,3.0,3.0,0.0,0.0,0.0,1.0,2.0,4.0,-12.0,1.0,3.0,0.0,1.0,2.0,2.0,0.6666666666666666,0.0,0.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Awak Kuier,F,24,1-5,0-1,1-2,4.0,1.0,5.0,3.0,2.0,2.0,1.0,0.0,3.0,1.0,1.0,5.0,0.0,1.0,1.0,2.0,0.2,3.0,3.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Li Yueru,C,,,,,,,,,,,,,,,,,,,,,,,
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Odyssey Sims,G,,,,,,,,,,,,,,,,,,,,,,,
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Paige Bueckers,G,,,,,,,,,,,,,,,,,,,,,,,
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,JJ Quinerly,G,,,,,,,,,,,,,,,,,,,,,,,
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Costanza Verona,G,,,,,,,,,,,,,,,,,,,,,,,
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Bridget Carleton,F,31,6-14,6-10,2-2,0.0,4.0,4.0,1.0,1.0,0.0,2.0,2.0,20.0,2.0,6.0,14.0,6.0,10.0,2.0,2.0,1.4285714285714286,0.16666666666666666,0.5
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Emily Engstler,F,24,4-10,0-3,3-5,0.0,6.0,6.0,2.0,1.0,2.0,1.0,1.0,11.0,8.0,4.0,10.0,0.0,3.0,3.0,5.0,0.3,0.5,2.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Megan Gustafson,C,26,7-11,0-2,2-2,0.0,6.0,6.0,4.0,0.0,2.0,0.0,1.0,16.0,3.0,7.0,11.0,0.0,2.0,2.0,2.0,0.18181818181818182,0.5714285714285714,999.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Sarah Ashlee Barker,G,32,4-8,2-4,0-0,0.0,5.0,5.0,3.0,1.0,0.0,2.0,3.0,10.0,5.0,4.0,8.0,2.0,4.0,0.0,0.0,0.75,0.75,1.5
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Carla Leite,G,27,4-11,2-3,0-0,2.0,3.0,5.0,8.0,0.0,0.0,4.0,4.0,10.0,2.0,4.0,11.0,2.0,3.0,0.0,0.0,0.5454545454545454,2.0,2.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Frieda Buhner,F,13,2-3,1-2,0-0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,5.0,-1.0,2.0,3.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Luisa Geiselsoder,C,14,2-5,2-3,1-2,1.0,1.0,2.0,3.0,0.0,1.0,1.0,2.0,7.0,-2.0,2.0,5.0,2.0,3.0,1.0,2.0,1.4,1.5,3.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Serah Williams,C,6,0-1,0-0,2-2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,-8.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,,0.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Karlie Samuelson,G,14,0-3,0-3,0-0,2.0,0.0,2.0,3.0,0.0,0.0,0.0,4.0,0.0,-3.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,,999.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Teja Oblak,G,13,1-2,1-1,0-0,0.0,1.0,1.0,2.0,1.0,0.0,2.0,3.0,3.0,-1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.5,2.0,1.0
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Nyadiew Puoch,F,,,,,,,,,,,,,,,,,,,,,,,
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Holly Winterburn,G,,,,,,,,,,,,,,,,,,,,,,,
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Nneka Ogwumike,F,36,6-11,3-5,0-0,3.0,12.0,15.0,3.0,1.0,3.0,1.0,3.0,15.0,12.0,6.0,11.0,3.0,5.0,0.0,0.0,0.8181818181818182,0.5,3.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Dearica Hamby,F,28,3-7,0-0,2-3,1.0,5.0,6.0,0.0,2.0,0.0,1.0,3.0,8.0,-4.0,3.0,7.0,0.0,0.0,2.0,3.0,0.2857142857142857,0.0,0.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Erica Wheeler,G,29,2-8,2-6,0-0,0.0,0.0,0.0,5.0,3.0,0.0,3.0,2.0,6.0,3.0,2.0,8.0,2.0,6.0,0.0,0.0,0.75,2.5,1.667
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Kelsey Plum,G,37,14-26,5-11,10-12,0.0,2.0,2.0,7.0,0.0,0.0,5.0,3.0,43.0,9.0,14.0,26.0,5.0,11.0,10.0,12.0,0.9615384615384616,0.5,1.4
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Ariel Atkins,G,31,2-7,1-3,1-1,0.0,1.0,1.0,3.0,1.0,0.0,1.0,3.0,6.0,7.0,2.0,7.0,1.0,3.0,1.0,1.0,0.5714285714285714,1.5,3.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Cameron Brink,F,22,2-4,2-4,3-3,4.0,5.0,9.0,2.0,1.0,2.0,0.0,2.0,9.0,11.0,2.0,4.0,2.0,4.0,3.0,3.0,2.25,1.0,999.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Jihyun Park,F,4,0-0,0-0,0-0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Rae Burrell,G,27,9-15,2-4,4-4,1.0,2.0,3.0,1.0,0.0,3.0,0.0,1.0,24.0,7.0,9.0,15.0,2.0,4.0,4.0,4.0,0.6666666666666666,0.1111111111111111,999.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Kate Martin,G,4,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Chance Gray,G,8,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Emma Cannon,F,,,,,,,,,,,,,,,,,,,,,,,
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Sania Feagin,F,,,,,,,,,,,,,,,,,,,,,,,
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Ta'Niya Latson,G,,,,,,,,,,,,,,,,,,,,,,,
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Alyssa Thomas,F,41,4-10,0-0,2-3,3.0,4.0,7.0,12.0,0.0,1.0,2.0,3.0,10.0,-8.0,4.0,10.0,0.0,0.0,2.0,3.0,0.2,3.0,6.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Natasha Mack,F,35,5-9,0-1,1-1,1.0,11.0,12.0,4.0,4.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,0.0,1.0,1.0,1.0,0.1111111111111111,0.8,999.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Noemie Brochant,F,23,3-5,2-3,0-0,1.0,2.0,3.0,1.0,0.0,0.0,3.0,3.0,8.0,3.0,3.0,5.0,2.0,3.0,0.0,0.0,1.2,0.3333333333333333,0.333
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Kahleah Copper,G,38,16-30,6-14,3-6,3.0,7.0,10.0,1.0,0.0,0.0,5.0,2.0,41.0,-9.0,16.0,30.0,6.0,14.0,3.0,6.0,0.7,0.0625,0.2
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Monique Akoa Makani,G,24,3-5,1-2,2-4,0.0,2.0,2.0,5.0,1.0,0.0,1.0,5.0,9.0,2.0,3.0,5.0,1.0,2.0,2.0,4.0,1.0,1.6666666666666667,5.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,DeWanna Bonner,F,14,3-5,3-5,1-1,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,10.0,-16.0,3.0,5.0,3.0,5.0,1.0,1.0,2.0,0.0,0.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Jovana Nogic,G,15,2-4,0-2,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,4.0,-3.0,2.0,4.0,0.0,2.0,0.0,0.0,0.0,0.5,999.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Lexi Held,G,29,4-10,1-6,0-0,1.0,1.0,2.0,2.0,1.0,0.0,3.0,4.0,9.0,-8.0,4.0,10.0,1.0,6.0,0.0,0.0,0.3,0.5,0.667
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Quionche Carter,G,8,0-2,0-2,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,-12.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,,0.0
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Valeriane Ayayi,F,,,,,,,,,,,,,,,,,,,,,,,
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Marta Suarez,F,,,,,,,,,,,,,,,,,,,,,,,
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Kyara Linskens,C,,,,,,,,,,,,,,,,,,,,,,,
+20260614_LA_PHX,"Sunday, June 14, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
