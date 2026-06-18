@@ -211,15 +211,17 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260616_LA_GS,"Tuesday, June 16, 2026",Golden State Valkyries,Los Angeles Sparks,GS,28-66,42,7-21,33,15-19,79,7,26,33,19,13,4,9,20,78
 20260616_TOR_IND,"Tuesday, June 16, 2026",Toronto Tempo,Indiana Fever,TOR,34-75,45,11-25,44,12-19,63,5,22,27,25,9,1,12,27,91
 20260616_TOR_IND,"Tuesday, June 16, 2026",Indiana Fever,Toronto Tempo,IND,36-69,52,13-30,43,28-33,85,10,33,43,25,4,5,16,18,113
-20260617_WSH_CON,"Wednesday, June 17, 2026",Washington Mystics,Connecticut Sun,WSH,,44,,28,,,,,,,,,,,0
-20260617_WSH_CON,"Wednesday, June 17, 2026",Connecticut Sun,Washington Mystics,CON,,42,,27,,,,,,,,,,,0
-20260618_NY_CHI,"Thursday, June 18, 2026",New York Liberty,Chicago Sky,NY,,46,,37,,,,,,,,,,,0
-20260618_NY_CHI,"Thursday, June 18, 2026",Chicago Sky,New York Liberty,CHI,,42,,28,,,,,,,,,,,0
-20260618_DAL_GS,"Thursday, June 18, 2026",Dallas Wings,Golden State Valkyries,DAL,,46,,34,,,,,,,,,,,0
-20260618_DAL_GS,"Thursday, June 18, 2026",Golden State Valkyries,Dallas Wings,GS,,41,,36,,,,,,,,,,,0
-20260618_MIN_LA,"Thursday, June 18, 2026",Minnesota Lynx,Los Angeles Sparks,MIN,,50,,39,,,,,,,,,,,0
-20260618_MIN_LA,"Thursday, June 18, 2026",Los Angeles Sparks,Minnesota Lynx,LA,,46,,33,,,,,,,,,,,0
-20260618_LV_PHX,"Thursday, June 18, 2026",Las Vegas Aces,Phoenix Mercury,LV,,48,,37,,,,,,,,,,,0
-20260618_LV_PHX,"Thursday, June 18, 2026",Phoenix Mercury,Las Vegas Aces,PHX,,42,,32,,,,,,,,,,,0
-20260618_SEA_POR,"Thursday, June 18, 2026",Seattle Storm,Portland Fire,SEA,,41,,33,,,,,,,,,,,0
-20260618_SEA_POR,"Thursday, June 18, 2026",Portland Fire,Seattle Storm,POR,,45,,34,,,,,,,,,,,0
+20260617_WSH_CON,"Wednesday, June 17, 2026",Washington Mystics,Connecticut Sun,WSH,26-55,47,7-18,39,29-30,97,4,29,33,18,2,1,13,20,88
+20260617_WSH_CON,"Wednesday, June 17, 2026",Connecticut Sun,Washington Mystics,CON,31-68,46,4-20,20,15-23,65,7,19,26,16,8,3,5,25,81
+20260618_NY_CHI,"Thursday, June 18, 2026",New York Liberty,Chicago Sky,NY,33-66,50,9-27,33,21-23,91,10,24,34,20,7,5,13,12,96
+20260618_NY_CHI,"Thursday, June 18, 2026",Chicago Sky,New York Liberty,CHI,35-71,49,12-23,52,13-15,87,7,21,28,23,10,4,10,22,95
+20260618_DAL_GS,"Thursday, June 18, 2026",Dallas Wings,Golden State Valkyries,DAL,30-64,47,9-22,41,11-16,69,2,23,25,19,10,3,8,20,80
+20260618_DAL_GS,"Thursday, June 18, 2026",Golden State Valkyries,Dallas Wings,GS,29-63,46,12-25,48,21-27,78,9,32,41,20,4,3,13,14,91
+20260618_MIN_LA,"Thursday, June 18, 2026",Minnesota Lynx,Los Angeles Sparks,MIN,40-72,56,9-21,43,10-14,71,8,26,34,21,11,3,20,27,99
+20260618_MIN_LA,"Thursday, June 18, 2026",Los Angeles Sparks,Minnesota Lynx,LA,25-60,42,7-26,27,26-32,81,5,21,26,20,8,1,18,18,83
+20260618_LV_PHX,"Thursday, June 18, 2026",Las Vegas Aces,Phoenix Mercury,LV,31-68,46,5-21,24,19-25,76,9,20,29,25,18,6,9,13,86
+20260618_LV_PHX,"Thursday, June 18, 2026",Phoenix Mercury,Las Vegas Aces,PHX,27-57,47,9-21,43,13-14,93,5,25,30,18,5,2,20,19,76
+20260618_SEA_POR,"Thursday, June 18, 2026",Seattle Storm,Portland Fire,SEA,32-67,48,9-24,38,16-19,84,8,23,31,22,5,3,12,18,89
+20260618_SEA_POR,"Thursday, June 18, 2026",Portland Fire,Seattle Storm,POR,27-70,39,17-42,40,23-27,85,14,18,32,20,7,7,12,18,94
+20260618_ATL_IND,"Thursday, June 18, 2026",Atlanta Dream,Indiana Fever,ATL,,43,,33,,,,,,,,,,,0
+20260618_ATL_IND,"Thursday, June 18, 2026",Indiana Fever,Atlanta Dream,IND,,45,,34,,,,,,,,,,,0
