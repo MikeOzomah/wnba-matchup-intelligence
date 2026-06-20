@@ -223,11 +223,17 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260618_LV_PHX,"Thursday, June 18, 2026",Phoenix Mercury,Las Vegas Aces,PHX,27-57,47,9-21,43,13-14,93,5,25,30,18,5,2,20,19,76
 20260618_SEA_POR,"Thursday, June 18, 2026",Seattle Storm,Portland Fire,SEA,32-67,48,9-24,38,16-19,84,8,23,31,22,5,3,12,18,89
 20260618_SEA_POR,"Thursday, June 18, 2026",Portland Fire,Seattle Storm,POR,27-70,39,17-42,40,23-27,85,14,18,32,20,7,7,12,18,94
-20260618_ATL_IND,"Thursday, June 18, 2026",Atlanta Dream,Indiana Fever,ATL,37-69,54,7-18,39,27-35,77,9,21,30,21,10,3,12,27,108
-20260618_ATL_IND,"Thursday, June 18, 2026",Indiana Fever,Atlanta Dream,IND,35-63,56,8-17,47,23-29,79,5,20,25,16,7,3,17,26,101
-20260619_TOR_CON,"Friday, June 19, 2026",Toronto Tempo,Connecticut Sun,TOR,,44,,34,,,,,,,,,,,0
-20260619_TOR_CON,"Friday, June 19, 2026",Connecticut Sun,Toronto Tempo,CON,,42,,26,,,,,,,,,,,0
-20260619_WSH_NY,"Friday, June 19, 2026",Washington Mystics,New York Liberty,WSH,,44,,29,,,,,,,,,,,0
-20260619_WSH_NY,"Friday, June 19, 2026",New York Liberty,Washington Mystics,NY,,46,,36,,,,,,,,,,,0
-20260620_MIN_GS,"Saturday, June 20, 2026",Minnesota Lynx,Golden State Valkyries,MIN,,51,,39,,,,,,,,,,,0
-20260620_MIN_GS,"Saturday, June 20, 2026",Golden State Valkyries,Minnesota Lynx,GS,,41,,37,,,,,,,,,,,0
+20260618_ATL_IND,"Thursday, June 18, 2026",Atlanta Dream,Indiana Fever,ATL,37-69,54,7-18,39,27-35,77,9,21,30,21,11,3,12,27,108
+20260618_ATL_IND,"Thursday, June 18, 2026",Indiana Fever,Atlanta Dream,IND,35-63,56,8-17,47,23-29,79,5,21,26,16,7,3,18,26,101
+20260619_TOR_CON,"Friday, June 19, 2026",Toronto Tempo,Connecticut Sun,TOR,37-76,49,19-34,56,8-9,89,10,23,33,27,5,4,15,23,101
+20260619_TOR_CON,"Friday, June 19, 2026",Connecticut Sun,Toronto Tempo,CON,35-76,46,6-22,27,21-26,81,12,23,35,21,9,4,8,13,97
+20260619_WSH_NY,"Friday, June 19, 2026",Washington Mystics,New York Liberty,WSH,30-62,48,4-18,22,22-32,69,8,23,31,20,9,2,11,23,86
+20260619_WSH_NY,"Friday, June 19, 2026",New York Liberty,Washington Mystics,NY,29-66,44,10-34,29,15-20,75,5,25,30,20,5,6,14,26,83
+20260620_MIN_GS,"Saturday, June 20, 2026",Minnesota Lynx,Golden State Valkyries,MIN,27-68,40,6-13,46,21-23,91,11,30,41,18,8,9,13,17,81
+20260620_MIN_GS,"Saturday, June 20, 2026",Golden State Valkyries,Minnesota Lynx,GS,26-74,35,12-40,30,11-17,65,13,25,38,17,8,3,13,16,75
+20260620_IND_ATL,"Saturday, June 20, 2026",Indiana Fever,Atlanta Dream,IND,,46,,35,,,,,,,,,,,0
+20260620_IND_ATL,"Saturday, June 20, 2026",Atlanta Dream,Indiana Fever,ATL,,44,,33,,,,,,,,,,,0
+20260620_SEA_PHX,"Saturday, June 20, 2026",Seattle Storm,Phoenix Mercury,SEA,,41,,33,,,,,,,,,,,0
+20260620_SEA_PHX,"Saturday, June 20, 2026",Phoenix Mercury,Seattle Storm,PHX,,42,,33,,,,,,,,,,,0
+20260621_CHI_DAL,"Sunday, June 21, 2026",Chicago Sky,Dallas Wings,CHI,,42,,30,,,,,,,,,,,0
+20260621_CHI_DAL,"Sunday, June 21, 2026",Dallas Wings,Chicago Sky,DAL,,46,,34,,,,,,,,,,,0

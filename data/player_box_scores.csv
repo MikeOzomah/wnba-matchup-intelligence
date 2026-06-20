@@ -2895,7 +2895,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Angel Reese,F,29,8-14,0-0,5-8,4,7,11,1,0,0,4,4,21,+8
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Allisha Gray,G,34,6-11,1-3,4-5,0,0,0,3,3,0,2,4,17,+16
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Jordin Canada,G,29,5-10,1-3,7-8,0,2,2,5,4,0,1,4,18,+9
-20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Rhyne Howard,G,38,6-12,1-3,3-3,3,2,5,6,2,1,1,1,16,+4
+20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Rhyne Howard,G,38,6-12,1-3,3-3,3,2,5,6,3,1,1,1,16,+4
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Sika Kone,F,5,1-1,0-0,1-4,1,0,1,0,0,0,1,0,3,-6
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Madina Okot,C,5,0-1,0-1,0-0,0,4,4,1,0,0,0,2,0,+3
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Te-Hina Paopao,G,14,3-5,1-2,0-0,0,1,1,3,0,0,1,2,7,-2
@@ -2903,7 +2903,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Brionna Jones,F,,,,,,,,,,,,,,
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Aaliyah Nye,G,,,,,,,,,,,,,,
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Atlanta Dream,Indiana Fever,Indya Nivar,G,,,,,,,,,,,,,,
-20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Indiana Fever,Atlanta Dream,Monique Billings,F,13,2-3,0-0,2-2,2,0,2,1,1,0,1,3,6,-10
+20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Indiana Fever,Atlanta Dream,Monique Billings,F,13,2-3,0-0,2-2,2,1,3,1,1,0,2,3,6,-10
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Indiana Fever,Atlanta Dream,Aliyah Boston,C,34,8-15,1-2,6-8,0,8,8,3,1,3,4,3,23,-2
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Indiana Fever,Atlanta Dream,Kelsey Mitchell,G,34,10-15,3-7,3-3,0,1,1,1,1,0,2,2,26,0
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Indiana Fever,Atlanta Dream,Lexie Hull,G,11,1-2,0-0,0-0,0,3,3,0,0,0,0,4,2,-6
@@ -2915,3 +2915,75 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Indiana Fever,Atlanta Dream,Raven Johnson,G,3,0-1,0-0,0-0,0,0,0,0,0,0,2,0,0,-5
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Indiana Fever,Atlanta Dream,Grace VanSlooten,F,,,,,,,,,,,,,,
 20260618_ATL_IND,"Thursday, June 18, 2026",regular_season,Indiana Fever,Atlanta Dream,Damiris Dantas,C,,,,,,,,,,,,,,
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Isabelle Harrison,F,30,5-14,2-3,3-3,1,5,6,5,0,1,1,2,15,+2
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Laura Juskaite,F,29,2-7,0-1,0-0,2,5,7,4,3,1,4,5,4,+7
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Temi Fagbenle,C,32,8-9,2-2,1-2,4,5,9,2,1,1,0,3,19,+8
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Marina Mabrey,G,33,14-24,9-12,0-0,1,3,4,4,0,0,6,4,37,+21
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Julie Allemand,G,34,2-5,0-3,0-0,0,0,0,9,1,0,4,1,4,+12
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Maria Conde,F,28,5-12,5-8,4-4,2,4,6,3,0,1,0,1,19,0
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Teonni Key,F,3,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,-10
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Kia Nurse,G,5,0-3,0-3,0-0,0,0,0,0,0,0,0,2,0,-15
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Tima Pouye,G,6,1-2,1-2,0-0,0,1,1,0,0,0,0,4,3,-5
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Nyara Sabally,F,,,,,,,,,,,,,,
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Brittney Sykes,G,,,,,,,,,,,,,,
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Toronto Tempo,Connecticut Sun,Kiki Rice,G,,,,,,,,,,,,,,
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Aaliyah Edwards,F,20,2-5,0-0,2-2,0,2,2,2,1,0,0,3,6,-2
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Diamond Miller,F,21,4-10,1-3,1-2,0,3,3,2,0,0,0,3,10,-5
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Brittney Griner,C,24,7-11,0-0,2-3,4,4,8,2,0,2,2,0,16,-19
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Saniya Rivers,G,21,1-4,1-3,0-0,0,3,3,4,2,0,2,2,3,-11
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Leila Lacan,G,31,5-16,2-8,4-5,0,1,1,3,1,0,1,2,16,-14
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Aneesah Morrow,F,20,3-9,0-3,2-2,5,5,10,4,2,0,2,2,8,+1
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Nell Angloma,F,3,0-0,0-0,0-0,0,0,0,0,0,0,1,0,0,-3
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Olivia Nelson-Ododa,C,16,6-9,0-0,1-2,1,2,3,0,1,1,0,1,13,+15
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Kennedy Burke,G,27,5-9,2-5,6-6,2,1,3,1,2,1,0,0,18,+11
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Charlisse Leger-Walker,G,18,2-3,0-0,3-4,0,2,2,3,0,0,0,0,7,+7
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Raegan Beers,F,,,,,,,,,,,,,,
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Hailey Van Lith,G,,,,,,,,,,,,,,
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Gianna Kneepkens,G,,,,,,,,,,,,,,
+20260619_TOR_CON,"Friday, June 19, 2026",regular_season,Connecticut Sun,Toronto Tempo,Ashlon Jackson,G,,,,,,,,,,,,,,
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Michaela Onyenwere,F,28,3-5,0-1,5-5,1,1,2,0,0,0,2,3,11,+3
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Kiki Iriafen,F,28,8-14,0-1,4-6,2,4,6,0,1,1,1,3,20,+3
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Shakira Austin,C,28,4-8,1-1,5-8,2,5,7,1,0,0,1,3,14,+5
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Sonia Citron,G,35,5-11,1-5,5-6,0,6,6,8,5,0,2,4,16,+3
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Georgia Amoore,G,28,3-9,1-6,3-3,0,0,0,8,0,0,3,2,10,+4
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Angela Dugalic,F,7,0-1,0-0,0-0,0,1,1,1,0,0,0,0,0,+1
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Lauren Betts,C,17,4-6,0-0,0-1,3,2,5,0,1,1,1,2,8,-3
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Lucy Olsen,G,11,0-2,0-1,0-0,0,2,2,1,1,0,1,4,0,-1
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Cotie McMahon,G,13,3-5,1-3,0-3,0,1,1,1,1,0,0,2,7,0
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Cassandre Prosper,G,5,0-1,0-0,0-0,0,1,1,0,0,0,0,0,0,0
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Rori Harmon,G,,,,,,,,,,,,,,
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Darianna Littlepage-Buggs,G,,,,,,,,,,,,,,
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,Washington Mystics,New York Liberty,Alicia Florez,G,,,,,,,,,,,,,,
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Breanna Stewart,F,32,5-11,0-2,6-8,1,9,10,6,1,2,1,5,16,0
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Leonie Fiebich,F,31,6-9,3-5,4-4,2,0,2,2,1,0,1,3,19,-5
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Jonquel Jones,C,33,4-8,0-4,2-4,0,10,10,2,0,1,2,3,10,-6
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Marine Johannes,G,27,1-8,1-7,1-2,1,2,3,4,1,1,1,1,4,-2
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Sabrina Ionescu,G,30,4-13,1-6,0-0,0,1,1,3,0,0,4,3,9,-7
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Satou Sabally,F,17,4-8,3-6,2-2,0,0,0,1,1,0,2,4,13,+6
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Han Xu,C,12,3-5,2-3,0-0,1,2,3,1,0,2,1,2,8,+1
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Rebekah Gardner,G,9,1-2,0-1,0-0,0,0,0,0,0,0,0,2,2,-6
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Pauline Astier,G,10,1-2,0-0,0-0,0,1,1,1,1,0,2,3,2,+4
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Raquel Carrera,F,,,,,,,,,,,,,,
+20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Rebecca Allen,G,,,,,,,,,,,,,,
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Natasha Howard,F,28,5-10,0-0,0-0,4,4,8,4,0,1,1,6,10,0
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Nia Coffey,F,33,7-11,3-4,5-6,2,3,5,3,0,1,1,1,22,+7
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Kayla McBride,G,34,7-12,1-3,2-3,0,3,3,2,1,0,0,3,17,+5
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Courtney Williams,G,36,6-16,2-2,7-7,2,10,12,5,1,2,2,0,21,+6
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Olivia Miles,G,32,1-10,0-4,5-5,0,5,5,4,3,3,6,4,7,+2
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Antonia Delaere,F,7,0-0,0-0,0-0,0,0,0,0,1,0,0,0,0,+6
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Anastasiia Olairi Kosu,F,19,1-5,0-0,2-2,3,3,6,0,2,2,2,2,4,+2
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Maya Caldwell,G,11,0-4,0-0,0-0,0,2,2,0,0,0,1,1,0,+2
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Liatu King,F,,,,,,,,,,,,,,
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Teaira McCowan,C,,,,,,,,,,,,,,
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Kayla Thornton,F,23,1-5,1-4,0-0,2,4,6,2,1,0,0,1,3,-2
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Gabby Williams,F,28,6-16,2-6,1-2,3,5,8,1,1,0,3,3,15,-10
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Cecilia Zandalasini,F,27,7-15,4-10,5-5,1,3,4,2,0,0,2,2,23,-6
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Kiah Stokes,C,19,1-2,0-1,0-0,0,6,6,0,0,0,0,1,2,0
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Veronica Burton,G,24,1-8,1-5,2-2,1,1,2,5,2,0,2,3,5,+1
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Laeticia Amihere,F,10,0-1,0-0,1-4,2,2,4,0,1,2,0,0,1,-8
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Janelle Salaun,F,24,6-16,3-11,0-2,4,2,6,0,1,0,1,1,15,+1
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Tiffany Hayes,G,7,0-2,0-0,2-2,0,1,1,3,0,0,0,1,2,+5
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Kaila Charles,G,21,1-5,0-2,0-0,0,1,1,2,2,1,3,2,2,-5
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Kaitlyn Chen,G,16,3-4,1-1,0-0,0,0,0,2,0,0,2,2,7,-6
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Nadia Fingall,C,,,,,,,,,,,,,,
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Juste Jocyte,G,,,,,,,,,,,,,,
