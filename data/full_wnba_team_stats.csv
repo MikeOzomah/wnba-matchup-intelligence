@@ -229,11 +229,17 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260619_TOR_CON,"Friday, June 19, 2026",Connecticut Sun,Toronto Tempo,CON,35-76,46,6-22,27,21-26,81,12,23,35,21,9,4,8,13,97
 20260619_WSH_NY,"Friday, June 19, 2026",Washington Mystics,New York Liberty,WSH,30-62,48,4-18,22,22-32,69,8,23,31,20,9,2,11,23,86
 20260619_WSH_NY,"Friday, June 19, 2026",New York Liberty,Washington Mystics,NY,29-66,44,10-34,29,15-20,75,5,25,30,20,5,6,14,26,83
-20260620_MIN_GS,"Saturday, June 20, 2026",Minnesota Lynx,Golden State Valkyries,MIN,27-68,40,6-13,46,21-23,91,11,30,41,18,8,9,13,17,81
+20260620_MIN_GS,"Saturday, June 20, 2026",Minnesota Lynx,Golden State Valkyries,MIN,27-68,40,6-13,46,21-23,91,12,30,42,18,8,9,13,17,81
 20260620_MIN_GS,"Saturday, June 20, 2026",Golden State Valkyries,Minnesota Lynx,GS,26-74,35,12-40,30,11-17,65,13,25,38,17,8,3,13,16,75
-20260620_IND_ATL,"Saturday, June 20, 2026",Indiana Fever,Atlanta Dream,IND,,46,,35,,,,,,,,,,,0
-20260620_IND_ATL,"Saturday, June 20, 2026",Atlanta Dream,Indiana Fever,ATL,,44,,33,,,,,,,,,,,0
-20260620_SEA_PHX,"Saturday, June 20, 2026",Seattle Storm,Phoenix Mercury,SEA,,41,,33,,,,,,,,,,,0
-20260620_SEA_PHX,"Saturday, June 20, 2026",Phoenix Mercury,Seattle Storm,PHX,,42,,33,,,,,,,,,,,0
-20260621_CHI_DAL,"Sunday, June 21, 2026",Chicago Sky,Dallas Wings,CHI,,42,,30,,,,,,,,,,,0
-20260621_CHI_DAL,"Sunday, June 21, 2026",Dallas Wings,Chicago Sky,DAL,,46,,34,,,,,,,,,,,0
+20260620_IND_ATL,"Saturday, June 20, 2026",Indiana Fever,Atlanta Dream,IND,33-67,49,13-30,43,17-21,81,4,26,30,20,1,3,19,29,96
+20260620_IND_ATL,"Saturday, June 20, 2026",Atlanta Dream,Indiana Fever,ATL,40-80,50,12-26,46,21-31,68,12,23,35,25,10,5,8,24,113
+20260620_SEA_PHX,"Saturday, June 20, 2026",Seattle Storm,Phoenix Mercury,SEA,25-70,36,8-28,29,15-17,88,9,20,29,17,7,2,10,24,73
+20260620_SEA_PHX,"Saturday, June 20, 2026",Phoenix Mercury,Seattle Storm,PHX,31-63,49,10-29,34,21-26,81,7,32,39,26,4,8,14,13,93
+20260621_CHI_DAL,"Sunday, June 21, 2026",Chicago Sky,Dallas Wings,CHI,33-70,47,7-23,30,19-29,66,13,30,43,22,9,3,15,24,92
+20260621_CHI_DAL,"Sunday, June 21, 2026",Dallas Wings,Chicago Sky,DAL,33-73,45,10-25,40,17-21,81,9,26,35,17,7,7,13,23,93
+20260621_GS_LV,"Sunday, June 21, 2026",Golden State Valkyries,Las Vegas Aces,GS,,41,,36,,,,,,,,,,,0
+20260621_GS_LV,"Sunday, June 21, 2026",Las Vegas Aces,Golden State Valkyries,LV,,48,,36,,,,,,,,,,,0
+20260621_WSH_MIN,"Sunday, June 21, 2026",Washington Mystics,Minnesota Lynx,WSH,,45,,28,,,,,,,,,,,0
+20260621_WSH_MIN,"Sunday, June 21, 2026",Minnesota Lynx,Washington Mystics,MIN,,50,,39,,,,,,,,,,,0
+20260622_NY_LA,"Monday, June 22, 2026",New York Liberty,Los Angeles Sparks,NY,,46,,36,,,,,,,,,,,0
+20260622_NY_LA,"Monday, June 22, 2026",Los Angeles Sparks,New York Liberty,LA,,45,,32,,,,,,,,,,,0
