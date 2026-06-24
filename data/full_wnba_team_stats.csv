@@ -248,8 +248,16 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260622_TOR_ATL,"Monday, June 22, 2026",Toronto Tempo,Atlanta Dream,TOR,28-62,45,9-28,32,22-28,79,5,26,31,22,8,6,17,23,87
 20260622_TOR_ATL,"Monday, June 22, 2026",Atlanta Dream,Toronto Tempo,ATL,34-78,44,9-29,31,17-21,81,9,23,32,23,8,1,11,26,94
 20260623_PHX_IND,"Tuesday, June 23, 2026",Phoenix Mercury,Indiana Fever,PHX,28-68,41,5-25,20,16-21,76,8,21,29,19,5,2,12,25,77
-20260623_PHX_IND,"Tuesday, June 23, 2026",Indiana Fever,Phoenix Mercury,IND,27-64,42,10-34,29,22-29,76,12,27,39,15,6,2,13,23,86
+20260623_PHX_IND,"Tuesday, June 23, 2026",Indiana Fever,Phoenix Mercury,IND,27-64,42,10-34,29,22-29,76,12,27,39,15,6,2,14,23,86
 20260623_DAL_SEA,"Tuesday, June 23, 2026",Dallas Wings,Seattle Storm,DAL,48-89,54,9-24,38,7-9,78,9,25,34,30,9,2,8,14,112
 20260623_DAL_SEA,"Tuesday, June 23, 2026",Seattle Storm,Dallas Wings,SEA,39-77,51,13-29,45,19-21,90,5,29,34,29,5,6,13,12,110
-20260624_NY_LV,"Wednesday, June 24, 2026",New York Liberty,Las Vegas Aces,NY,,46,,36,,,,,,,,,,,0
-20260624_NY_LV,"Wednesday, June 24, 2026",Las Vegas Aces,New York Liberty,LV,,49,,37,,,,,,,,,,,0
+20260624_NY_LV,"Wednesday, June 24, 2026",New York Liberty,Las Vegas Aces,NY,30-65,46,13-31,42,14-16,88,5,29,34,19,3,5,11,12,87
+20260624_NY_LV,"Wednesday, June 24, 2026",Las Vegas Aces,New York Liberty,LV,31-72,43,8-27,30,6-8,75,5,27,32,23,9,4,7,14,76
+20260624_PHX_IND,"Wednesday, June 24, 2026",Phoenix Mercury,Indiana Fever,PHX,,43,,32,,,,,,,,,,,0
+20260624_PHX_IND,"Wednesday, June 24, 2026",Indiana Fever,Phoenix Mercury,IND,,46,,35,,,,,,,,,,,0
+20260624_MIN_WSH,"Wednesday, June 24, 2026",Minnesota Lynx,Washington Mystics,MIN,,50,,38,,,,,,,,,,,0
+20260624_MIN_WSH,"Wednesday, June 24, 2026",Washington Mystics,Minnesota Lynx,WSH,,45,,29,,,,,,,,,,,0
+20260625_POR_CHI,"Thursday, June 25, 2026",Portland Fire,Chicago Sky,POR,,45,,35,,,,,,,,,,,0
+20260625_POR_CHI,"Thursday, June 25, 2026",Chicago Sky,Portland Fire,CHI,,41,,28,,,,,,,,,,,0
+20260625_ATL_GS,"Thursday, June 25, 2026",Atlanta Dream,Golden State Valkyries,ATL,,45,,34,,,,,,,,,,,0
+20260625_ATL_GS,"Thursday, June 25, 2026",Golden State Valkyries,Atlanta Dream,GS,,41,,35,,,,,,,,,,,0

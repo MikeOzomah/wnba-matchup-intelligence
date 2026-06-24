@@ -3194,7 +3194,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260623_PHX_IND,"Tuesday, June 23, 2026",regular_season,Indiana Fever,Phoenix Mercury,Monique Billings,F,28,4-4,0-0,6-9,6.0,4.0,10.0,1.0,1.0,1.0,3.0,3.0,14.0,15.0,4.0,4.0,0.0,0.0,6.0,9.0,1.5,0.25,0.333
 20260623_PHX_IND,"Tuesday, June 23, 2026",regular_season,Indiana Fever,Phoenix Mercury,Aliyah Boston,C,29,2-9,1-4,3-4,1.0,8.0,9.0,0.0,2.0,1.0,3.0,3.0,8.0,10.0,2.0,9.0,1.0,4.0,3.0,4.0,0.6666666666666666,0.0,0.0
 20260623_PHX_IND,"Tuesday, June 23, 2026",regular_season,Indiana Fever,Phoenix Mercury,Kelsey Mitchell,G,32,8-20,3-10,3-4,0.0,1.0,1.0,1.0,1.0,0.0,1.0,3.0,22.0,9.0,8.0,20.0,3.0,10.0,3.0,4.0,0.6,0.125,1.0
-20260623_PHX_IND,"Tuesday, June 23, 2026",regular_season,Indiana Fever,Phoenix Mercury,Lexie Hull,G,17,2-2,2-2,2-2,1.0,1.0,2.0,0.0,0.0,0.0,0.0,2.0,8.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,4.0,0.0,0.0
+20260623_PHX_IND,"Tuesday, June 23, 2026",regular_season,Indiana Fever,Phoenix Mercury,Lexie Hull,G,17,2-2,2-2,2-2,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,8.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,4.0,0.0,0.0
 20260623_PHX_IND,"Tuesday, June 23, 2026",regular_season,Indiana Fever,Phoenix Mercury,Caitlin Clark,G,29,8-17,3-10,5-6,0.0,3.0,3.0,9.0,0.0,0.0,3.0,5.0,24.0,13.0,8.0,17.0,3.0,10.0,5.0,6.0,0.8235294117647058,1.125,3.0
 20260623_PHX_IND,"Tuesday, June 23, 2026",regular_season,Indiana Fever,Phoenix Mercury,Myisha Hines-Allen,F,14,1-1,1-1,0-0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,3.0,4.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,1.0,1.0
 20260623_PHX_IND,"Tuesday, June 23, 2026",regular_season,Indiana Fever,Phoenix Mercury,Makayla Timpson,F,5,0-0,0-0,1-2,1.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,-3.0,0.0,0.0,0.0,0.0,1.0,2.0,,,0.0
@@ -3229,3 +3229,27 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260623_DAL_SEA,"Tuesday, June 23, 2026",regular_season,Seattle Storm,Dallas Wings,Mackenzie Holmes,F,,,,,,,,,,,,,,,,,,,,,,,
 20260623_DAL_SEA,"Tuesday, June 23, 2026",regular_season,Seattle Storm,Dallas Wings,Taylor Thierry,F,,,,,,,,,,,,,,,,,,,,,,,
 20260623_DAL_SEA,"Tuesday, June 23, 2026",regular_season,Seattle Storm,Dallas Wings,Jade Melbourne,G,,,,,,,,,,,,,,,,,,,,,,,
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Breanna Stewart,F,36,7-16,2-3,4-6,2.0,4.0,6.0,4.0,0.0,3.0,4.0,0.0,20.0,6.0,7.0,16.0,2.0,3.0,4.0,6.0,0.625,0.5714285714285714,1.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Satou Sabally,F,8,0-3,0-3,0-0,0.0,3.0,3.0,1.0,0.0,1.0,0.0,1.0,0.0,8.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,,999.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Leonie Fiebich,F,30,4-7,4-5,0-0,0.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,12.0,8.0,4.0,7.0,4.0,5.0,0.0,0.0,1.7142857142857142,0.25,1.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Jonquel Jones,C,28,5-8,1-4,3-3,1.0,4.0,5.0,3.0,0.0,0.0,0.0,4.0,14.0,7.0,5.0,8.0,1.0,4.0,3.0,3.0,0.75,0.6,999.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Sabrina Ionescu,G,30,5-12,2-6,4-4,1.0,9.0,10.0,4.0,1.0,0.0,2.0,0.0,16.0,5.0,5.0,12.0,2.0,6.0,4.0,4.0,0.8333333333333334,0.8,2.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Han Xu,C,13,4-4,2-2,2-2,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,12.0,4.0,4.0,4.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Betnijah Laney-Hamilton,G,17,0-3,0-3,0-0,0.0,3.0,3.0,1.0,0.0,1.0,2.0,2.0,0.0,-2.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,,0.5
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Marine Johannes,G,18,2-6,2-5,0-0,0.0,2.0,2.0,3.0,0.0,0.0,1.0,0.0,6.0,14.0,2.0,6.0,2.0,5.0,0.0,0.0,1.0,1.5,3.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Pauline Astier,G,20,3-6,0-0,1-1,0.0,2.0,2.0,2.0,0.0,0.0,0.0,5.0,7.0,5.0,3.0,6.0,0.0,0.0,1.0,1.0,0.16666666666666666,0.6666666666666666,999.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Raquel Carrera,F,,,,,,,,,,,,,,,,,,,,,,,
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Rebekah Gardner,G,,,,,,,,,,,,,,,,,,,,,,,
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,New York Liberty,Las Vegas Aces,Rebecca Allen,G,,,,,,,,,,,,,,,,,,,,,,,
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Stephanie Talbot,F,13,1-5,1-4,0-0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,3.0,-8.0,1.0,5.0,1.0,4.0,0.0,0.0,0.6,0.0,0.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,NaLyssa Smith,F,23,3-6,0-0,1-2,0.0,1.0,1.0,0.0,1.0,2.0,0.0,2.0,7.0,-14.0,3.0,6.0,0.0,0.0,1.0,2.0,0.16666666666666666,0.0,0.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,A'ja Wilson,C,36,7-18,0-3,2-3,1.0,8.0,9.0,5.0,4.0,0.0,3.0,2.0,16.0,-11.0,7.0,18.0,0.0,3.0,2.0,3.0,0.1111111111111111,0.7142857142857143,1.667
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Chelsea Gray,G,35,4-8,2-5,1-1,0.0,5.0,5.0,8.0,2.0,1.0,1.0,0.0,11.0,-6.0,4.0,8.0,2.0,5.0,1.0,1.0,0.875,2.0,8.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Jackie Young,G,38,9-19,1-6,0-0,0.0,4.0,4.0,7.0,0.0,1.0,2.0,2.0,19.0,-7.0,9.0,19.0,1.0,6.0,0.0,0.0,0.15789473684210525,0.7777777777777778,3.5
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Cheyenne Parker-Tyus,F,17,5-7,2-2,2-2,3.0,3.0,6.0,0.0,1.0,0.0,0.0,3.0,14.0,5.0,5.0,7.0,2.0,2.0,2.0,2.0,1.1428571428571428,0.0,0.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Kierstan Bell,F,9,0-2,0-2,0-0,1.0,2.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,-8.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,,999.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Jewell Loyd,G,30,2-7,2-5,0-0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,6.0,-6.0,2.0,7.0,2.0,5.0,0.0,0.0,0.8571428571428571,0.0,0.0
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Brianna Turner,F,,,,,,,,,,,,,,,,,,,,,,,
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Janiah Barker,F,,,,,,,,,,,,,,,,,,,,,,,
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Chennedy Carter,G,,,,,,,,,,,,,,,,,,,,,,,
+20260624_NY_LV,"Wednesday, June 24, 2026",regular_season,Las Vegas Aces,New York Liberty,Dana Evans,G,,,,,,,,,,,,,,,,,,,,,,,
