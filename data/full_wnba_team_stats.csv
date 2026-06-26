@@ -261,9 +261,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260625_POR_CHI,"Thursday, June 25, 2026",Chicago Sky,Portland Fire,CHI,36-69,52,6-19,32,23-29,79,12,26,38,27,6,6,12,18,101
 20260625_ATL_GS,"Thursday, June 25, 2026",Atlanta Dream,Golden State Valkyries,ATL,25-64,39,4-18,22,12-22,55,12,22,34,16,6,3,11,16,66
 20260625_ATL_GS,"Thursday, June 25, 2026",Golden State Valkyries,Atlanta Dream,GS,27-60,45,15-32,47,8-12,67,6,26,32,20,5,7,12,20,77
-20260625_LA_TOR,"Thursday, June 25, 2026",Los Angeles Sparks,Toronto Tempo,LA,,46,,32,,,,,,,,,,,0
-20260625_LA_TOR,"Thursday, June 25, 2026",Toronto Tempo,Los Angeles Sparks,TOR,,44,,35,,,,,,,,,,,0
-20260626_DAL_LV,"Friday, June 26, 2026",Dallas Wings,Las Vegas Aces,DAL,,46,,35,,,,,,,,,,,0
-20260626_DAL_LV,"Friday, June 26, 2026",Las Vegas Aces,Dallas Wings,LV,,48,,36,,,,,,,,,,,0
-20260626_NY_SEA,"Friday, June 26, 2026",New York Liberty,Seattle Storm,NY,,46,,36,,,,,,,,,,,0
-20260626_NY_SEA,"Friday, June 26, 2026",Seattle Storm,New York Liberty,SEA,,41,,34,,,,,,,,,,,0
+20260625_LA_TOR,"Thursday, June 25, 2026",Los Angeles Sparks,Toronto Tempo,LA,33-77,43,11-38,29,20-26,77,8,22,30,20,7,2,8,23,97
+20260625_LA_TOR,"Thursday, June 25, 2026",Toronto Tempo,Los Angeles Sparks,TOR,41-80,51,20-42,48,23-27,85,15,37,52,26,5,4,10,23,125
+20260626_DAL_LV,"Friday, June 26, 2026",Dallas Wings,Las Vegas Aces,DAL,34-70,49,2-21,10,14-16,88,3,21,24,18,7,2,12,25,84
+20260626_DAL_LV,"Friday, June 26, 2026",Las Vegas Aces,Dallas Wings,LV,32-60,53,8-18,44,27-33,82,7,28,35,20,5,2,15,20,99
+20260626_NY_SEA,"Friday, June 26, 2026",New York Liberty,Seattle Storm,NY,32-71,45,10-36,28,14-20,70,7,21,28,21,9,3,13,15,88
+20260626_NY_SEA,"Friday, June 26, 2026",Seattle Storm,New York Liberty,SEA,39-75,52,9-28,32,12-15,80,13,26,39,18,8,3,15,21,99
+20260626_WSH_CON,"Friday, June 26, 2026",Washington Mystics,Connecticut Sun,WSH,,45,,29,,,,,,,,,,,0
+20260626_WSH_CON,"Friday, June 26, 2026",Connecticut Sun,Washington Mystics,CON,,43,,27,,,,,,,,,,,0
+20260626_POR_CHI,"Friday, June 26, 2026",Portland Fire,Chicago Sky,POR,,44,,35,,,,,,,,,,,0
+20260626_POR_CHI,"Friday, June 26, 2026",Chicago Sky,Portland Fire,CHI,,42,,29,,,,,,,,,,,0
+20260627_ATL_GS,"Saturday, June 27, 2026",Atlanta Dream,Golden State Valkyries,ATL,,44,,33,,,,,,,,,,,0
+20260627_ATL_GS,"Saturday, June 27, 2026",Golden State Valkyries,Atlanta Dream,GS,,41,,36,,,,,,,,,,,0
