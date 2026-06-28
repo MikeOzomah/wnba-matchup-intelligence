@@ -3491,3 +3491,79 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260627_ATL_GS,"Saturday, June 27, 2026",regular_season,Golden State Valkyries,Atlanta Dream,Kaitlyn Chen,G,18,5-9,1-2,2-2,1.0,2.0,3.0,1.0,0.0,0.0,4.0,3.0,13.0,-2.0,5.0,9.0,1.0,2.0,2.0,2.0,0.5555555555555556,0.2,0.25
 20260627_ATL_GS,"Saturday, June 27, 2026",regular_season,Golden State Valkyries,Atlanta Dream,Nadia Fingall,C,,,,,,,,,,,,,,,,,,,,,,,
 20260627_ATL_GS,"Saturday, June 27, 2026",regular_season,Golden State Valkyries,Atlanta Dream,Juste Jocyte,G,,,,,,,,,,,,,,,,,,,,,,,
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,DeWanna Bonner,F,33,4-13,3-8,2-2,2.0,9.0,11.0,3.0,3.0,0.0,1.0,1.0,13.0,-1.0,4.0,13.0,3.0,8.0,2.0,2.0,0.8461538461538461,0.75,3.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Noemie Brochant,F,28,1-4,1-3,0-0,0.0,2.0,2.0,2.0,3.0,0.0,0.0,1.0,3.0,-2.0,1.0,4.0,1.0,3.0,0.0,0.0,0.75,2.0,999.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Kyara Linskens,C,14,0-2,0-0,4-6,2.0,2.0,4.0,3.0,1.0,1.0,1.0,3.0,4.0,4.0,0.0,2.0,0.0,0.0,4.0,6.0,2.0,,3.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Kahleah Copper,G,34,10-15,1-4,6-8,1.0,4.0,5.0,1.0,0.0,0.0,1.0,3.0,27.0,-5.0,10.0,15.0,1.0,4.0,6.0,8.0,0.6,0.1,1.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Lexi Held,G,30,5-11,3-6,3-3,1.0,1.0,2.0,2.0,1.0,0.0,2.0,0.0,16.0,7.0,5.0,11.0,3.0,6.0,3.0,3.0,1.0909090909090908,0.4,1.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Valeriane Ayayi,F,27,7-14,2-5,4-4,1.0,5.0,6.0,2.0,1.0,1.0,3.0,5.0,20.0,8.0,7.0,14.0,2.0,5.0,4.0,4.0,0.7142857142857143,0.2857142857142857,0.667
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Marta Suarez,F,15,2-5,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,11.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Shay Ciezki,G,8,0-1,0-0,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,999.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Quionche Carter,G,11,0-2,0-1,2-6,0.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,11.0,0.0,2.0,0.0,1.0,2.0,6.0,1.0,,999.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Alyssa Thomas,F,,,,,,,,,,,,,,,,,,,,,,,
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Natasha Mack,F,,,,,,,,,,,,,,,,,,,,,,,
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Monique Akoa Makani,G,,,,,,,,,,,,,,,,,,,,,,,
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Isabelle Harrison,F,27,5-11,0-1,2-2,2.0,5.0,7.0,0.0,0.0,1.0,3.0,4.0,12.0,-6.0,5.0,11.0,0.0,1.0,2.0,2.0,0.18181818181818182,0.0,0.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Maria Conde,F,37,4-14,1-8,1-1,0.0,6.0,6.0,6.0,3.0,0.0,2.0,3.0,10.0,-6.0,4.0,14.0,1.0,8.0,1.0,1.0,0.2857142857142857,1.5,3.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Nyara Sabally,F,26,5-10,2-3,2-5,0.0,4.0,4.0,1.0,0.0,0.0,2.0,5.0,14.0,-18.0,5.0,10.0,2.0,3.0,2.0,5.0,0.8,0.2,0.5
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Kia Nurse,G,22,4-9,3-5,1-2,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,12.0,-18.0,4.0,9.0,3.0,5.0,1.0,2.0,1.1111111111111112,0.25,999.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Julie Allemand,G,39,4-6,3-5,0-0,0.0,7.0,7.0,10.0,0.0,1.0,2.0,0.0,11.0,-8.0,4.0,6.0,3.0,5.0,0.0,0.0,1.5,2.5,5.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Laura Juskaite,F,11,0-1,0-0,0-0,0.0,4.0,4.0,1.0,0.0,0.0,2.0,2.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.5
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Temi Fagbenle,C,19,4-6,0-1,0-2,1.0,3.0,4.0,3.0,0.0,0.0,0.0,2.0,8.0,-1.0,4.0,6.0,0.0,1.0,0.0,2.0,0.0,0.75,999.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Tima Pouye,G,20,5-10,3-7,0-0,1.0,1.0,2.0,4.0,1.0,0.0,1.0,5.0,13.0,6.0,5.0,10.0,3.0,7.0,0.0,0.0,0.9,0.8,4.0
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Teonni Key,F,,,,,,,,,,,,,,,,,,,,,,,
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Brittney Sykes,G,,,,,,,,,,,,,,,,,,,,,,,
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Marina Mabrey,G,,,,,,,,,,,,,,,,,,,,,,,
+20260627_PHX_TOR,"Saturday, June 27, 2026",regular_season,Toronto Tempo,Phoenix Mercury,Kiki Rice,G,,,,,,,,,,,,,,,,,,,,,,,
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Nneka Ogwumike,F,26,7-13,0-3,3-4,0.0,7.0,7.0,2.0,1.0,2.0,3.0,0.0,17.0,-13.0,7.0,13.0,0.0,3.0,3.0,4.0,0.23076923076923078,0.2857142857142857,0.667
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Dearica Hamby,F,26,6-14,0-1,3-4,2.0,2.0,4.0,4.0,0.0,0.0,2.0,6.0,15.0,-37.0,6.0,14.0,0.0,1.0,3.0,4.0,0.21428571428571427,0.6666666666666666,2.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Erica Wheeler,G,21,1-3,0-2,0-0,0.0,0.0,0.0,5.0,0.0,1.0,2.0,2.0,2.0,-23.0,1.0,3.0,0.0,2.0,0.0,0.0,0.0,5.0,2.5
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Ariel Atkins,G,22,5-8,2-2,0-0,1.0,2.0,3.0,3.0,1.0,0.0,0.0,4.0,12.0,-12.0,5.0,8.0,2.0,2.0,0.0,0.0,0.75,0.6,999.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Rae Burrell,G,28,4-15,0-3,3-4,1.0,1.0,2.0,1.0,0.0,0.0,2.0,4.0,11.0,-24.0,4.0,15.0,0.0,3.0,3.0,4.0,0.2,0.25,0.5
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Emma Cannon,F,7,1-2,1-2,3-4,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,6.0,2.0,1.0,2.0,1.0,2.0,3.0,4.0,3.0,1.0,999.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Jihyun Park,F,24,3-6,1-3,1-1,0.0,4.0,4.0,1.0,1.0,1.0,0.0,1.0,8.0,-11.0,3.0,6.0,1.0,3.0,1.0,1.0,0.6666666666666666,0.3333333333333333,999.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Laura Ziegler,F,8,1-2,0-0,2-2,0.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,4.0,4.0,1.0,2.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Kiana Williams,G,19,2-7,0-3,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,-1.0,2.0,7.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Ta'Niya Latson,G,7,1-3,0-0,0-0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Chance Gray,G,11,2-4,0-1,2-2,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,6.0,-5.0,2.0,4.0,0.0,1.0,2.0,2.0,0.5,2.0,999.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Cameron Brink,F,,,,,,,,,,,,,,,,,,,,,,,
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Kelsey Plum,G,,,,,,,,,,,,,,,,,,,,,,,
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Monique Billings,F,22,6-10,0-0,3-5,3.0,3.0,6.0,2.0,2.0,0.0,0.0,2.0,15.0,38.0,6.0,10.0,0.0,0.0,3.0,5.0,0.3,0.3333333333333333,999.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Aliyah Boston,C,21,5-6,1-1,6-6,2.0,5.0,7.0,3.0,0.0,3.0,2.0,2.0,17.0,23.0,5.0,6.0,1.0,1.0,6.0,6.0,1.5,0.6,1.5
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Kelsey Mitchell,G,26,9-13,4-6,4-4,0.0,3.0,3.0,2.0,0.0,0.0,2.0,2.0,26.0,30.0,9.0,13.0,4.0,6.0,4.0,4.0,1.2307692307692308,0.2222222222222222,1.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Tyasha Harris,G,30,5-8,2-4,4-5,0.0,5.0,5.0,3.0,0.0,0.0,2.0,0.0,16.0,27.0,5.0,8.0,2.0,4.0,4.0,5.0,1.25,0.6,1.5
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Lexie Hull,G,22,2-7,1-4,0-0,1.0,6.0,7.0,3.0,1.0,1.0,0.0,5.0,5.0,21.0,2.0,7.0,1.0,4.0,0.0,0.0,0.42857142857142855,1.5,999.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Myisha Hines-Allen,F,9,3-6,0-0,1-2,1.0,2.0,3.0,3.0,1.0,1.0,1.0,2.0,7.0,-2.0,3.0,6.0,0.0,0.0,1.0,2.0,0.16666666666666666,1.0,3.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Makayla Timpson,F,10,0-0,0-0,5-6,1.0,1.0,2.0,0.0,1.0,0.0,0.0,1.0,5.0,-6.0,0.0,0.0,0.0,0.0,5.0,6.0,,,0.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Grace VanSlooten,F,5,2-2,0-0,0-0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,4.0,-6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.5,999.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Damiris Dantas,C,4,0-4,0-1,0-0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,-8.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,,1.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Sophie Cunningham,G,20,2-4,1-1,4-5,0.0,2.0,2.0,1.0,1.0,0.0,1.0,3.0,9.0,8.0,2.0,4.0,1.0,1.0,4.0,5.0,1.75,0.5,1.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Raven Johnson,G,21,1-2,0-1,0-0,1.0,2.0,3.0,4.0,0.0,0.0,3.0,4.0,2.0,-1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,1.333
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Bree Hall,G,10,2-5,1-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,-4.0,2.0,5.0,1.0,1.0,0.0,0.0,0.6,0.0,0.0
+20260628_LA_IND,"Sunday, June 28, 2026",regular_season,Indiana Fever,Los Angeles Sparks,Caitlin Clark,G,,,,,,,,,,,,,,,,,,,,,,,
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Angel Reese,F,32,4-10,0-0,9-11,1.0,8.0,9.0,0.0,2.0,0.0,4.0,1.0,17.0,-10.0,4.0,10.0,0.0,0.0,9.0,11.0,0.9,0.0,0.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Madina Okot,C,11,2-4,0-0,2-2,3.0,2.0,5.0,0.0,0.0,0.0,2.0,1.0,6.0,-16.0,2.0,4.0,0.0,0.0,2.0,2.0,0.5,0.0,0.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Allisha Gray,G,35,5-16,1-7,4-4,1.0,2.0,3.0,2.0,1.0,0.0,1.0,5.0,15.0,-20.0,5.0,16.0,1.0,7.0,4.0,4.0,0.4375,0.4,2.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Jordin Canada,G,36,3-5,0-1,2-2,1.0,3.0,4.0,10.0,1.0,0.0,3.0,4.0,8.0,-16.0,3.0,5.0,0.0,1.0,2.0,2.0,0.4,3.3333333333333335,3.333
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Rhyne Howard,G,38,10-17,4-10,3-3,0.0,0.0,0.0,3.0,1.0,0.0,1.0,1.0,27.0,-17.0,10.0,17.0,4.0,10.0,3.0,3.0,0.8823529411764706,0.3,3.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Amy Okonkwo,F,1,0-1,0-1,1-2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,,0.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Sika Kone,F,14,2-5,0-2,2-2,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,6.0,7.0,2.0,5.0,0.0,2.0,2.0,2.0,0.4,1.0,999.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Te-Hina Paopao,G,18,1-6,1-5,0-0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,1.0,3.0,2.0,1.0,6.0,1.0,5.0,0.0,0.0,0.5,4.0,999.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Indya Nivar,G,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Isobel Borlase,G,14,3-6,1-3,0-0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,2.0,7.0,-5.0,3.0,6.0,1.0,3.0,0.0,0.0,0.5,0.3333333333333333,1.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Brionna Jones,F,,,,,,,,,,,,,,,,,,,,,,,
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Naz Hillmon,F,,,,,,,,,,,,,,,,,,,,,,,
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Atlanta Dream,Seattle Storm,Aaliyah Nye,G,,,,,,,,,,,,,,,,,,,,,,,
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Dominique Malonga,C,28,7-13,1-2,1-2,1.0,10.0,11.0,3.0,2.0,3.0,6.0,6.0,16.0,11.0,7.0,13.0,1.0,2.0,1.0,2.0,0.3076923076923077,0.42857142857142855,0.5
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Awa Fam,C,28,8-9,5-6,0-0,1.0,0.0,1.0,1.0,0.0,1.0,4.0,4.0,21.0,15.0,8.0,9.0,5.0,6.0,0.0,0.0,1.6666666666666667,0.125,0.25
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Natisha Hiedeman,G,31,6-10,2-5,6-6,0.0,2.0,2.0,6.0,0.0,0.0,1.0,1.0,20.0,16.0,6.0,10.0,2.0,5.0,6.0,6.0,1.2,1.0,6.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Flau'jae Johnson,G,33,9-12,2-3,4-5,2.0,9.0,11.0,4.0,2.0,0.0,4.0,3.0,24.0,12.0,9.0,12.0,2.0,3.0,4.0,5.0,0.8333333333333334,0.4444444444444444,1.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Jade Melbourne,G,31,4-9,2-2,0-0,1.0,3.0,4.0,5.0,1.0,0.0,0.0,2.0,10.0,25.0,4.0,9.0,2.0,2.0,0.0,0.0,0.6666666666666666,1.25,999.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Katie Lou Samuelson,F,17,0-4,0-3,2-2,1.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,2.0,10.0,0.0,4.0,0.0,3.0,2.0,2.0,0.5,,999.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Mackenzie Holmes,F,1,0-0,0-0,1-2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,,,0.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Taylor Thierry,F,6,0-1,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Stefanie Dolson,C,13,2-3,1-1,0-0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,4.0,5.0,-5.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,1.5,3.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Zia Cooke,G,11,2-2,1-1,1-3,0.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,6.0,-4.0,2.0,2.0,1.0,1.0,1.0,3.0,2.0,1.0,2.0
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Ezi Magbegor,F,,,,,,,,,,,,,,,,,,,,,,,
+20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Jordan Horston,F,,,,,,,,,,,,,,,,,,,,,,,
