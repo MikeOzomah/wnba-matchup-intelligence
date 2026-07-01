@@ -287,5 +287,5 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260628_LV_CHI,"Sunday, June 28, 2026",Chicago Sky,Las Vegas Aces,CHI,37-80,46,9-24,38,16-25,64,11,25,36,27,8,1,11,26,99
 20260628_NY_GS,"Sunday, June 28, 2026",New York Liberty,Golden State Valkyries,NY,21-52,40,9-25,36,16-21,76,4,20,24,14,5,2,11,21,67
 20260628_NY_GS,"Sunday, June 28, 2026",Golden State Valkyries,New York Liberty,GS,28-65,43,7-28,25,13-18,72,7,23,30,20,5,2,8,24,76
-20260630_LV_NY,"Tuesday, June 30, 2026",Las Vegas Aces,New York Liberty,LV,,49,,37,,,,,,,,,,,0
-20260630_LV_NY,"Tuesday, June 30, 2026",New York Liberty,Las Vegas Aces,NY,,46,,36,,,,,,,,,,,0
+20260630_LV_NY,"Tuesday, June 30, 2026",Las Vegas Aces,New York Liberty,LV,34-79,43,6-26,23,11-14,79,10,20,30,21,8,0,9,24,85
+20260630_LV_NY,"Tuesday, June 30, 2026",New York Liberty,Las Vegas Aces,NY,31-66,47,7-25,28,24-29,83,10,32,42,18,6,5,13,19,93
