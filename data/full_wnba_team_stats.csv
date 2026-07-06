@@ -303,7 +303,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260704_GS_ATL,"Saturday, July 04, 2026",Atlanta Dream,Golden State Valkyries,ATL,26-66,39,8-26,31,23-33,70,12,25,37,18,6,1,17,20,83
 20260705_POR_SEA,"Sunday, July 05, 2026",Portland Fire,Seattle Storm,POR,25-68,37,4-25,16,23-25,92,10,37,47,17,9,3,19,19,77
 20260705_POR_SEA,"Sunday, July 05, 2026",Seattle Storm,Portland Fire,SEA,24-71,34,8-29,28,16-18,89,6,25,31,16,14,3,14,22,72
-20260705_DAL_TOR,"Sunday, July 05, 2026",Dallas Wings,Toronto Tempo,DAL,,46,,33,,,,,,,,,,,0
-20260705_DAL_TOR,"Sunday, July 05, 2026",Toronto Tempo,Dallas Wings,TOR,,45,,37,,,,,,,,,,,0
-20260705_IND_LV,"Sunday, July 05, 2026",Indiana Fever,Las Vegas Aces,IND,,47,,36,,,,,,,,,,,0
-20260705_IND_LV,"Sunday, July 05, 2026",Las Vegas Aces,Indiana Fever,LV,,49,,36,,,,,,,,,,,0
+20260705_DAL_TOR,"Sunday, July 05, 2026",Dallas Wings,Toronto Tempo,DAL,33-75,44,10-28,36,13-14,93,16,26,42,16,7,6,11,22,89
+20260705_DAL_TOR,"Sunday, July 05, 2026",Toronto Tempo,Dallas Wings,TOR,28-72,39,10-29,34,10-14,71,13,22,35,16,5,3,13,14,76
+20260705_IND_LV,"Sunday, July 05, 2026",Indiana Fever,Las Vegas Aces,IND,30-70,43,9-23,39,15-20,75,13,26,39,18,5,3,7,20,84
+20260705_IND_LV,"Sunday, July 05, 2026",Las Vegas Aces,Indiana Fever,LV,22-55,40,4-19,21,20-25,80,6,24,30,14,5,1,13,17,68
+20260706_GS_WSH,"Monday, July 06, 2026",Golden State Valkyries,Washington Mystics,GS,,41,,35,,,,,,,,,,,0
+20260706_GS_WSH,"Monday, July 06, 2026",Washington Mystics,Golden State Valkyries,WSH,,45,,31,,,,,,,,,,,0
+20260707_CON_MIN,"Tuesday, July 07, 2026",Connecticut Sun,Minnesota Lynx,CON,,43,,27,,,,,,,,,,,0
+20260707_CON_MIN,"Tuesday, July 07, 2026",Minnesota Lynx,Connecticut Sun,MIN,,48,,37,,,,,,,,,,,0
+20260707_SEA_LA,"Tuesday, July 07, 2026",Seattle Storm,Los Angeles Sparks,SEA,,42,,34,,,,,,,,,,,0
+20260707_SEA_LA,"Tuesday, July 07, 2026",Los Angeles Sparks,Seattle Storm,LA,,46,,32,,,,,,,,,,,0

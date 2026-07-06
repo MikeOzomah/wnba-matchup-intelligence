@@ -2842,6 +2842,30 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260618_MIN_LA,"Thursday, June 18, 2026",regular_season,Los Angeles Sparks,Minnesota Lynx,Ta'Niya Latson,G,12,0-2,0-1,6-9,1.0,2.0,3.0,2.0,0.0,0.0,2.0,0.0,6.0,-4.0,0.0,2.0,0.0,1.0,6.0,9.0,3.0,,1.0
 20260618_MIN_LA,"Thursday, June 18, 2026",regular_season,Los Angeles Sparks,Minnesota Lynx,Chance Gray,G,13,2-3,2-3,2-2,0.0,2.0,2.0,2.0,0.0,0.0,2.0,1.0,8.0,-9.0,2.0,3.0,2.0,3.0,2.0,2.0,2.6666666666666665,1.0,1.0
 20260618_MIN_LA,"Thursday, June 18, 2026",regular_season,Los Angeles Sparks,Minnesota Lynx,Laura Ziegler,F,,,,,,,,,,,,,,,,,,,,,,,
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Stephanie Talbot,F,20,1-2,1-1,0-0,0.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.5,1.0,999.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,NaLyssa Smith,F,31,8-10,0-0,5-8,2.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,21.0,11.0,8.0,10.0,0.0,0.0,5.0,8.0,0.5,0.25,999.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,A'ja Wilson,C,37,11-20,0-2,11-13,4.0,6.0,10.0,3.0,5.0,2.0,2.0,2.0,33.0,14.0,11.0,20.0,0.0,2.0,11.0,13.0,0.55,0.2727272727272727,1.5
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Chelsea Gray,G,35,2-10,0-4,1-1,0.0,4.0,4.0,9.0,2.0,0.0,3.0,2.0,5.0,15.0,2.0,10.0,0.0,4.0,1.0,1.0,0.1,4.5,3.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Jackie Young,G,38,7-15,4-8,2-3,1.0,0.0,1.0,9.0,5.0,1.0,3.0,2.0,20.0,13.0,7.0,15.0,4.0,8.0,2.0,3.0,0.9333333333333333,1.2857142857142858,3.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Cheyenne Parker-Tyus,F,4,1-2,0-0,0-0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,-9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Brianna Turner,F,8,1-1,0-0,0-0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,1.0,2.0,6.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Kierstan Bell,F,5,0-1,0-1,0-0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-11.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Jewell Loyd,G,24,0-7,0-5,0-0,2.0,1.0,3.0,1.0,2.0,0.0,0.0,3.0,0.0,10.0,0.0,7.0,0.0,5.0,0.0,0.0,0.0,,999.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Janiah Barker,F,,,,,,,,,,,,,,,,,,,,,,,
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Chennedy Carter,G,,,,,,,,,,,,,,,,,,,,,,,
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Dana Evans,G,,,,,,,,,,,,,,,,,,,,,,,
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Alyssa Thomas,F,35,4-10,0-0,2-2,1.0,4.0,5.0,11.0,0.0,0.0,6.0,5.0,10.0,-11.0,4.0,10.0,0.0,0.0,2.0,2.0,0.2,2.75,1.833
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Natasha Mack,F,23,0-3,0-1,0-0,3.0,5.0,8.0,0.0,0.0,1.0,0.0,3.0,0.0,-6.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Noemie Brochant,F,19,2-3,0-1,0-0,0.0,3.0,3.0,1.0,1.0,0.0,1.0,0.0,4.0,-11.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,0.5,1.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Kahleah Copper,G,30,9-16,1-4,7-7,0.0,4.0,4.0,3.0,0.0,0.0,4.0,4.0,26.0,-1.0,9.0,16.0,1.0,4.0,7.0,7.0,0.625,0.3333333333333333,0.75
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Monique Akoa Makani,G,20,1-3,0-1,2-2,0.0,3.0,3.0,1.0,1.0,0.0,3.0,1.0,4.0,-10.0,1.0,3.0,0.0,1.0,2.0,2.0,0.6666666666666666,1.0,0.333
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,DeWanna Bonner,F,20,3-6,2-4,2-3,0.0,3.0,3.0,1.0,2.0,0.0,0.0,2.0,10.0,-6.0,3.0,6.0,2.0,4.0,2.0,3.0,1.3333333333333333,0.3333333333333333,999.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Valeriane Ayayi,F,11,0-2,0-1,0-0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,3.0,0.0,3.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,,0.5
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Kyara Linskens,C,5,1-2,1-1,0-0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,3.0,-2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.5,0.0,0.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Jovana Nogic,G,21,4-7,4-6,0-0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,12.0,-4.0,4.0,7.0,4.0,6.0,0.0,0.0,1.7142857142857142,0.0,0.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Lexi Held,G,15,3-5,1-2,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,7.0,-2.0,3.0,5.0,1.0,2.0,0.0,0.0,0.6,0.0,0.0
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
+20260618_LV_PHX,"Thursday, June 18, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Quionche Carter,G,,,,,,,,,,,,,,,,,,,,,,,
 20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Seattle Storm,Portland Fire,Dominique Malonga,C,35,12-19,0-0,4-6,3.0,8.0,11.0,3.0,2.0,3.0,1.0,0.0,28.0,-2.0,12.0,19.0,0.0,0.0,4.0,6.0,0.21052631578947367,0.25,3.0
 20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Seattle Storm,Portland Fire,Awa Fam,C,29,6-10,3-5,3-3,3.0,2.0,5.0,1.0,0.0,0.0,1.0,4.0,18.0,-14.0,6.0,10.0,3.0,5.0,3.0,3.0,1.2,0.16666666666666666,1.0
 20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Seattle Storm,Portland Fire,Natisha Hiedeman,G,33,6-14,5-8,2-2,0.0,4.0,4.0,6.0,1.0,0.0,5.0,1.0,19.0,-3.0,6.0,14.0,5.0,8.0,2.0,2.0,1.2142857142857142,1.0,1.2
@@ -3821,3 +3845,49 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Seattle Storm,Portland Fire,Zia Cooke,G,16,0-4,0-3,4-4,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,4.0,-5.0,0.0,4.0,0.0,3.0,4.0,4.0,1.0,,999.0
 20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Seattle Storm,Portland Fire,Mackenzie Holmes,F,,,,,,,,,,,,,,,,,,,,,,,
 20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Seattle Storm,Portland Fire,Taylor Thierry,F,,,,,,,,,,,,,,,,,,,,,,,
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Jessica Shepard,F,32,5-11,0-1,4-4,6.0,9.0,15.0,3.0,1.0,0.0,3.0,3.0,14.0,27.0,5.0,11.0,0.0,1.0,4.0,4.0,0.36363636363636365,0.6,1.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Awak Kuier,F,21,4-6,2-2,0-0,1.0,5.0,6.0,0.0,1.0,3.0,0.0,1.0,10.0,16.0,4.0,6.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Arike Ogunbowale,G,27,4-13,1-7,1-1,3.0,3.0,6.0,2.0,0.0,0.0,0.0,2.0,10.0,24.0,4.0,13.0,1.0,7.0,1.0,1.0,0.3076923076923077,0.5,999.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Paige Bueckers,G,31,9-16,1-3,3-3,1.0,2.0,3.0,7.0,0.0,0.0,2.0,3.0,22.0,25.0,9.0,16.0,1.0,3.0,3.0,3.0,0.375,0.7777777777777778,3.5
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Azzi Fudd,G,30,6-16,5-11,0-1,1.0,2.0,3.0,2.0,3.0,1.0,0.0,3.0,17.0,22.0,6.0,16.0,5.0,11.0,0.0,1.0,0.9375,0.3333333333333333,999.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Alysha Clark,F,6,1-2,1-2,0-0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,3.0,-9.0,1.0,2.0,1.0,2.0,0.0,0.0,1.5,0.0,0.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Alanna Smith,F,14,0-2,0-2,2-2,3.0,1.0,4.0,1.0,1.0,1.0,0.0,2.0,2.0,7.0,0.0,2.0,0.0,2.0,2.0,2.0,1.0,,999.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Maddy Siegrist,F,8,0-1,0-0,2-2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-14.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,,0.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Li Yueru,C,4,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,-10.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Odyssey Sims,G,8,1-2,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,-13.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Sug Sutton,G,9,2-2,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,4.0,-5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.5,1.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Dallas Wings,Toronto Tempo,Aziaha James,G,10,1-4,0-0,1-1,1.0,3.0,4.0,0.0,0.0,0.0,1.0,0.0,3.0,-5.0,1.0,4.0,0.0,0.0,1.0,1.0,0.25,0.0,0.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Isabelle Harrison,F,27,5-10,0-1,3-4,2.0,3.0,5.0,1.0,1.0,1.0,3.0,2.0,13.0,-13.0,5.0,10.0,0.0,1.0,3.0,4.0,0.3,0.2,0.333
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Maria Conde,F,29,1-10,1-3,0-0,4.0,6.0,10.0,3.0,0.0,0.0,3.0,0.0,3.0,-12.0,1.0,10.0,1.0,3.0,0.0,0.0,0.3,3.0,1.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Nyara Sabally,F,29,6-10,1-2,1-3,1.0,6.0,7.0,5.0,1.0,0.0,2.0,3.0,14.0,-13.0,6.0,10.0,1.0,2.0,1.0,3.0,0.4,0.8333333333333334,2.5
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Marina Mabrey,G,31,7-18,3-9,2-2,3.0,2.0,5.0,5.0,1.0,1.0,1.0,2.0,19.0,-19.0,7.0,18.0,3.0,9.0,2.0,2.0,0.6111111111111112,0.7142857142857143,5.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Tima Pouye,G,21,1-6,1-3,0-0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,3.0,-12.0,1.0,6.0,1.0,3.0,0.0,0.0,0.5,1.0,1.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Teonni Key,F,10,1-1,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Laura Juskaite,F,24,3-7,1-3,1-2,2.0,3.0,5.0,1.0,1.0,1.0,1.0,2.0,8.0,-1.0,3.0,7.0,1.0,3.0,1.0,2.0,0.5714285714285714,0.3333333333333333,1.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Kia Nurse,G,21,4-9,3-7,1-1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,2.0,12.0,3.0,4.0,9.0,3.0,7.0,1.0,1.0,1.1111111111111112,0.0,0.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Ornella Bankole,G,8,0-1,0-1,2-2,1.0,1.0,2.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,2.0,,0.0
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Temi Fagbenle,C,,,,,,,,,,,,,,,,,,,,,,,
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Brittney Sykes,G,,,,,,,,,,,,,,,,,,,,,,,
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Julie Allemand,G,,,,,,,,,,,,,,,,,,,,,,,
+20260705_DAL_TOR,"Sunday, July 05, 2026",regular_season,Toronto Tempo,Dallas Wings,Kiki Rice,G,,,,,,,,,,,,,,,,,,,,,,,
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Monique Billings,F,21,3-5,0-0,0-0,2.0,4.0,6.0,2.0,2.0,1.0,2.0,2.0,6.0,10.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.6666666666666666,1.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Aliyah Boston,C,31,7-13,3-4,1-4,3.0,7.0,10.0,1.0,0.0,2.0,1.0,2.0,18.0,16.0,7.0,13.0,3.0,4.0,1.0,4.0,0.7692307692307693,0.14285714285714285,1.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Kelsey Mitchell,G,33,7-18,3-9,10-12,1.0,1.0,2.0,3.0,1.0,0.0,1.0,3.0,27.0,18.0,7.0,18.0,3.0,9.0,10.0,12.0,1.0555555555555556,0.42857142857142855,3.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Tyasha Harris,G,26,0-4,0-0,4-4,0.0,1.0,1.0,5.0,0.0,0.0,0.0,2.0,4.0,10.0,0.0,4.0,0.0,0.0,4.0,4.0,1.0,,999.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Lexie Hull,G,22,5-10,0-2,0-0,2.0,2.0,4.0,1.0,2.0,0.0,1.0,4.0,10.0,4.0,5.0,10.0,0.0,2.0,0.0,0.0,0.0,0.2,1.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Myisha Hines-Allen,F,14,1-3,0-0,0-0,1.0,4.0,5.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Makayla Timpson,F,8,1-2,0-0,0-0,1.0,3.0,4.0,1.0,0.0,0.0,0.0,1.0,2.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,999.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Grace VanSlooten,F,2,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Sophie Cunningham,G,21,3-6,3-5,0-0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,9.0,13.0,3.0,6.0,3.0,5.0,0.0,0.0,1.5,0.3333333333333333,1.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Raven Johnson,G,22,3-9,0-3,0-0,3.0,3.0,6.0,2.0,0.0,0.0,0.0,2.0,6.0,6.0,3.0,9.0,0.0,3.0,0.0,0.0,0.0,0.6666666666666666,999.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Damiris Dantas,C,,,,,,,,,,,,,,,,,,,,,,,
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Indiana Fever,Las Vegas Aces,Bree Hall,G,,,,,,,,,,,,,,,,,,,,,,,
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Las Vegas Aces,Indiana Fever,Cheyenne Parker-Tyus,F,13,3-5,0-2,3-4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,9.0,1.0,3.0,5.0,0.0,2.0,3.0,4.0,0.6,0.0,0.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Las Vegas Aces,Indiana Fever,NaLyssa Smith,F,24,3-8,0-1,3-6,1.0,9.0,10.0,1.0,0.0,0.0,0.0,3.0,9.0,-8.0,3.0,8.0,0.0,1.0,3.0,6.0,0.375,0.3333333333333333,999.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Las Vegas Aces,Indiana Fever,Chelsea Gray,G,31,2-11,0-3,6-6,0.0,4.0,4.0,6.0,2.0,0.0,2.0,1.0,10.0,-16.0,2.0,11.0,0.0,3.0,6.0,6.0,0.5454545454545454,3.0,3.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Las Vegas Aces,Indiana Fever,Jewell Loyd,G,32,3-9,2-5,4-5,1.0,2.0,3.0,1.0,1.0,0.0,2.0,3.0,12.0,-11.0,3.0,9.0,2.0,5.0,4.0,5.0,1.1111111111111112,0.3333333333333333,0.5
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Las Vegas Aces,Indiana Fever,Jackie Young,G,33,6-13,1-5,2-2,0.0,2.0,2.0,4.0,1.0,0.0,5.0,2.0,15.0,-14.0,6.0,13.0,1.0,5.0,2.0,2.0,0.38461538461538464,0.6666666666666666,0.8
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Las Vegas Aces,Indiana Fever,Stephanie Talbot,F,17,2-3,1-2,2-2,2.0,2.0,4.0,1.0,0.0,0.0,0.0,1.0,7.0,-9.0,2.0,3.0,1.0,2.0,2.0,2.0,1.6666666666666667,0.5,999.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Las Vegas Aces,Indiana Fever,Brianna Turner,F,28,3-3,0-0,0-0,1.0,4.0,5.0,0.0,0.0,1.0,2.0,2.0,6.0,-15.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Las Vegas Aces,Indiana Fever,Kierstan Bell,F,6,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260705_IND_LV,"Sunday, July 05, 2026",regular_season,Las Vegas Aces,Indiana Fever,Chennedy Carter,G,15,0-2,0-0,0-0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,0.0,-9.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,999.0
