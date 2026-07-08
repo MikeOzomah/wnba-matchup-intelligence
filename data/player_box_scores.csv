@@ -3963,3 +3963,50 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260707_SEA_LA,"Tuesday, July 07, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Kate Martin,G,17,1-7,1-6,5-6,1,5,6,0,1,0,0,1,8,+1
 20260707_SEA_LA,"Tuesday, July 07, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Chance Gray,G,14,1-2,1-2,0-0,0,3,3,0,0,0,0,0,3,+4
 20260707_SEA_LA,"Tuesday, July 07, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Alissa Pili,F,,,,,,,,,,,,,,
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Jessica Shepard,F,37,11-16,0-0,0-0,3,9,12,11,0,0,4,3,22,+2
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Awak Kuier,F,28,3-6,3-4,1-1,4,8,12,7,0,3,1,4,10,+8
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Arike Ogunbowale,G,32,3-8,0-4,2-2,1,0,1,1,1,0,1,4,8,+11
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Paige Bueckers,G,33,5-15,1-5,4-4,1,6,7,6,0,2,1,1,15,+15
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Azzi Fudd,G,34,6-13,0-4,0-0,0,0,0,3,2,0,0,1,12,0
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Alanna Smith,F,16,3-8,1-3,1-1,1,4,5,1,0,0,1,2,8,+12
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Odyssey Sims,G,12,2-5,0-1,4-4,0,1,1,0,0,0,0,1,8,+1
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Aziaha James,G,9,2-5,1-2,0-0,0,0,0,0,0,0,1,1,5,+6
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Alysha Clark,F,,,,,,,,,,,,,,
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Maddy Siegrist,F,,,,,,,,,,,,,,
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Li Yueru,C,,,,,,,,,,,,,,
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Sug Sutton,G,,,,,,,,,,,,,,
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Haley Jones,G,,,,,,,,,,,,,,
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,Dallas Wings,New York Liberty,Costanza Verona,G,,,,,,,,,,,,,,
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Breanna Stewart,F,33,10-16,0-3,9-11,2,7,9,4,1,0,2,4,29,-13
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Jonquel Jones,C,32,6-11,3-6,2-2,1,11,12,2,0,2,4,4,17,-2
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Rebekah Gardner,G,26,0-4,0-1,4-4,1,2,3,1,1,0,0,3,4,-3
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Sabrina Ionescu,G,33,5-15,2-7,2-2,1,2,3,5,0,1,4,3,14,-5
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Pauline Astier,G,23,2-4,0-2,0-0,0,2,2,1,0,0,2,1,4,-5
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Raquel Carrera,F,5,0-0,0-0,0-0,0,0,0,1,0,0,0,0,0,-3
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Han Xu,C,8,1-3,0-1,0-0,2,1,3,0,0,0,0,0,2,-9
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Betnijah Laney-Hamilton,G,15,0-5,0-1,0-0,0,0,0,1,0,0,0,2,0,-9
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Rebecca Allen,G,4,0-0,0-0,0-0,0,0,0,0,0,1,1,0,0,+7
+20260708_DAL_NY,"Wednesday, July 08, 2026",regular_season,New York Liberty,Dallas Wings,Marine Johannes,G,21,2-7,0-5,3-3,0,2,2,1,1,0,1,1,7,-13
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Azura Stevens,F,26,3-10,1-3,2-2,2,8,10,2,2,0,3,4,9,-3
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Kamilla Cardoso,C,28,4-7,0-0,1-3,1,3,4,4,2,4,1,2,9,+1
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Courtney Vandersloot,G,18,2-6,1-4,2-4,1,2,3,1,0,0,2,1,7,0
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Natasha Cloud,G,32,3-8,3-7,2-2,0,4,4,6,2,0,1,4,11,+8
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Sydney Taylor,G,23,6-11,3-7,1-1,0,1,1,1,0,0,4,5,16,-5
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Elizabeth Williams,C,12,2-4,0-0,0-0,2,0,2,2,0,0,1,2,4,+10
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Rachel Banham,G,12,2-5,1-2,2-2,0,2,2,1,1,1,2,2,7,+10
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Jacy Sheldon,G,17,1-3,1-2,0-2,0,1,1,2,1,0,0,1,3,+7
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Aicha Coulibaly,G,14,2-3,0-0,4-4,1,6,7,1,1,0,1,1,8,+14
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Gabriela Jaquez,G,18,1-5,1-2,0-0,0,1,1,1,2,0,2,1,3,+13
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,Skylar Diggins,G,,,,,,,,,,,,,,
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Chicago Sky,Phoenix Mercury,DiJonai Carrington,G,,,,,,,,,,,,,,
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,DeWanna Bonner,F,31,3-6,2-5,4-4,0,7,7,0,1,1,1,2,12,-6
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Alyssa Thomas,F,31,3-7,0-0,5-7,0,7,7,5,4,1,5,2,11,-6
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Valeriane Ayayi,F,28,3-6,1-4,2-2,2,4,6,0,1,0,4,3,9,-7
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Kahleah Copper,G,34,9-19,4-10,3-5,3,1,4,1,1,0,4,3,25,-9
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Lexi Held,G,27,0-4,0-1,0-0,1,0,1,2,1,0,1,2,0,+5
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Marta Suarez,F,6,0-3,0-1,0-0,0,1,1,0,0,0,1,0,0,-8
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Noemie Brochant,F,17,0-2,0-2,0-0,0,3,3,0,2,0,0,0,0,-6
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Kyara Linskens,C,8,0-2,0-1,0-0,0,1,1,0,0,1,1,3,0,-2
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Monique Akoa Makani,G,17,2-5,0-0,5-6,0,1,1,1,1,0,3,4,9,-16
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Natasha Mack,F,,,,,,,,,,,,,,
+20260708_CHI_PHX,"Wednesday, July 08, 2026",regular_season,Phoenix Mercury,Chicago Sky,Sami Whitcomb,G,,,,,,,,,,,,,,
