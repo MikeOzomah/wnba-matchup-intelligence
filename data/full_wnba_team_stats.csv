@@ -317,9 +317,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260708_DAL_NY,"Wednesday, July 08, 2026",New York Liberty,Dallas Wings,NY,26-65,40,5-26,19,20-22,91,7,27,34,16,3,4,14,18,77
 20260708_CHI_PHX,"Wednesday, July 08, 2026",Chicago Sky,Phoenix Mercury,CHI,26-62,42,11-27,41,14-20,70,7,28,35,21,11,5,17,23,77
 20260708_CHI_PHX,"Wednesday, July 08, 2026",Phoenix Mercury,Chicago Sky,PHX,20-54,37,7-24,29,19-24,79,6,25,31,9,11,3,20,19,66
-20260708_GS_TOR,"Wednesday, July 08, 2026",Golden State Valkyries,Toronto Tempo,GS,,41,,34,,,,,,,,,,,0
-20260708_GS_TOR,"Wednesday, July 08, 2026",Toronto Tempo,Golden State Valkyries,TOR,,44,,37,,,,,,,,,,,0
-20260708_MIN_CON,"Wednesday, July 08, 2026",Minnesota Lynx,Connecticut Sun,MIN,,48,,37,,,,,,,,,,,0
-20260708_MIN_CON,"Wednesday, July 08, 2026",Connecticut Sun,Minnesota Lynx,CON,,43,,28,,,,,,,,,,,0
-20260709_IND_LA,"Thursday, July 09, 2026",Indiana Fever,Los Angeles Sparks,IND,,46,,36,,,,,,,,,,,0
-20260709_IND_LA,"Thursday, July 09, 2026",Los Angeles Sparks,Indiana Fever,LA,,45,,31,,,,,,,,,,,0
+20260708_GS_TOR,"Wednesday, July 08, 2026",Golden State Valkyries,Toronto Tempo,GS,26-58,45,11-30,37,20-25,80,11,20,31,18,7,3,14,20,83
+20260708_GS_TOR,"Wednesday, July 08, 2026",Toronto Tempo,Golden State Valkyries,TOR,26-54,48,6-22,27,17-18,94,4,19,23,19,6,0,20,20,75
+20260708_MIN_CON,"Wednesday, July 08, 2026",Minnesota Lynx,Connecticut Sun,MIN,28-60,47,10-22,45,20-27,74,9,24,33,21,8,7,14,20,86
+20260708_MIN_CON,"Wednesday, July 08, 2026",Connecticut Sun,Minnesota Lynx,CON,26-65,40,6-23,26,22-27,81,10,26,36,20,9,7,18,20,80
+20260709_IND_LA,"Thursday, July 09, 2026",Indiana Fever,Los Angeles Sparks,IND,33-77,43,11-34,32,15-21,71,12,29,41,18,8,5,16,22,92
+20260709_IND_LA,"Thursday, July 09, 2026",Los Angeles Sparks,Indiana Fever,LA,40-79,51,9-20,45,17-20,85,7,30,37,25,11,0,11,18,106
+20260710_SEA_ATL,"Friday, July 10, 2026",Seattle Storm,Atlanta Dream,SEA,,42,,34,,,,,,,,,,,0
+20260710_SEA_ATL,"Friday, July 10, 2026",Atlanta Dream,Seattle Storm,ATL,,43,,32,,,,,,,,,,,0
+20260710_IND_PHX,"Friday, July 10, 2026",Indiana Fever,Phoenix Mercury,IND,,47,,36,,,,,,,,,,,0
+20260710_IND_PHX,"Friday, July 10, 2026",Phoenix Mercury,Indiana Fever,PHX,,43,,33,,,,,,,,,,,0
+20260710_LV_POR,"Friday, July 10, 2026",Las Vegas Aces,Portland Fire,LV,,48,,35,,,,,,,,,,,0
+20260710_LV_POR,"Friday, July 10, 2026",Portland Fire,Las Vegas Aces,POR,,44,,34,,,,,,,,,,,0
