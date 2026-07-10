@@ -323,9 +323,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260708_MIN_CON,"Wednesday, July 08, 2026",Connecticut Sun,Minnesota Lynx,CON,26-65,40,6-23,26,22-27,81,10,26,36,20,9,7,18,20,80
 20260709_IND_LA,"Thursday, July 09, 2026",Indiana Fever,Los Angeles Sparks,IND,33-77,43,11-34,32,15-21,71,12,29,41,18,8,5,16,22,92
 20260709_IND_LA,"Thursday, July 09, 2026",Los Angeles Sparks,Indiana Fever,LA,40-79,51,9-20,45,17-20,85,7,30,37,25,11,0,11,18,106
-20260710_SEA_ATL,"Friday, July 10, 2026",Seattle Storm,Atlanta Dream,SEA,,42,,34,,,,,,,,,,,0
-20260710_SEA_ATL,"Friday, July 10, 2026",Atlanta Dream,Seattle Storm,ATL,,43,,32,,,,,,,,,,,0
-20260710_IND_PHX,"Friday, July 10, 2026",Indiana Fever,Phoenix Mercury,IND,,47,,36,,,,,,,,,,,0
-20260710_IND_PHX,"Friday, July 10, 2026",Phoenix Mercury,Indiana Fever,PHX,,43,,33,,,,,,,,,,,0
-20260710_LV_POR,"Friday, July 10, 2026",Las Vegas Aces,Portland Fire,LV,,48,,35,,,,,,,,,,,0
-20260710_LV_POR,"Friday, July 10, 2026",Portland Fire,Las Vegas Aces,POR,,44,,34,,,,,,,,,,,0
+20260710_SEA_ATL,"Friday, July 10, 2026",Seattle Storm,Atlanta Dream,SEA,30-66,45,3-20,15,15-19,79,6,29,35,21,6,3,21,20,78
+20260710_SEA_ATL,"Friday, July 10, 2026",Atlanta Dream,Seattle Storm,ATL,30-72,42,6-26,23,23-26,88,10,27,37,18,14,4,15,18,89
+20260710_IND_PHX,"Friday, July 10, 2026",Indiana Fever,Phoenix Mercury,IND,35-70,50,12-27,44,10-10,100,6,24,30,18,8,4,10,16,92
+20260710_IND_PHX,"Friday, July 10, 2026",Phoenix Mercury,Indiana Fever,PHX,35-71,49,11-27,41,8-10,80,4,23,27,23,4,1,11,14,89
+20260710_LV_POR,"Friday, July 10, 2026",Las Vegas Aces,Portland Fire,LV,31-61,51,8-20,40,18-22,82,4,23,27,23,13,5,12,17,88
+20260710_LV_POR,"Friday, July 10, 2026",Portland Fire,Las Vegas Aces,POR,27-61,44,11-32,34,15-20,75,6,24,30,17,8,3,17,19,80
+20260710_GS_CON,"Friday, July 10, 2026",Golden State Valkyries,Connecticut Sun,GS,,41,,34,,,,,,,,,,,0
+20260710_GS_CON,"Friday, July 10, 2026",Connecticut Sun,Golden State Valkyries,CON,,43,,28,,,,,,,,,,,0
+20260710_DAL_TOR,"Friday, July 10, 2026",Dallas Wings,Toronto Tempo,DAL,,46,,33,,,,,,,,,,,0
+20260710_DAL_TOR,"Friday, July 10, 2026",Toronto Tempo,Dallas Wings,TOR,,44,,36,,,,,,,,,,,0
+20260711_CHI_LA,"Saturday, July 11, 2026",Chicago Sky,Los Angeles Sparks,CHI,,43,,31,,,,,,,,,,,0
+20260711_CHI_LA,"Saturday, July 11, 2026",Los Angeles Sparks,Chicago Sky,LA,,45,,31,,,,,,,,,,,0
