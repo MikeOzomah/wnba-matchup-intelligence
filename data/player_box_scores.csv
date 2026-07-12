@@ -4231,3 +4231,69 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260711_CHI_LA,"Saturday, July 11, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Kiana Williams,G,15,0-2,0-2,0-0,0,0,0,5,1,0,1,0,0,-2
 20260711_CHI_LA,"Saturday, July 11, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Kate Martin,G,5,1-2,0-1,0-0,1,1,2,1,0,0,0,1,2,-8
 20260711_CHI_LA,"Saturday, July 11, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Chance Gray,G,3,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0,+1
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Breanna Stewart,F,37,7-16,2-3,1-1,3,4,7,3,2,1,4,1,17,-4
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Jonquel Jones,C,33,5-11,2-5,3-4,3,9,12,2,0,1,0,4,15,+5
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Rebekah Gardner,G,14,0-5,0-2,0-0,0,1,1,2,1,0,1,2,0,+3
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Sabrina Ionescu,G,35,9-20,3-12,4-4,3,5,8,5,2,0,3,0,25,+7
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Pauline Astier,G,23,2-5,0-1,0-0,0,0,0,2,2,0,4,3,4,-9
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Raquel Carrera,F,3,1-1,0-0,0-0,0,0,0,0,0,0,0,1,2,-5
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Han Xu,C,18,3-4,2-3,0-0,0,1,1,1,0,0,1,0,8,+3
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Betnijah Laney-Hamilton,G,7,0-1,0-1,0-0,0,0,0,2,0,0,0,0,0,-9
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Rebecca Allen,G,7,0-2,0-2,0-0,1,1,2,2,0,0,1,2,0,-10
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Marine Johannes,G,23,5-10,4-9,0-0,1,2,3,1,1,0,0,3,14,-6
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Satou Sabally,F,,,,,,,,,,,,,,
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Leonie Fiebich,F,,,,,,,,,,,,,,
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Natasha Howard,F,36,5-9,1-1,5-6,5,4,9,2,2,0,2,3,16,-1
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Nia Coffey,F,28,1-2,1-2,0-0,1,4,5,5,0,2,2,4,3,+9
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Kayla McBride,G,33,8-17,5-11,4-4,1,3,4,2,4,0,0,4,25,+1
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Courtney Williams,G,36,5-17,2-3,0-0,5,7,12,1,0,0,3,2,12,+7
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Olivia Miles,G,32,6-16,4-7,7-10,1,4,5,4,1,0,2,3,23,+1
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Dorka Juhasz,F,16,0-2,0-2,0-0,1,2,3,1,0,1,1,1,0,+2
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Antonia Delaere,F,7,2-3,1-2,1-1,1,0,1,1,1,0,0,0,6,+4
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Anastasiia Olairi Kosu,F,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-5
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Maya Caldwell,G,7,2-3,0-0,1-2,0,1,1,0,1,0,0,0,5,+9
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Eliska Hamzova,G,4,0-0,0-0,0-0,0,0,0,2,0,0,2,1,0,-2
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Napheesa Collier,F,,,,,,,,,,,,,,
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Emma Cechova,F,,,,,,,,,,,,,,
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Bridget Carleton,F,34,4-9,4-8,0-0,1,2,3,4,2,2,1,1,12,+17
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Emily Engstler,F,25,5-8,2-4,2-2,0,11,11,4,3,1,2,3,14,+17
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Nyadiew Puoch,F,25,4-8,1-3,0-0,0,0,0,0,1,0,0,3,9,+14
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Megan Gustafson,C,27,7-11,2-4,1-1,0,4,4,1,1,0,3,3,17,+1
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Carla Leite,G,26,2-7,1-3,8-9,1,2,3,10,0,0,6,5,13,-2
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Frieda Buhner,F,15,4-5,3-4,0-0,0,2,2,0,0,0,1,5,11,-7
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Serah Williams,C,13,6-6,0-0,3-3,0,2,2,1,0,1,0,2,15,+9
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Karlie Samuelson,G,8,0-0,0-0,0-0,0,0,0,0,0,0,1,1,0,-6
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Holly Winterburn,G,13,0-2,0-2,1-2,0,0,0,1,0,0,0,1,1,-5
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Teja Oblak,G,14,4-4,1-1,1-2,0,1,1,7,0,0,2,2,10,+12
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Luisa Geiselsoder,C,,,,,,,,,,,,,,
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Naz Hillmon,F,36,6-11,1-5,2-3,3,5,8,2,1,1,3,3,15,-2
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Madina Okot,C,22,7-14,0-1,5-5,4,4,8,0,0,1,2,1,19,-13
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Allisha Gray,G,31,8-18,1-6,3-3,0,3,3,2,1,0,1,4,20,-1
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Jordin Canada,G,35,4-8,0-2,2-5,2,2,4,12,2,0,3,5,10,-8
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Rhyne Howard,G,31,3-9,2-8,2-2,1,2,3,4,4,0,1,2,10,-11
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Sika Kone,F,17,3-8,1-4,4-4,2,3,5,0,0,0,0,5,11,-5
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Te-Hina Paopao,G,6,1-1,1-1,0-0,0,0,0,2,0,0,0,1,3,-4
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Aaliyah Nye,G,2,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0,-5
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Indya Nivar,G,1,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,0
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Isobel Borlase,G,18,1-5,0-2,2-2,0,1,1,3,0,1,2,1,4,-1
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Atlanta Dream,Portland Fire,Shatori Walker-Kimbrough,G,,,,,,,,,,,,,,
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,DeWanna Bonner,F,22,1-6,0-4,0-1,0,4,4,3,0,0,2,1,2,-29
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Alyssa Thomas,F,29,3-8,0-0,1-2,1,5,6,1,0,0,2,1,7,-36
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Valeriane Ayayi,F,31,1-5,0-2,3-3,1,6,7,1,0,0,2,2,5,-33
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Kahleah Copper,G,29,4-14,1-6,0-0,0,4,4,0,0,0,3,3,9,-41
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Monique Akoa Makani,G,26,5-13,3-7,0-0,0,1,1,1,0,0,3,3,13,-30
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Marta Suarez,F,12,2-4,0-1,1-2,0,0,0,2,0,0,0,0,5,-12
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Noemie Brochant,F,20,2-3,2-2,0-0,0,1,1,1,0,0,2,2,6,-13
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Sami Whitcomb,G,11,0-3,0-3,0-0,0,3,3,3,2,0,2,2,0,-21
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Lexi Held,G,23,5-10,1-6,0-0,1,2,3,2,1,0,1,2,11,-25
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Kyara Linskens,C,,,,,,,,,,,,,,
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Stephanie Talbot,F,24,1-4,0-1,0-0,4,3,7,2,1,0,1,0,2,+21
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,NaLyssa Smith,F,18,6-7,0-0,2-2,0,3,3,0,1,0,1,1,14,+24
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,A'ja Wilson,C,25,8-16,1-3,4-4,3,12,15,3,1,1,1,2,21,+30
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Chelsea Gray,G,28,6-12,3-8,0-0,0,1,1,12,1,0,1,2,15,+42
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Jackie Young,G,24,3-9,2-6,0-0,0,2,2,6,2,0,0,0,8,+37
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Cheyenne Parker-Tyus,F,14,4-7,0-0,7-8,2,5,7,0,0,1,1,2,15,+8
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Brianna Turner,F,12,0-1,0-0,0-0,2,4,6,0,0,0,0,1,0,+23
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Kierstan Bell,F,17,1-6,1-5,0-0,0,3,3,4,0,0,1,1,3,+14
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Jewell Loyd,G,28,3-7,2-6,1-2,1,0,1,3,2,0,1,4,9,+36
+20260711_PHX_LV,"Saturday, July 11, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Justine Pissott,G,10,7-8,5-6,0-0,0,2,2,1,0,0,1,1,19,+5
