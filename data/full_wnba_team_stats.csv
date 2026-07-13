@@ -341,11 +341,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260711_POR_ATL,"Saturday, July 11, 2026",Atlanta Dream,Portland Fire,ATL,33-75,44,6-30,20,20-24,83,12,20,32,25,8,3,12,23,92
 20260711_PHX_LV,"Saturday, July 11, 2026",Phoenix Mercury,Las Vegas Aces,PHX,23-66,35,7-31,23,5-8,63,3,26,29,14,3,0,17,16,58
 20260711_PHX_LV,"Saturday, July 11, 2026",Las Vegas Aces,Phoenix Mercury,LV,39-77,51,14-35,40,14-16,88,12,35,47,31,8,2,8,14,106
-20260712_NY_TOR,"Sunday, July 12, 2026",New York Liberty,Toronto Tempo,NY,,46,,35,,,,,,,,,,,0
-20260712_NY_TOR,"Sunday, July 12, 2026",Toronto Tempo,New York Liberty,TOR,,45,,37,,,,,,,,,,,0
-20260712_SEA_WSH,"Sunday, July 12, 2026",Seattle Storm,Washington Mystics,SEA,,42,,34,,,,,,,,,,,0
-20260712_SEA_WSH,"Sunday, July 12, 2026",Washington Mystics,Seattle Storm,WSH,,44,,30,,,,,,,,,,,0
-20260712_CHI_DAL,"Sunday, July 12, 2026",Chicago Sky,Dallas Wings,CHI,,43,,31,,,,,,,,,,,0
-20260712_CHI_DAL,"Sunday, July 12, 2026",Dallas Wings,Chicago Sky,DAL,,46,,34,,,,,,,,,,,0
-20260713_IND_LV,"Monday, July 13, 2026",Indiana Fever,Las Vegas Aces,IND,,47,,36,,,,,,,,,,,0
-20260713_IND_LV,"Monday, July 13, 2026",Las Vegas Aces,Indiana Fever,LV,,49,,36,,,,,,,,,,,0
+20260712_NY_TOR,"Sunday, July 12, 2026",New York Liberty,Toronto Tempo,NY,33-76,43,5-26,19,20-22,91,10,23,33,16,11,4,17,19,91
+20260712_NY_TOR,"Sunday, July 12, 2026",Toronto Tempo,New York Liberty,TOR,34-66,52,9-24,38,16-18,89,5,25,30,22,10,3,23,28,93
+20260712_SEA_WSH,"Sunday, July 12, 2026",Seattle Storm,Washington Mystics,SEA,30-70,43,5-19,26,14-18,78,16,27,43,12,12,4,19,25,79
+20260712_SEA_WSH,"Sunday, July 12, 2026",Washington Mystics,Seattle Storm,WSH,31-72,43,5-19,26,17-23,74,9,23,32,23,10,3,15,17,84
+20260712_CHI_DAL,"Sunday, July 12, 2026",Chicago Sky,Dallas Wings,CHI,36-75,48,7-22,32,12-13,92,6,30,36,16,3,1,6,16,91
+20260712_CHI_DAL,"Sunday, July 12, 2026",Dallas Wings,Chicago Sky,DAL,36-75,48,9-25,36,15-19,79,7,26,33,23,4,3,5,13,96
+20260713_IND_LV,"Monday, July 13, 2026",Indiana Fever,Las Vegas Aces,IND,38-68,56,15-31,48,18-19,95,5,30,35,18,6,1,9,17,109
+20260713_IND_LV,"Monday, July 13, 2026",Las Vegas Aces,Indiana Fever,LV,27-69,39,4-17,24,17-20,85,9,19,28,17,4,4,11,19,75
+20260713_LA_ATL,"Monday, July 13, 2026",Los Angeles Sparks,Atlanta Dream,LA,,46,,32,,,,,,,,,,,0
+20260713_LA_ATL,"Monday, July 13, 2026",Atlanta Dream,Los Angeles Sparks,ATL,,43,,31,,,,,,,,,,,0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",Phoenix Mercury,Minnesota Lynx,PHX,,43,,33,,,,,,,,,,,0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",Minnesota Lynx,Phoenix Mercury,MIN,,48,,38,,,,,,,,,,,0
