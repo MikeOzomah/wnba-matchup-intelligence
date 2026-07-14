@@ -4395,3 +4395,76 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260713_IND_LV,"Monday, July 13, 2026",regular_season,Las Vegas Aces,Indiana Fever,Jewell Loyd,G,28,2-6,0-3,4-4,1.0,1.0,2.0,3.0,1.0,0.0,0.0,3.0,8.0,-30.0,2.0,6.0,0.0,3.0,4.0,4.0,0.6666666666666666,1.5,999.0
 20260713_IND_LV,"Monday, July 13, 2026",regular_season,Las Vegas Aces,Indiana Fever,Dana Evans,G,18,2-8,2-4,2-2,0.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,8.0,-34.0,2.0,8.0,2.0,4.0,2.0,2.0,1.0,0.5,1.0
 20260713_IND_LV,"Monday, July 13, 2026",regular_season,Las Vegas Aces,Indiana Fever,Justine Pissott,G,14,1-5,0-3,0-0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,-24.0,1.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Nneka Ogwumike,F,32,7-13,3-5,2-2,2.0,3.0,5.0,5.0,0.0,0.0,3.0,3.0,19.0,-14.0,7.0,13.0,3.0,5.0,2.0,2.0,0.8461538461538461,0.7142857142857143,1.667
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Dearica Hamby,F,36,6-11,0-0,0-1,2.0,3.0,5.0,2.0,3.0,2.0,5.0,3.0,12.0,4.0,6.0,11.0,0.0,0.0,0.0,1.0,0.0,0.3333333333333333,0.4
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Erica Wheeler,G,32,8-16,2-6,2-2,0.0,3.0,3.0,4.0,1.0,0.0,3.0,5.0,20.0,-11.0,8.0,16.0,2.0,6.0,2.0,2.0,0.5,0.5,1.333
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Ariel Atkins,G,34,5-11,0-3,3-3,0.0,3.0,3.0,2.0,3.0,1.0,2.0,4.0,13.0,-10.0,5.0,11.0,0.0,3.0,3.0,3.0,0.2727272727272727,0.4,1.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Rae Burrell,G,33,5-9,2-5,6-6,1.0,3.0,4.0,4.0,3.0,0.0,2.0,3.0,18.0,6.0,5.0,9.0,2.0,5.0,6.0,6.0,1.3333333333333333,0.8,2.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Emma Cannon,F,11,2-2,1-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,5.0,-2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.5,0.0,0.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Jihyun Park,F,8,0-0,0-0,0-2,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,0.0,0.0,0.0,0.0,0.0,2.0,,,0.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Alissa Pili,F,2,0-0,0-0,0-0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,-6.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Kiana Williams,G,8,2-4,1-3,0-0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,5.0,2.0,2.0,4.0,1.0,3.0,0.0,0.0,0.75,0.5,1.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Kate Martin,G,2,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Chance Gray,G,4,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Naz Hillmon,F,32,4-7,1-3,1-2,3.0,2.0,5.0,2.0,0.0,0.0,3.0,1.0,10.0,11.0,4.0,7.0,1.0,3.0,1.0,2.0,0.5714285714285714,0.5,0.667
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Angel Reese,F,33,7-11,1-1,8-8,3.0,10.0,13.0,2.0,3.0,0.0,3.0,4.0,23.0,13.0,7.0,11.0,1.0,1.0,8.0,8.0,1.0,0.2857142857142857,0.667
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Allisha Gray,G,33,8-15,3-6,1-2,1.0,0.0,1.0,2.0,2.0,1.0,1.0,3.0,20.0,8.0,8.0,15.0,3.0,6.0,1.0,2.0,0.6666666666666666,0.25,2.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Jordin Canada,G,35,5-12,1-5,5-5,1.0,2.0,3.0,9.0,2.0,0.0,3.0,1.0,16.0,11.0,5.0,12.0,1.0,5.0,5.0,5.0,0.6666666666666666,1.8,3.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Rhyne Howard,G,34,4-10,3-7,0-0,0.0,5.0,5.0,3.0,2.0,0.0,3.0,0.0,11.0,3.0,4.0,10.0,3.0,7.0,0.0,0.0,0.9,0.75,1.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Sika Kone,F,4,0-2,0-2,0-0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,-11.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,,0.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Madina Okot,C,10,3-4,0-0,3-4,2.0,4.0,6.0,1.0,1.0,0.0,1.0,2.0,9.0,9.0,3.0,4.0,0.0,0.0,3.0,4.0,0.75,0.3333333333333333,1.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Te-Hina Paopao,G,5,0-3,0-2,2-2,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,-2.0,0.0,3.0,0.0,2.0,2.0,2.0,0.6666666666666666,,999.0
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Isobel Borlase,G,14,5-9,0-2,0-0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,3.0,10.0,3.0,5.0,9.0,0.0,2.0,0.0,0.0,0.0,0.2,0.5
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Shatori Walker-Kimbrough,G,,,,,,,,,,,,,,,,,,,,,,,
+20260713_LA_ATL,"Monday, July 13, 2026",regular_season,Atlanta Dream,Los Angeles Sparks,Aaliyah Nye,G,,,,,,,,,,,,,,,,,,,,,,,
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,DeWanna Bonner,F,33,6-12,2-7,3-4,1.0,8.0,9.0,3.0,1.0,0.0,1.0,2.0,17.0,-6.0,6.0,12.0,2.0,7.0,3.0,4.0,0.75,0.5,3.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Alyssa Thomas,F,37,8-14,0-0,3-4,2.0,6.0,8.0,12.0,1.0,0.0,4.0,1.0,19.0,-4.0,8.0,14.0,0.0,0.0,3.0,4.0,0.21428571428571427,1.5,3.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Noemie Brochant,F,17,1-3,0-2,0-0,0.0,2.0,2.0,2.0,1.0,0.0,1.0,2.0,2.0,3.0,1.0,3.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Kahleah Copper,G,32,9-14,3-5,5-5,0.0,3.0,3.0,1.0,1.0,0.0,2.0,3.0,26.0,-5.0,9.0,14.0,3.0,5.0,5.0,5.0,1.0,0.1111111111111111,0.5
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Monique Akoa Makani,G,27,6-9,3-5,2-2,0.0,1.0,1.0,4.0,1.0,0.0,2.0,6.0,17.0,2.0,6.0,9.0,3.0,5.0,2.0,2.0,1.2222222222222223,0.6666666666666666,2.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Valeriane Ayayi,F,18,0-3,0-0,4-4,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,4.0,-2.0,0.0,3.0,0.0,0.0,4.0,4.0,1.3333333333333333,,1.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Marta Suarez,F,5,1-1,0-0,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0,-1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Sami Whitcomb,G,19,3-4,3-4,0-0,1.0,0.0,1.0,2.0,0.0,0.0,1.0,2.0,9.0,-7.0,3.0,4.0,3.0,4.0,0.0,0.0,2.25,0.6666666666666666,2.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Lexi Held,G,12,1-3,0-2,2-2,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,4.0,0.0,1.0,3.0,0.0,2.0,2.0,2.0,0.6666666666666666,3.0,3.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Natasha Mack,F,,,,,,,,,,,,,,,,,,,,,,,
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Kyara Linskens,C,,,,,,,,,,,,,,,,,,,,,,,
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Natasha Howard,F,35,5-11,0-2,3-4,0.0,3.0,3.0,7.0,2.0,0.0,4.0,3.0,13.0,4.0,5.0,11.0,0.0,2.0,3.0,4.0,0.2727272727272727,1.4,1.75
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Nia Coffey,F,30,2-4,1-3,0-0,0.0,3.0,3.0,0.0,1.0,2.0,0.0,0.0,5.0,3.0,2.0,4.0,1.0,3.0,0.0,0.0,0.75,0.0,0.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Kayla McBride,G,35,11-17,6-11,9-9,0.0,6.0,6.0,1.0,4.0,2.0,2.0,2.0,37.0,-3.0,11.0,17.0,6.0,11.0,9.0,9.0,1.588235294117647,0.09090909090909091,0.5
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Courtney Williams,G,35,3-7,0-3,2-2,3.0,4.0,7.0,3.0,2.0,0.0,0.0,4.0,8.0,9.0,3.0,7.0,0.0,3.0,2.0,2.0,0.2857142857142857,1.0,999.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Olivia Miles,G,31,10-16,5-8,8-9,0.0,3.0,3.0,8.0,0.0,0.0,5.0,5.0,33.0,10.0,10.0,16.0,5.0,8.0,8.0,9.0,1.4375,0.8,1.6
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Antonia Delaere,F,10,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,-5.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Anastasiia Olairi Kosu,F,8,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Maya Caldwell,G,7,0-1,0-1,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,-5.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Eliska Hamzova,G,9,3-5,0-1,2-2,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,3.0,3.0,5.0,0.0,1.0,2.0,2.0,0.4,0.0,0.0
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Napheesa Collier,F,,,,,,,,,,,,,,,,,,,,,,,
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Dorka Juhasz,F,,,,,,,,,,,,,,,,,,,,,,,
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Emma Cechova,F,,,,,,,,,,,,,,,,,,,,,,,
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Bridget Carleton,F,7,2-3,2-3,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,-4.0,2.0,3.0,2.0,3.0,0.0,0.0,2.0,0.0,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Emily Engstler,F,7,1-3,1-1,2-2,0.0,1.0,1.0,2.0,2.0,0.0,0.0,1.0,5.0,-5.0,1.0,3.0,1.0,1.0,2.0,2.0,1.6666666666666667,2.0,999.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Megan Gustafson,C,6,1-2,0-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-4.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Sarah Ashlee Barker,G,7,1-2,0-0,2-2,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,4.0,-4.0,1.0,2.0,0.0,0.0,2.0,2.0,1.0,1.0,999.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Carla Leite,G,7,0-3,0-0,0-0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,-4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,,2.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Frieda Buhner,F,3,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Nyadiew Puoch,F,3,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Serah Williams,C,4,0-0,0-0,2-2,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-5.0,0.0,0.0,0.0,0.0,2.0,2.0,,,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Karlie Samuelson,G,3,0-0,0-0,2-2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-5.0,0.0,0.0,0.0,0.0,2.0,2.0,,,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Teja Oblak,G,3,0-1,0-1,2-2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-5.0,0.0,1.0,0.0,1.0,2.0,2.0,2.0,,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Sania Feagin,F,,,,,,,,,,,,,,,,,,,,,,,
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Luisa Geiselsoder,C,,,,,,,,,,,,,,,,,,,,,,,
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Holly Winterburn,G,,,,,,,,,,,,,,,,,,,,,,,
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Jordan Harrison,G,,,,,,,,,,,,,,,,,,,,,,,
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Diamond Miller,F,6,1-2,1-2,0-0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,3.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,1.5,2.0,999.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Brittney Griner,C,5,1-1,0-0,0-0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,999.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Olivia Nelson-Ododa,C,4,1-3,0-0,2-2,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,4.0,-3.0,1.0,3.0,0.0,0.0,2.0,2.0,0.6666666666666666,0.0,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Charlisse Leger-Walker,G,9,1-3,0-2,0-0,0.0,2.0,2.0,4.0,0.0,0.0,1.0,1.0,2.0,9.0,1.0,3.0,0.0,2.0,0.0,0.0,0.0,4.0,4.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Leila Lacan,G,6,2-2,1-1,1-1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,0.5,999.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Aaliyah Edwards,F,8,6-7,0-0,1-1,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,13.0,12.0,6.0,7.0,0.0,0.0,1.0,1.0,0.14285714285714285,0.16666666666666666,999.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Raegan Beers,F,3,0-0,0-0,0-0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Nell Angloma,F,5,1-1,0-0,0-0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Kennedy Burke,G,3,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Aneesah Morrow,F,,,,,,,,,,,,,,,,,,,,,,,
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Hailey Van Lith,G,,,,,,,,,,,,,,,,,,,,,,,
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Saniya Rivers,G,,,,,,,,,,,,,,,,,,,,,,,
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Gianna Kneepkens,G,,,,,,,,,,,,,,,,,,,,,,,
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Connecticut Sun,Portland Fire,Ashlon Jackson,G,,,,,,,,,,,,,,,,,,,,,,,
