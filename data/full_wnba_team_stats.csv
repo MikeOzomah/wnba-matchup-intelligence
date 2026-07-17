@@ -363,7 +363,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260715_LA_MIN,"Wednesday, July 15, 2026",Minnesota Lynx,Los Angeles Sparks,MIN,34-68,50,8-25,32,20-24,83,7,18,25,21,13,4,11,17,96
 20260716_GS_IND,"Thursday, July 16, 2026",Golden State Valkyries,Indiana Fever,GS,30-58,52,8-24,33,20-23,87,6,24,30,16,9,4,14,16,88
 20260716_GS_IND,"Thursday, July 16, 2026",Indiana Fever,Golden State Valkyries,IND,27-67,40,9-25,36,12-16,75,10,16,26,14,8,2,15,19,75
-20260716_POR_WSH,"Thursday, July 16, 2026",Portland Fire,Washington Mystics,POR,,44,,35,,,,,,,,,,,0
-20260716_POR_WSH,"Thursday, July 16, 2026",Washington Mystics,Portland Fire,WSH,,44,,29,,,,,,,,,,,0
-20260717_NY_DAL,"Friday, July 17, 2026",New York Liberty,Dallas Wings,NY,,46,,35,,,,,,,,,,,0
-20260717_NY_DAL,"Friday, July 17, 2026",Dallas Wings,New York Liberty,DAL,,46,,34,,,,,,,,,,,0
+20260716_POR_WSH,"Thursday, July 16, 2026",Portland Fire,Washington Mystics,POR,29-67,43,10-36,28,7-9,78,8,22,30,20,10,2,11,26,75
+20260716_POR_WSH,"Thursday, July 16, 2026",Washington Mystics,Portland Fire,WSH,19-64,30,2-21,10,16-23,70,19,26,45,11,4,4,19,15,56
+20260717_NY_DAL,"Friday, July 17, 2026",New York Liberty,Dallas Wings,NY,,,,,,,,,,,,,,,0
+20260717_NY_DAL,"Friday, July 17, 2026",Dallas Wings,New York Liberty,DAL,,,,,,,,,,,,,,,0
+20260717_SEA_IND,"Friday, July 17, 2026",Seattle Storm,Indiana Fever,SEA,,43,,33,,,,,,,,,,,0
+20260717_SEA_IND,"Friday, July 17, 2026",Indiana Fever,Seattle Storm,IND,,47,,37,,,,,,,,,,,0
+20260717_ATL_TOR,"Friday, July 17, 2026",Atlanta Dream,Toronto Tempo,ATL,,43,,31,,,,,,,,,,,0
+20260717_ATL_TOR,"Friday, July 17, 2026",Toronto Tempo,Atlanta Dream,TOR,,45,,36,,,,,,,,,,,0
+20260717_LA_CHI,"Friday, July 17, 2026",Los Angeles Sparks,Chicago Sky,LA,,46,,32,,,,,,,,,,,0
+20260717_LA_CHI,"Friday, July 17, 2026",Chicago Sky,Los Angeles Sparks,CHI,,44,,31,,,,,,,,,,,0
+20260718_CON_PHX,"Saturday, July 18, 2026",Connecticut Sun,Phoenix Mercury,CON,,43,,28,,,,,,,,,,,0
+20260718_CON_PHX,"Saturday, July 18, 2026",Phoenix Mercury,Connecticut Sun,PHX,,44,,33,,,,,,,,,,,0
