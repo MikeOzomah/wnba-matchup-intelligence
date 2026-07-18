@@ -4593,3 +4593,101 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Washington Mystics,Portland Fire,Cassandre Prosper,G,17,1-4,1-3,0-0,1,1,2,0,0,0,2,0,3,-2
 20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Washington Mystics,Portland Fire,Alicia Florez,G,18,2-4,0-1,1-2,2,2,4,1,0,0,2,1,5,+1
 20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Washington Mystics,Portland Fire,Darianna Littlepage-Buggs,G,,,,,,,,,,,,,,
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Dominique Malonga,C,29,13-22,1-3,1-2,5,9,14,2,0,0,6,2,28,-13
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Awa Fam,C,31,5-6,4-5,2-2,3,6,9,4,1,2,0,5,16,+4
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Natisha Hiedeman,G,30,6-11,1-5,2-3,0,2,2,8,1,0,3,2,15,+2
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Flau'jae Johnson,G,31,7-16,0-2,2-2,4,2,6,6,3,1,2,3,16,+4
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Jade Melbourne,G,30,7-13,0-2,1-2,1,0,1,5,1,0,3,4,15,-11
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Katie Lou Samuelson,F,19,3-4,1-2,1-1,0,1,1,0,0,0,1,2,8,+1
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Jordan Horston,F,20,1-2,0-0,0-0,0,2,2,1,0,0,2,4,2,+10
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Stefanie Dolson,C,3,0-0,0-0,2-4,0,0,0,0,1,0,0,0,2,-3
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Zia Cooke,G,8,1-2,1-2,2-2,0,0,0,1,1,0,0,2,5,-9
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Ezi Magbegor,F,,,,,,,,,,,,,,
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Mackenzie Holmes,F,,,,,,,,,,,,,,
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Seattle Storm,Indiana Fever,Taylor Thierry,F,,,,,,,,,,,,,,
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Monique Billings,F,31,5-7,0-0,6-7,0,5,5,3,2,1,0,2,16,+14
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Makayla Timpson,F,32,3-6,0-0,2-2,8,1,9,2,2,0,3,3,8,-9
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Kelsey Mitchell,G,34,13-25,3-8,1-1,0,1,1,0,0,0,1,2,30,+1
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Lexie Hull,G,14,0-1,0-0,2-2,2,0,2,1,3,0,3,4,2,-1
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Caitlin Clark,G,29,11-18,6-10,17-19,0,2,2,10,4,2,4,4,45,+16
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Myisha Hines-Allen,F,9,1-2,0-0,0-0,1,2,3,2,1,0,1,1,2,-1
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Damiris Dantas,C,8,0-1,0-0,0-0,1,1,2,0,0,0,0,0,0,0
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Sophie Cunningham,G,27,1-4,0-3,0-0,1,1,2,0,0,0,0,1,2,+3
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Tyasha Harris,G,14,2-5,1-2,0-0,0,0,0,3,0,0,0,0,5,-2
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Raven Johnson,G,3,0-3,0-0,0-0,0,0,0,0,0,0,0,0,0,-6
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Grace VanSlooten,F,,,,,,,,,,,,,,
+20260717_SEA_IND,"Friday, July 17, 2026",regular_season,Indiana Fever,Seattle Storm,Aliyah Boston,C,,,,,,,,,,,,,,
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Naz Hillmon,F,25,8-8,4-4,4-4,0,1,1,0,0,0,2,3,24,+5
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Angel Reese,F,33,7-11,0-2,9-11,3,9,12,2,3,0,5,5,23,+17
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Allisha Gray,G,30,8-12,2-5,0-0,2,1,3,2,1,0,0,3,18,+16
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Jordin Canada,G,33,6-12,1-4,5-6,0,0,0,13,3,0,0,3,18,+27
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Rhyne Howard,G,31,4-13,0-7,2-3,2,2,4,5,1,0,1,5,10,+19
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Brionna Jones,F,15,2-4,0-0,2-2,3,3,6,4,1,0,0,3,6,+17
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Sika Kone,F,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,+1
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Madina Okot,C,4,1-1,0-0,0-0,1,0,1,0,0,0,1,1,2,-7
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Shatori Walker-Kimbrough,G,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,+1
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Jaylyn Sherrod,G,7,0-2,0-1,0-0,0,0,0,2,2,0,0,1,0,-8
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Aaliyah Nye,G,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,+1
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Isobel Borlase,G,19,3-8,2-5,2-2,0,1,1,0,0,1,1,2,10,+6
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Atlanta Dream,Toronto Tempo,Te-Hina Paopao,G,,,,,,,,,,,,,,
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Isabelle Harrison,F,21,4-8,0-1,2-4,1,2,3,0,0,0,3,1,10,-3
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Maria Conde,F,31,2-8,1-5,8-9,2,2,4,5,0,0,0,2,13,-22
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Laura Juskaite,F,28,4-8,0-1,0-0,1,3,4,0,0,1,4,2,8,-13
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Marina Mabrey,G,31,7-12,3-6,9-9,0,4,4,3,1,0,5,5,26,-19
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Julie Allemand,G,32,3-5,3-4,0-0,0,5,5,6,1,1,3,3,9,-9
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Nyara Sabally,F,21,7-10,2-2,0-0,0,1,1,2,0,0,2,3,16,-13
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Teonni Key,F,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-1
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Kayla Alexander,C,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-1
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Temi Fagbenle,C,15,2-3,0-1,0-0,0,1,1,1,0,1,2,6,4,-6
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Kia Nurse,G,18,1-2,1-1,3-3,0,0,0,1,1,0,0,1,6,-8
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Tima Pouye,G,3,0-0,0-0,0-0,0,0,0,1,0,0,1,0,0,0
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Brittney Sykes,G,,,,,,,,,,,,,,
+20260717_ATL_TOR,"Friday, July 17, 2026",regular_season,Toronto Tempo,Atlanta Dream,Kiki Rice,G,,,,,,,,,,,,,,
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Nneka Ogwumike,F,31,8-15,2-5,0-0,2,10,12,4,1,1,1,1,18,-17
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Dearica Hamby,F,26,6-10,0-1,6-8,2,4,6,2,2,1,3,3,18,-1
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Erica Wheeler,G,32,5-12,1-7,3-4,0,4,4,4,0,0,2,3,14,-13
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Ariel Atkins,G,34,3-11,1-6,2-2,0,4,4,3,0,1,3,2,9,-1
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Rae Burrell,G,31,3-7,0-1,3-5,0,1,1,5,1,0,2,0,9,-21
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Emma Cannon,F,2,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,-8
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Cameron Brink,F,19,2-6,1-4,4-4,2,4,6,0,0,2,4,5,9,-4
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Jihyun Park,F,8,1-1,0-0,0-0,0,1,1,0,0,0,1,1,2,-9
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Kate Martin,G,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,+2
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Chance Gray,G,15,1-3,1-2,0-0,0,0,0,2,0,0,1,1,3,+2
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Kelsey Plum,G,,,,,,,,,,,,,,
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Los Angeles Sparks,Chicago Sky,Kiana Williams,G,,,,,,,,,,,,,,
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Azura Stevens,F,28,5-12,0-3,2-5,0,6,6,5,3,0,1,2,12,+10
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Kamilla Cardoso,C,24,6-8,0-0,1-2,3,8,11,3,0,2,2,3,13,+15
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Courtney Vandersloot,G,15,3-9,1-4,2-2,0,0,0,1,1,0,1,5,9,-14
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Natasha Cloud,G,32,5-10,3-6,2-2,0,6,6,9,0,0,0,2,15,+11
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Sydney Taylor,G,26,6-10,4-7,3-4,0,1,1,2,0,0,1,3,19,+20
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Chloe Bibby,F,9,0-1,0-1,0-0,0,0,0,0,1,0,2,3,0,-5
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Elizabeth Williams,C,16,2-6,0-0,0-0,1,0,1,0,0,1,1,2,4,-1
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Rachel Banham,G,5,0-1,0-1,0-0,0,0,0,3,0,0,0,0,0,+9
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Jacy Sheldon,G,28,6-12,1-5,1-1,3,0,3,2,0,0,0,2,14,+20
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Aicha Coulibaly,G,3,1-2,0-1,0-0,0,2,2,0,0,0,0,0,2,+9
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Gabriela Jaquez,G,14,3-9,2-4,0-0,1,3,4,2,0,0,1,0,8,-4
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,Skylar Diggins,G,,,,,,,,,,,,,,
+20260717_LA_CHI,"Friday, July 17, 2026",regular_season,Chicago Sky,Los Angeles Sparks,DiJonai Carrington,G,,,,,,,,,,,,,,
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Diamond Miller,F,22,4-10,2-7,1-1,0,1,1,0,1,1,1,3,11,+16
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Brittney Griner,C,26,5-12,0-0,2-3,2,4,6,4,0,1,2,1,12,+8
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Olivia Nelson-Ododa,C,21,2-3,0-0,2-4,0,6,6,3,0,0,0,1,6,+12
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Charlisse Leger-Walker,G,29,2-8,0-2,0-0,0,4,4,7,1,0,2,3,4,+7
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Leila Lacan,G,28,10-13,1-3,5-5,0,4,4,5,2,1,1,2,26,+15
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Aaliyah Edwards,F,24,5-7,0-0,2-4,2,5,7,1,0,0,3,3,12,+8
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Raegan Beers,F,3,0-0,0-0,4-4,1,0,1,0,0,0,0,2,4,-5
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Nell Angloma,F,3,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0,-2
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Kennedy Burke,G,27,5-9,3-6,0-0,2,2,4,2,1,1,2,3,13,+7
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Saniya Rivers,G,14,3-6,0-1,0-0,0,0,0,2,2,1,0,2,6,+4
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Gianna Kneepkens,G,3,0-0,0-0,2-2,0,1,1,0,0,0,0,1,2,-5
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Aneesah Morrow,F,,,,,,,,,,,,,,
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,DeWanna Bonner,F,30,4-11,0-3,0-0,0,10,10,1,1,1,2,1,8,-9
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Alyssa Thomas,F,36,7-12,0-0,3-4,1,7,8,6,0,1,3,5,17,-10
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Noemie Brochant,F,23,2-4,2-2,0-0,0,0,0,1,1,0,0,1,6,-2
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Kahleah Copper,G,35,8-16,0-4,5-7,1,2,3,1,1,0,2,1,21,-10
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Monique Akoa Makani,G,19,0-6,0-2,0-0,1,1,2,4,0,0,2,2,0,-5
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Valeriane Ayayi,F,18,2-3,1-1,8-8,0,1,1,1,0,0,2,3,13,-11
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Marta Suarez,F,7,1-2,0-0,3-4,1,1,2,0,2,0,0,2,5,-2
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Sami Whitcomb,G,13,2-2,0-0,0-0,0,1,1,0,0,0,1,2,4,-12
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Lexi Held,G,19,4-9,1-3,0-0,0,0,0,4,0,0,1,1,9,-4
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Natasha Mack,F,,,,,,,,,,,,,,
+20260718_CON_PHX,"Saturday, July 18, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Kyara Linskens,C,,,,,,,,,,,,,,

@@ -367,11 +367,17 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260716_POR_WSH,"Thursday, July 16, 2026",Washington Mystics,Portland Fire,WSH,19-64,30,2-21,10,16-23,70,19,26,45,11,4,4,19,15,56
 20260717_NY_DAL,"Friday, July 17, 2026",New York Liberty,Dallas Wings,NY,,,,,,,,,,,,,,,0
 20260717_NY_DAL,"Friday, July 17, 2026",Dallas Wings,New York Liberty,DAL,,,,,,,,,,,,,,,0
-20260717_SEA_IND,"Friday, July 17, 2026",Seattle Storm,Indiana Fever,SEA,,43,,33,,,,,,,,,,,0
-20260717_SEA_IND,"Friday, July 17, 2026",Indiana Fever,Seattle Storm,IND,,47,,37,,,,,,,,,,,0
-20260717_ATL_TOR,"Friday, July 17, 2026",Atlanta Dream,Toronto Tempo,ATL,,43,,31,,,,,,,,,,,0
-20260717_ATL_TOR,"Friday, July 17, 2026",Toronto Tempo,Atlanta Dream,TOR,,45,,36,,,,,,,,,,,0
-20260717_LA_CHI,"Friday, July 17, 2026",Los Angeles Sparks,Chicago Sky,LA,,46,,32,,,,,,,,,,,0
-20260717_LA_CHI,"Friday, July 17, 2026",Chicago Sky,Los Angeles Sparks,CHI,,44,,31,,,,,,,,,,,0
-20260718_CON_PHX,"Saturday, July 18, 2026",Connecticut Sun,Phoenix Mercury,CON,,43,,28,,,,,,,,,,,0
-20260718_CON_PHX,"Saturday, July 18, 2026",Phoenix Mercury,Connecticut Sun,PHX,,44,,33,,,,,,,,,,,0
+20260717_SEA_IND,"Friday, July 17, 2026",Seattle Storm,Indiana Fever,SEA,43-76,57,8-21,38,13-18,72,13,22,35,27,8,3,17,24,107
+20260717_SEA_IND,"Friday, July 17, 2026",Indiana Fever,Seattle Storm,IND,36-72,50,10-23,43,28-31,90,13,13,26,21,12,3,12,17,110
+20260717_ATL_TOR,"Friday, July 17, 2026",Atlanta Dream,Toronto Tempo,ATL,39-71,55,9-28,32,24-28,86,11,17,28,28,11,1,10,26,111
+20260717_ATL_TOR,"Friday, July 17, 2026",Toronto Tempo,Atlanta Dream,TOR,30-56,54,10-21,48,22-25,88,4,18,22,19,3,3,20,23,92
+20260717_LA_CHI,"Friday, July 17, 2026",Los Angeles Sparks,Chicago Sky,LA,29-65,45,6-26,23,18-23,78,6,28,34,20,4,5,17,17,82
+20260717_LA_CHI,"Friday, July 17, 2026",Chicago Sky,Los Angeles Sparks,CHI,37-80,46,11-32,34,11-16,69,8,26,34,27,5,3,9,22,96
+20260718_CON_PHX,"Saturday, July 18, 2026",Connecticut Sun,Phoenix Mercury,CON,36-69,52,6-20,30,18-23,78,7,27,34,24,7,5,11,21,96
+20260718_CON_PHX,"Saturday, July 18, 2026",Phoenix Mercury,Connecticut Sun,PHX,30-65,46,4-15,27,19-23,83,4,23,27,18,5,2,13,18,83
+20260719_NY_IND,"Sunday, July 19, 2026",New York Liberty,Indiana Fever,NY,,46,,35,,,,,,,,,,,0
+20260719_NY_IND,"Sunday, July 19, 2026",Indiana Fever,New York Liberty,IND,,47,,37,,,,,,,,,,,0
+20260719_POR_MIN,"Sunday, July 19, 2026",Portland Fire,Minnesota Lynx,POR,,44,,34,,,,,,,,,,,0
+20260719_POR_MIN,"Sunday, July 19, 2026",Minnesota Lynx,Portland Fire,MIN,,48,,38,,,,,,,,,,,0
+20260719_WSH_GS,"Sunday, July 19, 2026",Washington Mystics,Golden State Valkyries,WSH,,43,,28,,,,,,,,,,,0
+20260719_WSH_GS,"Sunday, July 19, 2026",Golden State Valkyries,Washington Mystics,GS,,42,,35,,,,,,,,,,,0
