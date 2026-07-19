@@ -375,9 +375,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260717_LA_CHI,"Friday, July 17, 2026",Chicago Sky,Los Angeles Sparks,CHI,37-80,46,11-32,34,11-16,69,8,26,34,27,5,3,9,22,96
 20260718_CON_PHX,"Saturday, July 18, 2026",Connecticut Sun,Phoenix Mercury,CON,36-69,52,6-20,30,18-23,78,7,27,34,24,7,5,11,21,96
 20260718_CON_PHX,"Saturday, July 18, 2026",Phoenix Mercury,Connecticut Sun,PHX,30-65,46,4-15,27,19-23,83,4,23,27,18,5,2,13,18,83
-20260719_NY_IND,"Sunday, July 19, 2026",New York Liberty,Indiana Fever,NY,,46,,35,,,,,,,,,,,0
-20260719_NY_IND,"Sunday, July 19, 2026",Indiana Fever,New York Liberty,IND,,47,,37,,,,,,,,,,,0
-20260719_POR_MIN,"Sunday, July 19, 2026",Portland Fire,Minnesota Lynx,POR,,44,,34,,,,,,,,,,,0
-20260719_POR_MIN,"Sunday, July 19, 2026",Minnesota Lynx,Portland Fire,MIN,,48,,38,,,,,,,,,,,0
-20260719_WSH_GS,"Sunday, July 19, 2026",Washington Mystics,Golden State Valkyries,WSH,,43,,28,,,,,,,,,,,0
-20260719_WSH_GS,"Sunday, July 19, 2026",Golden State Valkyries,Washington Mystics,GS,,42,,35,,,,,,,,,,,0
+20260719_NY_IND,"Sunday, July 19, 2026",New York Liberty,Indiana Fever,NY,30-67,45,13-32,41,15-25,60,7,20,27,19,8,6,15,24,88
+20260719_NY_IND,"Sunday, July 19, 2026",Indiana Fever,New York Liberty,IND,37-69,54,14-28,50,20-27,74,8,24,32,22,7,5,16,24,108
+20260719_POR_MIN,"Sunday, July 19, 2026",Portland Fire,Minnesota Lynx,POR,37-77,48,13-30,43,6-7,86,9,24,33,25,7,2,10,16,93
+20260719_POR_MIN,"Sunday, July 19, 2026",Minnesota Lynx,Portland Fire,MIN,41-75,55,9-23,39,10-13,77,8,26,34,29,6,9,10,9,101
+20260719_WSH_GS,"Sunday, July 19, 2026",Washington Mystics,Golden State Valkyries,WSH,27-60,45,6-23,26,9-11,82,11,26,37,18,5,5,12,17,69
+20260719_WSH_GS,"Sunday, July 19, 2026",Golden State Valkyries,Washington Mystics,GS,24-59,41,12-33,36,14-20,70,8,18,26,21,8,2,8,16,74
+20260719_LA_DAL,"Sunday, July 19, 2026",Los Angeles Sparks,Dallas Wings,LA,,46,,32,,,,,,,,,,,0
+20260719_LA_DAL,"Sunday, July 19, 2026",Dallas Wings,Los Angeles Sparks,DAL,,46,,34,,,,,,,,,,,0
+20260719_CHI_ATL,"Sunday, July 19, 2026",Chicago Sky,Atlanta Dream,CHI,,44,,31,,,,,,,,,,,0
+20260719_CHI_ATL,"Sunday, July 19, 2026",Atlanta Dream,Chicago Sky,ATL,,44,,31,,,,,,,,,,,0
+20260719_CON_PHX,"Sunday, July 19, 2026",Connecticut Sun,Phoenix Mercury,CON,,44,,28,,,,,,,,,,,0
+20260719_CON_PHX,"Sunday, July 19, 2026",Phoenix Mercury,Connecticut Sun,PHX,,44,,33,,,,,,,,,,,0
