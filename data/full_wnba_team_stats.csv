@@ -381,9 +381,17 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260719_POR_MIN,"Sunday, July 19, 2026",Minnesota Lynx,Portland Fire,MIN,41-75,55,9-23,39,10-13,77,8,26,34,29,6,9,10,9,101
 20260719_WSH_GS,"Sunday, July 19, 2026",Washington Mystics,Golden State Valkyries,WSH,27-60,45,6-23,26,9-11,82,11,26,37,18,5,5,12,17,69
 20260719_WSH_GS,"Sunday, July 19, 2026",Golden State Valkyries,Washington Mystics,GS,24-59,41,12-33,36,14-20,70,8,18,26,21,8,2,8,16,74
-20260719_LA_DAL,"Sunday, July 19, 2026",Los Angeles Sparks,Dallas Wings,LA,,46,,32,,,,,,,,,,,0
-20260719_LA_DAL,"Sunday, July 19, 2026",Dallas Wings,Los Angeles Sparks,DAL,,46,,34,,,,,,,,,,,0
-20260719_CHI_ATL,"Sunday, July 19, 2026",Chicago Sky,Atlanta Dream,CHI,,44,,31,,,,,,,,,,,0
-20260719_CHI_ATL,"Sunday, July 19, 2026",Atlanta Dream,Chicago Sky,ATL,,44,,31,,,,,,,,,,,0
-20260719_CON_PHX,"Sunday, July 19, 2026",Connecticut Sun,Phoenix Mercury,CON,,44,,28,,,,,,,,,,,0
-20260719_CON_PHX,"Sunday, July 19, 2026",Phoenix Mercury,Connecticut Sun,PHX,,44,,33,,,,,,,,,,,0
+20260719_LA_DAL,"Sunday, July 19, 2026",Los Angeles Sparks,Dallas Wings,LA,33-68,49,6-21,29,10-11,91,5,25,30,23,9,6,13,23,82
+20260719_LA_DAL,"Sunday, July 19, 2026",Dallas Wings,Los Angeles Sparks,DAL,34-69,49,7-19,37,15-19,79,10,24,34,21,8,2,16,21,90
+20260719_CHI_ATL,"Sunday, July 19, 2026",Chicago Sky,Atlanta Dream,CHI,35-67,52,6-21,29,15-21,71,4,23,27,18,9,4,11,20,91
+20260719_CHI_ATL,"Sunday, July 19, 2026",Atlanta Dream,Chicago Sky,ATL,31-74,42,8-28,29,23-27,85,13,26,39,24,5,5,11,19,93
+20260719_CON_PHX,"Sunday, July 19, 2026",Connecticut Sun,Phoenix Mercury,CON,22-58,38,4-14,29,15-19,79,9,26,35,13,6,4,21,25,63
+20260719_CON_PHX,"Sunday, July 19, 2026",Phoenix Mercury,Connecticut Sun,PHX,26-63,41,2-15,13,18-23,78,8,24,32,19,11,3,14,17,72
+20260721_LV_TOR,"Tuesday, July 21, 2026",Las Vegas Aces,Toronto Tempo,LV,,48,,35,,,,,,,,,,,0
+20260721_LV_TOR,"Tuesday, July 21, 2026",Toronto Tempo,Las Vegas Aces,TOR,,45,,37,,,,,,,,,,,0
+20260721_NY_DAL,"Tuesday, July 21, 2026",New York Liberty,Dallas Wings,NY,,46,,35,,,,,,,,,,,0
+20260721_NY_DAL,"Tuesday, July 21, 2026",Dallas Wings,New York Liberty,DAL,,46,,34,,,,,,,,,,,0
+20260721_WSH_GS,"Tuesday, July 21, 2026",Washington Mystics,Golden State Valkyries,WSH,,43,,28,,,,,,,,,,,0
+20260721_WSH_GS,"Tuesday, July 21, 2026",Golden State Valkyries,Washington Mystics,GS,,42,,35,,,,,,,,,,,0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",Minnesota Lynx,Seattle Storm,MIN,,48,,38,,,,,,,,,,,0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",Seattle Storm,Minnesota Lynx,SEA,,43,,33,,,,,,,,,,,0

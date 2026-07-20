@@ -4766,3 +4766,72 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260719_WSH_GS,"Sunday, July 19, 2026",regular_season,Golden State Valkyries,Washington Mystics,Kaila Charles,G,15,1-2,1-1,3-4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,-6.0,1.0,2.0,1.0,1.0,3.0,4.0,3.0,0.0,0.0
 20260719_WSH_GS,"Sunday, July 19, 2026",regular_season,Golden State Valkyries,Washington Mystics,Kaitlyn Chen,G,7,0-2,0-1,2-2,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,2.0,-11.0,0.0,2.0,0.0,1.0,2.0,2.0,1.0,,0.5
 20260719_WSH_GS,"Sunday, July 19, 2026",regular_season,Golden State Valkyries,Washington Mystics,Nadia Fingall,C,,,,,,,,,,,,,,,,,,,,,,,
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Nneka Ogwumike,F,33,7-12,0-3,3-4,1.0,9.0,10.0,3.0,1.0,2.0,4.0,4.0,17.0,3.0,7.0,12.0,0.0,3.0,3.0,4.0,0.25,0.42857142857142855,0.75
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Dearica Hamby,F,25,8-12,0-1,0-0,0.0,5.0,5.0,3.0,1.0,0.0,3.0,6.0,16.0,-6.0,8.0,12.0,0.0,1.0,0.0,0.0,0.0,0.375,1.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Erica Wheeler,G,35,4-14,0-5,1-1,0.0,3.0,3.0,10.0,2.0,0.0,1.0,3.0,9.0,6.0,4.0,14.0,0.0,5.0,1.0,1.0,0.07142857142857142,2.5,10.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Ariel Atkins,G,32,3-8,1-4,2-2,1.0,1.0,2.0,3.0,2.0,0.0,1.0,1.0,9.0,0.0,3.0,8.0,1.0,4.0,2.0,2.0,0.625,1.0,3.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Rae Burrell,G,28,4-6,1-1,0-0,1.0,1.0,2.0,3.0,1.0,1.0,3.0,1.0,9.0,-6.0,4.0,6.0,1.0,1.0,0.0,0.0,0.5,0.75,1.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Emma Cannon,F,1,0-0,0-0,2-2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,,,0.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Cameron Brink,F,21,3-9,2-3,2-2,2.0,4.0,6.0,1.0,1.0,3.0,0.0,5.0,10.0,-14.0,3.0,9.0,2.0,3.0,2.0,2.0,0.8888888888888888,0.3333333333333333,999.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Jihyun Park,F,15,2-5,0-2,0-0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,4.0,-8.0,2.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Chance Gray,G,10,2-2,2-2,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,6.0,-16.0,2.0,2.0,2.0,2.0,0.0,0.0,3.0,0.0,0.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Los Angeles Sparks,Dallas Wings,Kate Martin,G,,,,,,,,,,,,,,,,,,,,,,,
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Jessica Shepard,F,38,4-9,0-0,3-4,2.0,12.0,14.0,6.0,1.0,0.0,4.0,1.0,11.0,10.0,4.0,9.0,0.0,0.0,3.0,4.0,0.3333333333333333,1.5,1.5
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Awak Kuier,F,9,2-3,0-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,4.0,4.0,-2.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Arike Ogunbowale,G,31,7-13,1-4,5-6,1.0,1.0,2.0,1.0,2.0,0.0,2.0,3.0,20.0,-4.0,7.0,13.0,1.0,4.0,5.0,6.0,0.6153846153846154,0.14285714285714285,0.5
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Paige Bueckers,G,32,10-18,2-4,3-3,3.0,1.0,4.0,5.0,0.0,0.0,4.0,2.0,25.0,11.0,10.0,18.0,2.0,4.0,3.0,3.0,0.5,0.5,1.25
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Azzi Fudd,G,33,4-10,3-5,0-0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,11.0,6.0,4.0,10.0,3.0,5.0,0.0,0.0,0.9,0.5,999.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Alysha Clark,F,7,0-1,0-0,0-0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,3.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.5
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Maddy Siegrist,F,12,1-2,1-2,0-0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,1.0,3.0,-2.0,1.0,2.0,1.0,2.0,0.0,0.0,1.5,0.0,0.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Li Yueru,C,13,1-1,0-0,2-3,1.0,3.0,4.0,0.0,0.0,2.0,1.0,2.0,4.0,7.0,1.0,1.0,0.0,0.0,2.0,3.0,2.0,0.0,0.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Odyssey Sims,G,17,3-8,0-2,1-1,0.0,0.0,0.0,6.0,1.0,0.0,1.0,1.0,7.0,9.0,3.0,8.0,0.0,2.0,1.0,1.0,0.125,2.0,6.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Aziaha James,G,7,2-4,0-1,1-2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,5.0,2.0,2.0,4.0,0.0,1.0,1.0,2.0,0.25,0.0,0.0
+20260719_LA_DAL,"Sunday, July 19, 2026",regular_season,Dallas Wings,Los Angeles Sparks,Sug Sutton,G,,,,,,,,,,,,,,,,,,,,,,,
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Azura Stevens,F,30,8-12,2-4,2-3,1.0,8.0,9.0,1.0,1.0,0.0,3.0,2.0,20.0,7.0,8.0,12.0,2.0,4.0,2.0,3.0,0.6666666666666666,0.125,0.333
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Kamilla Cardoso,C,24,6-9,0-0,3-5,1.0,3.0,4.0,2.0,2.0,1.0,1.0,3.0,15.0,8.0,6.0,9.0,0.0,0.0,3.0,5.0,0.3333333333333333,0.3333333333333333,2.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Courtney Vandersloot,G,21,4-7,0-1,3-3,0.0,1.0,1.0,6.0,2.0,1.0,1.0,3.0,11.0,2.0,4.0,7.0,0.0,1.0,3.0,3.0,0.42857142857142855,1.5,6.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Natasha Cloud,G,32,3-7,1-4,0-0,0.0,2.0,2.0,4.0,1.0,0.0,2.0,4.0,7.0,-5.0,3.0,7.0,1.0,4.0,0.0,0.0,0.42857142857142855,1.3333333333333333,2.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Sydney Taylor,G,28,7-16,3-7,1-2,1.0,2.0,3.0,2.0,1.0,0.0,0.0,5.0,18.0,7.0,7.0,16.0,3.0,7.0,1.0,2.0,0.625,0.2857142857142857,999.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Chloe Bibby,F,5,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Elizabeth Williams,C,16,4-5,0-0,4-5,0.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0,12.0,-10.0,4.0,5.0,0.0,0.0,4.0,5.0,0.8,0.0,0.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Rachel Banham,G,5,1-2,0-1,0-1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,999.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Jacy Sheldon,G,19,1-4,0-2,0-0,1.0,1.0,2.0,2.0,0.0,0.0,1.0,1.0,2.0,1.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Aicha Coulibaly,G,5,0-1,0-0,2-2,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,,0.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Chicago Sky,Atlanta Dream,Gabriela Jaquez,G,15,1-3,0-1,0-0,0.0,3.0,3.0,0.0,1.0,0.0,1.0,0.0,2.0,-12.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Naz Hillmon,F,34,2-6,1-5,0-0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,3.0,5.0,4.0,2.0,6.0,1.0,5.0,0.0,0.0,0.5,0.5,0.5
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Angel Reese,F,20,3-13,0-1,2-2,4.0,1.0,5.0,1.0,1.0,1.0,3.0,3.0,8.0,-7.0,3.0,13.0,0.0,1.0,2.0,2.0,0.15384615384615385,0.3333333333333333,0.333
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Allisha Gray,G,35,7-11,4-6,11-13,1.0,5.0,6.0,3.0,0.0,0.0,1.0,3.0,29.0,-1.0,7.0,11.0,4.0,6.0,11.0,13.0,2.090909090909091,0.42857142857142855,3.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Jordin Canada,G,34,4-9,0-3,2-4,2.0,1.0,3.0,9.0,3.0,0.0,3.0,1.0,10.0,1.0,4.0,9.0,0.0,3.0,2.0,4.0,0.2222222222222222,2.25,3.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Rhyne Howard,G,35,4-11,3-8,0-0,1.0,5.0,6.0,6.0,0.0,3.0,0.0,2.0,11.0,3.0,4.0,11.0,3.0,8.0,0.0,0.0,0.8181818181818182,1.5,999.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Brionna Jones,F,15,1-6,0-1,4-4,4.0,6.0,10.0,1.0,0.0,0.0,0.0,2.0,6.0,0.0,1.0,6.0,0.0,1.0,4.0,4.0,0.6666666666666666,1.0,999.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Madina Okot,C,11,6-8,0-0,2-2,0.0,4.0,4.0,0.0,0.0,1.0,1.0,2.0,14.0,7.0,6.0,8.0,0.0,0.0,2.0,2.0,0.25,0.0,0.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Jaylyn Sherrod,G,5,1-3,0-1,0-0,0.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,2.0,5.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Isobel Borlase,G,12,3-7,0-3,2-2,1.0,1.0,2.0,1.0,0.0,0.0,0.0,1.0,8.0,-2.0,3.0,7.0,0.0,3.0,2.0,2.0,0.2857142857142857,0.3333333333333333,999.0
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Sika Kone,F,,,,,,,,,,,,,,,,,,,,,,,
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Shatori Walker-Kimbrough,G,,,,,,,,,,,,,,,,,,,,,,,
+20260719_CHI_ATL,"Sunday, July 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Aaliyah Nye,G,,,,,,,,,,,,,,,,,,,,,,,
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Diamond Miller,F,31,2-9,0-3,2-2,0.0,7.0,7.0,0.0,1.0,0.0,4.0,5.0,6.0,-5.0,2.0,9.0,0.0,3.0,2.0,2.0,0.2222222222222222,0.0,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Brittney Griner,C,31,7-12,0-0,5-7,2.0,3.0,5.0,0.0,0.0,2.0,1.0,3.0,19.0,-14.0,7.0,12.0,0.0,0.0,5.0,7.0,0.4166666666666667,0.0,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Olivia Nelson-Ododa,C,26,5-9,0-0,2-4,2.0,10.0,12.0,3.0,1.0,0.0,0.0,3.0,12.0,6.0,5.0,9.0,0.0,0.0,2.0,4.0,0.2222222222222222,0.6,999.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Charlisse Leger-Walker,G,29,2-8,0-3,1-1,0.0,3.0,3.0,5.0,2.0,0.0,4.0,1.0,5.0,-9.0,2.0,8.0,0.0,3.0,1.0,1.0,0.125,2.5,1.25
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Leila Lacan,G,37,2-9,1-1,2-2,0.0,1.0,1.0,4.0,0.0,1.0,9.0,4.0,7.0,-10.0,2.0,9.0,1.0,1.0,2.0,2.0,0.5555555555555556,2.0,0.444
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Aaliyah Edwards,F,5,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Raegan Beers,F,4,0-1,0-0,0-0,2.0,0.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Nell Angloma,F,12,2-4,1-3,3-3,2.0,1.0,3.0,0.0,0.0,0.0,2.0,3.0,8.0,-9.0,2.0,4.0,1.0,3.0,3.0,3.0,1.5,0.0,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Kennedy Burke,G,20,2-4,2-3,0-0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,6.0,-1.0,2.0,4.0,2.0,3.0,0.0,0.0,1.5,0.0,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Hailey Van Lith,G,3,0-1,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,999.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Gianna Kneepkens,G,2,0-0,0-0,0-0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,-3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Aneesah Morrow,F,,,,,,,,,,,,,,,,,,,,,,,
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Connecticut Sun,Phoenix Mercury,Saniya Rivers,G,,,,,,,,,,,,,,,,,,,,,,,
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,DeWanna Bonner,F,29,7-13,1-3,6-8,2.0,4.0,6.0,0.0,1.0,0.0,0.0,4.0,21.0,8.0,7.0,13.0,1.0,3.0,6.0,8.0,0.6923076923076923,0.0,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Alyssa Thomas,F,34,2-9,0-0,3-6,3.0,3.0,6.0,11.0,1.0,1.0,1.0,4.0,7.0,10.0,2.0,9.0,0.0,0.0,3.0,6.0,0.3333333333333333,5.5,11.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Noemie Brochant,F,23,2-3,0-0,0-0,1.0,2.0,3.0,2.0,3.0,0.0,2.0,0.0,4.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Kahleah Copper,G,35,5-14,0-2,8-8,1.0,3.0,4.0,4.0,1.0,1.0,5.0,1.0,18.0,10.0,5.0,14.0,0.0,2.0,8.0,8.0,0.5714285714285714,0.8,0.8
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Monique Akoa Makani,G,32,5-11,1-4,0-0,0.0,6.0,6.0,1.0,2.0,0.0,1.0,2.0,11.0,17.0,5.0,11.0,1.0,4.0,0.0,0.0,0.2727272727272727,0.2,1.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Valeriane Ayayi,F,14,2-7,0-4,1-1,0.0,1.0,1.0,1.0,2.0,0.0,4.0,0.0,5.0,-5.0,2.0,7.0,0.0,4.0,1.0,1.0,0.14285714285714285,0.5,0.25
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Natasha Mack,F,20,2-4,0-1,0-0,1.0,4.0,5.0,0.0,1.0,1.0,1.0,4.0,4.0,11.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Jovana Nogic,G,--,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Lexi Held,G,13,1-2,0-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,-9.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Marta Suarez,F,,,,,,,,,,,,,,,,,,,,,,,
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Kyara Linskens,C,,,,,,,,,,,,,,,,,,,,,,,
+20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
