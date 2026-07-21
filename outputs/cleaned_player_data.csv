@@ -4835,3 +4835,100 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Marta Suarez,F,,,,,,,,,,,,,,,,,,,,,,,
 20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Kyara Linskens,C,,,,,,,,,,,,,,,,,,,,,,,
 20260719_CON_PHX,"Sunday, July 19, 2026",regular_season,Phoenix Mercury,Connecticut Sun,Sami Whitcomb,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Stephanie Talbot,F,15,2-8,0-6,0-0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,4.0,0.0,2.0,8.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,NaLyssa Smith,F,19,9-10,0-0,0-0,1.0,4.0,5.0,2.0,0.0,0.0,1.0,3.0,18.0,16.0,9.0,10.0,0.0,0.0,0.0,0.0,0.0,0.2222222222222222,2.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,A'ja Wilson,C,28,11-14,3-3,1-1,1.0,5.0,6.0,4.0,1.0,4.0,0.0,0.0,26.0,24.0,11.0,14.0,3.0,3.0,1.0,1.0,0.7142857142857143,0.36363636363636365,999.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Chelsea Gray,G,31,4-7,3-5,3-4,0.0,4.0,4.0,7.0,3.0,0.0,2.0,2.0,14.0,24.0,4.0,7.0,3.0,5.0,3.0,4.0,1.7142857142857142,1.75,3.5
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Jackie Young,G,33,10-17,4-10,0-0,0.0,4.0,4.0,12.0,1.0,0.0,2.0,1.0,24.0,23.0,10.0,17.0,4.0,10.0,0.0,0.0,0.7058823529411765,1.2,6.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Cheyenne Parker-Tyus,F,11,2-2,0-0,0-0,1.0,5.0,6.0,0.0,0.0,1.0,0.0,2.0,4.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Brianna Turner,F,13,1-2,0-0,0-0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,11.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Jewell Loyd,G,23,4-8,2-6,1-1,1.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,11.0,27.0,4.0,8.0,2.0,6.0,1.0,1.0,0.875,0.25,1.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Dana Evans,G,18,2-7,2-5,0-0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,0.0,6.0,4.0,2.0,7.0,2.0,5.0,0.0,0.0,0.8571428571428571,1.0,2.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Justine Pissott,G,10,0-3,0-3,0-0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,-2.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,,999.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Kierstan Bell,F,,,,,,,,,,,,,,,,,,,,,,,
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Mai Yamamoto,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Isabelle Harrison,F,22,8-11,1-2,9-10,4.0,7.0,11.0,2.0,0.0,0.0,1.0,0.0,26.0,-10.0,8.0,11.0,1.0,2.0,9.0,10.0,1.0909090909090908,0.25,2.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Maria Conde,F,28,6-12,3-8,0-0,2.0,6.0,8.0,4.0,0.0,0.0,0.0,2.0,15.0,-7.0,6.0,12.0,3.0,8.0,0.0,0.0,0.75,0.6666666666666666,999.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Laura Juskaite,F,29,2-9,1-5,1-2,1.0,2.0,3.0,1.0,2.0,0.0,1.0,2.0,6.0,-24.0,2.0,9.0,1.0,5.0,1.0,2.0,0.4444444444444444,0.5,1.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Marina Mabrey,G,31,5-21,1-8,3-3,1.0,1.0,2.0,5.0,3.0,1.0,3.0,2.0,14.0,-12.0,5.0,21.0,1.0,8.0,3.0,3.0,0.2857142857142857,1.0,1.667
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Julie Allemand,G,31,1-2,1-2,0-0,0.0,5.0,5.0,4.0,1.0,0.0,2.0,3.0,3.0,-13.0,1.0,2.0,1.0,2.0,0.0,0.0,1.5,4.0,2.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Teonni Key,F,3,1-1,0-0,0-0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Kayla Alexander,C,16,3-5,0-0,0-0,3.0,3.0,6.0,1.0,0.0,0.0,2.0,1.0,6.0,-14.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.5
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Temi Fagbenle,C,15,1-4,0-1,0-0,1.0,1.0,2.0,0.0,0.0,0.0,2.0,2.0,2.0,-11.0,1.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Kia Nurse,G,18,2-6,1-4,2-2,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,7.0,-22.0,2.0,6.0,1.0,4.0,2.0,2.0,0.8333333333333334,0.5,999.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Tima Pouye,G,7,0-3,0-1,2-2,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,-13.0,0.0,3.0,0.0,1.0,2.0,2.0,0.6666666666666666,,999.0
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Nyara Sabally,F,,,,,,,,,,,,,,,,,,,,,,,
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Brittney Sykes,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_LV_TOR,"Tuesday, July 21, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Kiki Rice,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Breanna Stewart,F,42,10-19,2-4,11-12,4.0,9.0,13.0,8.0,0.0,2.0,1.0,1.0,33.0,5.0,10.0,19.0,2.0,4.0,11.0,12.0,0.8947368421052632,0.8,8.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Jonquel Jones,C,33,6-13,1-3,1-2,7.0,3.0,10.0,2.0,0.0,1.0,0.0,4.0,14.0,-4.0,6.0,13.0,1.0,3.0,1.0,2.0,0.3076923076923077,0.3333333333333333,999.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Rebecca Allen,G,32,2-7,1-6,1-2,2.0,1.0,3.0,1.0,1.0,1.0,0.0,3.0,6.0,0.0,2.0,7.0,1.0,6.0,1.0,2.0,0.5714285714285714,0.5,999.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Sabrina Ionescu,G,36,8-25,2-10,3-3,1.0,3.0,4.0,2.0,0.0,1.0,1.0,1.0,21.0,7.0,8.0,25.0,2.0,10.0,3.0,3.0,0.36,0.25,2.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Pauline Astier,G,25,3-10,1-3,0-0,0.0,2.0,2.0,1.0,1.0,0.0,1.0,3.0,7.0,-7.0,3.0,10.0,1.0,3.0,0.0,0.0,0.3,0.3333333333333333,1.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Raquel Carrera,F,3,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Han Xu,C,11,1-2,0-1,0-0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,999.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Rebekah Gardner,G,15,3-3,0-0,0-0,2.0,2.0,4.0,0.0,0.0,1.0,2.0,3.0,6.0,-4.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Marine Fauthoux,G,27,2-5,2-5,4-4,1.0,9.0,10.0,2.0,1.0,0.0,1.0,2.0,10.0,7.0,2.0,5.0,2.0,5.0,4.0,4.0,2.0,1.0,2.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Anneli Maley,F,,,,,,,,,,,,,,,,,,,,,,,
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,New York Liberty,Dallas Wings,Betnijah Laney-Hamilton,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Jessica Shepard,F,38,4-7,0-0,5-6,4.0,12.0,16.0,6.0,0.0,0.0,2.0,4.0,13.0,-5.0,4.0,7.0,0.0,0.0,5.0,6.0,0.7142857142857143,1.5,3.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Awak Kuier,F,25,5-8,0-1,0-1,0.0,4.0,4.0,2.0,0.0,4.0,0.0,6.0,10.0,-3.0,5.0,8.0,0.0,1.0,0.0,1.0,0.0,0.4,999.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Odyssey Sims,G,21,2-4,1-1,0-0,0.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,5.0,4.0,2.0,4.0,1.0,1.0,0.0,0.0,0.75,0.5,1.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Arike Ogunbowale,G,38,9-24,3-5,8-8,1.0,4.0,5.0,6.0,1.0,0.0,1.0,4.0,29.0,-5.0,9.0,24.0,3.0,5.0,8.0,8.0,0.7083333333333334,0.6666666666666666,6.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Azzi Fudd,G,43,6-13,3-6,0-0,0.0,1.0,1.0,2.0,0.0,1.0,1.0,3.0,15.0,1.0,6.0,13.0,3.0,6.0,0.0,0.0,0.6923076923076923,0.3333333333333333,2.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Alysha Clark,F,4,0-1,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,999.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Maddy Siegrist,F,11,5-7,3-3,0-0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,13.0,2.0,5.0,7.0,3.0,3.0,0.0,0.0,1.2857142857142858,0.0,0.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Li Yueru,C,16,3-4,1-2,0-2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,5.0,7.0,4.0,3.0,4.0,1.0,2.0,0.0,2.0,0.75,0.3333333333333333,1.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Sug Sutton,G,22,1-5,0-3,0-0,0.0,1.0,1.0,7.0,0.0,0.0,0.0,0.0,2.0,-7.0,1.0,5.0,0.0,3.0,0.0,0.0,0.0,7.0,999.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Aziaha James,G,8,1-3,0-0,2-2,1.0,1.0,2.0,1.0,0.0,2.0,1.0,2.0,4.0,2.0,1.0,3.0,0.0,0.0,2.0,2.0,0.6666666666666666,1.0,1.0
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Haley Jones,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_NY_DAL,"Tuesday, July 21, 2026",regular_season,Dallas Wings,New York Liberty,Costanza Verona,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Michaela Onyenwere,F,31,4-10,3-7,1-2,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,12.0,14.0,4.0,10.0,3.0,7.0,1.0,2.0,1.0,0.25,1.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Kiki Iriafen,F,35,8-12,1-2,6-8,4.0,8.0,12.0,4.0,0.0,0.0,1.0,1.0,23.0,15.0,8.0,12.0,1.0,2.0,6.0,8.0,0.75,0.5,4.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Shakira Austin,C,31,6-10,1-2,2-3,1.0,14.0,15.0,2.0,1.0,0.0,4.0,2.0,15.0,14.0,6.0,10.0,1.0,2.0,2.0,3.0,0.5,0.3333333333333333,0.5
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Sonia Citron,G,32,5-12,0-1,7-7,0.0,2.0,2.0,6.0,1.0,1.0,3.0,4.0,17.0,10.0,5.0,12.0,0.0,1.0,7.0,7.0,0.5833333333333334,1.2,2.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Georgia Amoore,G,27,3-5,3-4,0-0,0.0,0.0,0.0,8.0,0.0,0.0,4.0,2.0,9.0,1.0,3.0,5.0,3.0,4.0,0.0,0.0,1.8,2.6666666666666665,2.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Lauren Betts,C,14,2-4,0-0,0-0,0.0,2.0,2.0,0.0,0.0,4.0,2.0,1.0,4.0,-13.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Cotie McMahon,G,12,1-1,0-0,1-1,0.0,2.0,2.0,2.0,1.0,0.0,0.0,2.0,3.0,11.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,999.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Cassandre Prosper,G,9,1-5,0-4,0-0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,2.0,-6.0,1.0,5.0,0.0,4.0,0.0,0.0,0.0,1.0,1.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Alicia Florez,G,9,2-2,1-1,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,5.0,-6.0,2.0,2.0,1.0,1.0,0.0,0.0,1.5,0.5,999.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Angela Dugalic,F,,,,,,,,,,,,,,,,,,,,,,,
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Rori Harmon,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Lucy Olsen,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Washington Mystics,Golden State Valkyries,Darianna Littlepage-Buggs,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Kayla Thornton,F,29,5-8,4-7,1-1,0.0,3.0,3.0,0.0,2.0,0.0,1.0,1.0,15.0,-16.0,5.0,8.0,4.0,7.0,1.0,1.0,1.625,0.0,0.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Gabby Williams,F,26,4-12,0-4,0-0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,3.0,8.0,-19.0,4.0,12.0,0.0,4.0,0.0,0.0,0.0,0.5,1.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Cecilia Zandalasini,F,17,3-7,1-3,0-0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,7.0,-7.0,3.0,7.0,1.0,3.0,0.0,0.0,0.42857142857142855,0.3333333333333333,999.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Kiah Stokes,C,22,1-4,1-4,0-0,0.0,4.0,4.0,0.0,0.0,2.0,0.0,1.0,3.0,-15.0,1.0,4.0,1.0,4.0,0.0,0.0,0.75,0.0,0.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Veronica Burton,G,26,5-8,2-3,0-0,0.0,2.0,2.0,7.0,2.0,0.0,2.0,3.0,12.0,-14.0,5.0,8.0,2.0,3.0,0.0,0.0,0.75,1.4,3.5
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Laeticia Amihere,F,12,1-3,0-0,1-2,1.0,1.0,2.0,1.0,1.0,1.0,2.0,0.0,3.0,14.0,1.0,3.0,0.0,0.0,1.0,2.0,0.3333333333333333,1.0,0.5
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Janelle Salaun,F,17,3-12,1-6,4-4,4.0,0.0,4.0,2.0,1.0,0.0,0.0,3.0,11.0,1.0,3.0,12.0,1.0,6.0,4.0,4.0,0.5833333333333334,0.6666666666666666,999.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Tiffany Hayes,G,10,0-2,0-0,0-0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,999.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Kaila Charles,G,18,1-3,1-3,0-0,0.0,5.0,5.0,0.0,1.0,1.0,0.0,1.0,3.0,12.0,1.0,3.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Kaitlyn Chen,G,24,8-13,2-3,2-4,2.0,0.0,2.0,6.0,1.0,0.0,1.0,0.0,20.0,3.0,8.0,13.0,2.0,3.0,2.0,4.0,0.6153846153846154,0.75,6.0
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Nadia Fingall,C,,,,,,,,,,,,,,,,,,,,,,,
+20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Juste Jocyte,G,,,,,,,,,,,,,,,,,,,,,,,
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Natasha Howard,F,24,3-8,0-0,0-0,7.0,5.0,12.0,3.0,3.0,0.0,4.0,5.0,6.0,10.0,3.0,8.0,0.0,0.0,0.0,0.0,0.0,1.0,0.75
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Nia Coffey,F,28,1-4,1-3,0-0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,3.0,11.0,1.0,4.0,1.0,3.0,0.0,0.0,0.75,1.0,999.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Kayla McBride,G,32,9-16,6-10,9-9,0.0,2.0,2.0,0.0,2.0,0.0,1.0,1.0,33.0,6.0,9.0,16.0,6.0,10.0,9.0,9.0,1.6875,0.0,0.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Courtney Williams,G,33,8-13,1-2,4-4,0.0,4.0,4.0,3.0,2.0,0.0,2.0,2.0,21.0,1.0,8.0,13.0,1.0,2.0,4.0,4.0,0.5384615384615384,0.375,1.5
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Olivia Miles,G,36,13-24,1-4,5-5,1.0,7.0,8.0,8.0,1.0,0.0,1.0,4.0,32.0,10.0,13.0,24.0,1.0,4.0,5.0,5.0,0.3333333333333333,0.6153846153846154,8.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Dorka Juhasz,F,19,0-2,0-1,1-2,1.0,3.0,4.0,3.0,1.0,1.0,0.0,1.0,1.0,-18.0,0.0,2.0,0.0,1.0,1.0,2.0,0.5,,999.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Antonia Delaere,F,5,0-1,0-0,0-0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,-7.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,999.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Anastasiia Olairi Kosu,F,9,1-2,0-0,2-2,1.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,4.0,3.0,1.0,2.0,0.0,0.0,2.0,2.0,1.0,1.0,999.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Maya Caldwell,G,13,2-6,1-4,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,5.0,1.0,2.0,6.0,1.0,4.0,0.0,0.0,0.5,0.0,0.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Eliska Hamzova,G,0,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Napheesa Collier,F,,,,,,,,,,,,,,,,,,,,,,,
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Emma Cechova,F,,,,,,,,,,,,,,,,,,,,,,,
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Dominique Malonga,C,27,5-12,0-2,4-4,3.0,6.0,9.0,1.0,1.0,2.0,2.0,3.0,14.0,-4.0,5.0,12.0,0.0,2.0,4.0,4.0,0.3333333333333333,0.2,0.5
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Awa Fam,C,31,4-9,0-2,0-0,6.0,5.0,11.0,4.0,1.0,1.0,2.0,2.0,8.0,-9.0,4.0,9.0,0.0,2.0,0.0,0.0,0.0,1.0,2.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Natisha Hiedeman,G,28,4-12,1-6,3-4,0.0,1.0,1.0,10.0,0.0,0.0,0.0,1.0,12.0,3.0,4.0,12.0,1.0,6.0,3.0,4.0,0.5,2.5,999.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Flau'jae Johnson,G,29,7-11,5-8,7-8,0.0,1.0,1.0,1.0,0.0,1.0,4.0,2.0,26.0,-4.0,7.0,11.0,5.0,8.0,7.0,8.0,2.0,0.14285714285714285,0.25
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Jade Melbourne,G,19,2-3,0-0,1-2,0.0,1.0,1.0,3.0,0.0,0.0,3.0,2.0,5.0,-10.0,2.0,3.0,0.0,0.0,1.0,2.0,0.3333333333333333,1.5,1.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Katie Lou Samuelson,F,15,2-4,2-3,1-1,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,7.0,3.0,2.0,4.0,2.0,3.0,1.0,1.0,1.75,0.0,0.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Jordan Horston,F,13,4-5,1-1,0-0,1.0,3.0,4.0,0.0,2.0,0.0,2.0,0.0,9.0,-5.0,4.0,5.0,1.0,1.0,0.0,0.0,0.6,0.0,0.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Stefanie Dolson,C,11,1-2,1-1,0-0,0.0,1.0,1.0,3.0,0.0,0.0,0.0,1.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.5,3.0,999.0
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Zia Cooke,G,28,6-12,3-5,3-3,0.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,18.0,10.0,6.0,12.0,3.0,5.0,3.0,3.0,1.0,0.16666666666666666,0.5
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Ezi Magbegor,F,,,,,,,,,,,,,,,,,,,,,,,
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Mackenzie Holmes,F,,,,,,,,,,,,,,,,,,,,,,,
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Taylor Thierry,F,,,,,,,,,,,,,,,,,,,,,,,
