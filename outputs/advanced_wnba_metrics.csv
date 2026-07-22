@@ -395,3 +395,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260721_WSH_GS,"Tuesday, July 21, 2026",Golden State Valkyries,Washington Mystics,GS,31-72,43.0,12-33,36.0,8-11,73.0,7.0,16.0,23.0,21.0,10.0,4.0,8.0,15.0,82,31.0,72.0,12.0,33.0,8.0,11.0,77.84,105.344295991778,0.5138888888888888,0.10277492291880781,2.625,0.1527777777777778,0.4583333333333333,0.8972250770811921,0.6111111111111112,0.6774193548387096
 20260721_MIN_SEA,"Tuesday, July 21, 2026",Minnesota Lynx,Seattle Storm,MIN,37-76,49.0,10-24,42.0,21-22,95.0,11.0,24.0,35.0,20.0,10.0,2.0,9.0,18.0,105,37.0,76.0,10.0,24.0,21.0,22.0,83.68,125.47801147227533,0.5526315789473685,0.10755258126195028,2.222,0.2894736842105263,0.3157894736842105,0.8924474187380498,0.6710526315789473,0.5405405405405406
 20260721_MIN_SEA,"Tuesday, July 21, 2026",Seattle Storm,Minnesota Lynx,SEA,35-70,50.0,13-28,46.0,19-22,86.0,10.0,22.0,32.0,23.0,4.0,4.0,15.0,15.0,102,35.0,70.0,13.0,28.0,19.0,22.0,84.68,120.45347189418989,0.5928571428571429,0.1771374586679263,1.533,0.3142857142857143,0.4,0.8228625413320737,0.8285714285714286,0.6571428571428571
+20260722_PHX_LA,"Wednesday, July 22, 2026",Phoenix Mercury,Los Angeles Sparks,PHX,,44.0,,32.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260722_PHX_LA,"Wednesday, July 22, 2026",Los Angeles Sparks,Phoenix Mercury,LA,,46.0,,32.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260722_MIN_SEA,"Wednesday, July 22, 2026",Minnesota Lynx,Seattle Storm,MIN,,48.0,,38.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260722_MIN_SEA,"Wednesday, July 22, 2026",Seattle Storm,Minnesota Lynx,SEA,,43.0,,33.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260722_CHI_NY,"Wednesday, July 22, 2026",Chicago Sky,New York Liberty,CHI,,44.0,,31.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260722_CHI_NY,"Wednesday, July 22, 2026",New York Liberty,Chicago Sky,NY,,46.0,,35.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260722_LV_WSH,"Wednesday, July 22, 2026",Las Vegas Aces,Washington Mystics,LV,,49.0,,36.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260722_LV_WSH,"Wednesday, July 22, 2026",Washington Mystics,Las Vegas Aces,WSH,,43.0,,28.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260723_CON_IND,"Thursday, July 23, 2026",Connecticut Sun,Indiana Fever,CON,,44.0,,28.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260723_CON_IND,"Thursday, July 23, 2026",Indiana Fever,Connecticut Sun,IND,,47.0,,38.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260723_DAL_POR,"Thursday, July 23, 2026",Dallas Wings,Portland Fire,DAL,,46.0,,34.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
+20260723_DAL_POR,"Thursday, July 23, 2026",Portland Fire,Dallas Wings,POR,,45.0,,35.0,,,,,,,,,,,0,,,,,,,,,,,,,,,,
