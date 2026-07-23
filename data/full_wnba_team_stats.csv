@@ -395,15 +395,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260721_WSH_GS,"Tuesday, July 21, 2026",Golden State Valkyries,Washington Mystics,GS,31-72,43,12-33,36,8-11,73,7,16,23,21,10,4,8,15,82
 20260721_MIN_SEA,"Tuesday, July 21, 2026",Minnesota Lynx,Seattle Storm,MIN,37-76,49,10-24,42,21-22,95,11,24,35,20,10,2,9,18,105
 20260721_MIN_SEA,"Tuesday, July 21, 2026",Seattle Storm,Minnesota Lynx,SEA,35-70,50,13-28,46,19-22,86,10,22,32,23,4,4,15,15,102
-20260722_PHX_LA,"Wednesday, July 22, 2026",Phoenix Mercury,Los Angeles Sparks,PHX,,44,,32,,,,,,,,,,,0
-20260722_PHX_LA,"Wednesday, July 22, 2026",Los Angeles Sparks,Phoenix Mercury,LA,,46,,32,,,,,,,,,,,0
-20260722_MIN_SEA,"Wednesday, July 22, 2026",Minnesota Lynx,Seattle Storm,MIN,,48,,38,,,,,,,,,,,0
-20260722_MIN_SEA,"Wednesday, July 22, 2026",Seattle Storm,Minnesota Lynx,SEA,,43,,33,,,,,,,,,,,0
-20260722_CHI_NY,"Wednesday, July 22, 2026",Chicago Sky,New York Liberty,CHI,,44,,31,,,,,,,,,,,0
-20260722_CHI_NY,"Wednesday, July 22, 2026",New York Liberty,Chicago Sky,NY,,46,,35,,,,,,,,,,,0
-20260722_LV_WSH,"Wednesday, July 22, 2026",Las Vegas Aces,Washington Mystics,LV,,49,,36,,,,,,,,,,,0
-20260722_LV_WSH,"Wednesday, July 22, 2026",Washington Mystics,Las Vegas Aces,WSH,,43,,28,,,,,,,,,,,0
-20260723_CON_IND,"Thursday, July 23, 2026",Connecticut Sun,Indiana Fever,CON,,44,,28,,,,,,,,,,,0
-20260723_CON_IND,"Thursday, July 23, 2026",Indiana Fever,Connecticut Sun,IND,,47,,38,,,,,,,,,,,0
-20260723_DAL_POR,"Thursday, July 23, 2026",Dallas Wings,Portland Fire,DAL,,46,,34,,,,,,,,,,,0
-20260723_DAL_POR,"Thursday, July 23, 2026",Portland Fire,Dallas Wings,POR,,45,,35,,,,,,,,,,,0
+20260722_PHX_LA,"Wednesday, July 22, 2026",Phoenix Mercury,Los Angeles Sparks,PHX,35-74,47,7-27,26,9-13,69,7,26,33,28,10,5,12,23,86
+20260722_PHX_LA,"Wednesday, July 22, 2026",Los Angeles Sparks,Phoenix Mercury,LA,28-70,40,9-28,32,17-21,81,10,27,37,20,5,5,18,21,82
+20260722_MIN_SEA,"Wednesday, July 22, 2026",Minnesota Lynx,Seattle Storm,MIN,31-79,39,9-23,39,15-17,88,15,21,36,23,13,3,11,13,86
+20260722_MIN_SEA,"Wednesday, July 22, 2026",Seattle Storm,Minnesota Lynx,SEA,30-74,41,5-32,16,11-15,73,11,30,41,18,7,7,18,12,76
+20260722_CHI_NY,"Wednesday, July 22, 2026",Chicago Sky,New York Liberty,CHI,34-71,48,7-21,33,19-21,90,4,26,30,27,8,6,9,20,94
+20260722_CHI_NY,"Wednesday, July 22, 2026",New York Liberty,Chicago Sky,NY,29-71,41,11-28,39,26-28,93,10,27,37,17,1,6,13,16,95
+20260722_LV_WSH,"Wednesday, July 22, 2026",Las Vegas Aces,Washington Mystics,LV,34-62,55,5-14,36,26-29,90,4,20,24,18,10,6,8,25,99
+20260722_LV_WSH,"Wednesday, July 22, 2026",Washington Mystics,Las Vegas Aces,WSH,35-71,49,7-13,54,23-31,74,12,22,34,24,3,1,13,22,100
+20260723_CON_IND,"Thursday, July 23, 2026",Connecticut Sun,Indiana Fever,CON,35-79,44,8-20,40,10-15,67,11,17,28,21,8,4,14,25,88
+20260723_CON_IND,"Thursday, July 23, 2026",Indiana Fever,Connecticut Sun,IND,45-73,62,11-22,50,22-27,81,8,27,35,29,7,7,13,18,123
+20260723_DAL_POR,"Thursday, July 23, 2026",Dallas Wings,Portland Fire,DAL,35-72,49,12-30,40,19-24,79,9,26,35,28,7,2,13,18,101
+20260723_DAL_POR,"Thursday, July 23, 2026",Portland Fire,Dallas Wings,POR,37-65,57,10-26,38,13-17,76,3,19,22,24,6,2,11,21,97

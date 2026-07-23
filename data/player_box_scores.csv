@@ -179,7 +179,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260503_LA_POR,"Sunday, May 03, 2026",preseason,Portland Fire,Los Angeles Sparks,Jordan Harrison,G,18,2-5,0-1,5-5,1,2,3,4,1,0,4,4,9,-2
 20260503_LA_POR,"Sunday, May 03, 2026",preseason,Portland Fire,Los Angeles Sparks,Kamiah Smalls,F,,,,,,,,,,,,,,
 20260503_LA_POR,"Sunday, May 03, 2026",preseason,Portland Fire,Los Angeles Sparks,Emily Engstler,F,,,,,,,,,,,,,,
-20260503_LA_POR,"Sunday, May 03, 2026",preseason,Portland Fire,Los Angeles Sparks,Megan Gustafson,C,,,,,,,,,,,,,,
+20260503_LA_POR,"Sunday, May 03, 2026",preseason,Portland Fire,Los Angeles Sparks,Megan DiLeo,C,,,,,,,,,,,,,,
 20260503_LA_POR,"Sunday, May 03, 2026",preseason,Portland Fire,Los Angeles Sparks,Karlie Samuelson,G,,,,,,,,,,,,,,
 20260503_LA_POR,"Sunday, May 03, 2026",preseason,Portland Fire,Los Angeles Sparks,Sug Sutton,G,,,,,,,,,,,,,,
 20260503_LA_POR,"Sunday, May 03, 2026",preseason,Portland Fire,Los Angeles Sparks,Sarah Ashlee Barker,G,,,,,,,,,,,,,,
@@ -342,7 +342,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260510_CHI_POR,"Sunday, May 10, 2026",regular_season,Portland Fire,Chicago Sky,Luisa Geiselsoder,C,25,2-10,1-6,3-3,1,6,7,3,0,2,0,3,8,-2
 20260510_CHI_POR,"Sunday, May 10, 2026",regular_season,Portland Fire,Chicago Sky,Carla Leite,G,29,3-11,1-5,11-12,1,2,3,3,0,0,1,3,18,-2
 20260510_CHI_POR,"Sunday, May 10, 2026",regular_season,Portland Fire,Chicago Sky,Frieda Buhner,F,13,2-4,0-2,0-0,0,3,3,0,0,0,0,3,4,-6
-20260510_CHI_POR,"Sunday, May 10, 2026",regular_season,Portland Fire,Chicago Sky,Megan Gustafson,C,14,4-6,2-4,0-2,0,1,1,1,0,0,1,1,10,-15
+20260510_CHI_POR,"Sunday, May 10, 2026",regular_season,Portland Fire,Chicago Sky,Megan DiLeo,C,14,4-6,2-4,0-2,0,1,1,1,0,0,1,1,10,-15
 20260510_CHI_POR,"Sunday, May 10, 2026",regular_season,Portland Fire,Chicago Sky,Serah Williams,C,8,0-3,0-0,0-0,0,2,2,1,0,0,0,0,0,-2
 20260510_CHI_POR,"Sunday, May 10, 2026",regular_season,Portland Fire,Chicago Sky,Haley Jones,G,7,2-3,0-0,0-0,0,0,0,0,0,0,0,2,4,-10
 20260510_CHI_POR,"Sunday, May 10, 2026",regular_season,Portland Fire,Chicago Sky,Sarah Ashlee Barker,G,24,6-9,1-2,0-0,0,4,4,0,1,1,1,4,13,-15
@@ -507,7 +507,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,Portland Fire,New York Liberty,Carla Leite,G,26,8-14,0-1,5-5,1,3,4,6,1,0,2,1,21,+14
 20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,Portland Fire,New York Liberty,Kamiah Smalls,F,14,4-7,4-5,1-1,0,0,0,2,0,0,2,1,13,-12
 20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,Portland Fire,New York Liberty,Frieda Buhner,F,8,0-0,0-0,2-2,2,0,2,0,0,0,0,2,2,-14
-20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,Portland Fire,New York Liberty,Megan Gustafson,C,15,2-4,0-2,2-2,1,0,1,0,0,0,1,2,6,-11
+20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,Portland Fire,New York Liberty,Megan DiLeo,C,15,2-4,0-2,2-2,1,0,1,0,0,0,1,2,6,-11
 20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,Portland Fire,New York Liberty,Haley Jones,G,11,3-4,0-1,0-0,0,5,5,1,0,0,1,2,6,+8
 20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,Portland Fire,New York Liberty,Sarah Ashlee Barker,G,22,2-5,1-2,0-0,1,1,2,3,0,0,2,1,5,-1
 20260513_NY_POR,"Wednesday, May 13, 2026",regular_season,Portland Fire,New York Liberty,Serah Williams,C,,,,,,,,,,,,,,
@@ -646,7 +646,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260515_NY_POR,"Friday, May 15, 2026",regular_season,Portland Fire,New York Liberty,Nyadiew Puoch,F,31,5-9,2-5,1-1,1,1,2,2,2,0,1,5,13,-5
 20260515_NY_POR,"Friday, May 15, 2026",regular_season,Portland Fire,New York Liberty,Luisa Geiselsoder,C,22,3-6,0-2,0-0,0,5,5,1,1,0,1,3,6,-7
 20260515_NY_POR,"Friday, May 15, 2026",regular_season,Portland Fire,New York Liberty,Frieda Buhner,F,14,0-3,0-3,0-0,0,0,0,0,0,0,2,2,0,0
-20260515_NY_POR,"Friday, May 15, 2026",regular_season,Portland Fire,New York Liberty,Megan Gustafson,C,14,5-6,0-1,4-4,1,2,3,0,0,0,1,2,14,-14
+20260515_NY_POR,"Friday, May 15, 2026",regular_season,Portland Fire,New York Liberty,Megan DiLeo,C,14,5-6,0-1,4-4,1,2,3,0,0,0,1,2,14,-14
 20260515_NY_POR,"Friday, May 15, 2026",regular_season,Portland Fire,New York Liberty,Serah Williams,C,4,0-0,0-0,1-2,0,2,2,1,1,1,0,0,1,+3
 20260515_NY_POR,"Friday, May 15, 2026",regular_season,Portland Fire,New York Liberty,Sug Sutton,G,20,3-13,1-5,1-4,0,3,3,8,0,0,1,3,8,-15
 20260515_NY_POR,"Friday, May 15, 2026",regular_season,Portland Fire,New York Liberty,Haley Jones,G,15,3-6,0-1,4-6,1,2,3,2,1,0,2,2,10,-6
@@ -879,7 +879,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260519_CON_POR,"Tuesday, May 19, 2026",regular_season,Portland Fire,Connecticut Sun,Nyadiew Puoch,F,21,4-8,0-2,2-2,1,3,4,0,1,0,1,2,10,-7
 20260519_CON_POR,"Tuesday, May 19, 2026",regular_season,Portland Fire,Connecticut Sun,Luisa Geiselsoder,C,25,1-5,0-2,0-0,0,2,2,4,0,0,2,4,2,+19
 20260519_CON_POR,"Tuesday, May 19, 2026",regular_season,Portland Fire,Connecticut Sun,Sug Sutton,G,25,4-10,1-2,3-4,1,0,1,5,1,0,2,1,12,+10
-20260519_CON_POR,"Tuesday, May 19, 2026",regular_season,Portland Fire,Connecticut Sun,Megan Gustafson,C,8,1-2,0-1,1-1,0,2,2,1,0,0,0,1,3,-7
+20260519_CON_POR,"Tuesday, May 19, 2026",regular_season,Portland Fire,Connecticut Sun,Megan DiLeo,C,8,1-2,0-1,1-1,0,2,2,1,0,0,0,1,3,-7
 20260519_CON_POR,"Tuesday, May 19, 2026",regular_season,Portland Fire,Connecticut Sun,Serah Williams,C,12,1-1,0-0,1-4,1,4,5,0,0,1,0,3,3,-14
 20260519_CON_POR,"Tuesday, May 19, 2026",regular_season,Portland Fire,Connecticut Sun,Holly Winterburn,G,15,1-4,0-2,0-0,0,1,1,4,1,0,1,2,2,-8
 20260519_CON_POR,"Tuesday, May 19, 2026",regular_season,Portland Fire,Connecticut Sun,Haley Jones,G,12,0-0,0-0,0-0,0,0,0,1,1,0,3,1,0,-8
@@ -915,7 +915,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Nyadiew Puoch,F,20,0-1,0-0,0-0,1,0,1,0,0,1,1,2,0,-21
 20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Luisa Geiselsoder,C,22,1-3,0-1,2-2,0,1,1,1,0,0,2,5,4,-16
 20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Sug Sutton,G,24,6-8,0-1,2-2,0,1,1,4,1,0,3,1,14,-9
-20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Megan Gustafson,C,18,2-5,0-2,0-0,1,5,6,0,1,2,0,4,4,-1
+20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Megan DiLeo,C,18,2-5,0-2,0-0,1,5,6,0,1,2,0,4,4,-1
 20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Serah Williams,C,17,3-5,0-0,0-1,0,2,2,0,1,0,0,1,6,+10
 20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Holly Winterburn,G,8,1-2,0-1,2-2,0,2,2,1,0,0,1,2,4,+4
 20260520_POR_IND,"Wednesday, May 20, 2026",regular_season,Portland Fire,Indiana Fever,Haley Jones,G,13,2-4,0-1,2-2,1,2,3,1,0,0,0,2,6,+6
@@ -1167,7 +1167,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260523_POR_TOR,"Saturday, May 23, 2026",regular_season,Portland Fire,Toronto Tempo,Luisa Geiselsoder,C,20,3-7,0-2,0-0,1,4,5,0,0,1,1,1,6,+20
 20260523_POR_TOR,"Saturday, May 23, 2026",regular_season,Portland Fire,Toronto Tempo,Carla Leite,G,22,4-11,0-0,7-7,1,2,3,9,0,0,4,1,15,+15
 20260523_POR_TOR,"Saturday, May 23, 2026",regular_season,Portland Fire,Toronto Tempo,Frieda Buhner,F,13,1-2,1-2,2-2,1,1,2,1,0,0,0,0,5,-3
-20260523_POR_TOR,"Saturday, May 23, 2026",regular_season,Portland Fire,Toronto Tempo,Megan Gustafson,C,20,6-8,2-3,0-0,2,2,4,0,0,1,0,3,14,-1
+20260523_POR_TOR,"Saturday, May 23, 2026",regular_season,Portland Fire,Toronto Tempo,Megan DiLeo,C,20,6-8,2-3,0-0,2,2,4,0,0,1,0,3,14,-1
 20260523_POR_TOR,"Saturday, May 23, 2026",regular_season,Portland Fire,Toronto Tempo,Serah Williams,C,14,3-6,0-0,2-2,1,2,3,0,2,1,0,2,8,-2
 20260523_POR_TOR,"Saturday, May 23, 2026",regular_season,Portland Fire,Toronto Tempo,Holly Winterburn,G,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-3
 20260523_POR_TOR,"Saturday, May 23, 2026",regular_season,Portland Fire,Toronto Tempo,Sarah Ashlee Barker,G,19,5-6,1-1,1-3,1,2,3,1,0,0,0,2,12,+13
@@ -1289,7 +1289,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260526_POR_NY,"Tuesday, May 26, 2026",regular_season,Portland Fire,New York Liberty,Nyadiew Puoch,F,20,2-7,0-2,1-1,1,2,3,2,1,0,0,2,5,+3
 20260526_POR_NY,"Tuesday, May 26, 2026",regular_season,Portland Fire,New York Liberty,Luisa Geiselsoder,C,22,2-9,2-4,0-0,0,5,5,2,2,0,0,3,6,+11
 20260526_POR_NY,"Tuesday, May 26, 2026",regular_season,Portland Fire,New York Liberty,Carla Leite,G,22,8-14,1-2,1-2,0,0,0,2,1,0,4,1,18,+9
-20260526_POR_NY,"Tuesday, May 26, 2026",regular_season,Portland Fire,New York Liberty,Megan Gustafson,C,18,5-8,1-2,0-0,0,1,1,0,0,0,0,4,11,-4
+20260526_POR_NY,"Tuesday, May 26, 2026",regular_season,Portland Fire,New York Liberty,Megan DiLeo,C,18,5-8,1-2,0-0,0,1,1,0,0,0,0,4,11,-4
 20260526_POR_NY,"Tuesday, May 26, 2026",regular_season,Portland Fire,New York Liberty,Serah Williams,C,11,1-5,0-0,2-4,2,1,3,0,0,1,0,2,4,-4
 20260526_POR_NY,"Tuesday, May 26, 2026",regular_season,Portland Fire,New York Liberty,Karlie Samuelson,G,13,1-4,0-3,0-0,0,1,1,1,0,1,0,0,2,-4
 20260526_POR_NY,"Tuesday, May 26, 2026",regular_season,Portland Fire,New York Liberty,Sarah Ashlee Barker,G,18,3-5,1-2,0-0,2,3,5,3,1,0,2,2,7,+6
@@ -1425,7 +1425,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260528_CON_POR,"Thursday, May 28, 2026",regular_season,Portland Fire,Connecticut Sun,Luisa Geiselsoder,C,19,1-4,1-3,0-0,1,0,1,2,2,0,1,2,3,-4
 20260528_CON_POR,"Thursday, May 28, 2026",regular_season,Portland Fire,Connecticut Sun,Carla Leite,G,23,4-10,2-3,10-10,0,0,0,3,1,0,4,3,20,-1
 20260528_CON_POR,"Thursday, May 28, 2026",regular_season,Portland Fire,Connecticut Sun,Frieda Buhner,F,13,4-5,1-1,0-0,0,1,1,0,0,0,0,0,9,+13
-20260528_CON_POR,"Thursday, May 28, 2026",regular_season,Portland Fire,Connecticut Sun,Megan Gustafson,C,18,3-6,1-2,3-4,1,3,4,2,0,0,0,3,10,+15
+20260528_CON_POR,"Thursday, May 28, 2026",regular_season,Portland Fire,Connecticut Sun,Megan DiLeo,C,18,3-6,1-2,3-4,1,3,4,2,0,0,0,3,10,+15
 20260528_CON_POR,"Thursday, May 28, 2026",regular_season,Portland Fire,Connecticut Sun,Serah Williams,C,11,0-0,0-0,1-2,0,1,1,0,0,0,1,1,1,+3
 20260528_CON_POR,"Thursday, May 28, 2026",regular_season,Portland Fire,Connecticut Sun,Karlie Samuelson,G,12,0-2,0-2,0-0,0,0,0,1,1,0,0,1,0,+6
 20260528_CON_POR,"Thursday, May 28, 2026",regular_season,Portland Fire,Connecticut Sun,Sarah Ashlee Barker,G,22,2-4,0-1,0-0,2,9,11,1,3,1,4,4,4,+19
@@ -1596,7 +1596,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260530_ATL_POR,"Saturday, May 30, 2026",regular_season,Portland Fire,Atlanta Dream,Holly Winterburn,G,28,3-7,0-2,0-0,0,3,3,7,2,0,4,0,6,-24
 20260530_ATL_POR,"Saturday, May 30, 2026",regular_season,Portland Fire,Atlanta Dream,Carla Leite,G,24,3-4,1-1,4-4,0,1,1,4,0,0,4,2,11,-11
 20260530_ATL_POR,"Saturday, May 30, 2026",regular_season,Portland Fire,Atlanta Dream,Frieda Buhner,F,14,2-2,1-1,2-2,0,0,0,0,0,0,3,0,7,-10
-20260530_ATL_POR,"Saturday, May 30, 2026",regular_season,Portland Fire,Atlanta Dream,Megan Gustafson,C,18,4-9,2-5,0-0,1,4,5,1,0,1,1,2,10,+2
+20260530_ATL_POR,"Saturday, May 30, 2026",regular_season,Portland Fire,Atlanta Dream,Megan DiLeo,C,18,4-9,2-5,0-0,1,4,5,1,0,1,1,2,10,+2
 20260530_ATL_POR,"Saturday, May 30, 2026",regular_season,Portland Fire,Atlanta Dream,Serah Williams,C,20,0-3,0-1,0-0,3,3,6,2,1,0,2,5,0,+1
 20260530_ATL_POR,"Saturday, May 30, 2026",regular_season,Portland Fire,Atlanta Dream,Karlie Samuelson,G,19,0-2,0-2,0-0,1,2,3,1,1,0,1,2,0,-15
 20260530_ATL_POR,"Saturday, May 30, 2026",regular_season,Portland Fire,Atlanta Dream,Sarah Ashlee Barker,G,21,6-9,2-3,0-0,0,2,2,0,0,0,3,1,14,+4
@@ -1668,7 +1668,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260531_IND_POR,"Sunday, May 31, 2026",regular_season,Portland Fire,Indiana Fever,Bridget Carleton,F,32,6-15,2-6,0-0,0,2,2,3,3,2,0,3,14,+17
 20260531_IND_POR,"Sunday, May 31, 2026",regular_season,Portland Fire,Indiana Fever,Emily Engstler,F,29,7-10,2-3,0-0,3,7,10,4,4,2,1,3,16,+15
 20260531_IND_POR,"Sunday, May 31, 2026",regular_season,Portland Fire,Indiana Fever,Nyadiew Puoch,F,16,1-3,0-0,0-0,2,0,2,1,0,0,0,3,2,-4
-20260531_IND_POR,"Sunday, May 31, 2026",regular_season,Portland Fire,Indiana Fever,Megan Gustafson,C,28,8-8,1-1,5-6,0,1,1,0,0,1,0,4,22,+15
+20260531_IND_POR,"Sunday, May 31, 2026",regular_season,Portland Fire,Indiana Fever,Megan DiLeo,C,28,8-8,1-1,5-6,0,1,1,0,0,1,0,4,22,+15
 20260531_IND_POR,"Sunday, May 31, 2026",regular_season,Portland Fire,Indiana Fever,Carla Leite,G,27,6-12,0-2,6-6,0,1,1,12,0,0,4,3,18,+20
 20260531_IND_POR,"Sunday, May 31, 2026",regular_season,Portland Fire,Indiana Fever,Frieda Buhner,F,14,3-5,0-1,4-4,1,0,1,0,1,0,0,3,10,+14
 20260531_IND_POR,"Sunday, May 31, 2026",regular_season,Portland Fire,Indiana Fever,Luisa Geiselsoder,C,12,0-1,0-0,0-0,1,0,1,1,0,0,1,1,0,+1
@@ -1798,7 +1798,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Bridget Carleton,F,30,4-6,2-4,1-1,1,2,3,1,1,0,0,4,11,-17
 20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Emily Engstler,F,29,4-12,2-3,2-4,4,4,8,1,1,2,0,3,12,-9
 20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Nyadiew Puoch,F,13,0-2,0-2,0-0,1,1,2,0,0,0,1,1,0,-3
-20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Megan Gustafson,C,24,6-12,0-1,1-1,1,7,8,2,0,0,2,3,13,-8
+20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Megan DiLeo,C,24,6-12,0-1,1-1,1,7,8,2,0,0,2,3,13,-8
 20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Carla Leite,G,24,2-6,0-0,6-6,0,1,1,7,0,0,4,2,10,-3
 20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Frieda Buhner,F,10,0-1,0-1,0-0,0,0,0,1,0,0,1,0,0,-9
 20260603_POR_GS,"Wednesday, June 03, 2026",regular_season,Portland Fire,Golden State Valkyries,Luisa Geiselsoder,C,11,1-4,1-2,0-0,0,0,0,0,0,0,1,1,3,-14
@@ -2001,7 +2001,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260606_PHX_POR,"Saturday, June 06, 2026",regular_season,Phoenix Mercury,Portland Fire,Kahleah Copper,G,,,,,,,,,,,,,,
 20260606_PHX_POR,"Saturday, June 06, 2026",regular_season,Portland Fire,Phoenix Mercury,Bridget Carleton,F,27,2-9,0-4,2-2,1,3,4,2,1,0,4,1,6,-17
 20260606_PHX_POR,"Saturday, June 06, 2026",regular_season,Portland Fire,Phoenix Mercury,Emily Engstler,F,17,1-5,0-2,1-2,2,3,5,1,0,2,2,2,3,-19
-20260606_PHX_POR,"Saturday, June 06, 2026",regular_season,Portland Fire,Phoenix Mercury,Megan Gustafson,C,22,3-5,1-2,0-0,0,2,2,0,0,0,1,0,7,-15
+20260606_PHX_POR,"Saturday, June 06, 2026",regular_season,Portland Fire,Phoenix Mercury,Megan DiLeo,C,22,3-5,1-2,0-0,0,2,2,0,0,0,1,0,7,-15
 20260606_PHX_POR,"Saturday, June 06, 2026",regular_season,Portland Fire,Phoenix Mercury,Sarah Ashlee Barker,G,29,6-10,2-4,1-2,1,6,7,3,0,0,1,3,15,-7
 20260606_PHX_POR,"Saturday, June 06, 2026",regular_season,Portland Fire,Phoenix Mercury,Carla Leite,G,24,2-6,1-2,2-3,1,1,2,4,1,0,3,4,7,-19
 20260606_PHX_POR,"Saturday, June 06, 2026",regular_season,Portland Fire,Phoenix Mercury,Frieda Buhner,F,15,1-5,0-1,3-3,1,3,4,0,0,0,2,0,5,+12
@@ -2138,7 +2138,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260607_CHI_TOR,"Sunday, June 07, 2026",regular_season,Toronto Tempo,Chicago Sky,Kiki Rice,G,,,,,,,,,,,,,,
 20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Bridget Carleton,F,26,1-4,1-4,4-4,1,6,7,2,0,0,3,1,7,-10
 20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Emily Engstler,F,25,4-7,0-2,2-2,1,7,8,0,1,0,2,5,10,-12
-20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Megan Gustafson,C,25,6-13,0-2,4-5,7,4,11,0,0,1,0,2,16,-14
+20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Megan DiLeo,C,25,6-13,0-2,4-5,7,4,11,0,0,1,0,2,16,-14
 20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Sarah Ashlee Barker,G,28,2-8,1-5,1-1,0,2,2,7,1,1,3,4,6,-15
 20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Carla Leite,G,25,4-13,0-2,2-6,0,4,4,4,0,1,4,2,10,-21
 20260607_POR_LA,"Sunday, June 07, 2026",regular_season,Portland Fire,Los Angeles Sparks,Frieda Buhner,F,15,3-10,1-5,0-0,2,0,2,1,1,0,0,2,7,-5
@@ -2445,7 +2445,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260612_LV_POR,"Friday, June 12, 2026",regular_season,Las Vegas Aces,Portland Fire,Dana Evans,G,,,,,,,,,,,,,,
 20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Bridget Carleton,F,33,5-13,3-9,0-0,0,1,1,0,1,0,2,2,13,-28
 20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Emily Engstler,F,24,2-5,0-2,3-4,0,6,6,0,2,2,2,3,7,-21
-20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Megan Gustafson,C,28,7-13,2-6,1-1,0,2,2,0,0,0,0,4,17,-11
+20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Megan DiLeo,C,28,7-13,2-6,1-1,0,2,2,0,0,0,0,4,17,-11
 20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Sarah Ashlee Barker,G,30,6-11,2-5,0-0,1,0,1,4,1,0,2,4,14,-15
 20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Carla Leite,G,28,8-13,1-2,1-2,0,3,3,8,1,0,0,0,18,-20
 20260612_LV_POR,"Friday, June 12, 2026",regular_season,Portland Fire,Las Vegas Aces,Frieda Buhner,F,10,1-2,0-0,0-0,0,0,0,0,0,0,1,3,2,+9
@@ -2567,7 +2567,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Dallas Wings,Portland Fire,Costanza Verona,G,,,,,,,,,,,,,,
 20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Bridget Carleton,F,31,6-14,6-10,2-2,0,4,4,1,1,0,2,2,20,+2
 20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Emily Engstler,F,24,4-10,0-3,3-5,0,6,6,2,1,2,1,1,11,+8
-20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Megan Gustafson,C,26,7-11,0-2,2-2,0,6,6,4,0,2,0,1,16,+3
+20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Megan DiLeo,C,26,7-11,0-2,2-2,0,6,6,4,0,2,0,1,16,+3
 20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Sarah Ashlee Barker,G,32,4-8,2-4,0-0,0,5,5,3,1,0,2,3,10,+5
 20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Carla Leite,G,27,4-11,2-3,0-0,2,3,5,8,0,0,4,4,10,+2
 20260614_DAL_POR,"Sunday, June 14, 2026",regular_season,Portland Fire,Dallas Wings,Frieda Buhner,F,13,2-3,1-2,0-0,0,0,0,0,1,0,0,2,5,-1
@@ -2675,7 +2675,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260616_LV_DAL,"Tuesday, June 16, 2026",regular_season,Dallas Wings,Las Vegas Aces,Aziaha James,G,12,4-5,0-0,2-3,2,2,4,1,2,0,0,0,10,+8
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Portland Fire,Minnesota Lynx,Bridget Carleton,F,26,1-9,0-4,1-2,0,1,1,2,0,0,1,2,3,-31
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Portland Fire,Minnesota Lynx,Emily Engstler,F,20,4-7,1-1,0-0,1,1,2,3,2,1,3,0,9,-14
-20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Portland Fire,Minnesota Lynx,Megan Gustafson,C,17,4-10,1-2,0-0,1,2,3,0,1,0,0,2,9,-19
+20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Portland Fire,Minnesota Lynx,Megan DiLeo,C,17,4-10,1-2,0-0,1,2,3,0,1,0,0,2,9,-19
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Portland Fire,Minnesota Lynx,Sarah Ashlee Barker,G,25,3-5,2-4,0-0,0,2,2,2,2,1,7,3,8,-16
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Portland Fire,Minnesota Lynx,Carla Leite,G,19,3-8,1-3,3-4,0,2,2,3,1,0,4,3,10,-20
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Portland Fire,Minnesota Lynx,Frieda Buhner,F,20,3-9,0-4,4-5,2,0,2,1,0,0,0,1,10,-19
@@ -2881,7 +2881,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Seattle Storm,Portland Fire,Taina Mair,G,,,,,,,,,,,,,,
 20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Portland Fire,Seattle Storm,Bridget Carleton,F,29,7-13,7-13,3-4,2,2,4,1,3,2,2,2,24,+6
 20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Portland Fire,Seattle Storm,Emily Engstler,F,27,3-8,2-4,1-2,3,3,6,5,1,2,2,4,9,+10
-20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Portland Fire,Seattle Storm,Megan Gustafson,C,28,3-10,2-4,0-0,3,1,4,0,0,2,2,4,8,+12
+20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Portland Fire,Seattle Storm,Megan DiLeo,C,28,3-10,2-4,0-0,3,1,4,0,0,2,2,4,8,+12
 20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Portland Fire,Seattle Storm,Sarah Ashlee Barker,G,24,3-11,2-7,4-4,1,5,6,0,0,1,1,1,12,+11
 20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Portland Fire,Seattle Storm,Carla Leite,G,29,5-11,1-2,9-10,2,2,4,10,1,0,1,2,20,+13
 20260618_SEA_POR,"Thursday, June 18, 2026",regular_season,Portland Fire,Seattle Storm,Frieda Buhner,F,13,1-4,0-2,1-1,0,2,2,1,0,0,0,1,3,-6
@@ -3303,7 +3303,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260624_MIN_WSH,"Wednesday, June 24, 2026",regular_season,Washington Mystics,Minnesota Lynx,Cassandre Prosper,G,,,,,,,,,,,,,,
 20260625_POR_CHI,"Thursday, June 25, 2026",regular_season,Portland Fire,Chicago Sky,Bridget Carleton,F,29,2-6,0-2,3-4,2,3,5,2,0,1,2,1,7,-19
 20260625_POR_CHI,"Thursday, June 25, 2026",regular_season,Portland Fire,Chicago Sky,Emily Engstler,F,17,4-6,2-2,0-0,0,4,4,2,2,0,2,5,10,-3
-20260625_POR_CHI,"Thursday, June 25, 2026",regular_season,Portland Fire,Chicago Sky,Megan Gustafson,C,23,6-12,2-3,3-3,1,1,2,1,2,0,0,5,17,-11
+20260625_POR_CHI,"Thursday, June 25, 2026",regular_season,Portland Fire,Chicago Sky,Megan DiLeo,C,23,6-12,2-3,3-3,1,1,2,1,2,0,0,5,17,-11
 20260625_POR_CHI,"Thursday, June 25, 2026",regular_season,Portland Fire,Chicago Sky,Sarah Ashlee Barker,G,26,5-12,2-5,1-3,0,5,5,2,1,0,1,1,13,-10
 20260625_POR_CHI,"Thursday, June 25, 2026",regular_season,Portland Fire,Chicago Sky,Carla Leite,G,28,1-8,1-1,7-8,1,0,1,6,0,0,1,3,10,-19
 20260625_POR_CHI,"Thursday, June 25, 2026",regular_season,Portland Fire,Chicago Sky,Frieda Buhner,F,16,0-3,0-2,2-2,0,3,3,2,1,0,1,1,2,-10
@@ -3446,7 +3446,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260626_WSH_CON,"Friday, June 26, 2026",regular_season,Connecticut Sun,Washington Mystics,Gianna Kneepkens,G,,,,,,,,,,,,,,
 20260626_POR_CHI,"Friday, June 26, 2026",regular_season,Portland Fire,Chicago Sky,Bridget Carleton,F,29,5-14,2-7,8-8,0,4,4,1,1,0,0,3,20,-23
 20260626_POR_CHI,"Friday, June 26, 2026",regular_season,Portland Fire,Chicago Sky,Emily Engstler,F,18,2-3,0-0,0-0,2,3,5,3,2,2,0,2,4,-8
-20260626_POR_CHI,"Friday, June 26, 2026",regular_season,Portland Fire,Chicago Sky,Megan Gustafson,C,29,4-10,3-6,2-3,1,0,1,3,1,0,1,5,13,-21
+20260626_POR_CHI,"Friday, June 26, 2026",regular_season,Portland Fire,Chicago Sky,Megan DiLeo,C,29,4-10,3-6,2-3,1,0,1,3,1,0,1,5,13,-21
 20260626_POR_CHI,"Friday, June 26, 2026",regular_season,Portland Fire,Chicago Sky,Sarah Ashlee Barker,G,29,5-11,1-4,0-0,2,1,3,1,3,2,1,1,11,-24
 20260626_POR_CHI,"Friday, June 26, 2026",regular_season,Portland Fire,Chicago Sky,Carla Leite,G,23,4-10,1-4,9-10,0,1,1,4,1,0,4,1,18,-9
 20260626_POR_CHI,"Friday, June 26, 2026",regular_season,Portland Fire,Chicago Sky,Frieda Buhner,F,21,4-7,1-2,1-1,1,4,5,2,0,0,0,1,10,-21
@@ -3589,7 +3589,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260628_MIN_DAL,"Sunday, June 28, 2026",regular_season,Dallas Wings,Minnesota Lynx,Haley Jones,G,,,,,,,,,,,,,,
 20260628_POR_WSH,"Sunday, June 28, 2026",regular_season,Portland Fire,Washington Mystics,Bridget Carleton,F,51,5-13,3-7,3-3,0,3,3,2,3,2,3,6,16,-1
 20260628_POR_WSH,"Sunday, June 28, 2026",regular_season,Portland Fire,Washington Mystics,Emily Engstler,F,38,3-11,0-4,0-0,0,11,11,2,2,3,3,6,6,-7
-20260628_POR_WSH,"Sunday, June 28, 2026",regular_season,Portland Fire,Washington Mystics,Megan Gustafson,C,46,7-14,4-7,2-2,2,3,5,4,3,1,2,6,20,-13
+20260628_POR_WSH,"Sunday, June 28, 2026",regular_season,Portland Fire,Washington Mystics,Megan DiLeo,C,46,7-14,4-7,2-2,2,3,5,4,3,1,2,6,20,-13
 20260628_POR_WSH,"Sunday, June 28, 2026",regular_season,Portland Fire,Washington Mystics,Sarah Ashlee Barker,G,46,10-16,1-4,4-4,1,5,6,3,0,0,5,5,25,-20
 20260628_POR_WSH,"Sunday, June 28, 2026",regular_season,Portland Fire,Washington Mystics,Carla Leite,G,48,12-26,3-6,5-6,3,3,6,9,3,0,6,5,32,-9
 20260628_POR_WSH,"Sunday, June 28, 2026",regular_season,Portland Fire,Washington Mystics,Frieda Buhner,F,22,3-10,1-6,2-2,1,0,1,1,1,1,0,3,9,+6
@@ -3823,7 +3823,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260704_GS_ATL,"Saturday, July 04, 2026",regular_season,Atlanta Dream,Golden State Valkyries,Aaliyah Nye,G,,,,,,,,,,,,,,
 20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Portland Fire,Seattle Storm,Bridget Carleton,F,31,4-14,1-6,5-6,2,5,7,2,2,0,2,2,14,+4
 20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Portland Fire,Seattle Storm,Emily Engstler,F,22,3-8,1-5,2-2,2,6,8,0,2,0,5,1,9,-3
-20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Portland Fire,Seattle Storm,Megan Gustafson,C,27,4-7,1-4,1-1,3,6,9,3,0,1,0,3,10,+9
+20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Portland Fire,Seattle Storm,Megan DiLeo,C,27,4-7,1-4,1-1,3,6,9,3,0,1,0,3,10,+9
 20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Portland Fire,Seattle Storm,Sarah Ashlee Barker,G,28,2-7,0-2,0-0,0,6,6,3,0,2,1,4,4,+4
 20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Portland Fire,Seattle Storm,Carla Leite,G,22,4-8,0-0,12-12,0,3,3,4,0,0,4,5,20,+5
 20260705_POR_SEA,"Sunday, July 05, 2026",regular_season,Portland Fire,Seattle Storm,Frieda Buhner,F,18,4-9,0-2,1-2,2,5,7,2,0,0,2,2,9,+8
@@ -4147,7 +4147,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260710_LV_POR,"Friday, July 10, 2026",regular_season,Las Vegas Aces,Portland Fire,Justine Pissott,G,,,,,,,,,,,,,,
 20260710_LV_POR,"Friday, July 10, 2026",regular_season,Portland Fire,Las Vegas Aces,Bridget Carleton,F,28,3-10,3-8,0-0,2,4,6,3,1,0,2,1,9,-5
 20260710_LV_POR,"Friday, July 10, 2026",regular_season,Portland Fire,Las Vegas Aces,Emily Engstler,F,29,3-7,1-4,3-4,2,5,7,2,1,2,1,5,10,-4
-20260710_LV_POR,"Friday, July 10, 2026",regular_season,Portland Fire,Las Vegas Aces,Megan Gustafson,C,26,5-9,1-3,0-0,0,3,3,0,1,1,1,2,11,+7
+20260710_LV_POR,"Friday, July 10, 2026",regular_season,Portland Fire,Las Vegas Aces,Megan DiLeo,C,26,5-9,1-3,0-0,0,3,3,0,1,1,1,2,11,+7
 20260710_LV_POR,"Friday, July 10, 2026",regular_season,Portland Fire,Las Vegas Aces,Sarah Ashlee Barker,G,25,3-6,1-4,1-2,0,6,6,3,1,0,1,2,8,+8
 20260710_LV_POR,"Friday, July 10, 2026",regular_season,Portland Fire,Las Vegas Aces,Carla Leite,G,21,2-6,0-1,9-11,1,2,3,5,0,0,5,3,13,+3
 20260710_LV_POR,"Friday, July 10, 2026",regular_season,Portland Fire,Las Vegas Aces,Frieda Buhner,F,16,2-5,0-2,2-2,0,1,1,0,2,0,3,1,6,-11
@@ -4258,7 +4258,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Bridget Carleton,F,34,4-9,4-8,0-0,1,2,3,4,2,2,1,1,12,+17
 20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Emily Engstler,F,25,5-8,2-4,2-2,0,11,11,4,3,1,2,3,14,+17
 20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Nyadiew Puoch,F,25,4-8,1-3,0-0,0,0,0,0,1,0,0,3,9,+14
-20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Megan Gustafson,C,27,7-11,2-4,1-1,0,4,4,1,1,0,3,3,17,+1
+20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Megan DiLeo,C,27,7-11,2-4,1-1,0,4,4,1,1,0,3,3,17,+1
 20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Carla Leite,G,26,2-7,1-3,8-9,1,2,3,10,0,0,6,5,13,-2
 20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Frieda Buhner,F,15,4-5,3-4,0-0,0,2,2,0,0,0,1,5,11,-7
 20260711_POR_ATL,"Saturday, July 11, 2026",regular_season,Portland Fire,Atlanta Dream,Serah Williams,C,13,6-6,0-0,3-3,0,2,2,1,0,1,0,2,15,+9
@@ -4442,7 +4442,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Emma Cechova,F,,,,,,,,,,,,,,
 20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Bridget Carleton,F,32,5-11,2-7,0-0,1,2,3,3,3,1,1,3,12,+2
 20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Emily Engstler,F,29,5-12,1-5,3-4,0,6,6,7,3,1,1,5,14,+5
-20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Megan Gustafson,C,31,6-12,2-6,1-1,0,5,5,0,1,1,0,1,15,+2
+20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Megan DiLeo,C,31,6-12,2-6,1-1,0,5,5,0,1,1,0,1,15,+2
 20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Sarah Ashlee Barker,G,25,3-7,0-2,3-3,1,4,5,2,0,0,3,1,9,-6
 20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Carla Leite,G,33,6-11,0-0,6-6,1,0,1,6,0,0,6,1,18,+3
 20260714_POR_CON,"Tuesday, July 14, 2026",regular_season,Portland Fire,Connecticut Sun,Frieda Buhner,F,11,2-4,2-3,1-1,0,1,1,1,0,0,0,1,7,-8
@@ -4579,7 +4579,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Portland Fire,Washington Mystics,Holly Winterburn,G,3,1-2,1-2,0-0,0,0,0,0,0,0,0,0,3,+1
 20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Portland Fire,Washington Mystics,Teja Oblak,G,17,4-12,1-5,0-0,1,0,1,2,0,0,3,5,9,+1
 20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Portland Fire,Washington Mystics,Sania Feagin,F,,,,,,,,,,,,,,
-20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Portland Fire,Washington Mystics,Megan Gustafson,C,,,,,,,,,,,,,,
+20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Portland Fire,Washington Mystics,Megan DiLeo,C,,,,,,,,,,,,,,
 20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Washington Mystics,Portland Fire,Michaela Onyenwere,F,26,2-10,1-4,0-0,4,2,6,1,1,0,1,2,5,-14
 20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Washington Mystics,Portland Fire,Kiki Iriafen,F,24,1-8,0-2,0-0,4,1,5,0,1,1,3,2,2,-21
 20260716_POR_WSH,"Thursday, July 16, 2026",regular_season,Washington Mystics,Portland Fire,Shakira Austin,C,33,6-15,0-2,7-9,2,7,9,4,0,2,3,1,19,-14
@@ -4727,7 +4727,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Portland Fire,Minnesota Lynx,Luisa Geiselsoder,C,11,0-1,0-1,0-0,0,1,1,1,0,0,1,0,0,-7
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Portland Fire,Minnesota Lynx,Jordan Harrison,G,9,2-4,1-1,0-0,1,2,3,2,0,0,0,0,5,-10
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Portland Fire,Minnesota Lynx,Teja Oblak,G,10,1-6,0-3,0-0,0,0,0,1,0,0,1,2,2,-7
-20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Portland Fire,Minnesota Lynx,Megan Gustafson,C,,,,,,,,,,,,,,
+20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Portland Fire,Minnesota Lynx,Megan DiLeo,C,,,,,,,,,,,,,,
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Portland Fire,Minnesota Lynx,Karlie Samuelson,G,,,,,,,,,,,,,,
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Portland Fire,Minnesota Lynx,Holly Winterburn,G,,,,,,,,,,,,,,
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Minnesota Lynx,Portland Fire,Natasha Howard,F,25,7-8,0-0,2-2,1,6,7,3,1,3,0,0,16,+10
@@ -4932,3 +4932,141 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Ezi Magbegor,F,,,,,,,,,,,,,,
 20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Mackenzie Holmes,F,,,,,,,,,,,,,,
 20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Seattle Storm,Minnesota Lynx,Taylor Thierry,F,,,,,,,,,,,,,,
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,DeWanna Bonner,F,27,4-9,1-5,0-0,2,5,7,4,2,0,0,3,9,+2
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Alyssa Thomas,F,36,5-9,0-0,9-13,1,10,11,15,3,1,3,2,19,0
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Noemie Brochant,F,23,1-5,0-2,0-0,1,1,2,0,0,1,0,5,2,+5
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Kahleah Copper,G,30,10-16,1-4,0-0,0,2,2,3,1,0,1,5,21,+8
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Monique Akoa Makani,G,24,6-14,2-7,0-0,0,1,1,2,2,0,2,2,14,-3
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Valeriane Ayayi,F,13,1-4,1-2,0-0,1,2,3,1,1,0,2,0,3,+5
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Natasha Mack,F,15,5-8,0-0,0-0,2,1,3,1,0,2,2,2,10,0
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Sami Whitcomb,G,18,3-8,2-7,0-0,0,3,3,1,1,0,1,4,8,+3
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Lexi Held,G,15,0-1,0-0,0-0,0,1,1,1,0,1,1,0,0,0
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Marta Suarez,F,,,,,,,,,,,,,,
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Phoenix Mercury,Los Angeles Sparks,Kyara Linskens,C,,,,,,,,,,,,,,
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Nneka Ogwumike,F,30,4-10,1-1,4-4,1,12,13,1,0,0,4,3,13,-4
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Dearica Hamby,F,31,7-12,0-0,4-5,5,5,10,5,2,2,2,1,18,0
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Erica Wheeler,G,26,1-6,0-2,3-3,0,2,2,4,1,0,0,4,5,-5
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Ariel Atkins,G,33,5-9,3-6,2-2,3,1,4,3,1,2,1,1,15,+5
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Rae Burrell,G,34,7-16,3-7,3-5,1,2,3,2,0,0,4,5,20,0
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Cameron Brink,F,19,2-9,1-5,0-0,0,4,4,3,0,1,3,2,5,-4
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Jihyun Park,F,6,1-2,0-1,0-0,0,0,0,1,0,0,1,2,2,-6
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Kiana Williams,G,7,0-2,0-2,0-0,0,0,0,1,0,0,0,0,0,+2
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Kate Martin,G,2,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,-5
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Chance Gray,G,12,1-4,1-4,1-2,0,1,1,0,1,0,3,2,4,-3
+20260722_PHX_LA,"Wednesday, July 22, 2026",regular_season,Los Angeles Sparks,Phoenix Mercury,Emma Cannon,F,,,,,,,,,,,,,,
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Natasha Howard,F,26,5-9,0-0,1-2,5,0,5,3,3,1,2,1,11,+12
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Napheesa Collier,F,22,9-20,2-6,4-4,1,9,10,1,1,0,2,0,24,+12
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Kayla McBride,G,36,6-14,3-6,5-5,2,1,3,2,3,1,0,1,20,+9
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Courtney Williams,G,20,0-5,0-2,0-0,2,3,5,6,1,0,2,5,0,+9
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Olivia Miles,G,31,5-15,0-1,3-4,0,3,3,6,2,0,3,2,13,+9
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Nia Coffey,F,16,3-5,1-2,0-0,0,2,2,3,0,0,1,1,7,+3
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Dorka Juhasz,F,16,1-5,1-3,0-0,0,2,2,0,1,1,0,0,3,-7
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Antonia Delaere,F,3,0-1,0-0,0-0,0,0,0,0,1,0,0,1,0,-1
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Maya Caldwell,G,28,2-4,2-3,2-2,5,1,6,2,1,0,1,2,8,+6
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Eliska Hamzova,G,2,0-1,0-0,0-0,0,0,0,0,0,0,0,0,0,-2
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Anastasiia Olairi Kosu,F,,,,,,,,,,,,,,
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Emma Cechova,F,,,,,,,,,,,,,,
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Dominique Malonga,C,26,9-13,1-3,2-2,0,9,9,2,1,4,4,1,21,-9
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Awa Fam,C,31,4-9,2-5,0-0,3,7,10,1,1,2,1,2,10,-13
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Natisha Hiedeman,G,32,4-13,1-7,3-4,1,1,2,3,2,0,4,2,12,-12
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Flau'jae Johnson,G,29,7-17,0-6,2-3,3,3,6,4,2,0,6,2,16,-13
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Jade Melbourne,G,28,2-6,0-4,0-0,0,2,2,4,1,0,0,4,4,-6
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Katie Lou Samuelson,F,13,0-2,0-2,3-4,0,4,4,1,0,0,1,0,3,+1
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Jordan Horston,F,14,1-3,0-0,1-2,3,2,5,2,0,1,1,1,3,-1
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Stefanie Dolson,C,11,0-1,0-1,0-0,1,1,2,1,0,0,0,0,0,+1
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Zia Cooke,G,17,3-10,1-4,0-0,0,1,1,0,0,0,1,0,7,+2
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Ezi Magbegor,F,,,,,,,,,,,,,,
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Mackenzie Holmes,F,,,,,,,,,,,,,,
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Seattle Storm,Minnesota Lynx,Taylor Thierry,F,,,,,,,,,,,,,,
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Azura Stevens,F,30,2-5,0-2,4-4,0,7,7,3,2,4,2,6,8,+2
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Kamilla Cardoso,C,25,5-11,0-0,0-0,1,4,5,5,1,1,1,5,10,0
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Courtney Vandersloot,G,22,5-8,1-2,3-4,0,1,1,4,1,1,1,1,14,-13
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Natasha Cloud,G,32,4-8,1-4,0-0,0,3,3,7,0,0,2,3,9,+1
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Sydney Taylor,G,26,9-17,4-7,9-10,1,2,3,3,1,0,1,0,31,+9
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Elizabeth Williams,C,15,4-5,0-0,0-0,0,3,3,2,1,0,0,1,8,-1
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Rachel Banham,G,3,0-2,0-1,3-3,0,0,0,1,0,0,0,0,3,+1
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Jacy Sheldon,G,17,1-4,0-1,0-0,0,1,1,1,1,0,1,2,2,+2
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Aicha Coulibaly,G,9,2-4,0-1,0-0,1,3,4,0,0,0,1,1,4,-2
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,Chicago Sky,New York Liberty,Gabriela Jaquez,G,20,2-7,1-3,0-0,1,2,3,1,1,0,0,1,5,-4
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Breanna Stewart,F,37,5-19,2-4,8-8,4,5,9,4,0,3,3,5,20,-3
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Jonquel Jones,C,28,4-9,2-5,4-6,3,7,10,2,0,2,3,3,14,-4
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Rebecca Allen,G,29,5-12,2-6,0-0,1,3,4,0,0,0,1,4,12,+2
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Sabrina Ionescu,G,35,8-11,5-7,8-8,0,4,4,4,0,1,4,1,29,+5
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Pauline Astier,G,22,3-6,0-0,3-3,0,1,1,5,1,0,2,1,9,+1
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Raquel Carrera,F,3,0-0,0-0,0-0,0,0,0,1,0,0,0,0,0,+4
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Han Xu,C,12,2-4,0-1,1-1,0,2,2,0,0,0,0,0,5,+5
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Rebekah Gardner,G,15,1-6,0-2,2-2,2,4,6,0,0,0,0,1,4,-5
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Marine Fauthoux,G,18,1-4,0-3,0-0,0,1,1,1,0,0,0,1,2,0
+20260722_CHI_NY,"Wednesday, July 22, 2026",regular_season,New York Liberty,Chicago Sky,Betnijah Laney-Hamilton,G,,,,,,,,,,,,,,
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,Stephanie Talbot,F,9,1-1,0-0,0-0,0,0,0,0,0,0,0,0,2,+4
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,NaLyssa Smith,F,22,2-4,0-0,0-1,0,3,3,0,2,3,0,5,4,+10
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,A'ja Wilson,C,35,12-16,2-3,12-13,2,5,7,5,3,2,1,4,38,+2
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,Chelsea Gray,G,37,6-12,1-3,6-6,0,1,1,4,1,1,2,4,19,+1
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,Jackie Young,G,31,9-17,0-4,6-7,2,5,7,7,0,0,1,4,24,+1
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,Cheyenne Parker-Tyus,F,10,0-1,0-0,0-0,0,1,1,0,1,0,0,2,0,-1
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,Brianna Turner,F,12,2-2,0-0,0-0,0,2,2,0,0,0,1,1,4,-14
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,Jewell Loyd,G,29,2-7,2-4,2-2,0,2,2,0,3,0,1,3,8,0
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,Dana Evans,G,14,0-2,0-0,0-0,0,1,1,2,0,0,2,2,0,-8
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,Kierstan Bell,F,,,,,,,,,,,,,,
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Las Vegas Aces,Washington Mystics,Justine Pissott,G,,,,,,,,,,,,,,
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Michaela Onyenwere,F,30,2-4,2-2,4-4,1,0,1,3,1,0,0,4,10,-2
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Kiki Iriafen,F,26,4-12,0-1,4-4,4,6,10,0,0,0,2,3,12,-5
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Shakira Austin,C,29,10-18,0-0,5-9,3,3,6,3,0,0,1,3,25,+6
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Sonia Citron,G,32,7-16,1-3,5-6,3,1,4,8,1,0,6,2,20,+3
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Georgia Amoore,G,23,4-6,2-3,0-0,0,2,2,1,0,1,2,4,10,-1
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Angela Dugalic,F,5,0-0,0-0,0-0,0,2,2,2,0,0,1,0,0,+6
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Lauren Betts,C,20,4-6,0-0,5-6,1,2,3,2,1,0,0,1,13,-5
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Cotie McMahon,G,22,3-5,1-2,0-2,0,6,6,3,0,0,1,2,7,+3
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Cassandre Prosper,G,7,0-1,0-0,0-0,0,0,0,0,0,0,0,2,0,+3
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Alicia Florez,G,6,1-3,1-2,0-0,0,0,0,2,0,0,0,1,3,-3
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Rori Harmon,G,,,,,,,,,,,,,,
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Lucy Olsen,G,,,,,,,,,,,,,,
+20260722_LV_WSH,"Wednesday, July 22, 2026",regular_season,Washington Mystics,Las Vegas Aces,Darianna Littlepage-Buggs,G,,,,,,,,,,,,,,
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Diamond Miller,F,23,4-9,4-5,3-4,0,2,2,0,0,0,3,2,15,-25
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Aneesah Morrow,F,21,5-10,0-2,0-0,4,4,8,2,1,1,1,3,10,-28
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Olivia Nelson-Ododa,C,22,5-10,0-1,1-1,0,1,1,2,0,2,2,1,11,-25
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Charlisse Leger-Walker,G,27,0-3,0-1,1-1,1,1,2,4,0,0,4,4,1,-29
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Leila Lacan,G,17,5-11,0-1,0-0,1,1,2,2,3,0,1,2,10,-26
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Raegan Beers,F,18,4-6,1-1,1-3,3,2,5,2,2,0,2,4,10,-10
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Nell Angloma,F,10,0-3,0-0,2-2,1,1,2,1,0,0,0,1,2,-5
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Kennedy Burke,G,23,3-9,2-5,1-2,1,3,4,2,1,1,0,2,9,-6
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Saniya Rivers,G,27,6-14,0-2,1-2,0,2,2,6,1,0,1,2,13,-19
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Gianna Kneepkens,G,12,3-4,1-2,0-0,0,0,0,0,0,0,0,4,7,-2
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Aaliyah Edwards,F,,,,,,,,,,,,,,
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Connecticut Sun,Indiana Fever,Brittney Griner,C,,,,,,,,,,,,,,
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Monique Billings,F,20,5-7,0-0,2-2,2,3,5,1,1,0,0,2,12,+19
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Aliyah Boston,C,20,10-14,0-0,2-4,2,4,6,5,3,0,2,2,22,+26
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Kelsey Mitchell,G,26,9-16,3-6,2-3,2,2,4,2,1,1,0,1,23,+27
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Lexie Hull,G,25,3-4,1-2,1-1,1,2,3,1,0,1,1,3,8,+20
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Caitlin Clark,G,27,8-13,5-9,6-6,0,2,2,11,1,1,6,2,27,+26
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Myisha Hines-Allen,F,15,2-5,1-1,0-0,0,3,3,1,0,0,0,3,5,+3
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Makayla Timpson,F,18,2-3,0-0,0-0,1,7,8,0,0,4,0,0,4,+20
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Grace VanSlooten,F,8,1-1,0-0,0-0,0,1,1,0,0,0,1,0,2,+3
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Sophie Cunningham,G,21,0-3,0-2,8-10,0,3,3,2,1,0,3,5,8,+17
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Tyasha Harris,G,19,5-7,1-2,1-1,0,0,0,6,0,0,0,0,12,+14
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Damiris Dantas,C,,,,,,,,,,,,,,
+20260723_CON_IND,"Thursday, July 23, 2026",regular_season,Indiana Fever,Connecticut Sun,Raven Johnson,G,,,,,,,,,,,,,,
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Jessica Shepard,F,35,7-11,0-0,4-4,6,9,15,10,1,0,3,3,18,-4
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Awak Kuier,F,14,2-5,0-2,0-0,1,2,3,0,0,1,1,3,4,-4
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Arike Ogunbowale,G,35,8-12,3-5,5-6,1,2,3,6,0,0,2,3,24,-7
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Paige Bueckers,G,37,7-17,4-7,3-5,1,3,4,5,0,0,3,2,21,+8
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Azzi Fudd,G,33,4-10,3-8,0-0,0,0,0,2,2,0,3,3,11,-5
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Maddy Siegrist,F,26,5-10,2-6,2-2,0,5,5,2,1,0,0,2,14,+8
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Li Yueru,C,5,1-2,0-0,2-3,0,2,2,0,0,0,0,0,4,+8
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Odyssey Sims,G,4,0-2,0-1,2-2,0,0,0,1,1,0,1,1,2,+6
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Sug Sutton,G,4,1-1,0-0,0-0,0,1,1,1,0,0,0,1,2,+1
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Aziaha James,G,7,0-2,0-1,1-2,0,2,2,1,2,1,0,0,1,+9
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Alysha Clark,F,,,,,,,,,,,,,,
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Dallas Wings,Portland Fire,Alanna Smith,F,,,,,,,,,,,,,,
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Bridget Carleton,F,31,7-16,2-9,2-2,0,5,5,2,0,0,0,1,18,+3
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Emily Engstler,F,23,3-6,0-2,0-0,0,1,1,2,1,0,2,2,6,-6
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Megan DiLeo,C,25,9-13,2-5,1-2,0,2,2,1,0,1,1,2,21,+5
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Sarah Ashlee Barker,G,4,1-1,0-0,0-0,0,3,3,2,0,0,1,0,2,+6
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Carla Leite,G,31,3-8,1-3,5-6,2,1,3,11,1,0,3,2,12,0
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Frieda Buhner,F,17,5-6,2-2,3-5,0,1,1,1,0,0,0,2,15,+2
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Nyadiew Puoch,F,16,0-0,0-0,0-0,0,1,1,0,0,0,0,2,0,-14
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Serah Williams,C,15,4-4,0-0,0-0,1,3,4,0,3,1,2,2,8,-9
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Karlie Samuelson,G,20,3-3,2-2,2-2,0,0,0,1,1,0,0,4,10,+5
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Holly Winterburn,G,9,1-2,1-2,0-0,0,1,1,3,0,0,1,2,3,-8
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Teja Oblak,G,9,1-6,0-1,0-0,0,1,1,1,0,0,1,2,2,-4
+20260723_DAL_POR,"Thursday, July 23, 2026",regular_season,Portland Fire,Dallas Wings,Luisa Geiselsoder,C,,,,,,,,,,,,,,
