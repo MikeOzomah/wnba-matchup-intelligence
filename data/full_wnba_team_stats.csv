@@ -407,3 +407,5 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260723_CON_IND,"Thursday, July 23, 2026",Indiana Fever,Connecticut Sun,IND,45-73,62,11-22,50,22-27,81,8,27,35,29,7,7,13,18,123
 20260723_DAL_POR,"Thursday, July 23, 2026",Dallas Wings,Portland Fire,DAL,35-72,49,12-30,40,19-24,79,9,26,35,28,7,2,13,18,101
 20260723_DAL_POR,"Thursday, July 23, 2026",Portland Fire,Dallas Wings,POR,37-65,57,10-26,38,13-17,76,3,19,22,24,6,2,11,21,97
+20260726_SPO_COOP,"Sunday, July 26, 2026",TEAM SPOON,TEAM COOP,SPO,,,,,,,,,,,,,,,0
+20260726_SPO_COOP,"Sunday, July 26, 2026",TEAM COOP,TEAM SPOON,COOP,,,,,,,,,,,,,,,0
