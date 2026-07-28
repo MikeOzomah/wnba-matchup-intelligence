@@ -409,3 +409,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260723_DAL_POR,"Thursday, July 23, 2026",Portland Fire,Dallas Wings,POR,37-65,57,10-26,38,13-17,76,3,19,22,24,6,2,11,21,97
 20260726_SPO_COOP,"Sunday, July 26, 2026",TEAM SPOON,TEAM COOP,SPO,53-107,50,20-61,33,3-4,75,14,45,59,42,7,2,15,5,129
 20260726_SPO_COOP,"Sunday, July 26, 2026",TEAM COOP,TEAM SPOON,COOP,50-118,42,21-66,32,1-1,100,16,36,52,36,10,1,9,5,122
+20260728_CON_WSH,"Tuesday, July 28, 2026",Connecticut Sun,Washington Mystics,CON,,44,,28,,,,,,,,,,,0
+20260728_CON_WSH,"Tuesday, July 28, 2026",Washington Mystics,Connecticut Sun,WSH,,44,,29,,,,,,,,,,,0
+20260729_TOR_MIN,"Wednesday, July 29, 2026",Toronto Tempo,Minnesota Lynx,TOR,,45,,36,,,,,,,,,,,0
+20260729_TOR_MIN,"Wednesday, July 29, 2026",Minnesota Lynx,Toronto Tempo,MIN,,48,,38,,,,,,,,,,,0
+20260729_IND_SEA,"Wednesday, July 29, 2026",Indiana Fever,Seattle Storm,IND,,48,,38,,,,,,,,,,,0
+20260729_IND_SEA,"Wednesday, July 29, 2026",Seattle Storm,Indiana Fever,SEA,,43,,33,,,,,,,,,,,0
+20260729_POR_LV,"Wednesday, July 29, 2026",Portland Fire,Las Vegas Aces,POR,,45,,35,,,,,,,,,,,0
+20260729_POR_LV,"Wednesday, July 29, 2026",Las Vegas Aces,Portland Fire,LV,,49,,36,,,,,,,,,,,0
+20260729_NY_LA,"Wednesday, July 29, 2026",New York Liberty,Los Angeles Sparks,NY,,45,,35,,,,,,,,,,,0
+20260729_NY_LA,"Wednesday, July 29, 2026",Los Angeles Sparks,New York Liberty,LA,,46,,32,,,,,,,,,,,0
