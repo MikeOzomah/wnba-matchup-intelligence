@@ -419,7 +419,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260729_POR_LV,"Wednesday, July 29, 2026",Las Vegas Aces,Portland Fire,LV,33-57,58,9-22,41,23-26,88,2,28,30,21,7,3,12,21,98
 20260729_NY_LA,"Wednesday, July 29, 2026",New York Liberty,Los Angeles Sparks,NY,41-70,59,17-32,53,14-16,88,7,21,28,27,10,7,17,13,113
 20260729_NY_LA,"Wednesday, July 29, 2026",Los Angeles Sparks,New York Liberty,LA,44-73,60,16-31,52,5-7,71,2,19,21,35,10,1,15,17,109
-20260730_ATL_DAL,"Thursday, July 30, 2026",Atlanta Dream,Dallas Wings,ATL,,44,,31,,,,,,,,,,,0
-20260730_ATL_DAL,"Thursday, July 30, 2026",Dallas Wings,Atlanta Dream,DAL,,47,,35,,,,,,,,,,,0
-20260730_GS_PHX,"Thursday, July 30, 2026",Golden State Valkyries,Phoenix Mercury,GS,,42,,35,,,,,,,,,,,0
-20260730_GS_PHX,"Thursday, July 30, 2026",Phoenix Mercury,Golden State Valkyries,PHX,,44,,32,,,,,,,,,,,0
+20260730_ATL_DAL,"Thursday, July 30, 2026",Atlanta Dream,Dallas Wings,ATL,31-70,44,1-16,6,19-25,76,12,25,37,22,11,4,15,20,82
+20260730_ATL_DAL,"Thursday, July 30, 2026",Dallas Wings,Atlanta Dream,DAL,34-69,49,4-15,27,9-14,64,8,24,32,19,9,5,16,19,81
+20260730_GS_PHX,"Thursday, July 30, 2026",Golden State Valkyries,Phoenix Mercury,GS,31-76,41,12-33,36,15-19,79,13,20,33,24,7,1,7,34,89
+20260730_GS_PHX,"Thursday, July 30, 2026",Phoenix Mercury,Golden State Valkyries,PHX,27-55,49,5-16,31,32-43,74,6,28,34,19,3,7,10,23,91
+20260731_MIN_TOR,"Friday, July 31, 2026",Minnesota Lynx,Toronto Tempo,MIN,,48,,39,,,,,,,,,,,0
+20260731_MIN_TOR,"Friday, July 31, 2026",Toronto Tempo,Minnesota Lynx,TOR,,45,,36,,,,,,,,,,,0
+20260731_CON_CHI,"Friday, July 31, 2026",Connecticut Sun,Chicago Sky,CON,,44,,29,,,,,,,,,,,0
+20260731_CON_CHI,"Friday, July 31, 2026",Chicago Sky,Connecticut Sun,CHI,,44,,31,,,,,,,,,,,0
+20260731_NY_LV,"Friday, July 31, 2026",New York Liberty,Las Vegas Aces,NY,,46,,35,,,,,,,,,,,0
+20260731_NY_LV,"Friday, July 31, 2026",Las Vegas Aces,New York Liberty,LV,,49,,36,,,,,,,,,,,0
