@@ -423,9 +423,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260730_ATL_DAL,"Thursday, July 30, 2026",Dallas Wings,Atlanta Dream,DAL,34-69,49,4-15,27,9-14,64,8,24,32,19,9,5,16,19,81
 20260730_GS_PHX,"Thursday, July 30, 2026",Golden State Valkyries,Phoenix Mercury,GS,31-76,41,12-33,36,15-19,79,13,20,33,24,7,1,7,34,89
 20260730_GS_PHX,"Thursday, July 30, 2026",Phoenix Mercury,Golden State Valkyries,PHX,27-55,49,5-16,31,32-43,74,6,28,34,19,3,7,10,23,91
-20260731_MIN_TOR,"Friday, July 31, 2026",Minnesota Lynx,Toronto Tempo,MIN,,48,,39,,,,,,,,,,,0
-20260731_MIN_TOR,"Friday, July 31, 2026",Toronto Tempo,Minnesota Lynx,TOR,,45,,36,,,,,,,,,,,0
-20260731_CON_CHI,"Friday, July 31, 2026",Connecticut Sun,Chicago Sky,CON,,44,,29,,,,,,,,,,,0
-20260731_CON_CHI,"Friday, July 31, 2026",Chicago Sky,Connecticut Sun,CHI,,44,,31,,,,,,,,,,,0
-20260731_NY_LV,"Friday, July 31, 2026",New York Liberty,Las Vegas Aces,NY,,46,,35,,,,,,,,,,,0
-20260731_NY_LV,"Friday, July 31, 2026",Las Vegas Aces,New York Liberty,LV,,49,,36,,,,,,,,,,,0
+20260731_MIN_TOR,"Friday, July 31, 2026",Minnesota Lynx,Toronto Tempo,MIN,40-83,48,13-29,45,11-13,85,14,22,36,26,14,5,10,13,104
+20260731_MIN_TOR,"Friday, July 31, 2026",Toronto Tempo,Minnesota Lynx,TOR,28-62,45,10-28,36,6-11,55,6,20,26,19,6,4,22,12,72
+20260731_CON_CHI,"Friday, July 31, 2026",Connecticut Sun,Chicago Sky,CON,31-70,44,7-22,32,19-24,79,8,26,34,20,10,6,16,26,88
+20260731_CON_CHI,"Friday, July 31, 2026",Chicago Sky,Connecticut Sun,CHI,32-67,48,7-22,32,23-26,88,6,22,28,21,10,4,13,17,94
+20260731_NY_LV,"Friday, July 31, 2026",New York Liberty,Las Vegas Aces,NY,35-68,51,8-22,36,21-25,84,8,26,34,20,9,1,12,20,99
+20260731_NY_LV,"Friday, July 31, 2026",Las Vegas Aces,New York Liberty,LV,33-64,52,13-28,46,25-27,93,3,23,26,25,5,4,10,21,104
+20260731_SEA_ATL,"Friday, July 31, 2026",Seattle Storm,Atlanta Dream,SEA,,43,,33,,,,,,,,,,,0
+20260731_SEA_ATL,"Friday, July 31, 2026",Atlanta Dream,Seattle Storm,ATL,,44,,31,,,,,,,,,,,0
+20260731_DAL_WSH,"Friday, July 31, 2026",Dallas Wings,Washington Mystics,DAL,,47,,35,,,,,,,,,,,0
+20260731_DAL_WSH,"Friday, July 31, 2026",Washington Mystics,Dallas Wings,WSH,,44,,30,,,,,,,,,,,0
+20260801_IND_POR,"Saturday, August 01, 2026",Indiana Fever,Portland Fire,IND,,48,,39,,,,,,,,,,,0
+20260801_IND_POR,"Saturday, August 01, 2026",Portland Fire,Indiana Fever,POR,,45,,35,,,,,,,,,,,0

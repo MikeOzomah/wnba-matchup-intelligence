@@ -5236,3 +5236,76 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260730_GS_PHX,"Thursday, July 30, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Lexi Held,G,7,0-4,0-3,0-0,0,0,0,0,0,0,0,1,0,-12
 20260730_GS_PHX,"Thursday, July 30, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Marta Suarez,F,,,,,,,,,,,,,,
 20260730_GS_PHX,"Thursday, July 30, 2026",regular_season,Phoenix Mercury,Golden State Valkyries,Kyara Linskens,C,,,,,,,,,,,,,,
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Natasha Howard,F,24,3-8,0-0,3-3,5,3,8,4,2,2,1,0,9,+26
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Napheesa Collier,F,22,7-12,2-2,0-0,2,3,5,2,2,2,2,0,16,+17
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Kayla McBride,G,24,5-11,3-7,0-0,0,0,0,3,2,0,0,2,13,+25
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Courtney Williams,G,25,6-11,1-4,3-4,2,1,3,5,0,0,0,2,16,+25
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Olivia Miles,G,23,6-15,0-2,4-5,1,2,3,0,2,0,0,1,16,+14
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Nia Coffey,F,6,1-1,1-1,0-0,0,0,0,2,0,0,1,1,3,+4
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Dorka Juhasz,F,22,4-8,4-7,0-0,1,4,5,2,1,1,1,1,12,+13
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Antonia Delaere,F,16,3-6,1-3,0-0,0,2,2,3,0,0,1,2,7,+7
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Anastasiia Olairi Kosu,F,7,1-2,1-1,0-0,0,0,0,0,0,0,1,1,3,+4
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Maya Caldwell,G,18,2-5,0-2,0-0,1,4,5,1,4,0,3,1,4,+15
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Eliska Hamzova,G,14,2-4,0-0,1-1,2,3,5,4,1,0,0,2,5,+10
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Emma Cechova,F,,,,,,,,,,,,,,
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Maria Conde,F,28,2-6,1-4,0-0,0,2,2,2,1,0,1,1,5,-13
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Laura Juskaite,F,30,7-12,2-4,3-4,0,5,5,3,1,1,4,4,19,-27
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Temi Fagbenle,C,19,3-5,0-0,0-0,2,1,3,0,0,1,1,0,6,-5
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Marina Mabrey,G,28,6-11,2-6,2-3,0,3,3,4,1,0,3,2,16,-28
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Julie Allemand,G,22,0-2,0-2,0-0,0,2,2,6,1,1,2,0,0,-12
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Nyara Sabally,F,14,4-6,1-1,1-3,1,1,2,0,1,0,4,2,10,-20
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Teonni Key,F,12,0-2,0-1,0-0,1,0,1,0,0,0,1,0,0,-10
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Kia Nurse,G,19,1-6,1-4,0-0,0,3,3,2,0,0,0,0,3,-14
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Kiki Rice,G,23,2-9,2-5,0-0,1,3,4,2,0,1,4,3,6,-29
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Tima Pouye,G,5,3-3,1-1,0-1,1,0,1,0,1,0,2,0,7,-2
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Isabelle Harrison,F,,,,,,,,,,,,,,
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Brittney Sykes,G,,,,,,,,,,,,,,
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Diamond Miller,F,28,5-13,1-6,3-3,0,3,3,3,1,0,2,5,14,-9
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Aneesah Morrow,F,31,8-12,1-3,4-6,1,6,7,2,1,1,2,3,21,+2
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Olivia Nelson-Ododa,C,25,5-11,0-0,6-6,4,7,11,1,4,3,6,6,16,-8
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Charlisse Leger-Walker,G,30,4-11,2-5,0-0,0,1,1,2,0,0,3,1,10,-8
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Leila Lacan,G,29,4-7,1-2,3-4,2,3,5,6,2,0,2,3,12,-6
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Raegan Beers,F,13,1-3,0-0,1-1,0,3,3,0,1,0,1,5,3,-1
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Nell Angloma,F,3,0-1,0-0,0-0,1,0,1,1,0,0,0,1,0,+1
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Kennedy Burke,G,21,2-6,1-5,2-4,0,0,0,2,0,1,0,0,7,0
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Saniya Rivers,G,21,2-6,1-1,0-0,0,3,3,3,1,1,0,2,5,-1
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Aaliyah Edwards,F,,,,,,,,,,,,,,
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Brittney Griner,C,,,,,,,,,,,,,,
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Hailey Van Lith,G,,,,,,,,,,,,,,
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Connecticut Sun,Chicago Sky,Gianna Kneepkens,G,,,,,,,,,,,,,,
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Kamilla Cardoso,C,21,8-12,0-0,10-11,3,3,6,1,1,0,0,5,26,+14
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Courtney Vandersloot,G,23,2-7,0-2,2-2,2,3,5,6,1,0,2,1,6,+9
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Natasha Cloud,G,31,4-8,0-1,3-3,0,0,0,5,2,0,2,0,11,+4
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Aicha Coulibaly,G,13,1-2,0-0,1-1,0,3,3,1,1,0,1,3,3,-1
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Sydney Taylor,G,31,6-12,2-7,0-0,0,2,2,6,1,1,2,1,14,+5
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Chloe Bibby,F,18,3-7,2-4,0-0,0,1,1,2,1,1,0,1,8,+4
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Elizabeth Williams,C,19,2-5,0-0,0-0,0,4,4,0,1,1,3,2,4,-6
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,DiJonai Carrington,G,17,2-5,2-3,3-4,0,3,3,0,0,1,1,2,9,+3
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Jacy Sheldon,G,15,2-5,1-4,2-2,1,1,2,0,1,0,2,2,7,0
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Gabriela Jaquez,G,13,2-4,0-1,2-3,0,2,2,0,1,0,0,0,6,-2
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Azura Stevens,F,,,,,,,,,,,,,,
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Skylar Diggins,G,,,,,,,,,,,,,,
+20260731_CON_CHI,"Friday, July 31, 2026",regular_season,Chicago Sky,Connecticut Sun,Rachel Banham,G,,,,,,,,,,,,,,
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Breanna Stewart,F,37,10-20,1-1,5-8,1,10,11,1,3,1,2,2,26,-2
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Jonquel Jones,C,28,2-11,0-4,4-4,4,3,7,5,0,0,1,5,8,-10
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Rebecca Allen,G,27,5-6,3-4,0-0,0,1,1,0,0,0,0,3,13,0
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Sabrina Ionescu,G,29,4-7,1-4,6-7,1,3,4,5,0,0,3,2,15,-12
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Pauline Astier,G,21,8-12,1-3,2-2,0,1,1,4,2,0,2,2,19,-1
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Han Xu,C,15,1-3,1-3,0-0,0,1,1,1,1,0,1,3,3,+2
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Rebekah Gardner,G,15,2-4,0-0,2-2,2,3,5,3,2,0,2,2,6,-4
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Marine Johannes,G,8,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-1
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Marine Fauthoux,G,18,3-5,1-3,2-2,0,4,4,1,1,0,1,1,9,+3
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Anneli Maley,F,,,,,,,,,,,,,,
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Raquel Carrera,F,,,,,,,,,,,,,,
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,New York Liberty,Las Vegas Aces,Betnijah Laney-Hamilton,G,,,,,,,,,,,,,,
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,Stephanie Talbot,F,11,2-3,2-3,0-0,0,1,1,2,0,1,0,0,6,+1
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,NaLyssa Smith,F,19,2-3,0-0,3-4,0,4,4,1,0,0,0,5,7,-13
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,A'ja Wilson,C,36,11-22,1-4,10-11,1,9,10,6,1,2,2,1,33,+8
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,Chelsea Gray,G,34,6-10,4-6,0-0,0,3,3,4,0,0,4,6,16,+3
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,Jackie Young,G,36,7-11,3-5,12-12,0,2,2,9,2,0,2,1,29,+8
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,Brianna Turner,F,21,2-3,0-0,0-0,1,2,3,1,1,1,1,4,4,+9
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,Jewell Loyd,G,27,2-8,2-7,0-0,1,1,2,0,1,0,0,2,6,+8
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,Dana Evans,G,17,1-4,1-3,0-0,0,1,1,2,0,0,1,2,3,+1
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,Ta'Niya Latson,G,,,,,,,,,,,,,,
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,Justine Pissott,G,,,,,,,,,,,,,,
+20260731_NY_LV,"Friday, July 31, 2026",regular_season,Las Vegas Aces,New York Liberty,Mai Yamamoto,G,,,,,,,,,,,,,,
