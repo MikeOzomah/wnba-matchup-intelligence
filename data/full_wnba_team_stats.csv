@@ -435,7 +435,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260731_DAL_WSH,"Friday, July 31, 2026",Washington Mystics,Dallas Wings,WSH,26-71,37,2-17,12,27-31,87,13,29,42,17,1,4,7,15,81
 20260801_IND_POR,"Saturday, August 01, 2026",Indiana Fever,Portland Fire,IND,36-68,53,10-29,34,30-34,88,8,22,30,24,14,4,13,21,112
 20260801_IND_POR,"Saturday, August 01, 2026",Portland Fire,Indiana Fever,POR,35-67,52,14-31,45,14-18,78,7,18,25,26,8,3,20,24,98
-20260801_LV_CHI,"Saturday, August 01, 2026",Las Vegas Aces,Chicago Sky,LV,,49,,36,,,,,,,,,,,0
-20260801_LV_CHI,"Saturday, August 01, 2026",Chicago Sky,Las Vegas Aces,CHI,,44,,31,,,,,,,,,,,0
-20260801_NY_PHX,"Saturday, August 01, 2026",New York Liberty,Phoenix Mercury,NY,,46,,35,,,,,,,,,,,0
-20260801_NY_PHX,"Saturday, August 01, 2026",Phoenix Mercury,New York Liberty,PHX,,44,,32,,,,,,,,,,,0
+20260801_LV_CHI,"Saturday, August 01, 2026",Las Vegas Aces,Chicago Sky,LV,32-74,43,5-22,23,14-18,78,9,31,40,21,5,8,16,19,83
+20260801_LV_CHI,"Saturday, August 01, 2026",Chicago Sky,Las Vegas Aces,CHI,31-77,40,8-20,40,14-22,64,11,21,32,19,9,4,13,20,84
+20260801_NY_PHX,"Saturday, August 01, 2026",New York Liberty,Phoenix Mercury,NY,33-68,49,9-28,32,19-19,100,9,28,37,26,2,3,14,24,94
+20260801_NY_PHX,"Saturday, August 01, 2026",Phoenix Mercury,New York Liberty,PHX,32-63,51,6-19,32,22-28,79,3,20,23,21,7,2,10,20,92
+20260802_IND_MIN,"Sunday, August 02, 2026",Indiana Fever,Minnesota Lynx,IND,,48,,38,,,,,,,,,,,0
+20260802_IND_MIN,"Sunday, August 02, 2026",Minnesota Lynx,Indiana Fever,MIN,,48,,39,,,,,,,,,,,0
+20260802_LA_POR,"Sunday, August 02, 2026",Los Angeles Sparks,Portland Fire,LA,,46,,33,,,,,,,,,,,0
+20260802_LA_POR,"Sunday, August 02, 2026",Portland Fire,Los Angeles Sparks,POR,,45,,35,,,,,,,,,,,0
+20260802_CON_DAL,"Sunday, August 02, 2026",Connecticut Sun,Dallas Wings,CON,,44,,29,,,,,,,,,,,0
+20260802_CON_DAL,"Sunday, August 02, 2026",Dallas Wings,Connecticut Sun,DAL,,46,,34,,,,,,,,,,,0
+20260803_TOR_GS,"Monday, August 03, 2026",Toronto Tempo,Golden State Valkyries,TOR,,45,,36,,,,,,,,,,,0
+20260803_TOR_GS,"Monday, August 03, 2026",Golden State Valkyries,Toronto Tempo,GS,,42,,35,,,,,,,,,,,0
