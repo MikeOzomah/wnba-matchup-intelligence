@@ -453,5 +453,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260803_SEA_NY,"Monday, August 03, 2026",New York Liberty,Seattle Storm,NY,34-68,50,14-34,41,13-16,81,9,27,36,23,2,6,12,14,95
 20260804_PHX_CHI,"Tuesday, August 04, 2026",Phoenix Mercury,Chicago Sky,PHX,32-63,51,11-26,42,31-40,78,6,30,36,26,5,5,12,21,106
 20260804_PHX_CHI,"Tuesday, August 04, 2026",Chicago Sky,Phoenix Mercury,CHI,37-76,49,10-26,38,17-25,68,9,27,36,29,5,1,8,26,101
-20260805_TOR_GS,"Wednesday, August 05, 2026",Toronto Tempo,Golden State Valkyries,TOR,,45,,36,,,,,,,,,,,0
-20260805_TOR_GS,"Wednesday, August 05, 2026",Golden State Valkyries,Toronto Tempo,GS,,42,,35,,,,,,,,,,,0
+20260805_TOR_GS,"Wednesday, August 05, 2026",Toronto Tempo,Golden State Valkyries,TOR,28-59,47,12-29,41,13-15,87,5,22,27,22,8,3,15,19,81
+20260805_TOR_GS,"Wednesday, August 05, 2026",Golden State Valkyries,Toronto Tempo,GS,31-68,46,12-33,36,18-23,78,15,23,38,21,9,2,12,14,92
+20260805_PHX_ATL,"Wednesday, August 05, 2026",Phoenix Mercury,Atlanta Dream,PHX,,45,,32,,,,,,,,,,,0
+20260805_PHX_ATL,"Wednesday, August 05, 2026",Atlanta Dream,Phoenix Mercury,ATL,,44,,30,,,,,,,,,,,0
+20260805_SEA_NY,"Wednesday, August 05, 2026",Seattle Storm,New York Liberty,SEA,,43,,32,,,,,,,,,,,0
+20260805_SEA_NY,"Wednesday, August 05, 2026",New York Liberty,Seattle Storm,NY,,46,,36,,,,,,,,,,,0
+20260805_DAL_WSH,"Wednesday, August 05, 2026",Dallas Wings,Washington Mystics,DAL,,46,,34,,,,,,,,,,,0
+20260805_DAL_WSH,"Wednesday, August 05, 2026",Washington Mystics,Dallas Wings,WSH,,43,,29,,,,,,,,,,,0
+20260806_LA_CHI,"Thursday, August 06, 2026",Los Angeles Sparks,Chicago Sky,LA,,47,,34,,,,,,,,,,,0
+20260806_LA_CHI,"Thursday, August 06, 2026",Chicago Sky,Los Angeles Sparks,CHI,,44,,32,,,,,,,,,,,0
