@@ -5872,3 +5872,76 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260808_GS_DAL,"Saturday, August 08, 2026",regular_season,Dallas Wings,Golden State Valkyries,Li Yueru,C,8,2-3,0-0,3-3,2.0,1.0,3.0,0.0,0.0,0.0,1.0,2.0,7.0,-2.0,2.0,3.0,0.0,0.0,3.0,3.0,1.0,0.0,0.0
 20260808_GS_DAL,"Saturday, August 08, 2026",regular_season,Dallas Wings,Golden State Valkyries,Odyssey Sims,G,25,0-4,0-1,3-4,0.0,2.0,2.0,4.0,0.0,0.0,0.0,2.0,3.0,-1.0,0.0,4.0,0.0,1.0,3.0,4.0,0.75,,999.0
 20260808_GS_DAL,"Saturday, August 08, 2026",regular_season,Dallas Wings,Golden State Valkyries,Sug Sutton,G,8,2-3,1-1,0-0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,2.0,5.0,-6.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Stephanie Talbot,F,10,1-2,0-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,NaLyssa Smith,F,24,5-8,0-0,4-4,5.0,6.0,11.0,4.0,0.0,1.0,1.0,3.0,14.0,-2.0,5.0,8.0,0.0,0.0,4.0,4.0,0.5,0.8,4.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,A'ja Wilson,C,33,5-17,1-3,5-6,4.0,4.0,8.0,1.0,1.0,2.0,5.0,2.0,16.0,-11.0,5.0,17.0,1.0,3.0,5.0,6.0,0.47058823529411764,0.2,0.2
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Chelsea Gray,G,36,4-9,1-5,0-0,1.0,1.0,2.0,6.0,1.0,0.0,2.0,3.0,9.0,-9.0,4.0,9.0,1.0,5.0,0.0,0.0,0.3333333333333333,1.5,3.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Jackie Young,G,33,6-13,3-6,8-8,1.0,4.0,5.0,1.0,0.0,0.0,5.0,0.0,23.0,-6.0,6.0,13.0,3.0,6.0,8.0,8.0,1.3076923076923077,0.16666666666666666,0.2
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Brianna Turner,F,14,1-2,0-0,0-0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,2.0,-9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Jewell Loyd,G,30,4-9,2-7,0-0,0.0,3.0,3.0,2.0,0.0,0.0,1.0,2.0,10.0,-13.0,4.0,9.0,2.0,7.0,0.0,0.0,0.6666666666666666,0.5,2.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Dana Evans,G,20,4-9,3-5,0-0,0.0,5.0,5.0,3.0,0.0,0.0,1.0,0.0,11.0,-7.0,4.0,9.0,3.0,5.0,0.0,0.0,1.0,0.75,3.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Cheyenne Parker-Tyus,F,,,,,,,,,,,,,,,,,,,,,,,
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Kierstan Bell,F,,,,,,,,,,,,,,,,,,,,,,,
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Justine Pissott,G,,,,,,,,,,,,,,,,,,,,,,,
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Las Vegas Aces,Minnesota Lynx,Mai Yamamoto,G,,,,,,,,,,,,,,,,,,,,,,,
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Natasha Howard,F,29,7-11,1-1,2-2,6.0,2.0,8.0,6.0,2.0,0.0,1.0,3.0,17.0,8.0,7.0,11.0,1.0,1.0,2.0,2.0,0.45454545454545453,0.8571428571428571,6.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Napheesa Collier,F,35,7-14,5-7,3-4,1.0,5.0,6.0,3.0,1.0,3.0,4.0,3.0,22.0,7.0,7.0,14.0,5.0,7.0,3.0,4.0,1.2857142857142858,0.42857142857142855,0.75
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Kayla McBride,G,35,4-12,4-8,3-3,1.0,3.0,4.0,0.0,2.0,0.0,0.0,2.0,15.0,7.0,4.0,12.0,4.0,8.0,3.0,3.0,1.25,0.0,0.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Courtney Williams,G,33,6-11,1-2,0-0,1.0,6.0,7.0,7.0,2.0,1.0,2.0,5.0,13.0,17.0,6.0,11.0,1.0,2.0,0.0,0.0,0.2727272727272727,1.1666666666666667,3.5
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Olivia Miles,G,35,11-23,3-7,1-1,0.0,4.0,4.0,7.0,1.0,0.0,5.0,2.0,26.0,11.0,11.0,23.0,3.0,7.0,1.0,1.0,0.43478260869565216,0.6363636363636364,1.4
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Nia Coffey,F,7,0-1,0-1,0-0,0.0,3.0,3.0,0.0,1.0,0.0,2.0,3.0,0.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Dorka Juhasz,F,10,1-2,1-2,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,3.0,4.0,1.0,2.0,1.0,2.0,0.0,0.0,1.5,1.0,999.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Antonia Delaere,F,5,0-0,0-0,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Maya Caldwell,G,12,1-2,0-1,0-0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,-5.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Chloe Bibby,F,,,,,,,,,,,,,,,,,,,,,,,
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Anastasiia Olairi Kosu,F,,,,,,,,,,,,,,,,,,,,,,,
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Eliska Joklova,G,,,,,,,,,,,,,,,,,,,,,,,
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Makayla Timpson,F,31,5-7,0-0,0-1,0.0,3.0,3.0,3.0,1.0,2.0,1.0,4.0,10.0,15.0,5.0,7.0,0.0,0.0,0.0,1.0,0.0,0.6,3.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Aliyah Boston,C,29,6-8,0-1,1-2,1.0,10.0,11.0,3.0,1.0,2.0,1.0,2.0,13.0,23.0,6.0,8.0,0.0,1.0,1.0,2.0,0.125,0.5,3.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Kelsey Mitchell,G,36,11-22,3-9,2-2,2.0,3.0,5.0,2.0,2.0,1.0,2.0,1.0,27.0,12.0,11.0,22.0,3.0,9.0,2.0,2.0,0.5,0.18181818181818182,1.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Lexie Hull,G,19,2-5,1-3,0-0,3.0,3.0,6.0,0.0,0.0,1.0,1.0,3.0,5.0,26.0,2.0,5.0,1.0,3.0,0.0,0.0,0.6,0.0,0.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Caitlin Clark,G,36,7-15,5-6,7-10,0.0,4.0,4.0,11.0,2.0,1.0,6.0,3.0,26.0,5.0,7.0,15.0,5.0,6.0,7.0,10.0,1.4666666666666666,1.5714285714285714,1.833
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Myisha Hines-Allen,F,9,0-2,0-1,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,-11.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Monique Billings,F,12,2-3,0-0,0-0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,4.0,-19.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.5,1.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Sophie Cunningham,G,17,1-3,0-2,1-1,0.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,-28.0,1.0,3.0,0.0,2.0,1.0,1.0,0.3333333333333333,0.0,0.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Tyasha Harris,G,3,0-2,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,999.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Raven Johnson,G,9,1-1,0-0,0-0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,-1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Grace VanSlooten,F,,,,,,,,,,,,,,,,,,,,,,,
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Indiana Fever,Chicago Sky,Damiris Dantas,C,,,,,,,,,,,,,,,,,,,,,,,
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Azura Stevens,F,20,3-13,1-4,0-0,2.0,3.0,5.0,0.0,0.0,0.0,1.0,5.0,7.0,-20.0,3.0,13.0,1.0,4.0,0.0,0.0,0.23076923076923078,0.0,0.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Kamilla Cardoso,C,26,6-13,0-0,2-4,2.0,7.0,9.0,2.0,1.0,1.0,1.0,0.0,14.0,-12.0,6.0,13.0,0.0,0.0,2.0,4.0,0.15384615384615385,0.3333333333333333,2.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Courtney Vandersloot,G,25,1-6,0-1,2-3,0.0,3.0,3.0,6.0,2.0,0.0,2.0,0.0,4.0,-19.0,1.0,6.0,0.0,1.0,2.0,3.0,0.3333333333333333,6.0,3.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Natasha Cloud,G,27,6-9,1-4,4-4,1.0,1.0,2.0,4.0,1.0,0.0,2.0,4.0,17.0,-5.0,6.0,9.0,1.0,4.0,4.0,4.0,0.7777777777777778,0.6666666666666666,2.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Jacy Sheldon,G,24,3-5,2-2,1-2,0.0,1.0,1.0,2.0,0.0,0.0,1.0,5.0,9.0,0.0,3.0,5.0,2.0,2.0,1.0,2.0,1.4,0.6666666666666666,2.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Elizabeth Williams,C,14,0-1,0-0,0-0,2.0,2.0,4.0,2.0,1.0,0.0,2.0,2.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,1.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Rachel Banham,G,20,6-11,3-8,2-2,0.0,1.0,1.0,3.0,2.0,0.0,3.0,2.0,17.0,12.0,6.0,11.0,3.0,8.0,2.0,2.0,1.0,0.5,1.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,DiJonai Carrington,G,4,3-3,1-1,1-1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,8.0,6.0,3.0,3.0,1.0,1.0,1.0,1.0,1.3333333333333333,0.0,0.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Aicha Coulibaly,G,20,2-5,0-1,2-2,0.0,2.0,2.0,4.0,1.0,0.0,0.0,1.0,6.0,16.0,2.0,5.0,0.0,1.0,2.0,2.0,0.4,2.0,999.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Gabriela Jaquez,G,21,1-2,1-1,1-2,0.0,2.0,2.0,2.0,2.0,1.0,0.0,2.0,4.0,-6.0,1.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,999.0
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Skylar Diggins,G,,,,,,,,,,,,,,,,,,,,,,,
+20260808_IND_CHI,"Saturday, August 08, 2026",regular_season,Chicago Sky,Indiana Fever,Sydney Taylor,G,,,,,,,,,,,,,,,,,,,,,,,
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Ezi Magbegor,F,26,3-7,0-3,1-1,0.0,3.0,3.0,6.0,1.0,2.0,0.0,2.0,7.0,-8.0,3.0,7.0,0.0,3.0,1.0,1.0,0.14285714285714285,2.0,999.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Dominique Malonga,C,28,7-14,1-4,6-6,4.0,5.0,9.0,2.0,0.0,2.0,3.0,4.0,21.0,0.0,7.0,14.0,1.0,4.0,6.0,6.0,0.6428571428571429,0.2857142857142857,0.667
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Natisha Hiedeman,G,32,1-4,0-2,0-0,0.0,3.0,3.0,3.0,0.0,0.0,1.0,3.0,2.0,-5.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Flau'jae Johnson,G,25,3-10,1-3,1-2,0.0,4.0,4.0,1.0,1.0,0.0,2.0,2.0,8.0,-23.0,3.0,10.0,1.0,3.0,1.0,2.0,0.4,0.3333333333333333,0.5
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Jade Melbourne,G,29,7-15,4-12,5-6,0.0,2.0,2.0,5.0,1.0,1.0,0.0,3.0,23.0,-8.0,7.0,15.0,4.0,12.0,5.0,6.0,1.1333333333333333,0.7142857142857143,999.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Jordan Horston,F,19,6-10,4-6,1-2,1.0,2.0,3.0,1.0,1.0,0.0,2.0,1.0,17.0,13.0,6.0,10.0,4.0,6.0,1.0,2.0,1.3,0.16666666666666666,0.5
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Stefanie Dolson,C,10,0-1,0-1,0-0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,-5.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Awa Fam,C,17,1-3,1-3,0-0,1.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,3.0,-1.0,1.0,3.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Zia Cooke,G,11,2-2,1-1,2-2,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,7.0,10.0,2.0,2.0,1.0,1.0,2.0,2.0,2.5,0.5,1.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Taina Mair,G,5,2-2,1-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,5.0,-8.0,2.0,2.0,1.0,1.0,0.0,0.0,1.5,0.0,0.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Katie Lou Samuelson,F,,,,,,,,,,,,,,,,,,,,,,,
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Mackenzie Holmes,F,,,,,,,,,,,,,,,,,,,,,,,
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Seattle Storm,Portland Fire,Taylor Thierry,F,,,,,,,,,,,,,,,,,,,,,,,
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Bridget Carleton,F,29,9-19,4-9,2-2,0.0,6.0,6.0,4.0,1.0,0.0,1.0,0.0,24.0,11.0,9.0,19.0,4.0,9.0,2.0,2.0,0.7368421052631579,0.4444444444444444,4.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Emily Engstler,F,24,4-7,2-5,0-0,0.0,4.0,4.0,1.0,0.0,0.0,0.0,4.0,10.0,6.0,4.0,7.0,2.0,5.0,0.0,0.0,0.8571428571428571,0.25,999.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Nyadiew Puoch,F,25,6-9,4-7,3-4,0.0,2.0,2.0,1.0,3.0,0.0,0.0,1.0,19.0,2.0,6.0,9.0,4.0,7.0,3.0,4.0,1.6666666666666667,0.16666666666666666,999.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Megan DiLeo,C,24,4-6,1-3,2-2,0.0,4.0,4.0,0.0,0.0,1.0,1.0,3.0,11.0,9.0,4.0,6.0,1.0,3.0,2.0,2.0,0.8333333333333334,0.0,0.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Carla Leite,G,4,0-0,0-0,4-4,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,4.0,4.0,,,2.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Frieda Buhner,F,16,1-8,0-5,1-2,2.0,1.0,3.0,2.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,8.0,0.0,5.0,1.0,2.0,0.125,2.0,999.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Serah Williams,C,16,1-1,0-0,1-2,0.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,3.0,-2.0,1.0,1.0,0.0,0.0,1.0,2.0,1.0,2.0,1.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Karlie Samuelson,G,17,3-4,3-4,0-0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,2.0,9.0,4.0,3.0,4.0,3.0,4.0,0.0,0.0,2.25,0.0,0.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Holly Winterburn,G,17,2-3,0-1,0-0,1.0,1.0,2.0,7.0,0.0,0.0,3.0,2.0,4.0,-1.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,3.5,2.333
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Jordan Harrison,G,28,4-9,1-2,4-4,0.0,7.0,7.0,6.0,1.0,0.0,3.0,4.0,13.0,3.0,4.0,9.0,1.0,2.0,4.0,4.0,0.7777777777777778,1.5,2.0
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Sarah Ashlee Barker,G,,,,,,,,,,,,,,,,,,,,,,,
+20260809_SEA_POR,"Sunday, August 09, 2026",regular_season,Portland Fire,Seattle Storm,Teja Oblak,G,,,,,,,,,,,,,,,,,,,,,,,

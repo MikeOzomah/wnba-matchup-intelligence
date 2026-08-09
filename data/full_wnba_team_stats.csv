@@ -475,9 +475,17 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260807_ATL_WSH,"Friday, August 07, 2026",Washington Mystics,Atlanta Dream,WSH,29-62,47,6-14,43,15-34,44,11,35,46,14,6,12,17,27,79
 20260808_GS_DAL,"Saturday, August 08, 2026",Golden State Valkyries,Dallas Wings,GS,33-71,46,12-34,35,16-18,89,9,29,38,27,8,5,7,24,94
 20260808_GS_DAL,"Saturday, August 08, 2026",Dallas Wings,Golden State Valkyries,DAL,21-62,34,7-25,28,27-38,71,15,24,39,8,7,3,13,15,76
-20260808_LV_MIN,"Saturday, August 08, 2026",Las Vegas Aces,Minnesota Lynx,LV,,49,,36,,,,,,,,,,,0
-20260808_LV_MIN,"Saturday, August 08, 2026",Minnesota Lynx,Las Vegas Aces,MIN,,48,,39,,,,,,,,,,,0
-20260808_IND_CHI,"Saturday, August 08, 2026",Indiana Fever,Chicago Sky,IND,,48,,39,,,,,,,,,,,0
-20260808_IND_CHI,"Saturday, August 08, 2026",Chicago Sky,Indiana Fever,CHI,,45,,32,,,,,,,,,,,0
-20260809_SEA_POR,"Sunday, August 09, 2026",Seattle Storm,Portland Fire,SEA,,43,,32,,,,,,,,,,,0
-20260809_SEA_POR,"Sunday, August 09, 2026",Portland Fire,Seattle Storm,POR,,45,,35,,,,,,,,,,,0
+20260808_LV_MIN,"Saturday, August 08, 2026",Las Vegas Aces,Minnesota Lynx,LV,30-69,43,10-27,37,17-18,94,12,25,37,17,3,4,16,11,87
+20260808_LV_MIN,"Saturday, August 08, 2026",Minnesota Lynx,Las Vegas Aces,MIN,37-76,49,15-29,52,9-10,90,9,25,34,24,10,4,14,20,98
+20260808_IND_CHI,"Saturday, August 08, 2026",Indiana Fever,Chicago Sky,IND,35-68,51,9-22,41,11-16,69,7,27,34,23,8,7,13,18,90
+20260808_IND_CHI,"Saturday, August 08, 2026",Chicago Sky,Indiana Fever,CHI,31-68,46,9-22,41,15-20,75,7,23,30,25,10,2,12,22,86
+20260809_SEA_POR,"Sunday, August 09, 2026",Seattle Storm,Portland Fire,SEA,32-68,47,13-36,36,16-19,84,6,21,27,19,6,6,13,20,93
+20260809_SEA_POR,"Sunday, August 09, 2026",Portland Fire,Seattle Storm,POR,34-66,52,15-36,42,17-20,85,4,27,31,25,6,1,11,18,100
+20260809_LV_NY,"Sunday, August 09, 2026",Las Vegas Aces,New York Liberty,LV,,49,,36,,,,,,,,,,,0
+20260809_LV_NY,"Sunday, August 09, 2026",New York Liberty,Las Vegas Aces,NY,,46,,35,,,,,,,,,,,0
+20260809_PHX_WSH,"Sunday, August 09, 2026",Phoenix Mercury,Washington Mystics,PHX,,44,,32,,,,,,,,,,,0
+20260809_PHX_WSH,"Sunday, August 09, 2026",Washington Mystics,Phoenix Mercury,WSH,,44,,30,,,,,,,,,,,0
+20260809_DAL_MIN,"Sunday, August 09, 2026",Dallas Wings,Minnesota Lynx,DAL,,46,,34,,,,,,,,,,,0
+20260809_DAL_MIN,"Sunday, August 09, 2026",Minnesota Lynx,Dallas Wings,MIN,,48,,39,,,,,,,,,,,0
+20260809_GS_LA,"Sunday, August 09, 2026",Golden State Valkyries,Los Angeles Sparks,GS,,42,,35,,,,,,,,,,,0
+20260809_GS_LA,"Sunday, August 09, 2026",Los Angeles Sparks,Golden State Valkyries,LA,,47,,34,,,,,,,,,,,0
