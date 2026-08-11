@@ -6035,3 +6035,52 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260809_GS_LA,"Sunday, August 09, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Chance Gray,G,10,0-3,0-2,0-0,2,0,2,1,0,0,0,0,0,-7
 20260809_GS_LA,"Sunday, August 09, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Emma Cannon,F,,,,,,,,,,,,,,
 20260809_GS_LA,"Sunday, August 09, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Kate Martin,G,,,,,,,,,,,,,,
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Maria Conde,F,28,1-4,0-0,0-0,0,1,1,3,0,0,1,3,2,-17
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Nyara Sabally,F,29,5-12,1-4,1-2,3,9,12,3,4,1,5,2,12,-4
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Laura Juskaite,F,14,0-3,0-1,0-0,0,1,1,0,0,0,2,2,0,-16
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Marina Mabrey,G,33,12-19,7-13,5-5,0,0,0,3,0,0,1,3,36,-5
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Julie Allemand,G,26,1-2,1-2,0-0,0,2,2,2,1,0,3,3,3,-16
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Isabelle Harrison,F,18,5-7,0-1,3-4,1,2,3,2,0,1,1,5,13,-4
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Aneesah Morrow,F,16,4-8,0-2,3-5,0,1,1,1,1,1,0,3,11,+5
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Temi Fagbenle,C,3,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-5
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Kia Nurse,G,3,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0,0
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Kiki Rice,G,30,7-11,1-2,3-5,1,4,5,6,1,1,0,1,18,+2
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Teonni Key,F,,,,,,,,,,,,,,
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Toronto Tempo,Atlanta Dream,Brittney Sykes,G,,,,,,,,,,,,,,
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Naz Hillmon,F,29,5-8,1-4,0-0,2,3,5,3,1,0,2,2,11,+20
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Angel Reese,F,29,7-14,1-3,5-6,6,8,14,2,1,1,1,3,20,+14
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Allisha Gray,G,33,5-8,1-3,4-4,1,2,3,5,0,1,0,3,15,+15
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Jordin Canada,G,36,6-13,4-9,4-8,1,5,6,9,1,0,2,2,20,+8
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Rhyne Howard,G,36,7-15,6-11,2-4,0,4,4,7,3,1,0,3,22,+10
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Brionna Jones,F,20,5-5,0-0,5-6,1,2,3,2,1,0,3,4,15,-6
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Sika Kone,F,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Madina Okot,C,2,0-2,0-0,0-0,1,0,1,0,0,0,2,1,0,-4
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Shatori Walker-Kimbrough,G,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Jaylyn Sherrod,G,3,0-1,0-0,0-0,0,0,0,0,0,0,1,2,0,0
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Isobel Borlase,G,11,1-4,1-2,1-2,0,3,3,1,0,0,1,0,4,+3
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Te-Hina Paopao,G,,,,,,,,,,,,,,
+20260811_TOR_ATL,"Tuesday, August 11, 2026",regular_season,Atlanta Dream,Toronto Tempo,Aaliyah Nye,G,,,,,,,,,,,,,,
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Azura Stevens,F,24,4-9,0-3,1-2,5,3,8,2,0,2,1,5,9,-5
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Kamilla Cardoso,C,27,7-12,0-0,1-2,7,6,13,0,0,0,6,3,15,-9
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Courtney Vandersloot,G,26,2-7,1-3,8-9,0,0,0,3,0,0,2,3,13,-12
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Natasha Cloud,G,32,3-5,0-1,1-2,0,2,2,8,2,0,3,4,7,-3
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Jacy Sheldon,G,19,2-5,1-4,0-0,0,1,1,2,1,1,1,3,5,+2
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Elizabeth Williams,C,18,1-5,0-0,0-1,0,1,1,1,1,0,0,0,2,-4
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Rachel Banham,G,12,3-6,2-5,0-1,0,1,1,1,0,0,0,2,8,-4
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,DiJonai Carrington,G,27,7-20,2-4,10-10,1,5,6,1,5,0,2,1,26,-7
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Aicha Coulibaly,G,10,1-3,0-0,1-1,0,3,3,0,0,0,0,1,3,0
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Gabriela Jaquez,G,4,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-3
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Skylar Diggins,G,,,,,,,,,,,,,,
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Chicago Sky,Seattle Storm,Sydney Taylor,G,,,,,,,,,,,,,,
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Ezi Magbegor,F,26,2-8,0-1,1-1,1,3,4,3,0,1,4,4,5,+15
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Jordan Horston,F,23,3-7,0-2,4-5,1,5,6,0,2,0,1,4,10,-1
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Dominique Malonga,C,30,9-14,3-4,5-7,3,7,10,1,2,3,2,0,26,+8
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Natisha Hiedeman,G,33,3-10,0-3,12-12,0,2,2,9,0,0,0,0,18,+11
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Jade Melbourne,G,21,4-9,1-3,0-0,0,3,3,1,1,0,2,6,9,-7
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Taylor Thierry,F,22,2-3,1-2,2-2,4,2,6,3,1,0,0,0,7,+16
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Stefanie Dolson,C,10,2-5,2-2,0-0,0,3,3,2,1,0,2,2,6,+1
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Awa Fam,C,14,0-3,0-1,0-0,0,0,0,2,2,0,1,1,0,-6
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Zia Cooke,G,21,7-12,1-3,1-1,0,2,2,1,0,0,2,3,16,+8
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Katie Lou Samuelson,F,,,,,,,,,,,,,,
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Mackenzie Holmes,F,,,,,,,,,,,,,,
+20260811_CHI_SEA,"Tuesday, August 11, 2026",regular_season,Seattle Storm,Chicago Sky,Flau'jae Johnson,G,,,,,,,,,,,,,,

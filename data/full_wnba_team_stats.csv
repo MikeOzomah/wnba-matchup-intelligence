@@ -489,7 +489,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260809_DAL_MIN,"Sunday, August 09, 2026",Minnesota Lynx,Dallas Wings,MIN,40-72,56,18-39,46,5-9,56,6,18,24,29,12,3,11,12,103
 20260809_GS_LA,"Sunday, August 09, 2026",Golden State Valkyries,Los Angeles Sparks,GS,32-69,46,12-34,35,8-9,89,11,25,36,22,7,2,13,16,84
 20260809_GS_LA,"Sunday, August 09, 2026",Los Angeles Sparks,Golden State Valkyries,LA,32-70,46,10-31,32,4-9,44,11,17,28,18,6,1,11,17,78
-20260811_TOR_ATL,"Tuesday, August 11, 2026",Toronto Tempo,Atlanta Dream,TOR,,45,,36,,,,,,,,,,,0
-20260811_TOR_ATL,"Tuesday, August 11, 2026",Atlanta Dream,Toronto Tempo,ATL,,43,,31,,,,,,,,,,,0
-20260811_CHI_SEA,"Tuesday, August 11, 2026",Chicago Sky,Seattle Storm,CHI,,45,,33,,,,,,,,,,,0
-20260811_CHI_SEA,"Tuesday, August 11, 2026",Seattle Storm,Chicago Sky,SEA,,43,,32,,,,,,,,,,,0
+20260811_TOR_ATL,"Tuesday, August 11, 2026",Toronto Tempo,Atlanta Dream,TOR,35-67,52,10-26,38,15-21,71,5,20,25,20,7,4,13,22,95
+20260811_TOR_ATL,"Tuesday, August 11, 2026",Atlanta Dream,Toronto Tempo,ATL,36-70,51,14-32,44,21-30,70,12,27,39,29,7,3,12,20,107
+20260811_CHI_SEA,"Tuesday, August 11, 2026",Chicago Sky,Seattle Storm,CHI,30-72,42,6-20,30,22-28,79,13,22,35,18,9,3,15,22,88
+20260811_CHI_SEA,"Tuesday, August 11, 2026",Seattle Storm,Chicago Sky,SEA,32-71,45,8-21,38,25-28,89,9,27,36,22,9,4,14,20,97
+20260811_NY_IND,"Tuesday, August 11, 2026",New York Liberty,Indiana Fever,NY,,47,,35,,,,,,,,,,,0
+20260811_NY_IND,"Tuesday, August 11, 2026",Indiana Fever,New York Liberty,IND,,49,,39,,,,,,,,,,,0
+20260812_WSH_LV,"Wednesday, August 12, 2026",Washington Mystics,Las Vegas Aces,WSH,,44,,30,,,,,,,,,,,0
+20260812_WSH_LV,"Wednesday, August 12, 2026",Las Vegas Aces,Washington Mystics,LV,,49,,36,,,,,,,,,,,0
+20260812_PHX_LA,"Wednesday, August 12, 2026",Phoenix Mercury,Los Angeles Sparks,PHX,,44,,32,,,,,,,,,,,0
+20260812_PHX_LA,"Wednesday, August 12, 2026",Los Angeles Sparks,Phoenix Mercury,LA,,47,,34,,,,,,,,,,,0
