@@ -493,9 +493,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260811_TOR_ATL,"Tuesday, August 11, 2026",Atlanta Dream,Toronto Tempo,ATL,36-70,51,14-32,44,21-30,70,12,27,39,29,7,3,12,20,107
 20260811_CHI_SEA,"Tuesday, August 11, 2026",Chicago Sky,Seattle Storm,CHI,30-72,42,6-20,30,22-28,79,13,22,35,18,9,3,15,22,88
 20260811_CHI_SEA,"Tuesday, August 11, 2026",Seattle Storm,Chicago Sky,SEA,32-71,45,8-21,38,25-28,89,9,27,36,22,9,4,14,20,97
-20260811_NY_IND,"Tuesday, August 11, 2026",New York Liberty,Indiana Fever,NY,,47,,35,,,,,,,,,,,0
-20260811_NY_IND,"Tuesday, August 11, 2026",Indiana Fever,New York Liberty,IND,,49,,39,,,,,,,,,,,0
-20260812_WSH_LV,"Wednesday, August 12, 2026",Washington Mystics,Las Vegas Aces,WSH,,44,,30,,,,,,,,,,,0
-20260812_WSH_LV,"Wednesday, August 12, 2026",Las Vegas Aces,Washington Mystics,LV,,49,,36,,,,,,,,,,,0
-20260812_PHX_LA,"Wednesday, August 12, 2026",Phoenix Mercury,Los Angeles Sparks,PHX,,44,,32,,,,,,,,,,,0
-20260812_PHX_LA,"Wednesday, August 12, 2026",Los Angeles Sparks,Phoenix Mercury,LA,,47,,34,,,,,,,,,,,0
+20260811_NY_IND,"Tuesday, August 11, 2026",New York Liberty,Indiana Fever,NY,35-76,46,11-36,31,11-13,85,13,26,39,23,7,5,13,18,92
+20260811_NY_IND,"Tuesday, August 11, 2026",Indiana Fever,New York Liberty,IND,37-69,54,16-25,64,16-19,84,4,23,27,22,7,4,11,17,106
+20260812_WSH_LV,"Wednesday, August 12, 2026",Washington Mystics,Las Vegas Aces,WSH,29-68,43,5-18,28,13-18,72,14,27,41,20,5,2,16,17,76
+20260812_WSH_LV,"Wednesday, August 12, 2026",Las Vegas Aces,Washington Mystics,LV,32-70,46,9-23,39,13-14,93,9,21,30,20,9,5,8,15,86
+20260812_PHX_LA,"Wednesday, August 12, 2026",Phoenix Mercury,Los Angeles Sparks,PHX,31-60,52,9-25,36,23-30,77,7,29,36,22,12,5,23,23,94
+20260812_PHX_LA,"Wednesday, August 12, 2026",Los Angeles Sparks,Phoenix Mercury,LA,32-74,43,7-32,22,16-22,73,11,22,33,25,11,2,17,25,87
+20260813_TOR_DAL,"Thursday, August 13, 2026",Toronto Tempo,Dallas Wings,TOR,,45,,36,,,,,,,,,,,0
+20260813_TOR_DAL,"Thursday, August 13, 2026",Dallas Wings,Toronto Tempo,DAL,,46,,34,,,,,,,,,,,0
+20260813_CHI_GS,"Thursday, August 13, 2026",Chicago Sky,Golden State Valkyries,CHI,,45,,33,,,,,,,,,,,0
+20260813_CHI_GS,"Thursday, August 13, 2026",Golden State Valkyries,Chicago Sky,GS,,42,,35,,,,,,,,,,,0
+20260813_MIN_POR,"Thursday, August 13, 2026",Minnesota Lynx,Portland Fire,MIN,,48,,40,,,,,,,,,,,0
+20260813_MIN_POR,"Thursday, August 13, 2026",Portland Fire,Minnesota Lynx,POR,,45,,36,,,,,,,,,,,0
