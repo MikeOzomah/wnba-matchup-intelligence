@@ -6219,3 +6219,79 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Portland Fire,Minnesota Lynx,Teja Oblak,G,22,4-9,2-3,1-2,2.0,4.0,6.0,9.0,2.0,1.0,2.0,2.0,11.0,8.0,4.0,9.0,2.0,3.0,1.0,2.0,0.7777777777777778,2.25,4.5
 20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Portland Fire,Minnesota Lynx,Amy Okonkwo,F,,,,,,,,,,,,,,,,,,,,,,,
 20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Portland Fire,Minnesota Lynx,Carla Leite,G,,,,,,,,,,,,,,,,,,,,,,,
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Naz Hillmon,F,24,3-6,2-4,0-0,1.0,6.0,7.0,3.0,1.0,1.0,1.0,4.0,8.0,31.0,3.0,6.0,2.0,4.0,0.0,0.0,1.0,1.0,3.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Angel Reese,F,28,3-13,0-2,2-4,5.0,10.0,15.0,1.0,3.0,4.0,2.0,3.0,8.0,18.0,3.0,13.0,0.0,2.0,2.0,4.0,0.15384615384615385,0.3333333333333333,0.5
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Allisha Gray,G,28,8-13,4-5,9-10,1.0,2.0,3.0,3.0,0.0,0.0,2.0,3.0,29.0,28.0,8.0,13.0,4.0,5.0,9.0,10.0,1.6153846153846154,0.375,1.5
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Jordin Canada,G,27,3-9,1-3,2-2,0.0,2.0,2.0,4.0,1.0,0.0,2.0,1.0,9.0,39.0,3.0,9.0,1.0,3.0,2.0,2.0,0.5555555555555556,1.3333333333333333,2.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Rhyne Howard,G,29,7-10,5-8,10-11,0.0,5.0,5.0,4.0,3.0,1.0,0.0,1.0,29.0,31.0,7.0,10.0,5.0,8.0,10.0,11.0,2.5,0.5714285714285714,999.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Brionna Jones,F,5,0-1,0-0,0-0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,999.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Sika Kone,F,6,0-1,0-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,-1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Madina Okot,C,16,2-5,0-0,0-0,2.0,5.0,7.0,0.0,0.0,0.0,2.0,3.0,4.0,10.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Shatori Walker-Kimbrough,G,6,0-0,0-0,2-2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,-2.0,0.0,0.0,0.0,0.0,2.0,2.0,,,0.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Jaylyn Sherrod,G,12,1-3,0-0,2-2,0.0,2.0,2.0,2.0,0.0,1.0,0.0,4.0,4.0,-6.0,1.0,3.0,0.0,0.0,2.0,2.0,0.6666666666666666,2.0,999.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Aaliyah Nye,G,7,1-2,1-2,3-3,0.0,2.0,2.0,1.0,0.0,1.0,0.0,0.0,6.0,8.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,1.0,999.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Isobel Borlase,G,12,1-4,1-1,2-2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,5.0,7.0,1.0,4.0,1.0,1.0,2.0,2.0,1.25,0.0,0.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Te-Hina Paopao,G,,,,,,,,,,,,,,,,,,,,,,,
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Atlanta Dream,Connecticut Sun,Indya Nivar,G,,,,,,,,,,,,,,,,,,,,,,,
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Diamond Miller,F,10,0-3,0-1,1-2,0.0,1.0,1.0,2.0,1.0,0.0,0.0,4.0,1.0,-14.0,0.0,3.0,0.0,1.0,1.0,2.0,0.3333333333333333,,999.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Brittney Griner,C,19,3-9,1-1,0-0,3.0,5.0,8.0,0.0,0.0,2.0,1.0,2.0,7.0,-24.0,3.0,9.0,1.0,1.0,0.0,0.0,0.3333333333333333,0.0,0.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Olivia Nelson-Ododa,C,17,1-5,0-0,1-2,1.0,3.0,4.0,0.0,0.0,0.0,0.0,1.0,3.0,-20.0,1.0,5.0,0.0,0.0,1.0,2.0,0.2,0.0,0.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Charlisse Leger-Walker,G,18,3-6,2-4,0-0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,8.0,-23.0,3.0,6.0,2.0,4.0,0.0,0.0,1.0,0.3333333333333333,1.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Leila Lacan,G,20,2-3,2-2,0-0,0.0,1.0,1.0,4.0,0.0,3.0,4.0,1.0,6.0,-22.0,2.0,3.0,2.0,2.0,0.0,0.0,2.0,2.0,1.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Aaliyah Edwards,F,17,5-9,0-0,5-5,2.0,2.0,4.0,1.0,1.0,1.0,1.0,3.0,15.0,-15.0,5.0,9.0,0.0,0.0,5.0,5.0,0.5555555555555556,0.2,1.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Raegan Beers,F,9,0-2,0-0,0-0,1.0,4.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0,-6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Nell Angloma,F,18,1-5,0-2,4-4,4.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,6.0,-4.0,1.0,5.0,0.0,2.0,4.0,4.0,0.8,2.0,2.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Rayah Marshall,C,6,0-3,0-0,1-2,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,-8.0,0.0,3.0,0.0,0.0,1.0,2.0,0.3333333333333333,,0.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Kennedy Burke,G,18,1-5,1-2,4-4,0.0,3.0,3.0,0.0,1.0,1.0,1.0,2.0,7.0,-10.0,1.0,5.0,1.0,2.0,4.0,4.0,1.4,0.0,0.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Hailey Van Lith,G,14,0-5,0-2,2-2,0.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,-11.0,0.0,5.0,0.0,2.0,2.0,2.0,0.4,,999.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Saniya Rivers,G,20,1-8,0-2,1-4,0.0,1.0,1.0,2.0,2.0,0.0,0.0,3.0,3.0,-15.0,1.0,8.0,0.0,2.0,1.0,4.0,0.125,2.0,999.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Gianna Kneepkens,G,14,4-7,2-4,0-0,1.0,2.0,3.0,1.0,0.0,1.0,0.0,3.0,10.0,-3.0,4.0,7.0,2.0,4.0,0.0,0.0,0.8571428571428571,0.25,999.0
+20260813_ATL_CON,"Thursday, August 13, 2026",regular_season,Connecticut Sun,Atlanta Dream,Ashlon Jackson,G,,,,,,,,,,,,,,,,,,,,,,,
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Nneka Ogwumike,F,31,4-11,0-2,2-3,3.0,8.0,11.0,4.0,1.0,0.0,1.0,4.0,10.0,2.0,4.0,11.0,0.0,2.0,2.0,3.0,0.18181818181818182,1.0,4.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Dearica Hamby,F,30,7-11,0-0,2-5,2.0,2.0,4.0,3.0,1.0,0.0,0.0,3.0,16.0,-15.0,7.0,11.0,0.0,0.0,2.0,5.0,0.18181818181818182,0.42857142857142855,999.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Erica Wheeler,G,29,3-8,0-4,0-0,0.0,4.0,4.0,6.0,0.0,0.0,4.0,3.0,6.0,6.0,3.0,8.0,0.0,4.0,0.0,0.0,0.0,2.0,1.5
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Ariel Atkins,G,28,1-5,1-3,0-0,2.0,2.0,4.0,2.0,3.0,1.0,2.0,5.0,3.0,-20.0,1.0,5.0,1.0,3.0,0.0,0.0,0.6,2.0,1.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Rae Burrell,G,33,10-19,5-10,3-5,1.0,2.0,3.0,3.0,1.0,1.0,4.0,0.0,28.0,9.0,10.0,19.0,5.0,10.0,3.0,5.0,0.9473684210526315,0.3,0.75
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Cameron Brink,F,19,4-6,1-3,0-0,1.0,6.0,7.0,2.0,1.0,3.0,2.0,3.0,9.0,5.0,4.0,6.0,1.0,3.0,0.0,0.0,0.5,0.5,1.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Jihyun Park,F,10,1-2,1-2,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,3.0,13.0,1.0,2.0,1.0,2.0,0.0,0.0,1.5,1.0,999.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Kiana Williams,G,8,0-2,0-2,0-0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,-7.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,,0.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Chance Gray,G,12,2-4,2-4,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,6.0,-13.0,2.0,4.0,2.0,4.0,0.0,0.0,1.5,0.5,999.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Emma Cannon,F,,,,,,,,,,,,,,,,,,,,,,,
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Alissa Pili,F,,,,,,,,,,,,,,,,,,,,,,,
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Kate Martin,G,,,,,,,,,,,,,,,,,,,,,,,
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Tonie Morgan,G,,,,,,,,,,,,,,,,,,,,,,,
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,Los Angeles Sparks,New York Liberty,Monique Akoa Makani,G,,,,,,,,,,,,,,,,,,,,,,,
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Breanna Stewart,F,31,5-13,0-3,1-2,1.0,5.0,6.0,5.0,2.0,0.0,2.0,2.0,11.0,-9.0,5.0,13.0,0.0,3.0,1.0,2.0,0.07692307692307693,1.0,2.5
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Jonquel Jones,C,33,5-10,0-1,1-2,6.0,12.0,18.0,4.0,1.0,1.0,1.0,1.0,11.0,14.0,5.0,10.0,0.0,1.0,1.0,2.0,0.1,0.8,4.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Rebecca Allen,G,26,5-10,3-5,0-0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,3.0,13.0,2.0,5.0,10.0,3.0,5.0,0.0,0.0,0.9,0.2,999.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Sabrina Ionescu,G,33,6-17,1-9,7-9,1.0,2.0,3.0,4.0,2.0,0.0,4.0,3.0,20.0,-1.0,6.0,17.0,1.0,9.0,7.0,9.0,0.5882352941176471,0.6666666666666666,1.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Pauline Astier,G,17,3-5,0-1,1-1,0.0,2.0,2.0,5.0,2.0,0.0,2.0,5.0,7.0,8.0,3.0,5.0,0.0,1.0,1.0,1.0,0.2,1.6666666666666667,2.5
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Han Xu,C,16,3-8,1-2,2-2,2.0,2.0,4.0,0.0,0.0,0.0,0.0,1.0,9.0,3.0,3.0,8.0,1.0,2.0,2.0,2.0,0.625,0.0,0.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Rebekah Gardner,G,13,2-6,0-1,0-0,2.0,1.0,3.0,2.0,1.0,0.0,0.0,1.0,4.0,-1.0,2.0,6.0,0.0,1.0,0.0,0.0,0.0,1.0,999.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Marine Johannes,G,22,3-8,2-5,2-2,1.0,1.0,2.0,1.0,2.0,0.0,0.0,1.0,10.0,9.0,3.0,8.0,2.0,5.0,2.0,2.0,1.0,0.3333333333333333,999.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Marine Fauthoux,G,10,0-0,0-0,0-0,1.0,1.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,-5.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Satou Sabally,F,,,,,,,,,,,,,,,,,,,,,,,
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Leonie Fiebich,F,,,,,,,,,,,,,,,,,,,,,,,
+20260814_LA_NY,"Friday, August 14, 2026",regular_season,New York Liberty,Los Angeles Sparks,Raquel Carrera,F,,,,,,,,,,,,,,,,,,,,,,,
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Michaela Onyenwere,F,23,2-6,1-3,0-0,1.0,4.0,5.0,3.0,1.0,0.0,0.0,4.0,5.0,-9.0,2.0,6.0,1.0,3.0,0.0,0.0,0.5,1.5,999.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Kiki Iriafen,F,27,2-5,0-0,1-4,2.0,5.0,7.0,0.0,1.0,0.0,3.0,5.0,5.0,-8.0,2.0,5.0,0.0,0.0,1.0,4.0,0.2,0.0,0.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Shakira Austin,C,30,12-20,1-2,4-5,2.0,6.0,8.0,0.0,1.0,1.0,4.0,4.0,29.0,-4.0,12.0,20.0,1.0,2.0,4.0,5.0,0.35,0.0,0.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Sonia Citron,G,34,8-14,1-4,0-0,0.0,3.0,3.0,8.0,1.0,0.0,3.0,4.0,17.0,-2.0,8.0,14.0,1.0,4.0,0.0,0.0,0.21428571428571427,1.0,2.667
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Georgia Amoore,G,26,1-7,1-4,0-0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,2.0,3.0,-3.0,1.0,7.0,1.0,4.0,0.0,0.0,0.42857142857142855,1.0,0.5
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Angela Dugalic,F,4,0-0,0-0,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Lauren Betts,C,19,2-3,0-0,0-1,2.0,4.0,6.0,1.0,1.0,0.0,2.0,1.0,4.0,1.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,0.5,0.5
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Betnijah Laney-Hamilton,G,16,1-3,1-1,0-0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,3.0,4.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,2.0,999.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Cotie McMahon,G,15,1-1,0-0,3-6,0.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,5.0,-3.0,1.0,1.0,0.0,0.0,3.0,6.0,3.0,1.0,1.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Cassandre Prosper,G,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Alicia Florez,G,4,2-2,1-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,-6.0,2.0,2.0,1.0,1.0,0.0,0.0,1.5,0.0,0.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Washington Mystics,Las Vegas Aces,Lucy Olsen,G,,,,,,,,,,,,,,,,,,,,,,,
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Stephanie Talbot,F,16,2-2,1-1,0-0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,1.0,5.0,15.0,2.0,2.0,1.0,1.0,0.0,0.0,1.5,0.0,0.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,NaLyssa Smith,F,29,2-3,0-0,2-2,3.0,5.0,8.0,0.0,1.0,0.0,1.0,3.0,6.0,13.0,2.0,3.0,0.0,0.0,2.0,2.0,0.6666666666666666,0.0,0.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,A'ja Wilson,C,35,5-14,1-4,4-5,0.0,6.0,6.0,4.0,0.0,2.0,3.0,3.0,15.0,8.0,5.0,14.0,1.0,4.0,4.0,5.0,0.5,0.8,1.333
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Chelsea Gray,G,29,1-10,0-3,2-2,1.0,3.0,4.0,5.0,1.0,0.0,2.0,4.0,4.0,-3.0,1.0,10.0,0.0,3.0,2.0,2.0,0.2,5.0,2.5
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Jackie Young,G,35,10-14,5-8,7-8,0.0,2.0,2.0,5.0,0.0,0.0,1.0,1.0,32.0,15.0,10.0,14.0,5.0,8.0,7.0,8.0,1.5714285714285714,0.5,5.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Brianna Turner,F,17,1-1,0-0,0-0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,3.0,2.0,-7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.333
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Jewell Loyd,G,24,3-9,3-7,4-4,0.0,2.0,2.0,3.0,1.0,1.0,2.0,5.0,13.0,0.0,3.0,9.0,3.0,7.0,4.0,4.0,1.4444444444444444,1.0,1.5
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Ta'Niya Latson,G,3,0-2,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Mai Yamamoto,G,13,0-4,0-1,6-6,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,6.0,-1.0,0.0,4.0,0.0,1.0,6.0,6.0,1.5,,999.0
+20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Justine Pissott,G,,,,,,,,,,,,,,,,,,,,,,,
