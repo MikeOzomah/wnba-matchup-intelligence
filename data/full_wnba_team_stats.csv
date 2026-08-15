@@ -511,7 +511,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260814_LA_NY,"Friday, August 14, 2026",New York Liberty,Los Angeles Sparks,NY,32-77,42,7-27,26,14-18,78,14,27,41,22,12,1,11,18,85
 20260814_WSH_LV,"Friday, August 14, 2026",Washington Mystics,Las Vegas Aces,WSH,31-61,51,6-15,40,8-16,50,7,28,35,16,5,1,15,21,76
 20260814_WSH_LV,"Friday, August 14, 2026",Las Vegas Aces,Washington Mystics,LV,24-59,41,10-25,40,25-27,93,4,23,27,19,3,4,12,21,83
-20260814_DAL_IND,"Friday, August 14, 2026",Dallas Wings,Indiana Fever,DAL,,46,,34,,,,,,,,,,,0
-20260814_DAL_IND,"Friday, August 14, 2026",Indiana Fever,Dallas Wings,IND,,49,,39,,,,,,,,,,,0
-20260815_POR_SEA,"Saturday, August 15, 2026",Portland Fire,Seattle Storm,POR,,45,,35,,,,,,,,,,,0
-20260815_POR_SEA,"Saturday, August 15, 2026",Seattle Storm,Portland Fire,SEA,,43,,33,,,,,,,,,,,0
+20260814_DAL_IND,"Friday, August 14, 2026",Dallas Wings,Indiana Fever,DAL,31-72,43,7-29,24,18-20,90,11,20,31,18,3,6,10,19,87
+20260814_DAL_IND,"Friday, August 14, 2026",Indiana Fever,Dallas Wings,IND,39-74,53,9-24,38,11-13,85,9,25,34,14,4,2,9,21,98
+20260815_POR_SEA,"Saturday, August 15, 2026",Portland Fire,Seattle Storm,POR,31-72,43,12-37,32,10-17,59,11,32,43,22,8,4,14,18,84
+20260815_POR_SEA,"Saturday, August 15, 2026",Seattle Storm,Portland Fire,SEA,27-81,33,14-39,36,14-17,82,14,31,45,18,5,4,11,17,82
+20260815_NY_CON,"Saturday, August 15, 2026",New York Liberty,Connecticut Sun,NY,,46,,35,,,,,,,,,,,0
+20260815_NY_CON,"Saturday, August 15, 2026",Connecticut Sun,New York Liberty,CON,,43,,30,,,,,,,,,,,0
+20260815_LA_WSH,"Saturday, August 15, 2026",Los Angeles Sparks,Washington Mystics,LA,,47,,33,,,,,,,,,,,0
+20260815_LA_WSH,"Saturday, August 15, 2026",Washington Mystics,Los Angeles Sparks,WSH,,44,,30,,,,,,,,,,,0
+20260816_MIN_LV,"Sunday, August 16, 2026",Minnesota Lynx,Las Vegas Aces,MIN,,48,,39,,,,,,,,,,,0
+20260816_MIN_LV,"Sunday, August 16, 2026",Las Vegas Aces,Minnesota Lynx,LV,,48,,36,,,,,,,,,,,0

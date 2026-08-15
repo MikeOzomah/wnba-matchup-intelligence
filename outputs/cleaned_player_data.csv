@@ -6295,3 +6295,52 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Ta'Niya Latson,G,3,0-2,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-5.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,,0.0
 20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Mai Yamamoto,G,13,0-4,0-1,6-6,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,6.0,-1.0,0.0,4.0,0.0,1.0,6.0,6.0,1.5,,999.0
 20260814_WSH_LV,"Friday, August 14, 2026",regular_season,Las Vegas Aces,Washington Mystics,Justine Pissott,G,,,,,,,,,,,,,,,,,,,,,,,
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Alanna Smith,F,35,4-11,0-4,0-0,2.0,5.0,7.0,2.0,1.0,1.0,2.0,3.0,8.0,-5.0,4.0,11.0,0.0,4.0,0.0,0.0,0.0,0.5,1.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Awak Kuier,F,28,2-6,1-4,3-4,1.0,5.0,6.0,4.0,0.0,3.0,2.0,3.0,8.0,-1.0,2.0,6.0,1.0,4.0,3.0,4.0,1.0,2.0,2.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Odyssey Sims,G,23,3-7,3-6,2-2,1.0,1.0,2.0,2.0,0.0,0.0,2.0,2.0,11.0,9.0,3.0,7.0,3.0,6.0,2.0,2.0,1.5714285714285714,0.6666666666666666,1.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Arike Ogunbowale,G,30,7-16,0-5,6-7,3.0,3.0,6.0,1.0,0.0,0.0,2.0,4.0,20.0,-13.0,7.0,16.0,0.0,5.0,6.0,7.0,0.375,0.14285714285714285,0.5
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Paige Bueckers,G,37,11-21,2-6,5-5,2.0,4.0,6.0,6.0,2.0,0.0,2.0,2.0,29.0,-7.0,11.0,21.0,2.0,6.0,5.0,5.0,0.5238095238095238,0.5454545454545454,3.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Alysha Clark,F,25,1-3,0-2,2-2,1.0,1.0,2.0,1.0,0.0,1.0,0.0,4.0,4.0,-15.0,1.0,3.0,0.0,2.0,2.0,2.0,0.6666666666666666,1.0,999.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Maddy Siegrist,F,13,2-5,1-2,0-0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,1.0,5.0,-10.0,2.0,5.0,1.0,2.0,0.0,0.0,0.6,1.0,999.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Li Yueru,C,4,0-2,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Sug Sutton,G,5,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-6.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Haley Jones,G,1,1-1,0-0,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Jessica Shepard,F,,,,,,,,,,,,,,,,,,,,,,,
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Azzi Fudd,G,,,,,,,,,,,,,,,,,,,,,,,
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Dallas Wings,Indiana Fever,Aziaha James,G,,,,,,,,,,,,,,,,,,,,,,,
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Makayla Timpson,F,24,3-7,0-0,0-0,1.0,3.0,4.0,1.0,1.0,0.0,3.0,2.0,6.0,5.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.333
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Aliyah Boston,C,29,7-13,0-1,2-2,5.0,5.0,10.0,1.0,1.0,1.0,3.0,4.0,16.0,14.0,7.0,13.0,0.0,1.0,2.0,2.0,0.15384615384615385,0.14285714285714285,0.333
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Kelsey Mitchell,G,36,9-21,1-7,4-5,1.0,1.0,2.0,2.0,0.0,0.0,1.0,1.0,23.0,7.0,9.0,21.0,1.0,7.0,4.0,5.0,0.3333333333333333,0.2222222222222222,2.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Lexie Hull,G,12,0-2,0-0,0-0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Caitlin Clark,G,34,11-18,2-8,5-6,0.0,3.0,3.0,10.0,1.0,0.0,1.0,5.0,29.0,2.0,11.0,18.0,2.0,8.0,5.0,6.0,0.6111111111111112,0.9090909090909091,10.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Myisha Hines-Allen,F,12,1-1,0-0,0-0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,2.0,2.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Monique Billings,F,14,1-1,0-0,0-0,1.0,6.0,7.0,0.0,0.0,0.0,1.0,0.0,2.0,-2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Grace VanSlooten,F,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Sophie Cunningham,G,20,2-5,1-3,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,5.0,3.0,2.0,5.0,1.0,3.0,0.0,0.0,0.6,0.0,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Tyasha Harris,G,17,5-5,5-5,0-0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,1.0,15.0,20.0,5.0,5.0,5.0,5.0,0.0,0.0,3.0,0.0,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Raven Johnson,G,1,0-1,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260814_DAL_IND,"Friday, August 14, 2026",regular_season,Indiana Fever,Dallas Wings,Mercedes Russell,C,,,,,,,,,,,,,,,,,,,,,,,
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Bridget Carleton,F,29,5-13,4-10,0-0,2.0,7.0,9.0,2.0,0.0,0.0,0.0,3.0,14.0,-7.0,5.0,13.0,4.0,10.0,0.0,0.0,0.9230769230769231,0.4,999.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Emily Engstler,F,27,4-12,0-4,1-1,0.0,5.0,5.0,2.0,0.0,1.0,0.0,0.0,9.0,10.0,4.0,12.0,0.0,4.0,1.0,1.0,0.08333333333333333,0.5,999.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Nyadiew Puoch,F,15,1-4,0-2,0-0,1.0,2.0,3.0,1.0,2.0,0.0,0.0,4.0,2.0,-13.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,1.0,999.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Megan DiLeo,C,28,4-8,2-5,4-7,5.0,4.0,9.0,1.0,0.0,0.0,4.0,3.0,14.0,4.0,4.0,8.0,2.0,5.0,4.0,7.0,1.25,0.25,0.25
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Carla Leite,G,27,5-7,2-3,2-4,0.0,3.0,3.0,6.0,1.0,1.0,5.0,2.0,14.0,1.0,5.0,7.0,2.0,3.0,2.0,4.0,1.1428571428571428,1.2,1.2
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Frieda Buhner,F,13,3-5,2-2,0-0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,8.0,-8.0,3.0,5.0,2.0,2.0,0.0,0.0,1.2,0.0,0.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Serah Williams,C,12,0-1,0-0,0-2,0.0,2.0,2.0,1.0,0.0,2.0,0.0,1.0,0.0,-2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,,999.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Karlie Samuelson,G,15,1-4,1-4,0-0,0.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,3.0,1.0,1.0,4.0,1.0,4.0,0.0,0.0,0.75,1.0,999.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Holly Winterburn,G,21,8-14,1-5,3-3,2.0,5.0,7.0,5.0,3.0,0.0,2.0,2.0,20.0,23.0,8.0,14.0,1.0,5.0,3.0,3.0,0.42857142857142855,0.625,2.5
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Teja Oblak,G,13,0-4,0-2,0-0,0.0,1.0,1.0,3.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,4.0,0.0,2.0,0.0,0.0,0.0,,1.5
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Amy Okonkwo,F,,,,,,,,,,,,,,,,,,,,,,,
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Jordan Harrison,G,,,,,,,,,,,,,,,,,,,,,,,
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Ezi Magbegor,F,27,4-12,2-4,3-3,0.0,8.0,8.0,3.0,1.0,1.0,0.0,5.0,13.0,16.0,4.0,12.0,2.0,4.0,3.0,3.0,0.75,0.75,999.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Jordan Horston,F,25,4-13,3-9,1-2,4.0,7.0,11.0,2.0,1.0,0.0,0.0,1.0,12.0,9.0,4.0,13.0,3.0,9.0,1.0,2.0,0.7692307692307693,0.5,999.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Dominique Malonga,C,23,3-15,0-3,3-4,5.0,7.0,12.0,5.0,0.0,2.0,1.0,2.0,9.0,-12.0,3.0,15.0,0.0,3.0,3.0,4.0,0.2,1.6666666666666667,5.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Natisha Hiedeman,G,32,3-9,1-3,2-3,1.0,2.0,3.0,5.0,1.0,0.0,2.0,1.0,9.0,12.0,3.0,9.0,1.0,3.0,2.0,3.0,0.5555555555555556,1.6666666666666667,2.5
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Jade Melbourne,G,34,4-12,3-5,1-1,0.0,1.0,1.0,2.0,1.0,1.0,3.0,4.0,12.0,1.0,4.0,12.0,3.0,5.0,1.0,1.0,0.8333333333333334,0.5,0.667
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Katie Lou Samuelson,F,12,1-3,1-3,0-0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,-16.0,1.0,3.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Taylor Thierry,F,2,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Stefanie Dolson,C,9,0-1,0-1,0-0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,-12.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,1.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Awa Fam,C,22,7-12,4-8,2-2,3.0,6.0,9.0,0.0,1.0,0.0,1.0,1.0,20.0,4.0,7.0,12.0,4.0,8.0,2.0,2.0,1.1666666666666667,0.0,0.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Zia Cooke,G,14,1-3,0-2,2-2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,-14.0,1.0,3.0,0.0,2.0,2.0,2.0,0.6666666666666666,0.0,0.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Mackenzie Holmes,F,,,,,,,,,,,,,,,,,,,,,,,
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Seattle Storm,Portland Fire,Flau'jae Johnson,G,,,,,,,,,,,,,,,,,,,,,,,
