@@ -521,9 +521,11 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260815_LA_WSH,"Saturday, August 15, 2026",Washington Mystics,Los Angeles Sparks,WSH,34-72,47,4-21,19,8-12,67,11,32,43,23,10,4,12,17,80
 20260816_MIN_LV,"Sunday, August 16, 2026",Minnesota Lynx,Las Vegas Aces,MIN,32-64,50,11-26,42,17-18,94,7,25,32,14,9,1,15,22,92
 20260816_MIN_LV,"Sunday, August 16, 2026",Las Vegas Aces,Minnesota Lynx,LV,31-69,45,9-28,32,16-18,89,12,17,29,20,7,2,13,14,87
-20260816_CHI_SEA,"Sunday, August 16, 2026",Chicago Sky,Seattle Storm,CHI,,45,,32,,,,,,,,,,,0
-20260816_CHI_SEA,"Sunday, August 16, 2026",Seattle Storm,Chicago Sky,SEA,,43,,33,,,,,,,,,,,0
-20260816_IND_ATL,"Sunday, August 16, 2026",Indiana Fever,Atlanta Dream,IND,,49,,39,,,,,,,,,,,0
-20260816_IND_ATL,"Sunday, August 16, 2026",Atlanta Dream,Indiana Fever,ATL,,44,,32,,,,,,,,,,,0
-20260816_POR_PHX,"Sunday, August 16, 2026",Portland Fire,Phoenix Mercury,POR,,45,,35,,,,,,,,,,,0
-20260816_POR_PHX,"Sunday, August 16, 2026",Phoenix Mercury,Portland Fire,PHX,,44,,32,,,,,,,,,,,0
+20260816_CHI_SEA,"Sunday, August 16, 2026",Chicago Sky,Seattle Storm,CHI,27-75,36,6-23,26,22-27,81,12,35,47,17,11,7,17,24,82
+20260816_CHI_SEA,"Sunday, August 16, 2026",Seattle Storm,Chicago Sky,SEA,29-72,40,6-24,25,16-20,80,5,29,34,21,7,13,18,17,80
+20260816_IND_ATL,"Sunday, August 16, 2026",Indiana Fever,Atlanta Dream,IND,36-81,44,6-24,25,17-23,74,10,30,40,18,8,6,9,19,95
+20260816_IND_ATL,"Sunday, August 16, 2026",Atlanta Dream,Indiana Fever,ATL,29-82,35,8-32,25,25-26,96,11,29,40,21,2,4,14,24,91
+20260816_POR_PHX,"Sunday, August 16, 2026",Portland Fire,Phoenix Mercury,POR,32-71,45,10-37,27,14-21,67,10,26,36,15,6,4,11,23,88
+20260816_POR_PHX,"Sunday, August 16, 2026",Phoenix Mercury,Portland Fire,PHX,28-67,42,9-27,33,20-25,80,7,29,36,18,5,1,12,20,85
+20260818_DAL_GS,"Tuesday, August 18, 2026",Dallas Wings,Golden State Valkyries,DAL,,46,,34,,,,,,,,,,,0
+20260818_DAL_GS,"Tuesday, August 18, 2026",Golden State Valkyries,Dallas Wings,GS,,43,,35,,,,,,,,,,,0
