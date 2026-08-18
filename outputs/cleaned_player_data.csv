@@ -6325,9 +6325,9 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Nyadiew Puoch,F,15,1-4,0-2,0-0,1.0,2.0,3.0,1.0,2.0,0.0,0.0,4.0,2.0,-13.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,1.0,999.0
 20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Megan DiLeo,C,28,4-8,2-5,4-7,5.0,4.0,9.0,1.0,0.0,0.0,4.0,3.0,14.0,4.0,4.0,8.0,2.0,5.0,4.0,7.0,1.25,0.25,0.25
 20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Carla Leite,G,27,5-7,2-3,2-4,0.0,3.0,3.0,6.0,1.0,1.0,5.0,2.0,14.0,1.0,5.0,7.0,2.0,3.0,2.0,4.0,1.1428571428571428,1.2,1.2
-20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Frieda Buhner,F,13,3-5,2-3,0-0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,8.0,-8.0,3.0,5.0,2.0,3.0,0.0,0.0,1.2,0.0,0.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Frieda Buhner,F,13,3-6,2-3,0-0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,8.0,-8.0,3.0,6.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0
 20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Serah Williams,C,12,0-1,0-0,0-2,0.0,2.0,2.0,1.0,0.0,2.0,0.0,1.0,0.0,-2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,,999.0
-20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Karlie Samuelson,G,15,1-4,1-3,0-0,0.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,3.0,1.0,1.0,4.0,1.0,3.0,0.0,0.0,0.75,1.0,999.0
+20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Karlie Samuelson,G,15,1-3,1-3,0-0,0.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,3.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,1.0,1.0,999.0
 20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Holly Winterburn,G,21,8-14,1-5,3-3,2.0,5.0,7.0,5.0,3.0,0.0,2.0,2.0,20.0,23.0,8.0,14.0,1.0,5.0,3.0,3.0,0.42857142857142855,0.625,2.5
 20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Teja Oblak,G,13,0-4,0-2,0-0,0.0,1.0,1.0,3.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,4.0,0.0,2.0,0.0,0.0,0.0,,1.5
 20260815_POR_SEA,"Saturday, August 15, 2026",regular_season,Portland Fire,Seattle Storm,Amy Okonkwo,F,,,,,,,,,,,,,,,,,,,,,,,
@@ -6493,3 +6493,28 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260816_POR_PHX,"Sunday, August 16, 2026",regular_season,Phoenix Mercury,Portland Fire,Lexi Held,G,14,1-2,1-1,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,3.0,-7.0,1.0,2.0,1.0,1.0,0.0,0.0,1.5,1.0,999.0
 20260816_POR_PHX,"Sunday, August 16, 2026",regular_season,Phoenix Mercury,Portland Fire,Kyara Linskens,C,,,,,,,,,,,,,,,,,,,,,,,
 20260816_POR_PHX,"Sunday, August 16, 2026",regular_season,Phoenix Mercury,Portland Fire,Kelsey Plum,G,,,,,,,,,,,,,,,,,,,,,,,
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Alysha Clark,F,21,1-2,1-1,0-0,0.0,4.0,4.0,2.0,0.0,0.0,3.0,2.0,3.0,-7.0,1.0,2.0,1.0,1.0,0.0,0.0,1.5,2.0,0.667
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Jessica Shepard,F,26,1-4,0-0,2-4,0.0,7.0,7.0,2.0,1.0,0.0,1.0,1.0,4.0,-9.0,1.0,4.0,0.0,0.0,2.0,4.0,0.5,2.0,2.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Alanna Smith,F,30,6-9,1-3,0-0,0.0,5.0,5.0,2.0,2.0,0.0,2.0,1.0,13.0,3.0,6.0,9.0,1.0,3.0,0.0,0.0,0.3333333333333333,0.3333333333333333,1.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Arike Ogunbowale,G,37,5-13,1-7,6-6,0.0,4.0,4.0,3.0,2.0,0.0,1.0,3.0,17.0,-8.0,5.0,13.0,1.0,7.0,6.0,6.0,0.6923076923076923,0.6,3.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Paige Bueckers,G,33,8-18,1-5,4-4,1.0,1.0,2.0,3.0,1.0,0.0,7.0,4.0,21.0,-10.0,8.0,18.0,1.0,5.0,4.0,4.0,0.3888888888888889,0.375,0.429
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Maddy Siegrist,F,16,3-5,1-2,0-0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,3.0,7.0,2.0,3.0,5.0,1.0,2.0,0.0,0.0,0.6,0.0,0.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Awak Kuier,F,20,1-3,0-2,1-1,2.0,5.0,7.0,0.0,1.0,3.0,0.0,2.0,3.0,-3.0,1.0,3.0,0.0,2.0,1.0,1.0,0.3333333333333333,0.0,0.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Odyssey Sims,G,12,0-3,0-2,0-0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,-7.0,0.0,3.0,0.0,2.0,0.0,0.0,0.0,,999.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Sug Sutton,G,5,1-1,0-0,0-0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,2.0,-1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Costanza Verona,G,--,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Li Yueru,C,,,,,,,,,,,,,,,,,,,,,,,
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Dallas Wings,Golden State Valkyries,Haley Jones,G,,,,,,,,,,,,,,,,,,,,,,,
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Kayla Thornton,F,33,2-8,1-5,2-2,2.0,1.0,3.0,1.0,0.0,0.0,0.0,3.0,7.0,10.0,2.0,8.0,1.0,5.0,2.0,2.0,0.625,0.5,999.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Gabby Williams,F,32,8-20,3-8,4-4,0.0,7.0,7.0,3.0,4.0,0.0,5.0,1.0,23.0,2.0,8.0,20.0,3.0,8.0,4.0,4.0,0.65,0.375,0.6
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Cecilia Zandalasini,F,15,2-6,1-4,0-0,0.0,2.0,2.0,4.0,0.0,0.0,1.0,0.0,5.0,4.0,2.0,6.0,1.0,4.0,0.0,0.0,0.5,2.0,4.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Kiah Stokes,C,24,0-1,0-0,0-0,1.0,4.0,5.0,0.0,0.0,1.0,0.0,1.0,0.0,-9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Veronica Burton,G,32,5-11,3-6,3-4,2.0,2.0,4.0,5.0,2.0,0.0,1.0,2.0,16.0,2.0,5.0,11.0,3.0,6.0,3.0,4.0,1.0909090909090908,1.0,5.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Laeticia Amihere,F,3,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Janelle Salaun,F,19,3-10,2-6,2-2,1.0,2.0,3.0,2.0,0.0,0.0,1.0,1.0,10.0,11.0,3.0,10.0,2.0,6.0,2.0,2.0,0.8,0.6666666666666666,2.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Iliana Rupert,C,--,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Tiffany Hayes,G,20,4-11,2-5,0-0,2.0,2.0,4.0,1.0,1.0,0.0,1.0,5.0,10.0,7.0,4.0,11.0,2.0,5.0,0.0,0.0,0.5454545454545454,0.25,1.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Kaila Charles,G,14,2-3,0-1,1-2,2.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,5.0,6.0,2.0,3.0,0.0,1.0,1.0,2.0,0.3333333333333333,0.0,0.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Kaitlyn Chen,G,8,1-2,0-1,0-0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,2.0,8.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Nadia Fingall,C,,,,,,,,,,,,,,,,,,,,,,,
+20260818_DAL_GS,"Tuesday, August 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Juste Jocyte,G,,,,,,,,,,,,,,,,,,,,,,,
