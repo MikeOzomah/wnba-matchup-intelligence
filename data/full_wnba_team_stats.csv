@@ -537,7 +537,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260819_NY_CHI,"Wednesday, August 19, 2026",Chicago Sky,New York Liberty,CHI,35-79,44,7-28,25,16-22,73,14,30,44,24,8,2,13,15,93
 20260819_ATL_LV,"Wednesday, August 19, 2026",Atlanta Dream,Las Vegas Aces,ATL,32-71,45,8-23,35,25-27,93,4,28,32,18,15,3,11,22,97
 20260819_ATL_LV,"Wednesday, August 19, 2026",Las Vegas Aces,Atlanta Dream,LV,25-63,40,10-28,36,22-25,88,7,26,33,15,4,12,17,22,82
-20260819_TOR_WSH,"Wednesday, August 19, 2026",Toronto Tempo,Washington Mystics,TOR,,45,,35,,,,,,,,,,,0
-20260819_TOR_WSH,"Wednesday, August 19, 2026",Washington Mystics,Toronto Tempo,WSH,,44,,30,,,,,,,,,,,0
-20260820_MIN_GS,"Thursday, August 20, 2026",Minnesota Lynx,Golden State Valkyries,MIN,,48,,39,,,,,,,,,,,0
-20260820_MIN_GS,"Thursday, August 20, 2026",Golden State Valkyries,Minnesota Lynx,GS,,43,,35,,,,,,,,,,,0
+20260819_TOR_WSH,"Wednesday, August 19, 2026",Toronto Tempo,Washington Mystics,TOR,28-65,43,11-27,41,15-23,65,7,20,27,18,5,3,8,25,82
+20260819_TOR_WSH,"Wednesday, August 19, 2026",Washington Mystics,Toronto Tempo,WSH,30-66,45,9-27,33,24-28,86,14,29,43,23,5,4,16,16,93
+20260820_MIN_GS,"Thursday, August 20, 2026",Minnesota Lynx,Golden State Valkyries,MIN,28-56,50,7-19,37,14-16,88,5,25,30,20,3,4,14,17,77
+20260820_MIN_GS,"Thursday, August 20, 2026",Golden State Valkyries,Minnesota Lynx,GS,25-77,32,7-37,19,9-11,82,13,20,33,18,8,2,9,19,66
+20260821_IND_DAL,"Friday, August 21, 2026",Indiana Fever,Dallas Wings,IND,,49,,39,,,,,,,,,,,0
+20260821_IND_DAL,"Friday, August 21, 2026",Dallas Wings,Indiana Fever,DAL,,46,,33,,,,,,,,,,,0
+20260821_CON_LV,"Friday, August 21, 2026",Connecticut Sun,Las Vegas Aces,CON,,43,,30,,,,,,,,,,,0
+20260821_CON_LV,"Friday, August 21, 2026",Las Vegas Aces,Connecticut Sun,LV,,48,,36,,,,,,,,,,,0
+20260821_ATL_LA,"Friday, August 21, 2026",Atlanta Dream,Los Angeles Sparks,ATL,,43,,32,,,,,,,,,,,0
+20260821_ATL_LA,"Friday, August 21, 2026",Los Angeles Sparks,Atlanta Dream,LA,,46,,33,,,,,,,,,,,0
