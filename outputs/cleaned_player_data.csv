@@ -6738,3 +6738,78 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260821_ATL_LA,"Friday, August 21, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Tonie Morgan,G,17,4-5,0-0,0-1,0.0,1.0,1.0,3.0,2.0,0.0,2.0,3.0,8.0,-19.0,4.0,5.0,0.0,0.0,0.0,1.0,0.0,0.75,1.5
 20260821_ATL_LA,"Friday, August 21, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Chance Gray,G,13,3-4,2-3,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,-12.0,3.0,4.0,2.0,3.0,0.0,0.0,1.5,0.0,0.0
 20260821_ATL_LA,"Friday, August 21, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Monique Akoa Makani,G,15,1-2,0-1,1-2,0.0,0.0,0.0,2.0,0.0,0.0,2.0,5.0,3.0,-21.0,1.0,2.0,0.0,1.0,1.0,2.0,0.5,2.0,1.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Natasha Howard,F,33,10-12,0-0,1-2,2.0,5.0,7.0,5.0,1.0,3.0,0.0,4.0,21.0,16.0,10.0,12.0,0.0,0.0,1.0,2.0,0.08333333333333333,0.5,999.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Nia Coffey,F,30,3-6,2-4,0-0,0.0,2.0,2.0,1.0,3.0,1.0,0.0,2.0,8.0,12.0,3.0,6.0,2.0,4.0,0.0,0.0,1.0,0.3333333333333333,999.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Kayla McBride,G,35,6-12,4-8,2-2,1.0,0.0,1.0,3.0,0.0,0.0,1.0,2.0,18.0,14.0,6.0,12.0,4.0,8.0,2.0,2.0,1.1666666666666667,0.5,3.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Courtney Williams,G,31,5-11,1-3,2-2,1.0,5.0,6.0,8.0,1.0,0.0,0.0,2.0,13.0,9.0,5.0,11.0,1.0,3.0,2.0,2.0,0.45454545454545453,1.6,999.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Olivia Miles,G,29,10-22,2-6,2-2,0.0,3.0,3.0,7.0,3.0,0.0,2.0,5.0,24.0,15.0,10.0,22.0,2.0,6.0,2.0,2.0,0.36363636363636365,0.7,3.5
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Chloe Bibby,F,5,0-2,0-2,0-0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,2.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,,0.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Dorka Juhasz,F,19,3-4,2-3,0-0,1.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0,8.0,2.0,3.0,4.0,2.0,3.0,0.0,0.0,1.5,0.0,0.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Antonia Delaere,F,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Anastasiia Olairi Kosu,F,2,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-9.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Maya Caldwell,G,14,0-1,0-1,2-2,1.0,2.0,3.0,1.0,1.0,0.0,2.0,2.0,2.0,-11.0,0.0,1.0,0.0,1.0,2.0,2.0,2.0,,0.5
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Eliska Joklova,G,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Napheesa Collier,F,,,,,,,,,,,,,,,,,,,,,,,
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Michaela Onyenwere,F,26,6-10,2-6,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,-5.0,6.0,10.0,2.0,6.0,0.0,0.0,0.6,0.0,0.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Kiki Iriafen,F,32,7-15,0-1,5-7,4.0,9.0,13.0,1.0,1.0,2.0,0.0,2.0,19.0,-1.0,7.0,15.0,0.0,1.0,5.0,7.0,0.3333333333333333,0.14285714285714285,999.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Shakira Austin,C,33,7-13,0-1,3-4,2.0,6.0,8.0,6.0,1.0,1.0,5.0,1.0,17.0,-11.0,7.0,13.0,0.0,1.0,3.0,4.0,0.23076923076923078,0.8571428571428571,1.2
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Sonia Citron,G,30,4-8,1-4,2-2,1.0,0.0,1.0,5.0,0.0,0.0,5.0,2.0,11.0,-9.0,4.0,8.0,1.0,4.0,2.0,2.0,0.625,1.25,1.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Georgia Amoore,G,29,3-8,3-6,1-2,2.0,3.0,5.0,5.0,0.0,0.0,0.0,1.0,10.0,-3.0,3.0,8.0,3.0,6.0,1.0,2.0,1.25,1.6666666666666667,999.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Angela Dugalic,F,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Lauren Betts,C,13,0-1,0-0,3-4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,3.0,-4.0,0.0,1.0,0.0,0.0,3.0,4.0,3.0,,999.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Betnijah Laney-Hamilton,G,11,0-1,0-1,0-0,2.0,2.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Cotie McMahon,G,16,2-5,1-1,1-2,1.0,1.0,2.0,1.0,0.0,0.0,1.0,2.0,6.0,-6.0,2.0,5.0,1.0,1.0,1.0,2.0,0.8,0.5,1.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Cassandre Prosper,G,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Alicia Florez,G,9,1-5,0-1,2-2,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,4.0,-4.0,1.0,5.0,0.0,1.0,2.0,2.0,0.4,1.0,999.0
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Lucy Olsen,G,,,,,,,,,,,,,,,,,,,,,,,
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Kayla Thornton,F,19,0-2,0-0,0-0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,-4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Gabby Williams,F,14,0-6,0-1,2-2,0.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,2.0,-9.0,0.0,6.0,0.0,1.0,2.0,2.0,0.3333333333333333,,0.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Cecilia Zandalasini,F,12,3-9,0-3,0-0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,2.0,6.0,-6.0,3.0,9.0,0.0,3.0,0.0,0.0,0.0,0.3333333333333333,1.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Kiah Stokes,C,16,0-1,0-1,0-0,0.0,4.0,4.0,1.0,0.0,0.0,1.0,1.0,0.0,-17.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,1.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Veronica Burton,G,18,3-8,1-3,4-5,0.0,4.0,4.0,2.0,1.0,0.0,0.0,2.0,11.0,6.0,3.0,8.0,1.0,3.0,4.0,5.0,0.875,0.6666666666666666,999.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Laeticia Amihere,F,24,7-7,1-1,1-2,2.0,4.0,6.0,1.0,1.0,0.0,0.0,5.0,16.0,14.0,7.0,7.0,1.0,1.0,1.0,2.0,0.5714285714285714,0.14285714285714285,999.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Janelle Salaun,F,21,4-11,1-6,4-5,0.0,4.0,4.0,2.0,0.0,0.0,0.0,0.0,13.0,4.0,4.0,11.0,1.0,6.0,4.0,5.0,0.6363636363636364,0.5,999.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Tiffany Hayes,G,30,3-10,0-2,4-8,1.0,6.0,7.0,4.0,1.0,0.0,2.0,0.0,10.0,0.0,3.0,10.0,0.0,2.0,4.0,8.0,0.4,1.3333333333333333,2.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Kaila Charles,G,18,2-6,1-3,0-0,2.0,1.0,3.0,2.0,1.0,0.0,1.0,3.0,5.0,-2.0,2.0,6.0,1.0,3.0,0.0,0.0,0.5,1.0,2.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Kaitlyn Chen,G,29,3-10,1-2,0-0,0.0,3.0,3.0,4.0,0.0,0.0,3.0,1.0,7.0,-1.0,3.0,10.0,1.0,2.0,0.0,0.0,0.3,1.3333333333333333,1.333
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Ashten Prechtel,F,,,,,,,,,,,,,,,,,,,,,,,
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Nadia Fingall,C,,,,,,,,,,,,,,,,,,,,,,,
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Miela Sowah,G,,,,,,,,,,,,,,,,,,,,,,,
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Golden State Valkyries,Chicago Sky,Juste Jocyte,G,,,,,,,,,,,,,,,,,,,,,,,
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Azura Stevens,F,28,2-4,0-1,0-0,0.0,9.0,9.0,1.0,0.0,3.0,2.0,2.0,4.0,7.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0,0.5,0.5
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Kamilla Cardoso,C,35,4-12,0-0,6-11,2.0,8.0,10.0,4.0,1.0,0.0,1.0,4.0,14.0,9.0,4.0,12.0,0.0,0.0,6.0,11.0,0.5,1.0,4.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Courtney Vandersloot,G,29,4-10,2-6,2-2,0.0,1.0,1.0,5.0,0.0,0.0,2.0,1.0,12.0,13.0,4.0,10.0,2.0,6.0,2.0,2.0,0.8,1.25,2.5
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Natasha Cloud,G,36,5-10,5-5,2-2,0.0,7.0,7.0,4.0,0.0,1.0,4.0,2.0,17.0,2.0,5.0,10.0,5.0,5.0,2.0,2.0,1.7,0.8,1.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Sydney Taylor,G,18,5-9,4-6,0-0,0.0,2.0,2.0,1.0,2.0,0.0,2.0,3.0,14.0,15.0,5.0,9.0,4.0,6.0,0.0,0.0,1.3333333333333333,0.2,0.5
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Elizabeth Williams,C,5,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-6.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Rachel Banham,G,17,2-7,2-5,1-1,0.0,2.0,2.0,2.0,1.0,0.0,0.0,5.0,7.0,6.0,2.0,7.0,2.0,5.0,1.0,1.0,1.0,1.0,999.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Jacy Sheldon,G,16,1-7,1-6,0-0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,3.0,-16.0,1.0,7.0,1.0,6.0,0.0,0.0,0.42857142857142855,2.0,2.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Aicha Coulibaly,G,2,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Gabriela Jaquez,G,13,1-2,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,-14.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,Skylar Diggins,G,,,,,,,,,,,,,,,,,,,,,,,
+20260821_GS_CHI,"Friday, August 21, 2026",regular_season,Chicago Sky,Golden State Valkyries,DiJonai Carrington,G,,,,,,,,,,,,,,,,,,,,,,,
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Bridget Carleton,F,33,5-13,5-10,3-4,0.0,4.0,4.0,2.0,1.0,0.0,1.0,2.0,18.0,5.0,5.0,13.0,5.0,10.0,3.0,4.0,1.3846153846153846,0.4,2.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Emily Engstler,F,30,5-13,1-4,2-2,2.0,3.0,5.0,3.0,1.0,3.0,1.0,3.0,13.0,3.0,5.0,13.0,1.0,4.0,2.0,2.0,0.38461538461538464,0.6,3.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Nyadiew Puoch,F,20,3-8,2-2,0-0,2.0,2.0,4.0,3.0,0.0,0.0,0.0,3.0,8.0,13.0,3.0,8.0,2.0,2.0,0.0,0.0,0.75,1.0,999.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Megan DiLeo,C,21,4-9,2-4,4-5,1.0,5.0,6.0,0.0,0.0,0.0,0.0,5.0,14.0,7.0,4.0,9.0,2.0,4.0,4.0,5.0,1.1111111111111112,0.0,0.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Carla Leite,G,32,2-7,0-3,3-4,0.0,0.0,0.0,6.0,0.0,0.0,1.0,2.0,7.0,6.0,2.0,7.0,0.0,3.0,3.0,4.0,0.42857142857142855,3.0,6.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Frieda Buhner,F,10,0-4,0-1,0-0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,1.0,0.0,-6.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,,0.333
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Serah Williams,C,19,5-7,0-0,0-0,1.0,4.0,5.0,0.0,2.0,0.0,1.0,4.0,10.0,-10.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Karlie Samuelson,G,18,1-5,1-5,0-0,2.0,1.0,3.0,1.0,0.0,0.0,0.0,3.0,3.0,-10.0,1.0,5.0,1.0,5.0,0.0,0.0,0.6,1.0,999.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Holly Winterburn,G,10,1-3,0-2,2-2,0.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,4.0,-14.0,1.0,3.0,0.0,2.0,2.0,2.0,0.6666666666666666,1.0,0.5
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Teja Oblak,G,8,1-1,0-0,0-0,0.0,0.0,0.0,5.0,0.0,0.0,2.0,2.0,2.0,-9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,2.5
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Amy Okonkwo,F,,,,,,,,,,,,,,,,,,,,,,,
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Portland Fire,Toronto Tempo,Jordan Harrison,G,,,,,,,,,,,,,,,,,,,,,,,
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Isabelle Harrison,F,28,8-18,0-3,9-10,0.0,10.0,10.0,1.0,1.0,1.0,1.0,1.0,25.0,1.0,8.0,18.0,0.0,3.0,9.0,10.0,0.5,0.125,1.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Laura Juskaite,F,30,3-6,1-4,8-10,2.0,5.0,7.0,4.0,2.0,1.0,6.0,5.0,15.0,0.0,3.0,6.0,1.0,4.0,8.0,10.0,1.8333333333333333,1.3333333333333333,0.667
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Brittney Sykes,G,2,0-1,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Julie Allemand,G,31,1-4,1-4,2-3,1.0,4.0,5.0,6.0,0.0,1.0,2.0,2.0,5.0,-4.0,1.0,4.0,1.0,4.0,2.0,3.0,1.25,6.0,3.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Kiki Rice,G,32,7-9,1-2,4-6,0.0,3.0,3.0,4.0,0.0,0.0,0.0,3.0,19.0,-7.0,7.0,9.0,1.0,2.0,4.0,6.0,0.7777777777777778,0.5714285714285714,999.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Teonni Key,F,13,2-8,0-1,0-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,5.0,2.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Aneesah Morrow,F,7,0-2,0-1,0-0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,3.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Temi Fagbenle,C,26,1-4,0-2,1-2,3.0,1.0,4.0,2.0,1.0,1.0,1.0,4.0,3.0,3.0,1.0,4.0,0.0,2.0,1.0,2.0,0.25,2.0,2.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Kia Nurse,G,16,1-3,1-3,2-2,0.0,1.0,1.0,1.0,0.0,0.0,2.0,2.0,5.0,1.0,1.0,3.0,1.0,3.0,2.0,2.0,1.6666666666666667,1.0,0.5
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Ornella Bankole,G,16,2-4,2-2,0-0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,4.0,6.0,17.0,2.0,4.0,2.0,2.0,0.0,0.0,1.5,0.5,1.0
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Maria Conde,F,,,,,,,,,,,,,,,,,,,,,,,
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Nyara Sabally,F,,,,,,,,,,,,,,,,,,,,,,,
+20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Marina Mabrey,G,,,,,,,,,,,,,,,,,,,,,,,
