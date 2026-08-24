@@ -6813,3 +6813,177 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Maria Conde,F,,,,,,,,,,,,,,,,,,,,,,,
 20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Nyara Sabally,F,,,,,,,,,,,,,,,,,,,,,,,
 20260822_POR_TOR,"Saturday, August 22, 2026",regular_season,Toronto Tempo,Portland Fire,Marina Mabrey,G,,,,,,,,,,,,,,,,,,,,,,,
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Makayla Timpson,F,19,5-6,0-0,0-0,1.0,5.0,6.0,0.0,0.0,0.0,0.0,6.0,10.0,-10.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Aliyah Boston,C,30,8-14,2-4,4-6,0.0,3.0,3.0,6.0,1.0,0.0,0.0,0.0,22.0,-3.0,8.0,14.0,2.0,4.0,4.0,6.0,0.7142857142857143,0.75,999.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Kelsey Mitchell,G,33,9-15,3-6,4-6,0.0,0.0,0.0,4.0,1.0,0.0,4.0,2.0,25.0,-10.0,9.0,15.0,3.0,6.0,4.0,6.0,0.8666666666666667,0.4444444444444444,1.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Lexie Hull,G,12,0-1,0-1,0-0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Caitlin Clark,G,35,9-18,2-6,1-4,0.0,4.0,4.0,7.0,1.0,0.0,2.0,4.0,21.0,2.0,9.0,18.0,2.0,6.0,1.0,4.0,0.3888888888888889,0.7777777777777778,3.5
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Myisha Hines-Allen,F,14,1-3,0-1,2-4,1.0,6.0,7.0,1.0,0.0,0.0,0.0,3.0,4.0,6.0,1.0,3.0,0.0,1.0,2.0,4.0,0.6666666666666666,1.0,999.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Monique Billings,F,14,2-3,0-1,0-2,1.0,1.0,2.0,1.0,1.0,0.0,2.0,5.0,4.0,-5.0,2.0,3.0,0.0,1.0,0.0,2.0,0.0,0.5,0.5
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Mercedes Russell,C,3,0-1,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Sophie Cunningham,G,28,4-6,2-4,0-0,0.0,2.0,2.0,5.0,2.0,0.0,0.0,3.0,10.0,-9.0,4.0,6.0,2.0,4.0,0.0,0.0,1.0,1.25,999.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Tyasha Harris,G,12,2-3,2-3,0-0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,6.0,-6.0,2.0,3.0,2.0,3.0,0.0,0.0,2.0,0.0,0.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Grace VanSlooten,F,,,,,,,,,,,,,,,,,,,,,,,
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Michelle Onyiah,C,,,,,,,,,,,,,,,,,,,,,,,
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Raven Johnson,G,,,,,,,,,,,,,,,,,,,,,,,
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,Indiana Fever,New York Liberty,Bree Hall,G,,,,,,,,,,,,,,,,,,,,,,,
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Breanna Stewart,F,35,8-16,0-4,6-8,0.0,8.0,8.0,7.0,2.0,1.0,1.0,2.0,22.0,7.0,8.0,16.0,0.0,4.0,6.0,8.0,0.375,0.875,7.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Leonie Fiebich,F,34,7-10,3-5,3-4,1.0,4.0,5.0,5.0,1.0,0.0,2.0,4.0,20.0,7.0,7.0,10.0,3.0,5.0,3.0,4.0,1.2,0.7142857142857143,2.5
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Jonquel Jones,C,29,5-10,1-4,8-8,1.0,9.0,10.0,1.0,0.0,1.0,2.0,4.0,19.0,0.0,5.0,10.0,1.0,4.0,8.0,8.0,1.1,0.2,0.5
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Sabrina Ionescu,G,32,5-11,1-5,1-2,0.0,3.0,3.0,4.0,0.0,1.0,5.0,2.0,12.0,3.0,5.0,11.0,1.0,5.0,1.0,2.0,0.36363636363636365,0.8,0.8
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Pauline Astier,G,24,2-5,0-1,4-5,2.0,1.0,3.0,2.0,0.0,0.0,2.0,5.0,8.0,5.0,2.0,5.0,0.0,1.0,4.0,5.0,0.8,1.0,1.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Han Xu,C,11,4-5,1-2,0-0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,9.0,7.0,4.0,5.0,1.0,2.0,0.0,0.0,0.6,0.0,0.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Rebekah Gardner,G,6,1-1,0-0,2-2,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,4.0,-4.0,1.0,1.0,0.0,0.0,2.0,2.0,2.0,1.0,999.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Rebecca Allen,G,16,3-4,3-4,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,9.0,-6.0,3.0,4.0,3.0,4.0,0.0,0.0,2.25,0.0,0.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Marine Johannes,G,13,2-2,2-2,0-0,0.0,2.0,2.0,4.0,0.0,0.0,2.0,1.0,6.0,16.0,2.0,2.0,2.0,2.0,0.0,0.0,3.0,2.0,2.0
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Raquel Carrera,F,,,,,,,,,,,,,,,,,,,,,,,
+20260822_IND_NY,"Saturday, August 22, 2026",regular_season,New York Liberty,Indiana Fever,Marine Fauthoux,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Diamond Miller,F,13,2-4,1-3,0-0,0.0,1.0,1.0,0.0,0.0,0.0,4.0,5.0,5.0,-10.0,2.0,4.0,1.0,3.0,0.0,0.0,0.75,0.0,0.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Olivia Nelson-Ododa,C,10,1-4,0-0,0-0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,4.0,2.0,-13.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,999.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Kennedy Burke,G,31,5-13,0-6,1-1,1.0,3.0,4.0,0.0,4.0,3.0,3.0,2.0,11.0,-13.0,5.0,13.0,0.0,6.0,1.0,1.0,0.07692307692307693,0.0,0.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Charlisse Leger-Walker,G,22,2-8,1-3,0-0,1.0,3.0,4.0,4.0,0.0,0.0,1.0,2.0,5.0,-3.0,2.0,8.0,1.0,3.0,0.0,0.0,0.375,2.0,4.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Leila Lacan,G,29,6-14,1-6,0-1,0.0,0.0,0.0,4.0,1.0,0.0,0.0,1.0,13.0,-4.0,6.0,14.0,1.0,6.0,0.0,1.0,0.21428571428571427,0.6666666666666666,999.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Raegan Beers,F,14,1-4,0-0,6-8,3.0,4.0,7.0,0.0,1.0,0.0,1.0,3.0,8.0,-9.0,1.0,4.0,0.0,0.0,6.0,8.0,1.5,0.0,0.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Nell Angloma,F,11,1-3,0-0,0-0,0.0,2.0,2.0,1.0,2.0,0.0,1.0,1.0,2.0,-2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Hailey Van Lith,G,10,0-3,0-1,0-0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Saniya Rivers,G,28,5-11,1-3,3-6,2.0,1.0,3.0,2.0,4.0,0.0,1.0,3.0,14.0,-2.0,5.0,11.0,1.0,3.0,3.0,6.0,0.5454545454545454,0.4,2.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Gianna Kneepkens,G,19,2-7,0-1,2-2,1.0,2.0,3.0,1.0,1.0,0.0,1.0,2.0,6.0,6.0,2.0,7.0,0.0,1.0,2.0,2.0,0.2857142857142857,0.5,1.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Connecticut Sun,Los Angeles Sparks,Ashlon Jackson,G,13,1-3,0-1,0-0,0.0,5.0,5.0,1.0,1.0,0.0,1.0,0.0,2.0,5.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Nneka Ogwumike,F,33,4-10,0-1,3-3,0.0,11.0,11.0,1.0,0.0,0.0,2.0,1.0,11.0,5.0,4.0,10.0,0.0,1.0,3.0,3.0,0.3,0.25,0.5
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Dearica Hamby,F,21,2-2,0-0,6-8,1.0,4.0,5.0,2.0,0.0,0.0,4.0,3.0,10.0,19.0,2.0,2.0,0.0,0.0,6.0,8.0,3.0,1.0,0.5
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Erica Wheeler,G,25,4-8,3-6,0-0,0.0,2.0,2.0,5.0,0.0,0.0,3.0,2.0,11.0,12.0,4.0,8.0,3.0,6.0,0.0,0.0,1.125,1.25,1.667
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Ariel Atkins,G,25,2-5,0-2,2-2,1.0,6.0,7.0,3.0,1.0,0.0,1.0,3.0,6.0,2.0,2.0,5.0,0.0,2.0,2.0,2.0,0.4,1.5,3.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Rae Burrell,G,30,8-13,2-5,2-4,0.0,2.0,2.0,2.0,3.0,3.0,3.0,3.0,20.0,10.0,8.0,13.0,2.0,5.0,2.0,4.0,0.6153846153846154,0.25,0.667
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Emma Cannon,F,12,1-4,1-1,0-0,2.0,3.0,5.0,0.0,0.0,0.0,4.0,2.0,3.0,-2.0,1.0,4.0,1.0,1.0,0.0,0.0,0.75,0.0,0.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Cameron Brink,F,12,3-3,1-1,0-0,0.0,1.0,1.0,3.0,0.0,0.0,4.0,6.0,7.0,2.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.75
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Jihyun Park,F,4,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Tonie Morgan,G,15,1-3,0-0,0-0,0.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,-3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Chance Gray,G,12,1-3,1-1,2-2,0.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,5.0,5.0,1.0,3.0,1.0,1.0,2.0,2.0,1.6666666666666667,1.0,1.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Monique Akoa Makani,G,11,1-1,0-0,0-0,0.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,-9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20260823_CON_LA,"Sunday, August 23, 2026",regular_season,Los Angeles Sparks,Connecticut Sun,Kate Martin,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Naz Hillmon,F,35,3-7,2-6,0-0,0.0,4.0,4.0,2.0,0.0,1.0,1.0,3.0,8.0,4.0,3.0,7.0,2.0,6.0,0.0,0.0,0.8571428571428571,0.6666666666666666,2.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Angel Reese,F,35,14-21,0-4,3-5,4.0,10.0,14.0,2.0,4.0,0.0,2.0,4.0,31.0,16.0,14.0,21.0,0.0,4.0,3.0,5.0,0.14285714285714285,0.14285714285714285,1.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Allisha Gray,G,38,6-13,2-8,3-3,1.0,4.0,5.0,4.0,1.0,0.0,0.0,4.0,17.0,10.0,6.0,13.0,2.0,8.0,3.0,3.0,0.6923076923076923,0.6666666666666666,999.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Jordin Canada,G,29,3-10,2-7,4-4,1.0,1.0,2.0,5.0,2.0,2.0,1.0,4.0,12.0,1.0,3.0,10.0,2.0,7.0,4.0,4.0,1.0,1.6666666666666667,5.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Rhyne Howard,G,38,7-14,4-11,2-2,1.0,2.0,3.0,5.0,2.0,0.0,3.0,4.0,20.0,6.0,7.0,14.0,4.0,11.0,2.0,2.0,1.0,0.7142857142857143,1.667
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Madina Okot,C,10,1-5,0-0,2-2,1.0,3.0,4.0,0.0,2.0,0.0,1.0,3.0,4.0,0.0,1.0,5.0,0.0,0.0,2.0,2.0,0.4,0.0,0.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Te-Hina Paopao,G,2,1-1,1-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Isobel Borlase,G,13,2-5,0-1,0-0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,2.0,4.0,9.0,2.0,5.0,0.0,1.0,0.0,0.0,0.0,3.0,999.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Brionna Jones,F,,,,,,,,,,,,,,,,,,,,,,,
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Sika Kone,F,,,,,,,,,,,,,,,,,,,,,,,
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Shatori Walker-Kimbrough,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Aaliyah Nye,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,DeWanna Bonner,F,30,4-9,0-2,4-4,1.0,8.0,9.0,3.0,0.0,0.0,2.0,1.0,12.0,0.0,4.0,9.0,0.0,2.0,4.0,4.0,0.4444444444444444,0.75,1.5
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Alyssa Thomas,F,33,4-10,0-0,3-5,4.0,12.0,16.0,10.0,1.0,0.0,2.0,2.0,11.0,-9.0,4.0,10.0,0.0,0.0,3.0,5.0,0.3,2.5,5.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Noemie Brochant,F,27,3-8,3-5,0-0,0.0,0.0,0.0,1.0,3.0,0.0,1.0,1.0,9.0,-11.0,3.0,8.0,3.0,5.0,0.0,0.0,1.125,0.3333333333333333,1.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Sami Whitcomb,G,28,2-6,2-5,0-0,1.0,1.0,2.0,5.0,0.0,0.0,5.0,5.0,6.0,-2.0,2.0,6.0,2.0,5.0,0.0,0.0,1.0,2.5,1.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Kahleah Copper,G,37,13-21,3-7,9-12,1.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,38.0,-7.0,13.0,21.0,3.0,7.0,9.0,12.0,0.8571428571428571,0.07692307692307693,1.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Valeriane Ayayi,F,13,1-1,1-1,2-2,0.0,2.0,2.0,1.0,0.0,2.0,2.0,3.0,5.0,-5.0,1.0,1.0,1.0,1.0,2.0,2.0,5.0,1.0,0.5
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Natasha Mack,F,19,0-2,0-0,0-0,0.0,5.0,5.0,0.0,0.0,1.0,1.0,3.0,0.0,-8.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Lexi Held,G,12,2-5,2-3,2-2,0.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,8.0,-8.0,2.0,5.0,2.0,3.0,2.0,2.0,1.6,0.5,0.5
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Maddy Westbeld,F,,,,,,,,,,,,,,,,,,,,,,,
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Marta Suarez,F,,,,,,,,,,,,,,,,,,,,,,,
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Kyara Linskens,C,,,,,,,,,,,,,,,,,,,,,,,
+20260823_ATL_PHX,"Sunday, August 23, 2026",regular_season,Phoenix Mercury,Atlanta Dream,Kelsey Plum,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Ezi Magbegor,F,25,0-4,0-1,2-2,1.0,3.0,4.0,3.0,0.0,1.0,1.0,2.0,2.0,-20.0,0.0,4.0,0.0,1.0,2.0,2.0,0.5,,3.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Dominique Malonga,C,20,4-10,0-3,4-4,3.0,2.0,5.0,1.0,0.0,1.0,5.0,4.0,12.0,-7.0,4.0,10.0,0.0,3.0,4.0,4.0,0.4,0.25,0.2
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Awa Fam,C,25,0-5,0-3,0-0,1.0,5.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,-12.0,0.0,5.0,0.0,3.0,0.0,0.0,0.0,,0.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Flau'jae Johnson,G,26,9-19,5-10,0-0,3.0,3.0,6.0,2.0,3.0,0.0,3.0,2.0,23.0,-4.0,9.0,19.0,5.0,10.0,0.0,0.0,0.7894736842105263,0.2222222222222222,0.667
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Jade Melbourne,G,27,6-12,3-7,0-1,1.0,3.0,4.0,0.0,2.0,0.0,2.0,2.0,15.0,-10.0,6.0,12.0,3.0,7.0,0.0,1.0,0.75,0.0,0.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Katie Lou Samuelson,F,13,1-6,1-4,0-0,2.0,1.0,3.0,0.0,0.0,0.0,1.0,1.0,3.0,-10.0,1.0,6.0,1.0,4.0,0.0,0.0,0.5,0.0,0.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Jordan Horston,F,15,2-3,0-1,0-0,0.0,0.0,0.0,1.0,2.0,1.0,1.0,1.0,4.0,-24.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,0.5,1.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Mackenzie Holmes,F,3,0-1,0-1,0-0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,-2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Taylor Thierry,F,3,0-1,0-1,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Stefanie Dolson,C,11,0-1,0-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-7.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Zia Cooke,G,18,1-6,1-3,2-2,1.0,2.0,3.0,3.0,0.0,0.0,0.0,1.0,5.0,1.0,1.0,6.0,1.0,3.0,2.0,2.0,0.8333333333333334,3.0,999.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Taina Mair,G,13,2-6,2-4,0-0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,4.0,6.0,-12.0,2.0,6.0,2.0,4.0,0.0,0.0,1.0,0.5,1.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Seattle Storm,Dallas Wings,Natisha Hiedeman,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Jessica Shepard,F,27,5-11,0-0,1-1,1.0,10.0,11.0,4.0,0.0,0.0,1.0,1.0,11.0,18.0,5.0,11.0,0.0,0.0,1.0,1.0,0.09090909090909091,0.8,4.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Alanna Smith,F,22,3-3,0-0,3-3,0.0,4.0,4.0,0.0,1.0,1.0,1.0,0.0,9.0,15.0,3.0,3.0,0.0,0.0,3.0,3.0,1.0,0.0,0.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Awak Kuier,F,26,3-8,1-4,2-2,1.0,6.0,7.0,2.0,1.0,1.0,2.0,3.0,9.0,21.0,3.0,8.0,1.0,4.0,2.0,2.0,0.625,0.6666666666666666,1.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Arike Ogunbowale,G,22,2-7,2-5,1-2,0.0,2.0,2.0,6.0,1.0,0.0,0.0,0.0,7.0,19.0,2.0,7.0,2.0,5.0,1.0,2.0,1.0,3.0,999.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Paige Bueckers,G,26,12-16,6-6,2-2,1.0,3.0,4.0,4.0,1.0,0.0,3.0,1.0,32.0,16.0,12.0,16.0,6.0,6.0,2.0,2.0,1.25,0.3333333333333333,1.333
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Alysha Clark,F,23,0-2,0-1,0-0,0.0,3.0,3.0,2.0,0.0,1.0,2.0,1.0,0.0,-3.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,,1.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Maddy Siegrist,F,21,4-8,0-2,1-1,1.0,3.0,4.0,3.0,1.0,0.0,0.0,1.0,9.0,2.0,4.0,8.0,0.0,2.0,1.0,1.0,0.125,0.75,999.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Li Yueru,C,12,1-3,1-2,3-4,2.0,2.0,4.0,0.0,0.0,1.0,2.0,3.0,6.0,3.0,1.0,3.0,1.0,2.0,3.0,4.0,2.0,0.0,0.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Odyssey Sims,G,4,0-2,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-3.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260823_SEA_DAL,"Sunday, August 23, 2026",regular_season,Dallas Wings,Seattle Storm,Sug Sutton,G,18,3-6,1-2,2-2,0.0,1.0,1.0,2.0,1.0,0.0,2.0,0.0,9.0,22.0,3.0,6.0,1.0,2.0,2.0,2.0,0.8333333333333334,0.6666666666666666,1.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Monique Billings,F,19,3-6,0-1,0-0,0.0,5.0,5.0,0.0,2.0,0.0,1.0,4.0,6.0,-2.0,3.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Makayla Timpson,F,28,6-7,0-0,0-1,2.0,7.0,9.0,3.0,0.0,2.0,1.0,0.0,12.0,24.0,6.0,7.0,0.0,0.0,0.0,1.0,0.0,0.5,3.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Kelsey Mitchell,G,35,10-19,6-9,4-5,1.0,1.0,2.0,4.0,2.0,1.0,0.0,2.0,30.0,28.0,10.0,19.0,6.0,9.0,4.0,5.0,1.1578947368421053,0.4,999.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Lexie Hull,G,26,6-8,2-3,0-0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,14.0,25.0,6.0,8.0,2.0,3.0,0.0,0.0,0.75,0.16666666666666666,999.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Caitlin Clark,G,32,13-24,8-12,3-4,0.0,3.0,3.0,10.0,1.0,0.0,5.0,0.0,37.0,26.0,13.0,24.0,8.0,12.0,3.0,4.0,1.125,0.7692307692307693,2.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Myisha Hines-Allen,F,17,2-4,0-1,1-2,2.0,5.0,7.0,3.0,1.0,0.0,0.0,2.0,5.0,4.0,2.0,4.0,0.0,1.0,1.0,2.0,0.25,1.5,999.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Grace VanSlooten,F,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Mercedes Russell,C,14,0-1,0-0,3-4,0.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,3.0,18.0,0.0,1.0,0.0,0.0,3.0,4.0,3.0,,999.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Michelle Onyiah,C,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Sophie Cunningham,G,11,1-4,1-4,0-0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,3.0,-10.0,1.0,4.0,1.0,4.0,0.0,0.0,0.75,1.0,999.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Tyasha Harris,G,10,0-3,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Raven Johnson,G,5,0-2,0-1,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Bree Hall,G,1,1-1,1-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Indiana Fever,Chicago Sky,Aliyah Boston,C,,,,,,,,,,,,,,,,,,,,,,,
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Azura Stevens,F,23,6-9,2-4,0-0,1.0,7.0,8.0,2.0,1.0,1.0,2.0,3.0,14.0,-22.0,6.0,9.0,2.0,4.0,0.0,0.0,0.6666666666666666,0.3333333333333333,1.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Kamilla Cardoso,C,24,2-9,0-0,7-7,3.0,3.0,6.0,1.0,0.0,2.0,1.0,5.0,11.0,-31.0,2.0,9.0,0.0,0.0,7.0,7.0,0.7777777777777778,0.5,1.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Courtney Vandersloot,G,25,3-7,0-3,0-0,0.0,0.0,0.0,7.0,1.0,1.0,2.0,1.0,6.0,-23.0,3.0,7.0,0.0,3.0,0.0,0.0,0.0,2.3333333333333335,3.5
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Natasha Cloud,G,30,7-9,0-0,2-2,1.0,3.0,4.0,7.0,1.0,0.0,4.0,4.0,16.0,-15.0,7.0,9.0,0.0,0.0,2.0,2.0,0.2222222222222222,1.0,1.75
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Sydney Taylor,G,17,2-9,0-6,0-0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,3.0,4.0,-15.0,2.0,9.0,0.0,6.0,0.0,0.0,0.0,1.0,2.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Elizabeth Williams,C,15,2-2,0-0,4-4,1.0,2.0,3.0,1.0,0.0,1.0,0.0,1.0,8.0,9.0,2.0,2.0,0.0,0.0,4.0,4.0,2.0,0.5,999.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Rachel Banham,G,14,2-5,2-5,0-0,0.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,6.0,-5.0,2.0,5.0,2.0,5.0,0.0,0.0,1.2,1.5,999.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,DiJonai Carrington,G,18,3-11,0-3,1-2,0.0,3.0,3.0,1.0,0.0,1.0,0.0,1.0,7.0,-5.0,3.0,11.0,0.0,3.0,1.0,2.0,0.09090909090909091,0.3333333333333333,999.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Jacy Sheldon,G,15,3-3,0-0,0-0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,2.0,6.0,-5.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.333
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Aicha Coulibaly,G,18,5-5,0-0,2-2,2.0,4.0,6.0,1.0,1.0,0.0,1.0,1.0,12.0,-2.0,5.0,5.0,0.0,0.0,2.0,2.0,0.4,0.2,1.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Morgan Maly,G,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Skylar Diggins,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_IND_CHI,"Sunday, August 23, 2026",regular_season,Chicago Sky,Indiana Fever,Gabriela Jaquez,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Michaela Onyenwere,F,24,2-6,2-4,2-2,0.0,1.0,1.0,3.0,0.0,0.0,1.0,0.0,8.0,-13.0,2.0,6.0,2.0,4.0,2.0,2.0,1.3333333333333333,1.5,3.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Kiki Iriafen,F,30,7-11,0-0,4-7,5.0,5.0,10.0,2.0,1.0,0.0,3.0,4.0,18.0,-11.0,7.0,11.0,0.0,0.0,4.0,7.0,0.36363636363636365,0.2857142857142857,0.667
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Shakira Austin,C,33,11-18,0-0,9-13,3.0,7.0,10.0,0.0,1.0,2.0,3.0,1.0,31.0,-1.0,11.0,18.0,0.0,0.0,9.0,13.0,0.5,0.0,0.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Sonia Citron,G,33,4-5,0-0,6-8,0.0,3.0,3.0,6.0,1.0,0.0,2.0,2.0,14.0,5.0,4.0,5.0,0.0,0.0,6.0,8.0,1.2,1.5,3.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Georgia Amoore,G,24,4-6,3-4,2-2,1.0,2.0,3.0,1.0,0.0,0.0,2.0,2.0,13.0,10.0,4.0,6.0,3.0,4.0,2.0,2.0,1.8333333333333333,0.25,0.5
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Angela Dugalic,F,0,0-1,0-1,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Lauren Betts,C,17,2-4,0-0,1-1,0.0,8.0,8.0,2.0,1.0,3.0,0.0,1.0,5.0,22.0,2.0,4.0,0.0,0.0,1.0,1.0,0.25,1.0,999.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Betnijah Laney-Hamilton,G,15,0-4,0-1,3-4,0.0,1.0,1.0,4.0,2.0,0.0,2.0,1.0,3.0,16.0,0.0,4.0,0.0,1.0,3.0,4.0,0.75,,2.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Cotie McMahon,G,18,3-5,2-4,5-7,0.0,2.0,2.0,4.0,0.0,0.0,0.0,1.0,13.0,-3.0,3.0,5.0,2.0,4.0,5.0,7.0,2.2,1.3333333333333333,999.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Cassandre Prosper,G,0,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Alicia Florez,G,7,0-1,0-0,0-0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Rori Harmon,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Lucy Olsen,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Washington Mystics,Portland Fire,Darianna Littlepage-Buggs,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Bridget Carleton,F,36,8-14,2-7,0-0,1.0,3.0,4.0,5.0,5.0,0.0,1.0,5.0,18.0,-3.0,8.0,14.0,2.0,7.0,0.0,0.0,0.42857142857142855,0.625,5.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Emily Engstler,F,29,9-13,5-7,0-0,0.0,6.0,6.0,2.0,1.0,1.0,4.0,5.0,23.0,7.0,9.0,13.0,5.0,7.0,0.0,0.0,1.1538461538461537,0.2222222222222222,0.5
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Nyadiew Puoch,F,18,0-1,0-0,0-0,1.0,2.0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Megan DiLeo,C,27,7-8,3-4,4-4,1.0,2.0,3.0,0.0,0.0,1.0,0.0,4.0,21.0,16.0,7.0,8.0,3.0,4.0,4.0,4.0,1.625,0.0,0.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Carla Leite,G,30,8-20,2-5,9-9,1.0,1.0,2.0,11.0,2.0,0.0,1.0,2.0,27.0,5.0,8.0,20.0,2.0,5.0,9.0,9.0,0.75,1.375,11.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Frieda Buhner,F,11,1-4,1-2,0-0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,-12.0,1.0,4.0,1.0,2.0,0.0,0.0,0.75,0.0,0.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Serah Williams,C,13,1-4,0-0,0-0,2.0,1.0,3.0,1.0,0.0,0.0,1.0,3.0,2.0,-21.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Karlie Samuelson,G,14,0-4,0-3,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-2.0,0.0,4.0,0.0,3.0,0.0,0.0,0.0,,0.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Holly Winterburn,G,12,1-3,0-0,0-0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,-7.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Jordan Harrison,G,10,1-3,0-0,2-2,1.0,0.0,1.0,2.0,1.0,0.0,2.0,1.0,4.0,-10.0,1.0,3.0,0.0,0.0,2.0,2.0,0.6666666666666666,2.0,1.0
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Amy Okonkwo,F,,,,,,,,,,,,,,,,,,,,,,,
+20260823_WSH_POR,"Sunday, August 23, 2026",regular_season,Portland Fire,Washington Mystics,Teja Oblak,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Stephanie Talbot,F,16,4-5,1-1,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,9.0,3.0,4.0,5.0,1.0,1.0,0.0,0.0,0.6,0.0,0.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,NaLyssa Smith,F,19,4-4,0-0,0-2,3.0,5.0,8.0,1.0,2.0,1.0,1.0,3.0,8.0,5.0,4.0,4.0,0.0,0.0,0.0,2.0,0.0,0.25,1.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,A'ja Wilson,C,30,10-15,1-2,6-8,1.0,6.0,7.0,7.0,2.0,1.0,1.0,2.0,27.0,12.0,10.0,15.0,1.0,2.0,6.0,8.0,0.6,0.7,7.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Chelsea Gray,G,29,4-9,0-1,1-1,0.0,2.0,2.0,7.0,2.0,1.0,0.0,0.0,9.0,21.0,4.0,9.0,0.0,1.0,1.0,1.0,0.1111111111111111,1.75,999.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Jackie Young,G,34,9-18,1-7,2-2,1.0,2.0,3.0,5.0,0.0,0.0,2.0,2.0,21.0,16.0,9.0,18.0,1.0,7.0,2.0,2.0,0.2777777777777778,0.5555555555555556,2.5
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Cheyenne Parker-Tyus,F,14,0-1,0-0,2-2,1.0,1.0,2.0,0.0,1.0,0.0,1.0,3.0,2.0,-4.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,,0.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Brianna Turner,F,8,0-0,0-0,0-0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Kierstan Bell,F,3,0-0,0-0,0-0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-6.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Jewell Loyd,G,19,0-3,0-2,2-2,2.0,0.0,2.0,1.0,1.0,0.0,2.0,0.0,2.0,3.0,0.0,3.0,0.0,2.0,2.0,2.0,0.6666666666666666,,0.5
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Ta'Niya Latson,G,3,0-1,0-0,1-2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,-6.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,,0.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Justine Pissott,G,3,0-2,0-2,0-0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-6.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,,0.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Mai Yamamoto,G,22,3-7,2-5,1-1,0.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,9.0,2.0,3.0,7.0,2.0,5.0,1.0,1.0,1.0,0.3333333333333333,1.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Las Vegas Aces,Toronto Tempo,Dana Evans,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Isabelle Harrison,F,28,4-11,0-2,4-5,2.0,5.0,7.0,1.0,2.0,0.0,3.0,4.0,12.0,-2.0,4.0,11.0,0.0,2.0,4.0,5.0,0.36363636363636365,0.25,0.333
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Laura Juskaite,F,29,4-7,2-4,1-2,3.0,3.0,6.0,2.0,0.0,0.0,7.0,3.0,11.0,-3.0,4.0,7.0,2.0,4.0,1.0,2.0,1.0,0.5,0.286
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Temi Fagbenle,C,26,5-8,1-2,2-2,0.0,2.0,2.0,2.0,2.0,0.0,1.0,2.0,13.0,-17.0,5.0,8.0,1.0,2.0,2.0,2.0,0.625,0.4,2.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Julie Allemand,G,15,1-3,1-3,0-0,0.0,1.0,1.0,2.0,0.0,0.0,2.0,0.0,3.0,-6.0,1.0,3.0,1.0,3.0,0.0,0.0,1.0,2.0,1.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Kiki Rice,G,30,6-14,2-5,0-0,1.0,2.0,3.0,5.0,1.0,1.0,1.0,0.0,14.0,-18.0,6.0,14.0,2.0,5.0,0.0,0.0,0.42857142857142855,0.8333333333333334,5.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Teonni Key,F,24,1-6,0-1,0-0,1.0,2.0,3.0,3.0,1.0,1.0,1.0,4.0,2.0,4.0,1.0,6.0,0.0,1.0,0.0,0.0,0.0,3.0,3.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Kia Nurse,G,30,6-13,4-10,3-3,0.0,4.0,4.0,4.0,0.0,0.0,0.0,4.0,19.0,-10.0,6.0,13.0,4.0,10.0,3.0,3.0,1.1538461538461537,0.6666666666666666,999.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Ornella Bankole,G,20,2-4,0-0,0-0,2.0,0.0,2.0,3.0,0.0,0.0,0.0,5.0,4.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,1.5,999.0
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Maria Conde,F,,,,,,,,,,,,,,,,,,,,,,,
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Nyara Sabally,F,,,,,,,,,,,,,,,,,,,,,,,
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Aneesah Morrow,F,,,,,,,,,,,,,,,,,,,,,,,
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Brittney Sykes,G,,,,,,,,,,,,,,,,,,,,,,,
+20260823_LV_TOR,"Sunday, August 23, 2026",regular_season,Toronto Tempo,Las Vegas Aces,Marina Mabrey,G,,,,,,,,,,,,,,,,,,,,,,,
