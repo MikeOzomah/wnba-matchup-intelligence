@@ -567,7 +567,13 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260823_WSH_POR,"Sunday, August 23, 2026",Portland Fire,Washington Mystics,POR,36-74,49,13-28,46,15-15,100,7,18,25,21,9,2,12,28,100
 20260823_LV_TOR,"Sunday, August 23, 2026",Las Vegas Aces,Toronto Tempo,LV,34-65,52,5-20,25,15-20,75,8,21,29,22,11,3,10,14,88
 20260823_LV_TOR,"Sunday, August 23, 2026",Toronto Tempo,Las Vegas Aces,TOR,29-66,44,10-27,37,10-12,83,9,19,28,22,6,2,15,22,78
-20260825_GS_MIN,"Tuesday, August 25, 2026",Golden State Valkyries,Minnesota Lynx,GS,,42,,34,,,,,,,,,,,0
-20260825_GS_MIN,"Tuesday, August 25, 2026",Minnesota Lynx,Golden State Valkyries,MIN,,49,,39,,,,,,,,,,,0
-20260825_ATL_LA,"Tuesday, August 25, 2026",Atlanta Dream,Los Angeles Sparks,ATL,,44,,32,,,,,,,,,,,0
-20260825_ATL_LA,"Tuesday, August 25, 2026",Los Angeles Sparks,Atlanta Dream,LA,,46,,33,,,,,,,,,,,0
+20260825_GS_MIN,"Tuesday, August 25, 2026",Golden State Valkyries,Minnesota Lynx,GS,31-71,44,12-33,36,6-8,75,11,20,31,23,12,4,6,16,80
+20260825_GS_MIN,"Tuesday, August 25, 2026",Minnesota Lynx,Golden State Valkyries,MIN,21-59,36,10-30,33,14-18,78,6,26,32,18,2,4,17,11,66
+20260825_ATL_LA,"Tuesday, August 25, 2026",Atlanta Dream,Los Angeles Sparks,ATL,30-75,40,6-29,21,12-15,80,15,33,48,17,7,1,14,18,78
+20260825_ATL_LA,"Tuesday, August 25, 2026",Los Angeles Sparks,Atlanta Dream,LA,26-67,39,3-18,17,16-18,89,7,25,32,19,7,7,11,19,71
+20260825_CHI_CON,"Tuesday, August 25, 2026",Chicago Sky,Connecticut Sun,CHI,,44,,32,,,,,,,,,,,0
+20260825_CHI_CON,"Tuesday, August 25, 2026",Connecticut Sun,Chicago Sky,CON,,43,,29,,,,,,,,,,,0
+20260826_POR_DAL,"Wednesday, August 26, 2026",Portland Fire,Dallas Wings,POR,,45,,35,,,,,,,,,,,0
+20260826_POR_DAL,"Wednesday, August 26, 2026",Dallas Wings,Portland Fire,DAL,,46,,34,,,,,,,,,,,0
+20260826_WSH_PHX,"Wednesday, August 26, 2026",Washington Mystics,Phoenix Mercury,WSH,,45,,30,,,,,,,,,,,0
+20260826_WSH_PHX,"Wednesday, August 26, 2026",Phoenix Mercury,Washington Mystics,PHX,,44,,33,,,,,,,,,,,0
