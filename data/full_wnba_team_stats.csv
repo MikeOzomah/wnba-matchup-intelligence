@@ -581,7 +581,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260826_GS_CON,"Wednesday, August 26, 2026",Connecticut Sun,Golden State Valkyries,CON,22-71,31,6-31,19,14-24,58,10,20,30,17,4,3,10,19,64
 20260827_TOR_SEA,"Thursday, August 27, 2026",Toronto Tempo,Seattle Storm,TOR,26-70,37,4-26,15,22-28,79,13,30,43,14,7,1,16,15,78
 20260827_TOR_SEA,"Thursday, August 27, 2026",Seattle Storm,Toronto Tempo,SEA,35-79,44,6-27,22,14-18,78,10,27,37,25,13,8,10,19,90
-20260828_GS_NY,"Friday, August 28, 2026",Golden State Valkyries,New York Liberty,GS,,42,,35,,,,,,,,,,,0
-20260828_GS_NY,"Friday, August 28, 2026",New York Liberty,Golden State Valkyries,NY,,47,,35,,,,,,,,,,,0
-20260828_WSH_PHX,"Friday, August 28, 2026",Washington Mystics,Phoenix Mercury,WSH,,45,,31,,,,,,,,,,,0
-20260828_WSH_PHX,"Friday, August 28, 2026",Phoenix Mercury,Washington Mystics,PHX,,44,,32,,,,,,,,,,,0
+20260828_GS_NY,"Friday, August 28, 2026",Golden State Valkyries,New York Liberty,GS,30-71,42,13-33,39,6-8,75,8,31,39,23,4,2,7,16,79
+20260828_GS_NY,"Friday, August 28, 2026",New York Liberty,Golden State Valkyries,NY,19-63,30,7-31,23,15-19,79,9,23,32,14,3,6,9,13,60
+20260828_WSH_PHX,"Friday, August 28, 2026",Washington Mystics,Phoenix Mercury,WSH,29-61,48,7-17,41,15-19,79,6,29,35,20,6,4,16,20,80
+20260828_WSH_PHX,"Friday, August 28, 2026",Phoenix Mercury,Washington Mystics,PHX,27-66,41,5-17,29,14-18,78,5,24,29,18,10,5,15,21,73
+20260828_POR_ATL,"Friday, August 28, 2026",Portland Fire,Atlanta Dream,POR,,45,,35,,,,,,,,,,,0
+20260828_POR_ATL,"Friday, August 28, 2026",Atlanta Dream,Portland Fire,ATL,,44,,32,,,,,,,,,,,0
+20260828_CON_IND,"Friday, August 28, 2026",Connecticut Sun,Indiana Fever,CON,,42,,29,,,,,,,,,,,0
+20260828_CON_IND,"Friday, August 28, 2026",Indiana Fever,Connecticut Sun,IND,,49,,39,,,,,,,,,,,0
+20260829_TOR_LV,"Saturday, August 29, 2026",Toronto Tempo,Las Vegas Aces,TOR,,44,,35,,,,,,,,,,,0
+20260829_TOR_LV,"Saturday, August 29, 2026",Las Vegas Aces,Toronto Tempo,LV,,48,,36,,,,,,,,,,,0
+20260829_WSH_LA,"Saturday, August 29, 2026",Washington Mystics,Los Angeles Sparks,WSH,,45,,31,,,,,,,,,,,0
+20260829_WSH_LA,"Saturday, August 29, 2026",Los Angeles Sparks,Washington Mystics,LA,,46,,33,,,,,,,,,,,0
