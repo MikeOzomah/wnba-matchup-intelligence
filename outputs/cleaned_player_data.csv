@@ -7354,3 +7354,95 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260830_TOR_PHX,"Sunday, August 30, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Kara Dunn,G,19,3-8,3-5,0-0,2.0,0.0,2.0,1.0,0.0,0.0,0.0,3.0,9.0,4.0,3.0,8.0,3.0,5.0,0.0,0.0,1.125,0.3333333333333333,999.0
 20260830_TOR_PHX,"Sunday, August 30, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Kahleah Copper,G,,,,,,,,,,,,,,,,,,,,,,,
 20260830_TOR_PHX,"Sunday, August 30, 2026",regular_season,Phoenix Mercury,Toronto Tempo,Kelsey Plum,G,,,,,,,,,,,,,,,,,,,,,,,
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Natasha Howard,F,31,3-6,0-1,3-4,3.0,4.0,7.0,7.0,4.0,2.0,4.0,2.0,9.0,-9.0,3.0,6.0,0.0,1.0,3.0,4.0,0.5,2.3333333333333335,1.75
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Napheesa Collier,F,35,5-15,2-5,5-6,2.0,5.0,7.0,2.0,2.0,1.0,1.0,2.0,17.0,-16.0,5.0,15.0,2.0,5.0,5.0,6.0,0.7333333333333333,0.4,2.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Kayla McBride,G,37,7-16,2-6,1-2,1.0,2.0,3.0,3.0,3.0,0.0,0.0,2.0,17.0,-4.0,7.0,16.0,2.0,6.0,1.0,2.0,0.4375,0.42857142857142855,999.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Courtney Williams,G,31,5-12,1-1,0-0,0.0,3.0,3.0,4.0,3.0,0.0,3.0,4.0,11.0,-4.0,5.0,12.0,1.0,1.0,0.0,0.0,0.25,0.8,1.333
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Olivia Miles,G,30,7-14,1-3,6-7,0.0,5.0,5.0,0.0,1.0,0.0,2.0,3.0,21.0,-19.0,7.0,14.0,1.0,3.0,6.0,7.0,0.6428571428571429,0.0,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Nia Coffey,F,18,0-0,0-0,0-0,0.0,4.0,4.0,1.0,1.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,999.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Chloe Bibby,F,6,1-2,0-1,0-0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,-1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Liatu King,F,1,1-1,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Anastasiia Olairi Kosu,F,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Maya Caldwell,G,10,1-4,0-2,0-0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Eliska Joklova,G,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Naz Hillmon,F,30,3-9,1-5,0-0,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,7.0,21.0,3.0,9.0,1.0,5.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.25
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Angel Reese,F,33,5-9,0-0,5-8,3.0,8.0,11.0,2.0,2.0,1.0,5.0,5.0,15.0,15.0,5.0,9.0,0.0,0.0,5.0,8.0,0.5555555555555556,0.4,0.4
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Allisha Gray,G,35,8-16,6-11,1-1,1.0,10.0,11.0,2.0,3.0,0.0,2.0,2.0,23.0,17.0,8.0,16.0,6.0,11.0,1.0,1.0,1.1875,0.25,1.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Jordin Canada,G,36,6-12,2-6,2-3,0.0,4.0,4.0,10.0,0.0,1.0,2.0,2.0,16.0,5.0,6.0,12.0,2.0,6.0,2.0,3.0,0.6666666666666666,1.6666666666666667,5.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Rhyne Howard,G,35,6-16,2-9,2-2,0.0,1.0,1.0,3.0,2.0,1.0,0.0,3.0,16.0,5.0,6.0,16.0,2.0,9.0,2.0,2.0,0.5,0.5,999.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,DeWanna Bonner,F,17,3-5,1-3,0-0,2.0,2.0,4.0,2.0,1.0,0.0,2.0,1.0,7.0,-14.0,3.0,5.0,1.0,3.0,0.0,0.0,0.6,0.6666666666666666,1.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Sika Kone,F,1,0-1,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Madina Okot,C,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Shatori Walker-Kimbrough,G,1,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Te-Hina Paopao,G,4,0-1,0-1,0-0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,999.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Isobel Borlase,G,8,2-2,1-1,0-0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,0.0,5.0,-6.0,2.0,2.0,1.0,1.0,0.0,0.0,1.5,0.0,0.0
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Indya Nivar,G,,,,,,,,,,,,,,,,,,,,,,,
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Nneka Ogwumike,F,29,9-17,4-7,1-1,1.0,11.0,12.0,3.0,2.0,0.0,1.0,0.0,23.0,25.0,9.0,17.0,4.0,7.0,1.0,1.0,0.7647058823529411,0.3333333333333333,3.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Dearica Hamby,F,24,3-7,0-0,0-0,1.0,10.0,11.0,2.0,4.0,0.0,2.0,2.0,6.0,11.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.6666666666666666,1.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Erica Wheeler,G,19,3-4,3-4,0-0,0.0,0.0,0.0,4.0,1.0,1.0,0.0,2.0,9.0,31.0,3.0,4.0,3.0,4.0,0.0,0.0,2.25,1.3333333333333333,999.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Ariel Atkins,G,17,2-4,0-1,0-0,0.0,2.0,2.0,2.0,1.0,1.0,0.0,3.0,4.0,15.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0,1.0,999.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Rae Burrell,G,28,7-18,0-6,8-8,1.0,3.0,4.0,3.0,1.0,0.0,4.0,1.0,22.0,29.0,7.0,18.0,0.0,6.0,8.0,8.0,0.4444444444444444,0.42857142857142855,0.75
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Cameron Brink,F,28,3-15,1-6,4-4,1.0,5.0,6.0,2.0,1.0,2.0,4.0,3.0,11.0,-4.0,3.0,15.0,1.0,6.0,4.0,4.0,0.4666666666666667,0.6666666666666666,0.5
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Tonie Morgan,G,17,1-2,0-1,1-2,0.0,2.0,2.0,4.0,1.0,0.0,2.0,2.0,3.0,-9.0,1.0,2.0,0.0,1.0,1.0,2.0,0.5,4.0,2.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Chance Gray,G,17,2-3,2-3,0-0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,6.0,-13.0,2.0,3.0,2.0,3.0,0.0,0.0,2.0,0.5,999.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Monique Akoa Makani,G,22,2-3,2-3,0-0,1.0,2.0,3.0,2.0,0.0,1.0,3.0,2.0,6.0,-5.0,2.0,3.0,2.0,3.0,0.0,0.0,2.0,1.0,0.667
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Emma Cannon,F,,,,,,,,,,,,,,,,,,,,,,,
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Jihyun Park,F,,,,,,,,,,,,,,,,,,,,,,,
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Los Angeles Sparks,Seattle Storm,Aaliyah Nye,G,,,,,,,,,,,,,,,,,,,,,,,
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Ezi Magbegor,F,28,3-8,1-2,2-2,1.0,4.0,5.0,1.0,3.0,1.0,2.0,2.0,9.0,-29.0,3.0,8.0,1.0,2.0,2.0,2.0,0.625,0.3333333333333333,0.5
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Jordan Horston,F,13,1-4,0-0,1-2,2.0,2.0,4.0,1.0,2.0,0.0,2.0,2.0,3.0,-19.0,1.0,4.0,0.0,0.0,1.0,2.0,0.25,1.0,0.5
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Dominique Malonga,C,34,8-21,0-4,1-1,5.0,10.0,15.0,3.0,0.0,2.0,1.0,0.0,17.0,-19.0,8.0,21.0,0.0,4.0,1.0,1.0,0.047619047619047616,0.375,3.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Flau'jae Johnson,G,29,7-18,1-4,4-4,1.0,2.0,3.0,2.0,1.0,0.0,5.0,5.0,19.0,-24.0,7.0,18.0,1.0,4.0,4.0,4.0,0.3888888888888889,0.2857142857142857,0.4
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Jade Melbourne,G,22,1-6,1-3,2-2,0.0,1.0,1.0,3.0,1.0,0.0,1.0,0.0,5.0,-26.0,1.0,6.0,1.0,3.0,2.0,2.0,0.8333333333333334,3.0,3.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Katie Lou Samuelson,F,17,1-4,0-3,2-2,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,4.0,1.0,1.0,4.0,0.0,3.0,2.0,2.0,0.5,2.0,999.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Mackenzie Holmes,F,3,1-2,0-0,1-2,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,3.0,4.0,1.0,2.0,0.0,0.0,1.0,2.0,0.5,0.0,0.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Taylor Thierry,F,12,0-0,0-0,0-0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Stefanie Dolson,C,14,0-2,0-2,0-0,0.0,5.0,5.0,3.0,0.0,0.0,1.0,5.0,0.0,12.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,,3.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Awa Fam,C,--,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Zia Cooke,G,26,6-17,1-4,1-3,1.0,3.0,4.0,2.0,3.0,1.0,3.0,1.0,14.0,3.0,6.0,17.0,1.0,4.0,1.0,3.0,0.23529411764705882,0.3333333333333333,0.667
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Taina Mair,G,2,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260830_LA_SEA,"Sunday, August 30, 2026",regular_season,Seattle Storm,Los Angeles Sparks,Natisha Hiedeman,G,,,,,,,,,,,,,,,,,,,,,,,
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Kayla Thornton,F,25,5-8,3-5,4-4,1.0,1.0,2.0,2.0,1.0,1.0,0.0,2.0,17.0,24.0,5.0,8.0,3.0,5.0,4.0,4.0,1.625,0.4,999.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Kiah Stokes,C,12,0-0,0-0,0-0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,999.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Tiffany Hayes,G,21,7-12,2-5,2-2,1.0,5.0,6.0,3.0,2.0,0.0,2.0,2.0,18.0,21.0,7.0,12.0,2.0,5.0,2.0,2.0,0.6666666666666666,0.42857142857142855,1.5
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Kaila Charles,G,30,3-9,0-3,5-6,1.0,7.0,8.0,5.0,1.0,1.0,3.0,3.0,11.0,20.0,3.0,9.0,0.0,3.0,5.0,6.0,0.5555555555555556,1.6666666666666667,1.667
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Veronica Burton,G,29,3-8,1-5,4-4,1.0,5.0,6.0,6.0,2.0,1.0,1.0,0.0,11.0,27.0,3.0,8.0,1.0,5.0,4.0,4.0,0.875,2.0,6.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Laeticia Amihere,F,21,4-6,0-1,0-0,0.0,2.0,2.0,1.0,2.0,0.0,3.0,2.0,8.0,-2.0,4.0,6.0,0.0,1.0,0.0,0.0,0.0,0.25,0.333
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Ashten Prechtel,F,5,0-1,0-0,0-0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,-3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Nadia Fingall,C,4,0-1,0-1,2-2,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,-3.0,0.0,1.0,0.0,1.0,2.0,2.0,2.0,,0.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Miela Sowah,G,4,1-2,0-1,0-0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-3.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Kaitlyn Chen,G,27,5-8,3-5,2-3,0.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,15.0,12.0,5.0,8.0,3.0,5.0,2.0,3.0,1.375,0.2,1.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Golden State Valkyries,Portland Fire,Juste Jocyte,G,21,1-6,0-3,0-0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,-11.0,1.0,6.0,0.0,3.0,0.0,0.0,0.0,1.0,1.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Bridget Carleton,F,30,3-11,2-8,3-3,2.0,3.0,5.0,0.0,0.0,0.0,2.0,3.0,11.0,-16.0,3.0,11.0,2.0,8.0,3.0,3.0,0.8181818181818182,0.0,0.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Emily Engstler,F,23,4-6,2-4,2-2,2.0,2.0,4.0,1.0,2.0,0.0,4.0,1.0,12.0,-12.0,4.0,6.0,2.0,4.0,2.0,2.0,1.3333333333333333,0.25,0.25
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Nyadiew Puoch,F,22,2-6,2-5,0-0,0.0,3.0,3.0,2.0,0.0,1.0,0.0,3.0,6.0,-17.0,2.0,6.0,2.0,5.0,0.0,0.0,1.0,1.0,999.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Megan DiLeo,C,24,6-10,0-3,0-1,1.0,2.0,3.0,1.0,0.0,0.0,1.0,1.0,12.0,-11.0,6.0,10.0,0.0,3.0,0.0,1.0,0.0,0.16666666666666666,1.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Teja Oblak,G,22,2-8,1-5,0-0,1.0,3.0,4.0,7.0,1.0,0.0,3.0,1.0,5.0,-17.0,2.0,8.0,1.0,5.0,0.0,0.0,0.375,3.5,2.333
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Amy Okonkwo,F,10,2-4,2-4,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,-13.0,2.0,4.0,2.0,4.0,0.0,0.0,1.5,0.0,0.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Serah Williams,C,14,3-4,0-0,2-3,2.0,3.0,5.0,0.0,0.0,0.0,0.0,1.0,8.0,1.0,3.0,4.0,0.0,0.0,2.0,3.0,0.5,0.0,0.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Karlie Samuelson,G,16,0-4,0-4,0-0,0.0,2.0,2.0,1.0,3.0,0.0,0.0,2.0,0.0,-4.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,,999.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Holly Winterburn,G,19,1-4,0-2,0-0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,2.0,4.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,1.0,999.0
+20260830_GS_POR,"Sunday, August 30, 2026",regular_season,Portland Fire,Golden State Valkyries,Jordan Harrison,G,18,1-5,1-4,4-4,0.0,2.0,2.0,6.0,1.0,0.0,5.0,2.0,7.0,0.0,1.0,5.0,1.0,4.0,4.0,4.0,1.4,6.0,1.2
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Aaliyah Edwards,F,28,8-16,2-3,8-9,4.0,2.0,6.0,0.0,2.0,0.0,2.0,5.0,26.0,-22.0,8.0,16.0,2.0,3.0,8.0,9.0,0.875,0.0,0.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Diamond Miller,F,31,2-14,0-6,4-5,1.0,3.0,4.0,1.0,1.0,1.0,1.0,3.0,8.0,-20.0,2.0,14.0,0.0,6.0,4.0,5.0,0.2857142857142857,0.5,1.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Nell Angloma,F,21,0-2,0-1,2-4,4.0,2.0,6.0,4.0,0.0,0.0,1.0,4.0,2.0,-6.0,0.0,2.0,0.0,1.0,2.0,4.0,1.0,,4.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Saniya Rivers,G,26,4-11,0-2,0-2,1.0,2.0,3.0,4.0,1.0,0.0,1.0,1.0,8.0,-19.0,4.0,11.0,0.0,2.0,0.0,2.0,0.0,1.0,4.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Charlisse Leger-Walker,G,29,6-14,5-9,0-0,0.0,0.0,0.0,5.0,0.0,1.0,1.0,2.0,17.0,-19.0,6.0,14.0,5.0,9.0,0.0,0.0,1.0714285714285714,0.8333333333333334,5.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Raegan Beers,F,22,2-5,0-0,0-0,1.0,4.0,5.0,0.0,1.0,0.0,1.0,5.0,4.0,-11.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Hailey Van Lith,G,17,1-3,0-1,2-2,1.0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,4.0,-17.0,1.0,3.0,0.0,1.0,2.0,2.0,0.6666666666666666,2.0,999.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Gianna Kneepkens,G,12,1-4,0-2,0-0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,3.0,2.0,-1.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Ashlon Jackson,G,14,0-4,0-3,0-0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-15.0,0.0,4.0,0.0,3.0,0.0,0.0,0.0,,0.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Connecticut Sun,Dallas Wings,Rayah Marshall,C,,,,,,,,,,,,,,,,,,,,,,,
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Jessica Shepard,F,25,4-6,0-0,9-11,2.0,8.0,10.0,4.0,1.0,0.0,5.0,2.0,17.0,19.0,4.0,6.0,0.0,0.0,9.0,11.0,1.5,1.0,0.8
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Alanna Smith,F,17,2-4,0-1,3-4,1.0,1.0,2.0,0.0,0.0,0.0,0.0,4.0,7.0,8.0,2.0,4.0,0.0,1.0,3.0,4.0,0.75,0.0,0.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Awak Kuier,F,20,1-2,0-0,2-2,0.0,8.0,8.0,1.0,0.0,3.0,0.0,2.0,4.0,18.0,1.0,2.0,0.0,0.0,2.0,2.0,1.0,1.0,999.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Arike Ogunbowale,G,23,6-12,3-5,3-3,0.0,4.0,4.0,3.0,0.0,0.0,0.0,0.0,18.0,10.0,6.0,12.0,3.0,5.0,3.0,3.0,1.0,0.5,999.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Paige Bueckers,G,25,6-13,1-3,2-2,1.0,1.0,2.0,6.0,1.0,0.0,1.0,1.0,15.0,27.0,6.0,13.0,1.0,3.0,2.0,2.0,0.38461538461538464,1.0,6.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Alysha Clark,F,19,3-3,2-2,0-2,1.0,4.0,5.0,1.0,0.0,0.0,0.0,3.0,8.0,18.0,3.0,3.0,2.0,2.0,0.0,2.0,2.0,0.3333333333333333,999.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Maddy Siegrist,F,16,5-7,1-2,0-0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,11.0,15.0,5.0,7.0,1.0,2.0,0.0,0.0,0.42857142857142855,0.2,999.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Li Yueru,C,13,0-1,0-0,3-4,0.0,2.0,2.0,1.0,0.0,2.0,3.0,2.0,3.0,4.0,0.0,1.0,0.0,0.0,3.0,4.0,3.0,,0.333
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Odyssey Sims,G,3,0-0,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Sug Sutton,G,11,1-3,0-1,0-0,0.0,3.0,3.0,1.0,0.0,0.0,0.0,2.0,2.0,2.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,999.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Christyn Williams,G,5,0-2,0-1,1-2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-2.0,0.0,2.0,0.0,1.0,1.0,2.0,0.5,,0.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Aziaha James,G,13,4-7,1-1,0-0,1.0,1.0,2.0,2.0,3.0,0.0,1.0,1.0,9.0,13.0,4.0,7.0,1.0,1.0,0.0,0.0,0.42857142857142855,0.5,2.0
+20260831_CON_DAL,"Monday, August 31, 2026",regular_season,Dallas Wings,Connecticut Sun,Haley Jones,G,7,1-3,0-0,0-0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

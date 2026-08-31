@@ -597,11 +597,11 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260829_CHI_NY,"Saturday, August 29, 2026",New York Liberty,Chicago Sky,NY,27-70,39,11-27,41,20-22,91,8,36,44,17,5,8,11,20,85
 20260830_TOR_PHX,"Sunday, August 30, 2026",Toronto Tempo,Phoenix Mercury,TOR,23-62,37,4-22,18,19-23,83,7,25,32,17,4,3,16,12,69
 20260830_TOR_PHX,"Sunday, August 30, 2026",Phoenix Mercury,Toronto Tempo,PHX,37-77,48,15-34,44,12-13,92,10,25,35,27,12,3,7,19,101
-20260830_MIN_ATL,"Sunday, August 30, 2026",Minnesota Lynx,Atlanta Dream,MIN,,48,,39,,,,,,,,,,,0
-20260830_MIN_ATL,"Sunday, August 30, 2026",Atlanta Dream,Minnesota Lynx,ATL,,44,,32,,,,,,,,,,,0
-20260830_LA_SEA,"Sunday, August 30, 2026",Los Angeles Sparks,Seattle Storm,LA,,47,,33,,,,,,,,,,,0
-20260830_LA_SEA,"Sunday, August 30, 2026",Seattle Storm,Los Angeles Sparks,SEA,,43,,32,,,,,,,,,,,0
-20260830_GS_POR,"Sunday, August 30, 2026",Golden State Valkyries,Portland Fire,GS,,42,,35,,,,,,,,,,,0
-20260830_GS_POR,"Sunday, August 30, 2026",Portland Fire,Golden State Valkyries,POR,,45,,35,,,,,,,,,,,0
-20260831_CON_DAL,"Monday, August 31, 2026",Connecticut Sun,Dallas Wings,CON,,43,,29,,,,,,,,,,,0
-20260831_CON_DAL,"Monday, August 31, 2026",Dallas Wings,Connecticut Sun,DAL,,47,,34,,,,,,,,,,,0
+20260830_MIN_ATL,"Sunday, August 30, 2026",Minnesota Lynx,Atlanta Dream,MIN,30-70,43,6-19,32,15-19,79,6,26,32,17,14,4,11,14,81
+20260830_MIN_ATL,"Sunday, August 30, 2026",Atlanta Dream,Minnesota Lynx,ATL,33-71,46,13-36,36,10-14,71,8,29,37,21,8,3,18,14,89
+20260830_LA_SEA,"Sunday, August 30, 2026",Los Angeles Sparks,Seattle Storm,LA,32-73,44,12-31,39,14-15,93,5,35,40,23,12,5,16,16,90
+20260830_LA_SEA,"Sunday, August 30, 2026",Seattle Storm,Los Angeles Sparks,SEA,28-82,34,4-22,18,14-18,78,14,29,43,17,11,4,16,19,74
+20260830_GS_POR,"Sunday, August 30, 2026",Golden State Valkyries,Portland Fire,GS,29-61,48,9-29,31,19-21,90,8,23,31,20,9,4,11,12,86
+20260830_GS_POR,"Sunday, August 30, 2026",Portland Fire,Golden State Valkyries,POR,24-62,39,10-39,26,11-13,85,9,20,29,19,8,1,15,17,69
+20260831_CON_DAL,"Monday, August 31, 2026",Connecticut Sun,Dallas Wings,CON,24-73,33,7-27,26,16-22,73,12,17,29,16,6,3,7,23,71
+20260831_CON_DAL,"Monday, August 31, 2026",Dallas Wings,Connecticut Sun,DAL,33-63,52,8-16,50,23-30,77,6,35,41,20,5,5,10,20,97
