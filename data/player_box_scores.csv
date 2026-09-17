@@ -35,7 +35,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260502_TOR_MIN,"Saturday, May 02, 2026",preseason,Toronto Tempo,Minnesota Lynx,Aaliyah Nye,G,20,1-5,1-5,2-3,0,3,3,2,1,0,1,3,5,-12
 20260502_TOR_MIN,"Saturday, May 02, 2026",preseason,Toronto Tempo,Minnesota Lynx,Nikolina Milic,F,,,,,,,,,,,,,,
 20260502_TOR_MIN,"Saturday, May 02, 2026",preseason,Minnesota Lynx,Toronto Tempo,Natasha Howard,F,13,0-5,0-0,0-0,1,1,2,2,0,0,0,2,0,-6
-20260502_TOR_MIN,"Saturday, May 02, 2026",preseason,Minnesota Lynx,Toronto Tempo,Nia Coffey,F,17,4-6,1-2,0-0,1,3,4,0,0,0,0,0,9,+2
+20260502_TOR_MIN,"Saturday, May 02, 2026",preseason,Minnesota Lynx,Toronto Tempo,Nia Brodie,F,17,4-6,1-2,0-0,1,3,4,0,0,0,0,0,9,+2
 20260502_TOR_MIN,"Saturday, May 02, 2026",preseason,Minnesota Lynx,Toronto Tempo,Kayla McBride,G,21,4-7,0-0,5-7,0,3,3,1,1,0,1,0,13,0
 20260502_TOR_MIN,"Saturday, May 02, 2026",preseason,Minnesota Lynx,Toronto Tempo,Courtney Williams,G,17,0-5,0-0,0-0,0,5,5,6,1,0,4,1,0,-2
 20260502_TOR_MIN,"Saturday, May 02, 2026",preseason,Minnesota Lynx,Toronto Tempo,Olivia Miles,G,28,5-13,0-1,3-5,1,5,6,2,0,0,2,2,13,+1
@@ -315,7 +315,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260510_ATL_MIN,"Sunday, May 10, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Aaliyah Nye,G,,,,,,,,,,,,,,
 20260510_ATL_MIN,"Sunday, May 10, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Indya Nivar,G,,,,,,,,,,,,,,
 20260510_ATL_MIN,"Sunday, May 10, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Natasha Howard,F,20,3-6,0-1,0-4,4,1,5,2,1,0,5,6,6,+3
-20260510_ATL_MIN,"Sunday, May 10, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Nia Coffey,F,31,1-4,1-3,0-0,0,3,3,1,1,3,0,2,3,-8
+20260510_ATL_MIN,"Sunday, May 10, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Nia Brodie,F,31,1-4,1-3,0-0,0,3,3,1,1,3,0,2,3,-8
 20260510_ATL_MIN,"Sunday, May 10, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Kayla McBride,G,33,7-13,2-6,4-5,0,2,2,2,1,0,1,0,20,-6
 20260510_ATL_MIN,"Sunday, May 10, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Courtney Williams,G,32,7-18,0-4,0-0,0,6,6,6,3,0,2,1,14,-8
 20260510_ATL_MIN,"Sunday, May 10, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Olivia Miles,G,34,6-14,1-2,8-8,0,3,3,8,2,2,3,3,21,0
@@ -468,7 +468,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260513_ATL_DAL,"Wednesday, May 13, 2026",regular_season,Dallas Wings,Atlanta Dream,Li Yueru,C,,,,,,,,,,,,,,
 20260513_ATL_DAL,"Wednesday, May 13, 2026",regular_season,Dallas Wings,Atlanta Dream,JJ Quinerly,G,,,,,,,,,,,,,,
 20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Natasha Howard,F,29,6-9,0-0,2-6,4,7,11,2,1,0,4,4,14,+8
-20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Nia Coffey,F,21,5-7,3-4,0-0,1,9,10,0,0,1,1,6,13,+3
+20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Nia Brodie,F,21,5-7,3-4,0-0,1,9,10,0,0,1,1,6,13,+3
 20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Kayla McBride,G,33,4-10,2-6,4-4,0,2,2,3,1,0,3,1,14,+4
 20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Courtney Williams,G,30,4-13,1-4,2-3,0,3,3,5,2,2,1,2,11,+7
 20260513_MIN_PHX,"Wednesday, May 13, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Olivia Miles,G,26,5-10,0-2,3-4,0,6,6,7,0,0,2,4,13,+6
@@ -607,7 +607,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260514_IND_LA,"Thursday, May 14, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Emma Cannon,F,,,,,,,,,,,,,,
 20260514_IND_LA,"Thursday, May 14, 2026",regular_season,Los Angeles Sparks,Indiana Fever,Jihyun Park,F,,,,,,,,,,,,,,
 20260515_MIN_DAL,"Friday, May 15, 2026",regular_season,Minnesota Lynx,Dallas Wings,Natasha Howard,F,35,11-14,0-0,4-6,4,1,5,4,0,3,7,4,26,+11
-20260515_MIN_DAL,"Friday, May 15, 2026",regular_season,Minnesota Lynx,Dallas Wings,Nia Coffey,F,30,5-6,3-3,0-0,0,8,8,1,1,2,1,4,13,+8
+20260515_MIN_DAL,"Friday, May 15, 2026",regular_season,Minnesota Lynx,Dallas Wings,Nia Brodie,F,30,5-6,3-3,0-0,0,8,8,1,1,2,1,4,13,+8
 20260515_MIN_DAL,"Friday, May 15, 2026",regular_season,Minnesota Lynx,Dallas Wings,Kayla McBride,G,34,1-7,0-2,9-11,1,7,8,1,1,1,2,3,11,+6
 20260515_MIN_DAL,"Friday, May 15, 2026",regular_season,Minnesota Lynx,Dallas Wings,Courtney Williams,G,31,9-10,3-4,0-0,0,5,5,3,2,0,1,3,21,+3
 20260515_MIN_DAL,"Friday, May 15, 2026",regular_season,Minnesota Lynx,Dallas Wings,Olivia Miles,G,32,7-12,0-1,1-1,1,1,2,6,0,1,3,2,15,+8
@@ -806,7 +806,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260517_CHI_MIN,"Sunday, May 17, 2026",regular_season,Chicago Sky,Minnesota Lynx,Skylar Diggins,G,,,,,,,,,,,,,,
 20260517_CHI_MIN,"Sunday, May 17, 2026",regular_season,Chicago Sky,Minnesota Lynx,DiJonai Carrington,G,,,,,,,,,,,,,,
 20260517_CHI_MIN,"Sunday, May 17, 2026",regular_season,Minnesota Lynx,Chicago Sky,Natasha Howard,F,29,8-15,0-1,1-4,3,6,9,7,2,0,4,3,17,+3
-20260517_CHI_MIN,"Sunday, May 17, 2026",regular_season,Minnesota Lynx,Chicago Sky,Nia Coffey,F,25,1-4,0-3,0-0,0,3,3,2,0,0,1,5,2,-1
+20260517_CHI_MIN,"Sunday, May 17, 2026",regular_season,Minnesota Lynx,Chicago Sky,Nia Brodie,F,25,1-4,0-3,0-0,0,3,3,2,0,0,1,5,2,-1
 20260517_CHI_MIN,"Sunday, May 17, 2026",regular_season,Minnesota Lynx,Chicago Sky,Kayla McBride,G,40,8-17,2-6,2-2,2,5,7,1,4,1,2,4,20,-7
 20260517_CHI_MIN,"Sunday, May 17, 2026",regular_season,Minnesota Lynx,Chicago Sky,Courtney Williams,G,30,7-19,3-6,0-0,1,4,5,3,0,0,2,1,17,-10
 20260517_CHI_MIN,"Sunday, May 17, 2026",regular_season,Minnesota Lynx,Chicago Sky,Olivia Miles,G,35,4-10,1-4,4-4,1,5,6,2,4,1,4,4,13,+1
@@ -1023,7 +1023,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260522_TOR_MIN,"Friday, May 22, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Temi Fagbenle,C,,,,,,,,,,,,,,
 20260522_TOR_MIN,"Friday, May 22, 2026",regular_season,Toronto Tempo,Minnesota Lynx,Julie Allemand,G,,,,,,,,,,,,,,
 20260522_TOR_MIN,"Friday, May 22, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Natasha Howard,F,22,5-7,0-0,3-4,4,2,6,3,0,0,4,3,13,+20
-20260522_TOR_MIN,"Friday, May 22, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Nia Coffey,F,25,4-4,0-0,0-0,1,2,3,2,1,0,1,1,8,+11
+20260522_TOR_MIN,"Friday, May 22, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Nia Brodie,F,25,4-4,0-0,0-0,1,2,3,2,1,0,1,1,8,+11
 20260522_TOR_MIN,"Friday, May 22, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Kayla McBride,G,23,5-8,1-3,2-3,1,3,4,2,1,0,1,1,13,+19
 20260522_TOR_MIN,"Friday, May 22, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Courtney Williams,G,29,6-15,3-8,0-0,0,8,8,3,0,0,0,2,15,+18
 20260522_TOR_MIN,"Friday, May 22, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Olivia Miles,G,23,6-10,0-1,2-2,0,4,4,5,1,1,2,0,14,+22
@@ -1136,7 +1136,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260523_CON_SEA,"Saturday, May 23, 2026",regular_season,Seattle Storm,Connecticut Sun,Dominique Malonga,C,,,,,,,,,,,,,,
 20260523_CON_SEA,"Saturday, May 23, 2026",regular_season,Seattle Storm,Connecticut Sun,Awa Fam,C,,,,,,,,,,,,,,
 20260523_MIN_CHI,"Saturday, May 23, 2026",regular_season,Minnesota Lynx,Chicago Sky,Natasha Howard,F,33,11-15,0-0,4-5,5,9,14,5,0,0,3,5,26,+16
-20260523_MIN_CHI,"Saturday, May 23, 2026",regular_season,Minnesota Lynx,Chicago Sky,Nia Coffey,F,25,3-11,1-7,1-1,2,5,7,0,0,2,4,3,8,+7
+20260523_MIN_CHI,"Saturday, May 23, 2026",regular_season,Minnesota Lynx,Chicago Sky,Nia Brodie,F,25,3-11,1-7,1-1,2,5,7,0,0,2,4,3,8,+7
 20260523_MIN_CHI,"Saturday, May 23, 2026",regular_season,Minnesota Lynx,Chicago Sky,Kayla McBride,G,35,4-9,2-4,3-3,0,6,6,4,1,0,0,1,13,+11
 20260523_MIN_CHI,"Saturday, May 23, 2026",regular_season,Minnesota Lynx,Chicago Sky,Courtney Williams,G,33,8-18,0-1,1-1,2,6,8,3,3,2,2,3,17,+12
 20260523_MIN_CHI,"Saturday, May 23, 2026",regular_season,Minnesota Lynx,Chicago Sky,Olivia Miles,G,33,4-14,0-2,6-7,1,8,9,5,2,0,5,3,14,+8
@@ -1395,7 +1395,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260528_ATL_MIN,"Thursday, May 28, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Isobel Borlase,G,13,2-4,0-1,0-0,1,0,1,3,0,0,0,0,4,-6
 20260528_ATL_MIN,"Thursday, May 28, 2026",regular_season,Atlanta Dream,Minnesota Lynx,Brionna Jones,F,,,,,,,,,,,,,,
 20260528_ATL_MIN,"Thursday, May 28, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Natasha Howard,F,33,11-16,0-0,0-0,3,5,8,5,2,2,3,4,22,+18
-20260528_ATL_MIN,"Thursday, May 28, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Nia Coffey,F,31,6-10,2-5,0-0,0,5,5,3,1,0,0,2,14,+16
+20260528_ATL_MIN,"Thursday, May 28, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Nia Brodie,F,31,6-10,2-5,0-0,0,5,5,3,1,0,0,2,14,+16
 20260528_ATL_MIN,"Thursday, May 28, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Kayla McBride,G,34,4-10,1-4,3-3,0,2,2,1,3,0,2,1,12,+20
 20260528_ATL_MIN,"Thursday, May 28, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Courtney Williams,G,33,10-15,3-5,2-2,1,2,3,7,1,0,4,1,25,+10
 20260528_ATL_MIN,"Thursday, May 28, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Olivia Miles,G,34,6-10,0-2,4-5,1,4,5,8,1,0,3,4,16,+21
@@ -1552,7 +1552,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Lucy Olsen,G,,,,,,,,,,,,,,
 20260529_LA_WSH,"Friday, May 29, 2026",regular_season,Washington Mystics,Los Angeles Sparks,Alex Wilson,G,,,,,,,,,,,,,,
 20260529_MIN_CHI,"Friday, May 29, 2026",regular_season,Minnesota Lynx,Chicago Sky,Natasha Howard,F,29,6-11,0-1,2-2,2,5,7,3,4,1,3,3,14,+10
-20260529_MIN_CHI,"Friday, May 29, 2026",regular_season,Minnesota Lynx,Chicago Sky,Nia Coffey,F,26,7-12,6-9,0-0,1,7,8,2,1,1,1,0,20,+20
+20260529_MIN_CHI,"Friday, May 29, 2026",regular_season,Minnesota Lynx,Chicago Sky,Nia Brodie,F,26,7-12,6-9,0-0,1,7,8,2,1,1,1,0,20,+20
 20260529_MIN_CHI,"Friday, May 29, 2026",regular_season,Minnesota Lynx,Chicago Sky,Kayla McBride,G,31,3-13,1-7,2-4,1,4,5,2,3,1,1,2,9,+16
 20260529_MIN_CHI,"Friday, May 29, 2026",regular_season,Minnesota Lynx,Chicago Sky,Courtney Williams,G,29,5-10,0-1,0-0,0,4,4,5,1,0,2,4,10,+9
 20260529_MIN_CHI,"Friday, May 29, 2026",regular_season,Minnesota Lynx,Chicago Sky,Olivia Miles,G,32,4-10,0-4,9-10,0,6,6,6,2,0,4,2,17,+20
@@ -1724,7 +1724,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,Aziaha James,G,18,7-14,1-2,3-4,2,1,3,1,0,0,0,3,18,+9
 20260602_SEA_DAL,"Tuesday, June 02, 2026",regular_season,Dallas Wings,Seattle Storm,JJ Quinerly,G,,,,,,,,,,,,,,
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Natasha Howard,F,23,5-7,0-0,1-1,1,3,4,3,3,0,2,1,11,+21
-20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Nia Coffey,F,22,3-5,2-4,0-0,1,5,6,2,1,0,0,1,8,+16
+20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Nia Brodie,F,22,3-5,2-4,0-0,1,5,6,2,1,0,0,1,8,+16
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Kayla McBride,G,22,3-7,1-4,0-0,0,0,0,5,1,0,0,2,7,+19
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Courtney Williams,G,29,13-20,3-3,1-1,1,4,5,2,0,1,2,2,30,+20
 20260602_MIN_PHX,"Tuesday, June 02, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Olivia Miles,G,28,7-9,0-0,5-5,0,4,4,10,3,0,4,4,19,+23
@@ -1925,7 +1925,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260605_GS_MIN,"Friday, June 05, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Laeticia Amihere,F,,,,,,,,,,,,,,
 20260605_GS_MIN,"Friday, June 05, 2026",regular_season,Golden State Valkyries,Minnesota Lynx,Ndjakalenga Mwenentanda,G,,,,,,,,,,,,,,
 20260605_GS_MIN,"Friday, June 05, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Natasha Howard,F,30,4-12,0-0,4-6,5,5,10,0,0,0,2,3,12,+8
-20260605_GS_MIN,"Friday, June 05, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Nia Coffey,F,35,1-6,1-4,0-0,2,4,6,5,0,3,2,3,3,+3
+20260605_GS_MIN,"Friday, June 05, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Nia Brodie,F,35,1-6,1-4,0-0,2,4,6,5,0,3,2,3,3,+3
 20260605_GS_MIN,"Friday, June 05, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Kayla McBride,G,32,4-13,3-6,3-3,2,6,8,2,2,0,2,0,14,-1
 20260605_GS_MIN,"Friday, June 05, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Courtney Williams,G,34,8-18,0-3,1-2,1,6,7,3,1,0,3,2,17,0
 20260605_GS_MIN,"Friday, June 05, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Olivia Miles,G,28,9-16,8-11,2-2,0,4,4,7,0,3,1,5,28,+14
@@ -2027,7 +2027,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260606_SEA_MIN,"Saturday, June 06, 2026",regular_season,Seattle Storm,Minnesota Lynx,Ezi Magbegor,F,,,,,,,,,,,,,,
 20260606_SEA_MIN,"Saturday, June 06, 2026",regular_season,Seattle Storm,Minnesota Lynx,Lexie Brown,G,,,,,,,,,,,,,,
 20260606_SEA_MIN,"Saturday, June 06, 2026",regular_season,Minnesota Lynx,Seattle Storm,Natasha Howard,F,30,12-16,0-1,3-4,4,1,5,1,3,2,2,2,27,+22
-20260606_SEA_MIN,"Saturday, June 06, 2026",regular_season,Minnesota Lynx,Seattle Storm,Nia Coffey,F,27,2-6,2-6,0-0,2,6,8,5,3,2,1,1,6,+9
+20260606_SEA_MIN,"Saturday, June 06, 2026",regular_season,Minnesota Lynx,Seattle Storm,Nia Brodie,F,27,2-6,2-6,0-0,2,6,8,5,3,2,1,1,6,+9
 20260606_SEA_MIN,"Saturday, June 06, 2026",regular_season,Minnesota Lynx,Seattle Storm,Kayla McBride,G,23,3-12,2-8,3-3,0,2,2,3,1,0,1,1,11,+18
 20260606_SEA_MIN,"Saturday, June 06, 2026",regular_season,Minnesota Lynx,Seattle Storm,Courtney Williams,G,27,5-13,1-3,0-0,0,5,5,7,2,0,2,1,11,+17
 20260606_SEA_MIN,"Saturday, June 06, 2026",regular_season,Minnesota Lynx,Seattle Storm,Olivia Miles,G,33,9-14,1-3,0-1,3,3,6,6,1,0,1,3,19,+19
@@ -2275,7 +2275,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260610_DAL_MIN,"Wednesday, June 10, 2026",regular_season,Dallas Wings,Minnesota Lynx,Awak Kuier,F,,,,,,,,,,,,,,
 20260610_DAL_MIN,"Wednesday, June 10, 2026",regular_season,Dallas Wings,Minnesota Lynx,Odyssey Sims,G,,,,,,,,,,,,,,
 20260610_DAL_MIN,"Wednesday, June 10, 2026",regular_season,Minnesota Lynx,Dallas Wings,Natasha Howard,F,29,8-10,1-1,4-4,0,4,4,4,3,1,4,4,21,+21
-20260610_DAL_MIN,"Wednesday, June 10, 2026",regular_season,Minnesota Lynx,Dallas Wings,Nia Coffey,F,25,3-10,0-3,0-0,1,7,8,1,0,0,0,1,6,+10
+20260610_DAL_MIN,"Wednesday, June 10, 2026",regular_season,Minnesota Lynx,Dallas Wings,Nia Brodie,F,25,3-10,0-3,0-0,1,7,8,1,0,0,0,1,6,+10
 20260610_DAL_MIN,"Wednesday, June 10, 2026",regular_season,Minnesota Lynx,Dallas Wings,Kayla McBride,G,30,7-10,4-6,4-4,1,4,5,4,0,0,0,1,22,+13
 20260610_DAL_MIN,"Wednesday, June 10, 2026",regular_season,Minnesota Lynx,Dallas Wings,Courtney Williams,G,31,8-14,0-0,0-0,0,8,8,2,3,0,2,1,16,+21
 20260610_DAL_MIN,"Wednesday, June 10, 2026",regular_season,Minnesota Lynx,Dallas Wings,Olivia Miles,G,31,7-10,2-3,8-8,0,7,7,6,1,1,4,1,24,+18
@@ -2532,7 +2532,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Gianna Kneepkens,G,,,,,,,,,,,,,,
 20260613_IND_CON,"Saturday, June 13, 2026",regular_season,Connecticut Sun,Indiana Fever,Ashlon Jackson,G,,,,,,,,,,,,,,
 20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Natasha Howard,F,32,8-12,0-0,6-6,5,4,9,2,4,1,2,6,22,+1
-20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Nia Coffey,F,26,1-2,1-2,0-0,2,1,3,2,0,2,0,2,3,0
+20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Nia Brodie,F,26,1-2,1-2,0-0,2,1,3,2,0,2,0,2,3,0
 20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Kayla McBride,G,34,6-14,3-8,4-4,0,2,2,5,2,0,0,3,19,-4
 20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Courtney Williams,G,33,8-19,1-3,0-0,0,5,5,4,0,0,1,1,17,-3
 20260614_MIN_LV,"Sunday, June 14, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Olivia Miles,G,34,11-20,3-6,4-4,0,4,4,1,1,0,6,3,29,-3
@@ -2686,7 +2686,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Portland Fire,Minnesota Lynx,Teja Oblak,G,17,4-7,1-2,0-0,2,4,6,5,0,0,3,3,9,-8
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Portland Fire,Minnesota Lynx,Karlie Samuelson,G,,,,,,,,,,,,,,
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Minnesota Lynx,Portland Fire,Natasha Howard,F,26,6-11,0-0,6-11,3,3,6,1,2,0,2,2,18,+18
-20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Minnesota Lynx,Portland Fire,Nia Coffey,F,21,6-9,3-4,0-2,2,3,5,4,3,3,0,0,15,+16
+20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Minnesota Lynx,Portland Fire,Nia Brodie,F,21,6-9,3-4,0-2,2,3,5,4,3,3,0,0,15,+16
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Minnesota Lynx,Portland Fire,Kayla McBride,G,25,5-14,1-4,3-3,3,3,6,4,2,0,4,2,14,+27
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Minnesota Lynx,Portland Fire,Courtney Williams,G,24,7-10,2-3,0-0,1,4,5,4,0,0,2,0,16,+26
 20260616_POR_MIN,"Tuesday, June 16, 2026",regular_season,Minnesota Lynx,Portland Fire,Olivia Miles,G,23,6-8,0-2,0-0,0,4,4,5,3,0,3,3,12,+21
@@ -2820,7 +2820,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260618_DAL_GS,"Thursday, June 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Nadia Fingall,C,,,,,,,,,,,,,,
 20260618_DAL_GS,"Thursday, June 18, 2026",regular_season,Golden State Valkyries,Dallas Wings,Juste Jocyte,G,,,,,,,,,,,,,,
 20260618_MIN_LA,"Thursday, June 18, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Natasha Howard,F,29,6-13,0-0,3-5,4,5,9,2,1,1,2,4,15,+14
-20260618_MIN_LA,"Thursday, June 18, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Nia Coffey,F,29,3-6,1-2,0-0,1,5,6,2,5,1,1,5,7,+20
+20260618_MIN_LA,"Thursday, June 18, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Nia Brodie,F,29,3-6,1-2,0-0,1,5,6,2,5,1,1,5,7,+20
 20260618_MIN_LA,"Thursday, June 18, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Kayla McBride,G,25,6-12,2-6,0-0,1,3,4,0,3,0,1,3,14,+5
 20260618_MIN_LA,"Thursday, June 18, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Courtney Williams,G,26,6-11,1-2,0-0,0,1,1,5,0,0,3,3,13,+10
 20260618_MIN_LA,"Thursday, June 18, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Olivia Miles,G,26,12-15,2-3,5-6,0,4,4,4,0,0,5,2,31,+12
@@ -2966,7 +2966,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Raquel Carrera,F,,,,,,,,,,,,,,
 20260619_WSH_NY,"Friday, June 19, 2026",regular_season,New York Liberty,Washington Mystics,Rebecca Allen,G,,,,,,,,,,,,,,
 20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Natasha Howard,F,28,5-10,0-0,0-0,4,4,8,4,0,1,1,6,10,0
-20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Nia Coffey,F,33,7-11,3-4,5-6,3,3,6,3,0,1,1,1,22,+7
+20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Nia Brodie,F,33,7-11,3-4,5-6,3,3,6,3,0,1,1,1,22,+7
 20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Kayla McBride,G,34,7-12,1-3,2-3,0,3,3,2,1,0,0,3,17,+5
 20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Courtney Williams,G,36,6-16,2-2,7-7,2,10,12,5,1,2,2,0,21,+6
 20260620_MIN_GS,"Saturday, June 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Olivia Miles,G,32,1-10,0-4,5-5,0,5,5,4,3,3,6,4,7,+2
@@ -3090,7 +3090,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260621_WSH_MIN,"Sunday, June 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Cassandre Prosper,G,,,,,,,,,,,,,,
 20260621_WSH_MIN,"Sunday, June 21, 2026",regular_season,Washington Mystics,Minnesota Lynx,Alicia Florez,G,,,,,,,,,,,,,,
 20260621_WSH_MIN,"Sunday, June 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Natasha Howard,F,36,9-15,0-1,2-2,3,3,6,2,5,0,5,5,20,-5
-20260621_WSH_MIN,"Sunday, June 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Nia Coffey,F,31,2-6,1-5,0-0,1,7,8,2,2,4,0,4,5,-7
+20260621_WSH_MIN,"Sunday, June 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Nia Brodie,F,31,2-6,1-5,0-0,1,7,8,2,2,4,0,4,5,-7
 20260621_WSH_MIN,"Sunday, June 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Kayla McBride,G,36,3-11,1-6,5-5,0,2,2,4,0,0,2,5,12,-3
 20260621_WSH_MIN,"Sunday, June 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Courtney Williams,G,32,5-15,1-3,2-2,2,2,4,3,2,0,1,2,13,-2
 20260621_WSH_MIN,"Sunday, June 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Olivia Miles,G,32,9-18,1-4,3-3,1,4,5,6,0,2,4,5,22,-10
@@ -3278,7 +3278,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260624_PHX_IND,"Wednesday, June 24, 2026",regular_season,Indiana Fever,Phoenix Mercury,Grace VanSlooten,F,,,,,,,,,,,,,,
 20260624_PHX_IND,"Wednesday, June 24, 2026",regular_season,Indiana Fever,Phoenix Mercury,Damiris Dantas,C,,,,,,,,,,,,,,
 20260624_MIN_WSH,"Wednesday, June 24, 2026",regular_season,Minnesota Lynx,Washington Mystics,Natasha Howard,F,36,7-13,0-1,7-8,3,12,15,3,2,1,4,5,21,+7
-20260624_MIN_WSH,"Wednesday, June 24, 2026",regular_season,Minnesota Lynx,Washington Mystics,Nia Coffey,F,23,2-6,1-5,0-0,1,4,5,5,2,1,1,6,5,-3
+20260624_MIN_WSH,"Wednesday, June 24, 2026",regular_season,Minnesota Lynx,Washington Mystics,Nia Brodie,F,23,2-6,1-5,0-0,1,4,5,5,2,1,1,6,5,-3
 20260624_MIN_WSH,"Wednesday, June 24, 2026",regular_season,Minnesota Lynx,Washington Mystics,Kayla McBride,G,38,7-18,5-14,0-0,1,5,6,2,1,0,4,3,19,+10
 20260624_MIN_WSH,"Wednesday, June 24, 2026",regular_season,Minnesota Lynx,Washington Mystics,Courtney Williams,G,25,2-9,0-2,1-2,0,2,2,3,0,1,0,1,5,-3
 20260624_MIN_WSH,"Wednesday, June 24, 2026",regular_season,Minnesota Lynx,Washington Mystics,Olivia Miles,G,35,6-18,1-6,8-12,1,3,4,5,1,1,1,3,21,+6
@@ -3568,7 +3568,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Ezi Magbegor,F,,,,,,,,,,,,,,
 20260628_ATL_SEA,"Sunday, June 28, 2026",regular_season,Seattle Storm,Atlanta Dream,Jordan Horston,F,,,,,,,,,,,,,,
 20260628_MIN_DAL,"Sunday, June 28, 2026",regular_season,Minnesota Lynx,Dallas Wings,Natasha Howard,F,36,9-17,0-0,3-4,4,10,14,2,3,1,0,2,21,+13
-20260628_MIN_DAL,"Sunday, June 28, 2026",regular_season,Minnesota Lynx,Dallas Wings,Nia Coffey,F,34,3-7,2-3,1-2,3,5,8,2,2,1,0,3,9,+4
+20260628_MIN_DAL,"Sunday, June 28, 2026",regular_season,Minnesota Lynx,Dallas Wings,Nia Brodie,F,34,3-7,2-3,1-2,3,5,8,2,2,1,0,3,9,+4
 20260628_MIN_DAL,"Sunday, June 28, 2026",regular_season,Minnesota Lynx,Dallas Wings,Kayla McBride,G,38,6-16,4-10,1-1,0,1,1,2,0,0,1,2,17,+6
 20260628_MIN_DAL,"Sunday, June 28, 2026",regular_season,Minnesota Lynx,Dallas Wings,Courtney Williams,G,36,5-16,1-5,1-2,0,5,5,4,2,1,2,2,12,+6
 20260628_MIN_DAL,"Sunday, June 28, 2026",regular_season,Minnesota Lynx,Dallas Wings,Olivia Miles,G,34,6-13,1-4,8-8,1,2,3,8,1,1,5,2,21,+13
@@ -3757,7 +3757,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260703_SEA_PHX,"Friday, July 03, 2026",regular_season,Phoenix Mercury,Seattle Storm,Noemie Brochant,F,,,,,,,,,,,,,,
 20260703_SEA_PHX,"Friday, July 03, 2026",regular_season,Phoenix Mercury,Seattle Storm,Sami Whitcomb,G,,,,,,,,,,,,,,
 20260703_MIN_NY,"Friday, July 03, 2026",regular_season,Minnesota Lynx,New York Liberty,Natasha Howard,F,31,3-10,0-0,1-1,2,4,6,2,0,0,0,4,7,-23
-20260703_MIN_NY,"Friday, July 03, 2026",regular_season,Minnesota Lynx,New York Liberty,Nia Coffey,F,28,2-11,1-6,2-2,1,4,5,3,1,1,1,0,7,-13
+20260703_MIN_NY,"Friday, July 03, 2026",regular_season,Minnesota Lynx,New York Liberty,Nia Brodie,F,28,2-11,1-6,2-2,1,4,5,3,1,1,1,0,7,-13
 20260703_MIN_NY,"Friday, July 03, 2026",regular_season,Minnesota Lynx,New York Liberty,Kayla McBride,G,33,7-16,4-9,0-0,1,0,1,1,3,0,3,1,18,-17
 20260703_MIN_NY,"Friday, July 03, 2026",regular_season,Minnesota Lynx,New York Liberty,Courtney Williams,G,25,7-13,2-4,0-0,2,3,5,3,0,0,2,3,16,-19
 20260703_MIN_NY,"Friday, July 03, 2026",regular_season,Minnesota Lynx,New York Liberty,Olivia Miles,G,26,5-16,0-4,4-4,4,1,5,5,1,0,1,3,14,-4
@@ -3928,7 +3928,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260707_CON_MIN,"Tuesday, July 07, 2026",regular_season,Connecticut Sun,Minnesota Lynx,Aneesah Morrow,F,,,,,,,,,,,,,,
 20260707_CON_MIN,"Tuesday, July 07, 2026",regular_season,Connecticut Sun,Minnesota Lynx,Raegan Beers,F,,,,,,,,,,,,,,
 20260707_CON_MIN,"Tuesday, July 07, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Natasha Howard,F,26,6-10,0-1,6-7,3,3,6,4,0,2,2,5,18,0
-20260707_CON_MIN,"Tuesday, July 07, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Nia Coffey,F,20,0-6,0-4,2-2,0,4,4,3,0,3,0,3,2,+3
+20260707_CON_MIN,"Tuesday, July 07, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Nia Brodie,F,20,0-6,0-4,2-2,0,4,4,3,0,3,0,3,2,+3
 20260707_CON_MIN,"Tuesday, July 07, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Kayla McBride,G,38,10-19,4-8,4-5,0,3,3,2,0,1,6,2,28,+2
 20260707_CON_MIN,"Tuesday, July 07, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Courtney Williams,G,36,10-21,3-6,0-0,2,7,9,6,3,0,2,3,23,-2
 20260707_CON_MIN,"Tuesday, July 07, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Maya Caldwell,G,13,0-2,0-2,2-2,1,1,2,3,0,0,1,1,2,-8
@@ -4035,7 +4035,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260708_GS_TOR,"Wednesday, July 08, 2026",regular_season,Toronto Tempo,Golden State Valkyries,Brittney Sykes,G,,,,,,,,,,,,,,
 20260708_GS_TOR,"Wednesday, July 08, 2026",regular_season,Toronto Tempo,Golden State Valkyries,Kiki Rice,G,,,,,,,,,,,,,,
 20260708_MIN_CON,"Wednesday, July 08, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Natasha Howard,F,31,4-10,0-1,4-6,3,7,10,2,1,3,3,2,12,0
-20260708_MIN_CON,"Wednesday, July 08, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Nia Coffey,F,14,0-2,0-1,1-4,0,1,1,0,0,1,1,4,1,-8
+20260708_MIN_CON,"Wednesday, July 08, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Nia Brodie,F,14,0-2,0-1,1-4,0,1,1,0,0,1,1,4,1,-8
 20260708_MIN_CON,"Wednesday, July 08, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Kayla McBride,G,38,6-10,2-2,9-9,1,3,4,4,2,1,0,2,23,+9
 20260708_MIN_CON,"Wednesday, July 08, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Courtney Williams,G,30,6-13,0-3,0-0,0,4,4,7,2,0,5,1,12,-6
 20260708_MIN_CON,"Wednesday, July 08, 2026",regular_season,Minnesota Lynx,Connecticut Sun,Maya Caldwell,G,17,2-6,2-5,0-0,1,1,2,1,1,0,0,2,6,-1
@@ -4244,7 +4244,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Satou Sabally,F,,,,,,,,,,,,,,
 20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,New York Liberty,Minnesota Lynx,Leonie Fiebich,F,,,,,,,,,,,,,,
 20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Natasha Howard,F,36,5-9,1-1,5-6,5,4,9,2,2,0,2,3,16,-1
-20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Nia Coffey,F,28,1-2,1-2,0-0,1,4,5,5,0,2,2,4,3,+9
+20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Nia Brodie,F,28,1-2,1-2,0-0,1,4,5,5,0,2,2,4,3,+9
 20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Kayla McBride,G,33,8-17,5-11,4-4,1,3,4,2,4,0,0,4,25,+1
 20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Courtney Williams,G,36,5-17,2-3,0-0,5,7,12,1,0,0,3,2,12,+7
 20260711_NY_MIN,"Saturday, July 11, 2026",regular_season,Minnesota Lynx,New York Liberty,Olivia Miles,G,32,6-16,4-7,7-10,1,4,5,4,1,0,2,3,23,+1
@@ -4429,7 +4429,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Natasha Mack,F,,,,,,,,,,,,,,
 20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Phoenix Mercury,Minnesota Lynx,Kyara Linskens,C,,,,,,,,,,,,,,
 20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Natasha Howard,F,35,5-11,0-2,3-4,0,3,3,7,2,0,4,3,13,+4
-20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Nia Coffey,F,30,2-4,1-3,0-0,0,3,3,0,1,2,0,0,5,+3
+20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Nia Brodie,F,30,2-4,1-3,0-0,0,3,3,0,1,2,0,0,5,+3
 20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Kayla McBride,G,35,11-17,6-11,9-9,0,6,6,1,4,2,2,2,37,-3
 20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Courtney Williams,G,35,3-7,0-3,2-2,3,4,7,3,2,0,0,4,8,+9
 20260714_PHX_MIN,"Tuesday, July 14, 2026",regular_season,Minnesota Lynx,Phoenix Mercury,Olivia Miles,G,31,10-16,5-8,8-9,0,3,3,8,0,0,5,5,33,+10
@@ -4531,7 +4531,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260715_LA_MIN,"Wednesday, July 15, 2026",regular_season,Los Angeles Sparks,Minnesota Lynx,Kelsey Plum,G,,,,,,,,,,,,,,
 20260715_LA_MIN,"Wednesday, July 15, 2026",regular_season,Los Angeles Sparks,Minnesota Lynx,Kate Martin,G,,,,,,,,,,,,,,
 20260715_LA_MIN,"Wednesday, July 15, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Natasha Howard,F,32,5-8,0-0,0-0,3,7,10,6,3,1,2,2,10,+8
-20260715_LA_MIN,"Wednesday, July 15, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Nia Coffey,F,29,3-6,2-4,0-0,1,4,5,2,1,2,1,1,8,-2
+20260715_LA_MIN,"Wednesday, July 15, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Nia Brodie,F,29,3-6,2-4,0-0,1,4,5,2,1,2,1,1,8,-2
 20260715_LA_MIN,"Wednesday, July 15, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Kayla McBride,G,31,8-16,2-8,6-7,0,1,1,1,1,0,1,1,24,+13
 20260715_LA_MIN,"Wednesday, July 15, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Courtney Williams,G,35,7-13,1-4,4-5,0,2,2,4,1,0,3,1,19,-3
 20260715_LA_MIN,"Wednesday, July 15, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Olivia Miles,G,26,7-14,1-4,3-4,1,3,4,5,3,0,0,3,18,-1
@@ -4731,7 +4731,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Portland Fire,Minnesota Lynx,Karlie Samuelson,G,,,,,,,,,,,,,,
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Portland Fire,Minnesota Lynx,Holly Winterburn,G,,,,,,,,,,,,,,
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Minnesota Lynx,Portland Fire,Natasha Howard,F,25,7-8,0-0,2-2,1,6,7,3,1,3,0,0,16,+10
-20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Minnesota Lynx,Portland Fire,Nia Coffey,F,20,4-8,1-4,0-1,1,2,3,1,0,0,0,2,9,+5
+20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Minnesota Lynx,Portland Fire,Nia Brodie,F,20,4-8,1-4,0-1,1,2,3,1,0,0,0,2,9,+5
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Minnesota Lynx,Portland Fire,Kayla McBride,G,32,9-14,4-8,2-3,0,3,3,0,0,0,2,2,24,+8
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Minnesota Lynx,Portland Fire,Courtney Williams,G,32,6-12,1-3,2-2,0,2,2,7,2,0,2,0,15,+12
 20260719_POR_MIN,"Sunday, July 19, 2026",regular_season,Minnesota Lynx,Portland Fire,Olivia Miles,G,34,5-14,2-3,2-3,0,4,4,10,0,4,2,4,14,+2
@@ -4909,7 +4909,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Nadia Fingall,C,,,,,,,,,,,,,,
 20260721_WSH_GS,"Tuesday, July 21, 2026",regular_season,Golden State Valkyries,Washington Mystics,Juste Jocyte,G,,,,,,,,,,,,,,
 20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Natasha Howard,F,24,3-8,0-0,0-0,7,5,12,3,3,0,4,5,6,+10
-20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Nia Coffey,F,28,1-4,1-3,0-0,0,1,1,1,1,0,0,2,3,+11
+20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Nia Brodie,F,28,1-4,1-3,0-0,0,1,1,1,1,0,0,2,3,+11
 20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Kayla McBride,G,32,9-16,6-10,9-9,0,2,2,0,2,0,1,1,33,+6
 20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Courtney Williams,G,33,8-13,1-2,4-4,0,4,4,3,2,0,2,2,21,+1
 20260721_MIN_SEA,"Tuesday, July 21, 2026",regular_season,Minnesota Lynx,Seattle Storm,Olivia Miles,G,36,13-24,1-4,5-5,1,7,8,8,1,0,1,4,32,+10
@@ -4959,7 +4959,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Kayla McBride,G,36,6-14,3-6,5-5,2,1,3,2,3,1,0,1,20,+9
 20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Courtney Williams,G,20,0-5,0-2,0-0,2,3,5,6,1,0,2,5,0,+9
 20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Olivia Miles,G,31,5-15,0-1,3-4,0,3,3,6,2,0,3,2,13,+9
-20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Nia Coffey,F,16,3-5,1-2,0-0,0,2,2,3,0,0,1,1,7,+3
+20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Nia Brodie,F,16,3-5,1-2,0-0,0,2,2,3,0,0,1,1,7,+3
 20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Dorka Juhasz,F,16,1-5,1-3,0-0,0,2,2,0,1,1,0,0,3,-7
 20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Antonia Delaere,F,3,0-1,0-0,0-0,0,0,0,0,1,0,0,1,0,-1
 20260722_MIN_SEA,"Wednesday, July 22, 2026",regular_season,Minnesota Lynx,Seattle Storm,Maya Caldwell,G,28,2-4,2-3,2-2,5,1,6,2,1,0,1,2,8,+6
@@ -5115,7 +5115,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260729_TOR_MIN,"Wednesday, July 29, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Kayla McBride,G,35,6-10,4-7,2-2,0,1,1,4,3,0,0,3,18,+9
 20260729_TOR_MIN,"Wednesday, July 29, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Courtney Williams,G,26,2-11,1-2,0-0,0,4,4,4,0,0,1,2,5,+6
 20260729_TOR_MIN,"Wednesday, July 29, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Olivia Miles,G,32,9-17,4-5,2-2,2,4,6,8,1,0,3,2,24,+7
-20260729_TOR_MIN,"Wednesday, July 29, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Nia Coffey,F,14,0-1,0-0,0-0,0,4,4,1,2,0,0,1,0,-1
+20260729_TOR_MIN,"Wednesday, July 29, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Nia Brodie,F,14,0-1,0-0,0-0,0,4,4,1,2,0,0,1,0,-1
 20260729_TOR_MIN,"Wednesday, July 29, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Dorka Juhasz,F,15,1-2,0-1,0-2,0,1,1,2,0,1,3,1,2,-1
 20260729_TOR_MIN,"Wednesday, July 29, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Antonia Delaere,F,9,4-5,4-5,0-0,0,1,1,0,0,0,0,0,12,-3
 20260729_TOR_MIN,"Wednesday, July 29, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Maya Caldwell,G,13,3-4,1-2,0-0,1,1,2,0,0,0,1,3,7,+4
@@ -5241,7 +5241,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Kayla McBride,G,24,5-11,3-7,0-0,0,0,0,3,2,0,0,2,13,+25
 20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Courtney Williams,G,25,6-11,1-4,3-4,2,1,3,5,0,0,0,2,16,+25
 20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Olivia Miles,G,23,6-15,0-2,4-5,1,2,3,0,2,0,0,1,16,+14
-20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Nia Coffey,F,6,1-1,1-1,0-0,0,0,0,2,0,0,1,1,3,+4
+20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Nia Brodie,F,6,1-1,1-1,0-0,0,0,0,2,0,0,1,1,3,+4
 20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Dorka Juhasz,F,22,4-8,4-7,0-0,1,4,5,2,1,1,1,1,12,+13
 20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Antonia Delaere,F,16,3-5,1-2,0-0,0,2,2,3,0,0,1,2,7,+7
 20260731_MIN_TOR,"Friday, July 31, 2026",regular_season,Minnesota Lynx,Toronto Tempo,Anastasiia Olairi Kosu,F,7,1-2,1-1,0-0,0,0,0,0,0,0,1,1,3,+4
@@ -5450,7 +5450,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260802_IND_MIN,"Sunday, August 02, 2026",regular_season,Minnesota Lynx,Indiana Fever,Kayla McBride,G,29,4-10,2-6,0-0,1,2,3,1,0,0,1,1,10,+6
 20260802_IND_MIN,"Sunday, August 02, 2026",regular_season,Minnesota Lynx,Indiana Fever,Courtney Williams,G,34,12-20,2-4,1-2,1,3,4,5,0,0,0,2,27,+18
 20260802_IND_MIN,"Sunday, August 02, 2026",regular_season,Minnesota Lynx,Indiana Fever,Olivia Miles,G,32,11-14,3-6,3-3,0,4,4,6,0,1,3,5,28,-1
-20260802_IND_MIN,"Sunday, August 02, 2026",regular_season,Minnesota Lynx,Indiana Fever,Nia Coffey,F,15,2-4,0-1,0-0,1,1,2,0,1,0,0,1,4,-6
+20260802_IND_MIN,"Sunday, August 02, 2026",regular_season,Minnesota Lynx,Indiana Fever,Nia Brodie,F,15,2-4,0-1,0-0,1,1,2,0,1,0,0,1,4,-6
 20260802_IND_MIN,"Sunday, August 02, 2026",regular_season,Minnesota Lynx,Indiana Fever,Dorka Juhasz,F,11,1-1,0-0,0-0,0,1,1,1,2,1,0,1,2,-10
 20260802_IND_MIN,"Sunday, August 02, 2026",regular_season,Minnesota Lynx,Indiana Fever,Antonia Delaere,F,9,0-2,0-1,0-0,0,0,0,1,0,0,0,0,0,+3
 20260802_IND_MIN,"Sunday, August 02, 2026",regular_season,Minnesota Lynx,Indiana Fever,Maya Caldwell,G,17,1-3,1-2,3-4,4,3,7,2,0,0,1,1,6,-2
@@ -5764,7 +5764,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260807_LA_MIN,"Friday, August 07, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Kayla McBride,G,34,5-13,3-8,2-2,0,0,0,1,0,0,2,2,15,-1
 20260807_LA_MIN,"Friday, August 07, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Courtney Williams,G,34,5-12,1-3,1-1,1,7,8,0,1,1,1,2,12,+3
 20260807_LA_MIN,"Friday, August 07, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Olivia Miles,G,34,8-16,3-6,4-4,1,7,8,5,2,0,5,3,23,+1
-20260807_LA_MIN,"Friday, August 07, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Nia Coffey,F,13,1-2,1-2,0-2,2,0,2,0,0,0,0,2,3,+6
+20260807_LA_MIN,"Friday, August 07, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Nia Brodie,F,13,1-2,1-2,0-2,2,0,2,0,0,0,0,2,3,+6
 20260807_LA_MIN,"Friday, August 07, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Dorka Juhasz,F,8,0-2,0-2,0-0,0,0,0,1,0,0,0,0,0,-12
 20260807_LA_MIN,"Friday, August 07, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Antonia Delaere,F,6,0-1,0-1,0-0,0,0,0,0,0,0,0,1,0,-6
 20260807_LA_MIN,"Friday, August 07, 2026",regular_season,Minnesota Lynx,Los Angeles Sparks,Maya Caldwell,G,8,0-2,0-2,0-0,2,0,2,1,0,0,0,2,0,-12
@@ -5889,7 +5889,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Kayla McBride,G,35,4-12,4-8,3-3,1,3,4,0,2,0,0,2,15,+7
 20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Courtney Williams,G,33,6-11,1-2,0-0,1,6,7,7,2,1,2,5,13,+17
 20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Olivia Miles,G,35,11-23,3-7,1-1,0,4,4,7,1,0,5,2,26,+11
-20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Nia Coffey,F,7,0-1,0-1,0-0,0,3,3,0,1,0,2,3,0,+3
+20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Nia Brodie,F,7,0-1,0-1,0-0,0,3,3,0,1,0,2,3,0,+3
 20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Dorka Juhasz,F,10,1-2,1-2,0-0,0,1,1,1,0,0,0,1,3,+4
 20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Antonia Delaere,F,5,0-0,0-0,0-0,0,1,1,0,0,0,0,0,0,+3
 20260808_LV_MIN,"Saturday, August 08, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Maya Caldwell,G,12,1-2,0-1,0-0,0,0,0,0,1,0,0,1,2,-5
@@ -6005,7 +6005,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260809_DAL_MIN,"Sunday, August 09, 2026",regular_season,Minnesota Lynx,Dallas Wings,Kayla McBride,G,32,16-21,10-14,1-1,1,0,1,1,1,0,2,0,43,+16
 20260809_DAL_MIN,"Sunday, August 09, 2026",regular_season,Minnesota Lynx,Dallas Wings,Courtney Williams,G,31,1-8,0-4,1-2,0,3,3,7,1,0,0,4,3,+15
 20260809_DAL_MIN,"Sunday, August 09, 2026",regular_season,Minnesota Lynx,Dallas Wings,Olivia Miles,G,34,7-12,5-8,1-2,0,1,1,13,1,0,4,2,20,+15
-20260809_DAL_MIN,"Sunday, August 09, 2026",regular_season,Minnesota Lynx,Dallas Wings,Nia Coffey,F,14,2-5,0-3,0-0,1,3,4,1,1,0,0,0,4,-1
+20260809_DAL_MIN,"Sunday, August 09, 2026",regular_season,Minnesota Lynx,Dallas Wings,Nia Brodie,F,14,2-5,0-3,0-0,1,3,4,1,1,0,0,0,4,-1
 20260809_DAL_MIN,"Sunday, August 09, 2026",regular_season,Minnesota Lynx,Dallas Wings,Dorka Juhasz,F,9,0-2,0-2,0-0,0,0,0,0,0,0,0,0,0,-2
 20260809_DAL_MIN,"Sunday, August 09, 2026",regular_season,Minnesota Lynx,Dallas Wings,Antonia Delaere,F,8,0-3,0-3,0-0,0,0,0,0,1,0,0,0,0,+8
 20260809_DAL_MIN,"Sunday, August 09, 2026",regular_season,Minnesota Lynx,Dallas Wings,Maya Caldwell,G,10,1-2,0-0,0-2,1,1,2,1,1,0,1,1,2,-4
@@ -6200,7 +6200,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Minnesota Lynx,Portland Fire,Kayla McBride,G,32,6-10,3-7,4-4,0,1,1,2,4,1,0,1,19,+8
 20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Minnesota Lynx,Portland Fire,Courtney Williams,G,30,4-9,1-3,1-2,0,1,1,4,0,0,1,1,10,+13
 20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Minnesota Lynx,Portland Fire,Olivia Miles,G,35,3-13,1-3,6-7,1,4,5,7,0,1,2,5,13,+6
-20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Minnesota Lynx,Portland Fire,Nia Coffey,F,13,1-6,0-2,0-0,1,1,2,1,1,0,0,0,2,-11
+20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Minnesota Lynx,Portland Fire,Nia Brodie,F,13,1-6,0-2,0-0,1,1,2,1,1,0,0,0,2,-11
 20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Minnesota Lynx,Portland Fire,Dorka Juhasz,F,7,1-2,0-1,0-0,0,2,2,1,0,0,0,0,2,-2
 20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Minnesota Lynx,Portland Fire,Antonia Delaere,F,8,1-2,0-1,0-0,0,1,1,0,0,0,0,1,2,-4
 20260813_MIN_POR,"Thursday, August 13, 2026",regular_season,Minnesota Lynx,Portland Fire,Maya Caldwell,G,13,1-3,1-1,0-0,0,1,1,1,0,0,1,3,3,-4
@@ -6400,7 +6400,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260816_MIN_LV,"Sunday, August 16, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Kayla McBride,G,33,3-6,2-5,5-5,1,2,3,1,4,0,1,3,13,+9
 20260816_MIN_LV,"Sunday, August 16, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Courtney Williams,G,29,5-14,0-3,2-2,1,1,2,1,2,0,4,3,12,0
 20260816_MIN_LV,"Sunday, August 16, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Olivia Miles,G,34,8-15,3-8,4-4,0,4,4,8,1,0,5,2,23,+1
-20260816_MIN_LV,"Sunday, August 16, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Nia Coffey,F,27,4-5,4-5,0-0,1,3,4,1,1,1,1,3,12,+13
+20260816_MIN_LV,"Sunday, August 16, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Nia Brodie,F,27,4-5,4-5,0-0,1,3,4,1,1,1,1,3,12,+13
 20260816_MIN_LV,"Sunday, August 16, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Dorka Juhasz,F,5,0-1,0-1,0-0,0,1,1,0,0,0,2,2,0,-6
 20260816_MIN_LV,"Sunday, August 16, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Maya Caldwell,G,10,0-0,0-0,0-0,0,1,1,0,0,0,0,0,0,-1
 20260816_MIN_LV,"Sunday, August 16, 2026",regular_season,Minnesota Lynx,Las Vegas Aces,Chloe Bibby,F,,,,,,,,,,,,,,
@@ -6652,7 +6652,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260820_MIN_GS,"Thursday, August 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Kayla McBride,G,36,6-13,3-7,5-6,0,1,1,1,1,0,1,3,20,+6
 20260820_MIN_GS,"Thursday, August 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Courtney Williams,G,29,4-9,1-2,0-0,1,2,3,7,0,0,1,4,9,+9
 20260820_MIN_GS,"Thursday, August 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Olivia Miles,G,30,8-10,3-5,1-2,0,5,5,7,2,2,2,2,20,+9
-20260820_MIN_GS,"Thursday, August 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Nia Coffey,F,15,0-2,0-2,0-0,0,3,3,0,0,0,0,2,0,-1
+20260820_MIN_GS,"Thursday, August 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Nia Brodie,F,15,0-2,0-2,0-0,0,3,3,0,0,0,0,2,0,-1
 20260820_MIN_GS,"Thursday, August 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Dorka Juhasz,F,13,0-1,0-0,0-0,1,3,4,0,0,0,0,1,0,0
 20260820_MIN_GS,"Thursday, August 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Maya Caldwell,G,7,1-2,0-0,0-0,0,0,0,1,0,0,0,0,2,+5
 20260820_MIN_GS,"Thursday, August 20, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Chloe Bibby,F,,,,,,,,,,,,,,
@@ -6739,7 +6739,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260821_ATL_LA,"Friday, August 21, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Chance Gray,G,13,3-4,2-3,0-0,0,0,0,0,0,0,0,0,8,-12
 20260821_ATL_LA,"Friday, August 21, 2026",regular_season,Los Angeles Sparks,Atlanta Dream,Monique Akoa Makani,G,15,1-2,0-1,1-2,0,0,0,2,0,0,2,5,3,-21
 20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Natasha Howard,F,33,10-12,0-0,1-2,2,5,7,5,1,3,0,4,21,+16
-20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Nia Coffey,F,30,3-6,2-4,0-0,0,2,2,1,3,1,0,2,8,+12
+20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Nia Brodie,F,30,3-6,2-4,0-0,0,2,2,1,3,1,0,2,8,+12
 20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Kayla McBride,G,35,6-12,4-8,2-2,1,0,1,3,0,0,1,2,18,+14
 20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Courtney Williams,G,31,5-11,1-3,2-2,1,5,6,8,1,0,0,2,13,+9
 20260821_MIN_WSH,"Friday, August 21, 2026",regular_season,Minnesota Lynx,Washington Mystics,Olivia Miles,G,29,10-22,2-6,2-2,0,3,3,7,3,0,2,5,24,+15
@@ -7005,7 +7005,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260825_GS_MIN,"Tuesday, August 25, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Kayla McBride,G,33,2-11,2-9,6-6,0,4,4,4,0,0,1,1,12,-10
 20260825_GS_MIN,"Tuesday, August 25, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Maya Caldwell,G,25,3-5,3-5,0-0,0,2,2,0,0,0,1,3,9,-11
 20260825_GS_MIN,"Tuesday, August 25, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Olivia Miles,G,28,3-12,1-5,1-2,0,4,4,5,0,0,4,1,8,-12
-20260825_GS_MIN,"Tuesday, August 25, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Nia Coffey,F,15,2-4,1-3,0-0,1,2,3,0,0,2,3,0,5,-15
+20260825_GS_MIN,"Tuesday, August 25, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Nia Brodie,F,15,2-4,1-3,0-0,1,2,3,0,0,2,3,0,5,-15
 20260825_GS_MIN,"Tuesday, August 25, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Chloe Bibby,F,7,2-3,1-2,0-0,0,0,0,0,0,0,2,1,5,+2
 20260825_GS_MIN,"Tuesday, August 25, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Dorka Juhasz,F,10,2-4,1-3,0-0,0,3,3,0,0,1,0,0,5,-4
 20260825_GS_MIN,"Tuesday, August 25, 2026",regular_season,Minnesota Lynx,Golden State Valkyries,Antonia Delaere,F,7,0-2,0-1,0-0,0,1,1,1,0,0,0,0,0,+2
@@ -7359,7 +7359,7 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Kayla McBride,G,37,7-16,2-6,1-2,1,2,3,3,3,0,0,2,17,-4
 20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Courtney Williams,G,31,5-12,1-1,0-0,0,3,3,4,3,0,3,4,11,-4
 20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Olivia Miles,G,30,7-14,1-3,6-7,0,5,5,0,1,0,2,3,21,-19
-20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Nia Coffey,F,18,0-0,0-0,0-0,0,4,4,1,1,0,0,1,0,+3
+20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Nia Brodie,F,18,0-0,0-0,0-0,0,4,4,1,1,0,0,1,0,+3
 20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Chloe Bibby,F,6,1-2,0-1,0-0,0,1,1,0,0,1,1,0,2,-1
 20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Liatu King,F,1,1-1,0-0,0-0,0,0,0,0,0,0,0,0,2,+2
 20260830_MIN_ATL,"Sunday, August 30, 2026",regular_season,Minnesota Lynx,Atlanta Dream,Anastasiia Olairi Kosu,F,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,+2
