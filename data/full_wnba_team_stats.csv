@@ -615,9 +615,15 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260918_PHX_POR,"Friday, September 18, 2026",Portland Fire,Phoenix Mercury,POR,29-62,47,12-30,40,21-28,75,8,17,25,20,12,3,17,24,91
 20260918_LV_SEA,"Friday, September 18, 2026",Las Vegas Aces,Seattle Storm,LV,40-69,58,13-28,46,21-24,88,6,32,38,29,7,6,13,21,114
 20260918_LV_SEA,"Friday, September 18, 2026",Seattle Storm,Las Vegas Aces,SEA,27-71,38,8-27,30,15-19,79,8,20,28,17,9,3,13,21,77
-20260918_IND_TOR,"Friday, September 18, 2026",Indiana Fever,Toronto Tempo,IND,,49,,40,,,,,,,,,,,0
-20260918_IND_TOR,"Friday, September 18, 2026",Toronto Tempo,Indiana Fever,TOR,,44,,35,,,,,,,,,,,0
-20260918_NY_MIN,"Friday, September 18, 2026",New York Liberty,Minnesota Lynx,NY,,46,,35,,,,,,,,,,,0
-20260918_NY_MIN,"Friday, September 18, 2026",Minnesota Lynx,New York Liberty,MIN,,48,,39,,,,,,,,,,,0
-20260919_POR_GS,"Saturday, September 19, 2026",Portland Fire,Golden State Valkyries,POR,,45,,35,,,,,,,,,,,0
-20260919_POR_GS,"Saturday, September 19, 2026",Golden State Valkyries,Portland Fire,GS,,43,,35,,,,,,,,,,,0
+20260918_IND_TOR,"Friday, September 18, 2026",Indiana Fever,Toronto Tempo,IND,36-61,59,15-29,52,16-20,80,3,27,30,26,8,5,11,21,103
+20260918_IND_TOR,"Friday, September 18, 2026",Toronto Tempo,Indiana Fever,TOR,29-67,43,8-23,35,19-30,63,12,22,34,16,7,1,12,21,85
+20260918_NY_MIN,"Friday, September 18, 2026",New York Liberty,Minnesota Lynx,NY,34-74,46,13-29,45,12-16,75,8,29,37,17,12,2,15,22,93
+20260918_NY_MIN,"Friday, September 18, 2026",Minnesota Lynx,New York Liberty,MIN,29-74,39,6-22,27,17-20,85,11,27,38,22,7,8,18,23,81
+20260919_POR_GS,"Saturday, September 19, 2026",Portland Fire,Golden State Valkyries,POR,22-61,36,8-29,28,14-17,82,8,30,38,17,9,2,19,15,66
+20260919_POR_GS,"Saturday, September 19, 2026",Golden State Valkyries,Portland Fire,GS,29-69,42,13-37,35,11-17,65,9,25,34,21,14,7,12,18,82
+20260919_PHX_DAL,"Saturday, September 19, 2026",Phoenix Mercury,Dallas Wings,PHX,0-0,0,0-0,0,0-0,0,0,0,0,0,0,0,0,0,4
+20260919_PHX_DAL,"Saturday, September 19, 2026",Dallas Wings,Phoenix Mercury,DAL,0-0,0,0-0,0,0-0,0,0,0,0,0,0,0,0,0,0
+20260919_CHI_ATL,"Saturday, September 19, 2026",Chicago Sky,Atlanta Dream,CHI,,44,,31,,,,,,,,,,,0
+20260919_CHI_ATL,"Saturday, September 19, 2026",Atlanta Dream,Chicago Sky,ATL,,44,,32,,,,,,,,,,,0
+20260920_SEA_GS,"Sunday, September 20, 2026",Seattle Storm,Golden State Valkyries,SEA,,42,,32,,,,,,,,,,,0
+20260920_SEA_GS,"Sunday, September 20, 2026",Golden State Valkyries,Seattle Storm,GS,,42,,35,,,,,,,,,,,0
