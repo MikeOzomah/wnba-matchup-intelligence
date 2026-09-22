@@ -7461,14 +7461,14 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Connecticut Sun,Atlanta Dream,Leila Lacan,G,,,,,,,,,,,,,,
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Naz Hillmon,F,22,3-8,3-6,0-0,2,4,6,3,1,0,0,1,9,+19
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Angel Reese,F,25,11-14,1-1,7-9,3,7,10,3,0,2,1,2,30,+31
-20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Allisha Gray,G,22,3-9,0-3,4-4,1,5,6,5,0,0,0,2,10,+29
-20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Jordin Canada,G,21,2-5,0-3,1-2,0,0,0,1,2,0,0,0,5,+20
-20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Rhyne Howard,G,28,3-14,1-9,3-4,1,5,6,8,4,1,1,3,10,+25
+20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Allisha Gray,G,22,3-9,0-3,4-4,1,5,6,4,0,0,0,2,10,+29
+20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Jordin Canada,G,21,2-5,0-3,1-2,0,0,0,2,2,0,0,0,5,+20
+20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Rhyne Howard,G,28,3-14,1-9,3-4,1,5,6,7,4,1,1,3,10,+25
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,DeWanna Bonner,F,11,1-3,0-1,0-0,1,4,5,1,0,0,0,1,2,+14
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Sika Kone,F,7,2-3,1-1,0-0,0,2,2,1,0,0,0,1,5,+11
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Madina Okot,C,15,5-7,0-1,0-0,1,2,3,1,1,0,1,2,10,+13
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Shatori Walker-Kimbrough,G,7,2-3,0-0,0-0,0,0,0,2,0,0,1,0,4,+11
-20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Te-Hina Paopao,G,21,4-5,2-3,0-0,1,1,2,2,0,0,0,0,10,+22
+20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Te-Hina Paopao,G,21,4-5,2-3,0-0,1,1,2,3,0,0,0,0,10,+22
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Indya Nivar,G,5,2-2,1-1,0-0,0,0,0,0,0,0,0,1,5,+6
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Isobel Borlase,G,17,1-3,0-1,1-2,0,2,2,3,1,0,0,0,3,+19
 20260917_CON_ATL,"Thursday, September 17, 2026",regular_season,Atlanta Dream,Connecticut Sun,Brionna Jones,F,,,,,,,,,,,,,,
@@ -7690,13 +7690,13 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Naz Hillmon,F,19,0-5,0-2,2-2,2,2,4,4,1,0,0,1,2,+5
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Angel Reese,F,28,9-13,1-2,4-9,0,10,10,4,2,3,6,4,23,+26
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Allisha Gray,G,28,4-7,2-2,7-7,0,3,3,3,3,0,2,3,17,+15
-20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Jordin Canada,G,27,3-6,1-4,4-4,1,1,2,10,2,0,2,1,11,+11
+20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Jordin Canada,G,27,3-6,1-4,4-4,1,1,2,9,2,0,2,1,11,+11
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Rhyne Howard,G,24,5-9,3-6,1-2,0,1,1,4,1,1,0,2,14,+24
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,DeWanna Bonner,F,21,3-7,2-5,0-0,0,4,4,2,0,0,0,1,8,+21
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Sika Kone,F,6,2-4,0-0,0-0,0,2,2,0,0,0,1,3,4,-1
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Madina Okot,C,6,2-5,0-0,0-0,2,3,5,0,1,1,0,2,4,-1
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Shatori Walker-Kimbrough,G,4,0-0,0-0,0-0,0,2,2,0,0,0,2,1,0,0
-20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Te-Hina Paopao,G,17,2-4,1-2,0-0,0,0,0,0,0,0,0,1,5,+9
+20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Te-Hina Paopao,G,17,2-4,1-2,0-0,0,0,0,1,0,0,0,1,5,+9
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Indya Nivar,G,1,0-0,0-0,0-0,0,1,1,1,0,0,0,0,0,+4
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Isobel Borlase,G,19,6-8,3-3,3-4,0,1,1,1,3,0,2,0,18,+12
 20260919_CHI_ATL,"Saturday, September 19, 2026",regular_season,Atlanta Dream,Chicago Sky,Brionna Jones,F,,,,,,,,,,,,,,
@@ -7780,8 +7780,8 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Michaela Onyenwere,F,23,2-6,2-4,0-0,0,1,1,0,0,0,4,4,6,+15
 20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Kiki Iriafen,F,28,9-13,1-2,2-4,6,8,14,1,1,1,2,5,21,+7
 20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Shakira Austin,C,26,7-13,0-1,6-8,2,8,10,5,2,0,3,3,20,+15
-20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Sonia Citron,G,33,7-12,2-3,0-0,0,4,4,9,0,1,3,3,16,+10
-20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Georgia Amoore,G,23,4-6,3-4,0-0,0,1,1,4,1,0,0,4,11,-2
+20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Sonia Citron,G,33,7-12,2-3,0-0,0,4,4,10,0,1,3,3,16,+10
+20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Georgia Amoore,G,23,4-6,3-4,0-0,0,1,1,3,1,0,0,4,11,-2
 20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Angela Dugalic,F,2,1-1,0-0,0-0,0,0,0,0,0,0,0,0,2,+2
 20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Lauren Betts,C,24,2-2,0-0,1-2,0,3,3,2,3,2,2,2,5,+8
 20260920_WSH_IND,"Sunday, September 20, 2026",regular_season,Washington Mystics,Indiana Fever,Betnijah Laney-Hamilton,G,16,1-5,1-3,0-0,2,2,4,2,0,0,0,1,3,-1
@@ -7847,3 +7847,54 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260921_SEA_LV,"Monday, September 21, 2026",regular_season,Las Vegas Aces,Seattle Storm,Ta'Niya Latson,G,3,3-3,1-1,1-1,0,0,0,0,0,0,1,2,8,+2
 20260921_SEA_LV,"Monday, September 21, 2026",regular_season,Las Vegas Aces,Seattle Storm,Mai Yamamoto,G,21,3-6,2-4,0-0,0,1,1,0,1,0,2,2,8,+12
 20260921_SEA_LV,"Monday, September 21, 2026",regular_season,Las Vegas Aces,Seattle Storm,Justine Pissott,G,,,,,,,,,,,,,,
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Naz Hillmon,F,17,3-6,2-5,0-0,1,2,3,1,0,0,0,2,8,+10
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Angel Reese,F,34,7-14,0-3,4-8,1,9,10,2,0,1,0,4,18,+4
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Allisha Gray,G,32,5-8,0-3,4-4,0,3,3,1,2,0,1,2,14,+10
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Jordin Canada,G,34,5-14,1-4,8-8,0,3,3,9,3,0,1,2,19,+13
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Rhyne Howard,G,38,6-16,2-8,2-4,1,5,6,1,1,2,2,5,16,+12
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,DeWanna Bonner,F,29,5-6,2-2,5-6,1,5,6,2,1,0,0,2,17,+8
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Te-Hina Paopao,G,7,1-2,1-2,0-0,0,1,1,0,0,0,0,2,3,+3
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Isobel Borlase,G,8,0-1,0-1,0-0,0,0,0,1,0,0,0,1,0,-5
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Sika Kone,F,,,,,,,,,,,,,,
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Madina Okot,C,,,,,,,,,,,,,,
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Shatori Walker-Kimbrough,G,,,,,,,,,,,,,,
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,Atlanta Dream,New York Liberty,Indya Nivar,G,,,,,,,,,,,,,,
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Breanna Stewart,F,37,11-19,0-1,5-8,2,12,14,4,1,0,4,3,27,-16
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Leonie Fiebich,F,32,0-3,0-3,1-2,0,2,2,6,0,0,0,2,1,-4
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Jonquel Jones,C,35,7-13,2-6,2-4,0,12,12,4,0,0,3,3,18,-10
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Sabrina Ionescu,G,29,3-12,2-7,7-7,0,0,0,2,0,0,2,1,15,-11
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Pauline Astier,G,29,6-9,1-3,2-2,2,2,4,4,1,0,0,6,15,-7
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Han Xu,C,2,1-3,0-0,0-0,2,0,2,1,0,0,0,0,2,-3
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Rebekah Gardner,G,14,1-2,1-1,0-0,0,2,2,0,0,0,1,2,3,-1
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Rebecca Allen,G,11,1-4,1-3,0-0,1,3,4,0,0,0,1,1,3,-1
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Marine Johannes,G,12,0-6,0-5,0-0,0,0,0,2,0,0,0,3,0,-2
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Anneli Maley,F,,,,,,,,,,,,,,
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Raquel Carrera,F,,,,,,,,,,,,,,
+20260922_ATL_NY,"Tuesday, September 22, 2026",regular_season,New York Liberty,Atlanta Dream,Marine Fauthoux,G,,,,,,,,,,,,,,
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Jessica Shepard,F,36,5-15,0-0,7-12,5,14,19,6,0,0,2,2,17,-7
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Maddy Siegrist,F,19,3-9,2-5,1-2,3,0,3,0,0,0,1,1,9,-8
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Awak Kuier,F,28,3-4,2-2,0-0,0,5,5,1,1,5,1,2,8,-8
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Arike Ogunbowale,G,31,2-8,1-6,2-2,1,0,1,2,0,0,2,5,7,+1
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Paige Bueckers,G,33,12-22,4-5,2-2,0,5,5,7,1,0,1,4,30,-1
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Alysha Clark,F,3,1-1,1-1,1-2,0,0,0,0,0,1,0,1,4,+4
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Li Yueru,C,11,2-3,0-0,1-1,1,2,3,1,0,0,0,3,5,+14
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Odyssey Sims,G,21,1-4,0-1,0-0,1,2,3,5,1,0,1,0,2,+2
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Kitija Laksa,G,9,0-4,0-2,0-0,0,1,1,0,0,0,1,1,0,-1
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Aziaha James,G,8,2-4,0-1,0-0,0,2,2,2,0,0,0,2,4,-1
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Alanna Smith,F,,,,,,,,,,,,,,
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Christyn Williams,G,,,,,,,,,,,,,,
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Dallas Wings,Phoenix Mercury,Haley Jones,G,,,,,,,,,,,,,,
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Alyssa Thomas,F,32,7-12,0-0,1-2,1,10,11,12,0,1,3,1,15,+5
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Natasha Mack,F,22,4-6,0-0,4-4,1,3,4,0,0,2,0,4,12,-5
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Noemie Brochant,F,22,1-4,0-2,0-0,1,1,2,1,0,0,1,2,2,+2
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Kahleah Copper,G,34,10-17,1-3,10-13,0,5,5,1,1,1,0,4,31,+10
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Lexi Held,G,19,0-4,0-3,0-0,0,1,1,5,1,1,0,0,0,-3
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Maddy Westbeld,F,14,0-4,0-1,2-2,0,1,1,0,1,0,0,4,2,-2
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Marta Suarez,F,10,0-5,0-2,2-2,1,3,4,0,0,0,0,1,2,0
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Sami Whitcomb,G,15,2-9,1-5,3-3,1,1,2,2,0,0,1,0,8,-6
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Shay Ciezki,G,15,1-2,0-1,2-2,0,0,0,1,0,0,0,0,4,-3
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Kara Dunn,G,17,3-4,3-4,2-2,1,1,2,0,1,0,0,1,11,+7
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Valeriane Ayayi,F,,,,,,,,,,,,,,
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Kyara Linskens,C,,,,,,,,,,,,,,
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Kelsey Plum,G,,,,,,,,,,,,,,
+20260922_DAL_PHX,"Tuesday, September 22, 2026",regular_season,Phoenix Mercury,Dallas Wings,Saylor Poffenbarger,G,,,,,,,,,,,,,,

@@ -637,7 +637,17 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260920_POR_LA,"Sunday, September 20, 2026",Los Angeles Sparks,Portland Fire,LA,33-62,53,14-29,48,25-29,86,9,20,29,24,6,3,16,26,105
 20260921_SEA_LV,"Monday, September 21, 2026",Seattle Storm,Las Vegas Aces,SEA,28-71,39,7-26,27,14-19,74,11,24,35,19,9,3,18,23,77
 20260921_SEA_LV,"Monday, September 21, 2026",Las Vegas Aces,Seattle Storm,LV,32-63,51,11-26,42,23-28,82,3,25,28,20,13,5,13,17,98
-20260922_ATL_NY,"Tuesday, September 22, 2026",Atlanta Dream,New York Liberty,ATL,,44,,33,,,,,,,,,,,0
-20260922_ATL_NY,"Tuesday, September 22, 2026",New York Liberty,Atlanta Dream,NY,,46,,35,,,,,,,,,,,0
-20260922_DAL_PHX,"Tuesday, September 22, 2026",Dallas Wings,Phoenix Mercury,DAL,,47,,34,,,,,,,,,,,0
-20260922_DAL_PHX,"Tuesday, September 22, 2026",Phoenix Mercury,Dallas Wings,PHX,,44,,33,,,,,,,,,,,0
+20260922_ATL_NY,"Tuesday, September 22, 2026",Atlanta Dream,New York Liberty,ATL,32-67,48,8-28,29,23-30,77,4,28,32,17,7,3,4,20,95
+20260922_ATL_NY,"Tuesday, September 22, 2026",New York Liberty,Atlanta Dream,NY,30-71,42,7-29,24,17-23,74,7,33,40,23,2,0,11,21,84
+20260922_DAL_PHX,"Tuesday, September 22, 2026",Dallas Wings,Phoenix Mercury,DAL,31-74,42,10-23,43,14-21,67,11,31,42,24,3,6,9,21,86
+20260922_DAL_PHX,"Tuesday, September 22, 2026",Phoenix Mercury,Dallas Wings,PHX,28-67,42,5-21,24,26-30,87,6,26,32,22,4,5,5,17,87
+20260922_CON_WSH,"Tuesday, September 22, 2026",Connecticut Sun,Washington Mystics,CON,,42,,30,,,,,,,,,,,0
+20260922_CON_WSH,"Tuesday, September 22, 2026",Washington Mystics,Connecticut Sun,WSH,,45,,32,,,,,,,,,,,0
+20260923_MIN_IND,"Wednesday, September 23, 2026",Minnesota Lynx,Indiana Fever,MIN,,48,,38,,,,,,,,,,,0
+20260923_MIN_IND,"Wednesday, September 23, 2026",Indiana Fever,Minnesota Lynx,IND,,49,,39,,,,,,,,,,,0
+20260923_TOR_CHI,"Wednesday, September 23, 2026",Toronto Tempo,Chicago Sky,TOR,,44,,34,,,,,,,,,,,0
+20260923_TOR_CHI,"Wednesday, September 23, 2026",Chicago Sky,Toronto Tempo,CHI,,44,,31,,,,,,,,,,,0
+20260923_LA_LV,"Wednesday, September 23, 2026",Los Angeles Sparks,Las Vegas Aces,LA,,46,,34,,,,,,,,,,,0
+20260923_LA_LV,"Wednesday, September 23, 2026",Las Vegas Aces,Los Angeles Sparks,LV,,48,,36,,,,,,,,,,,0
+20260923_GS_POR,"Wednesday, September 23, 2026",Golden State Valkyries,Portland Fire,GS,,42,,35,,,,,,,,,,,0
+20260923_GS_POR,"Wednesday, September 23, 2026",Portland Fire,Golden State Valkyries,POR,,45,,35,,,,,,,,,,,0
