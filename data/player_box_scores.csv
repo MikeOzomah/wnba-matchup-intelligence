@@ -8028,3 +8028,188 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260923_GS_POR,"Wednesday, September 23, 2026",regular_season,Portland Fire,Golden State Valkyries,Nyadiew Puoch,F,,,,,,,,,,,,,,
 20260923_GS_POR,"Wednesday, September 23, 2026",regular_season,Portland Fire,Golden State Valkyries,Holly Winterburn,G,,,,,,,,,,,,,,
 20260923_GS_POR,"Wednesday, September 23, 2026",regular_season,Portland Fire,Golden State Valkyries,Teja Oblak,G,,,,,,,,,,,,,,
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Naz Hillmon,F,33,6-13,2-8,2-3,2,2,4,2,1,0,0,2,16,+17
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Angel Reese,F,17,2-7,0-1,2-2,4,2,6,3,3,0,0,2,6,+17
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Allisha Gray,G,33,8-17,4-7,4-4,1,3,4,5,3,1,1,1,24,+21
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Jordin Canada,G,26,4-11,2-5,2-2,0,2,2,5,1,0,1,6,12,+21
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Rhyne Howard,G,34,4-12,0-5,0-0,1,3,4,6,2,0,0,4,8,+21
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,DeWanna Bonner,F,26,2-7,2-4,3-4,2,6,8,2,1,0,3,2,9,+4
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Sika Kone,F,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Madina Okot,C,3,1-1,0-0,0-0,1,1,2,0,0,0,0,2,2,-2
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Shatori Walker-Kimbrough,G,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,0,0
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Te-Hina Paopao,G,13,0-4,0-4,0-0,0,0,0,2,0,0,0,1,0,-3
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Indya Nivar,G,1,0-1,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Isobel Borlase,G,12,3-4,0-1,0-0,1,3,4,0,1,0,1,0,6,-6
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Brionna Jones,F,,,,,,,,,,,,,,
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,Atlanta Dream,New York Liberty,Matilde Villa,G,,,,,,,,,,,,,,
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Leonie Fiebich,F,16,0-1,0-1,0-0,2,0,2,0,1,0,3,1,0,-5
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Raquel Carrera,F,28,3-3,1-1,2-2,1,4,5,4,1,0,2,0,9,-25
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Jonquel Jones,C,20,3-7,1-4,3-4,1,13,14,1,0,1,1,1,10,-4
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Sabrina Ionescu,G,23,2-7,1-4,2-2,0,4,4,1,0,1,4,3,7,-15
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Pauline Astier,G,16,2-7,0-2,0-0,1,2,3,2,0,0,3,4,4,-15
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Anneli Maley,F,5,0-0,0-0,2-2,0,0,0,0,0,0,0,1,2,-1
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Han Xu,C,20,4-11,0-4,3-3,1,1,2,0,0,1,1,1,11,+8
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Rebekah Gardner,G,15,1-4,0-2,0-0,0,0,0,0,1,1,1,0,2,-19
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Rebecca Allen,G,22,2-5,2-5,0-0,1,4,5,0,0,1,0,1,6,-8
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Marine Johannes,G,16,0-4,0-3,0-0,0,2,2,3,0,0,1,2,0,-2
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Madison Scott,G,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-5
+20260924_ATL_NY,"Thursday, September 24, 2026",regular_season,New York Liberty,Atlanta Dream,Marine Fauthoux,G,17,3-6,0-3,8-9,0,3,3,4,0,0,2,3,14,+1
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Jessica Shepard,F,33,9-12,0-0,2-4,1,10,11,12,1,0,2,3,20,+16
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Maddy Siegrist,F,28,4-8,2-2,1-1,0,4,4,1,0,0,1,2,11,+20
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Awak Kuier,F,30,5-8,4-6,0-0,2,2,4,2,2,3,2,1,14,+12
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Arike Ogunbowale,G,35,8-15,2-4,5-5,1,3,4,6,2,0,0,1,23,+26
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Paige Bueckers,G,30,9-15,1-2,6-6,0,5,5,7,2,2,2,1,25,+19
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Li Yueru,C,7,0-1,0-0,0-0,1,1,2,1,0,0,2,1,0,-4
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Odyssey Sims,G,10,2-3,0-1,1-1,0,0,0,0,1,0,1,2,5,-7
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Kitija Laksa,G,6,0-3,0-3,0-0,0,0,0,0,0,0,1,2,0,-15
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Christyn Williams,G,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Aziaha James,G,13,1-3,0-0,1-2,2,0,2,3,0,0,2,1,3,-1
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Haley Jones,G,7,1-1,0-0,0-0,1,0,1,0,1,0,0,1,2,-6
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Alysha Clark,F,,,,,,,,,,,,,,
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Dallas Wings,Seattle Storm,Alanna Smith,F,,,,,,,,,,,,,,
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Jordan Horston,F,20,0-4,0-2,0-0,2,2,4,0,0,0,2,2,0,-20
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Dominique Malonga,C,34,11-18,1-3,6-12,1,7,8,0,1,1,3,3,29,-15
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Awa Fam,C,35,8-13,4-7,2-2,2,5,7,0,0,1,0,3,22,+4
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Natisha Hiedeman,G,32,4-7,0-1,2-3,0,0,0,14,2,0,2,3,10,-11
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Flau'jae Johnson,G,35,8-18,0-5,5-6,3,3,6,4,1,0,5,2,21,+4
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Mackenzie Holmes,F,7,0-0,0-0,0-0,1,1,2,2,2,0,0,1,0,+1
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Taylor Thierry,F,12,1-1,1-1,0-0,0,1,1,2,1,0,0,3,3,+3
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Stefanie Dolson,C,4,0-0,0-0,0-0,0,1,1,0,0,0,0,1,0,-14
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Jade Melbourne,G,20,2-7,2-4,0-0,0,1,1,1,1,0,1,1,6,-12
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Katie Lou Samuelson,F,,,,,,,,,,,,,,
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Ezi Magbegor,F,,,,,,,,,,,,,,
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Zia Cooke,G,,,,,,,,,,,,,,
+20260924_DAL_SEA,"Thursday, September 24, 2026",regular_season,Seattle Storm,Dallas Wings,Jaylyn Sherrod,G,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Isabelle Harrison,F,23,7-12,0-1,5-7,2,8,10,0,1,0,4,2,19,0
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Laura Juskaite,F,32,3-15,0-3,9-10,1,6,7,3,4,0,1,3,15,-3
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Kia Nurse,G,29,2-10,2-8,4-4,1,1,2,1,0,0,1,3,10,-3
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Julie Allemand,G,25,0-3,0-3,0-1,0,3,3,5,2,0,2,1,0,+1
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Kiki Rice,G,31,9-20,2-6,8-8,4,4,8,2,1,0,0,1,28,-6
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Teonni Key,F,21,1-2,0-0,0-0,2,3,5,1,0,1,3,3,2,-17
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Zaay Green,G,21,2-9,1-6,0-0,3,0,3,0,0,0,0,2,5,-19
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Ornella Bankole,G,19,1-3,0-2,0-0,1,1,2,1,0,0,1,2,2,-23
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Maria Conde,F,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Nyara Sabally,F,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Aneesah Morrow,F,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Temi Fagbenle,C,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Brittney Sykes,G,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Toronto Tempo,Connecticut Sun,Marina Mabrey,G,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Aaliyah Edwards,F,17,6-11,0-0,4-4,3,1,4,2,1,0,2,1,16,-1
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Diamond Miller,F,17,1-4,1-3,0-2,0,1,1,0,1,0,0,3,3,-4
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Raegan Beers,F,29,6-11,0-1,5-5,4,4,8,1,0,2,0,5,17,+13
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Charlisse Leger-Walker,G,14,3-4,0-1,1-1,0,2,2,1,0,0,1,2,7,+2
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Leila Lacan,G,15,1-4,0-1,0-0,0,2,2,2,1,0,2,2,2,-7
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Nell Angloma,F,27,4-12,0-2,0-0,1,4,5,1,1,0,1,6,8,+19
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Rayah Marshall,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,-2
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Hailey Van Lith,G,28,6-9,0-2,0-0,0,9,9,8,1,0,3,1,12,+21
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Gianna Kneepkens,G,26,4-8,1-3,3-3,2,2,4,2,2,0,3,2,12,+17
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Ashlon Jackson,G,26,6-11,5-9,1-2,0,1,1,2,0,0,0,0,18,+12
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Brittney Griner,C,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Olivia Nelson-Ododa,C,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Kennedy Burke,G,,,,,,,,,,,,,,
+20260924_TOR_CON,"Thursday, September 24, 2026",regular_season,Connecticut Sun,Toronto Tempo,Saniya Rivers,G,,,,,,,,,,,,,,
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Elizabeth Williams,C,28,4-8,0-0,1-2,0,2,2,2,5,1,0,5,9,+1
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Kamilla Cardoso,C,33,6-12,0-0,4-7,5,5,10,4,1,0,2,3,16,-13
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Courtney Vandersloot,G,27,6-8,3-3,1-1,1,2,3,7,2,0,0,2,16,-3
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Sydney Taylor,G,24,5-18,0-7,6-8,0,2,2,4,0,0,1,3,16,-4
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Gabriela Jaquez,G,21,3-7,1-3,1-2,0,4,4,2,0,0,0,1,8,-18
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Rachel Banham,G,20,5-9,2-6,0-0,0,0,0,2,0,0,1,1,12,+4
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Kate Martin,G,9,2-2,1-1,0-0,0,0,0,1,0,0,1,4,5,0
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Jacy Sheldon,G,19,2-5,0-1,0-0,0,2,2,2,1,0,2,2,4,-3
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Morgan Maly,G,19,3-5,1-3,0-0,0,4,4,2,0,2,0,3,7,-4
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Azura Stevens,F,,,,,,,,,,,,,,
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Skylar Diggins,G,,,,,,,,,,,,,,
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Natasha Cloud,G,,,,,,,,,,,,,,
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,DiJonai Carrington,G,,,,,,,,,,,,,,
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Chicago Sky,Washington Mystics,Aicha Coulibaly,G,,,,,,,,,,,,,,
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Michaela Onyenwere,F,26,5-10,3-7,3-3,1,1,2,2,0,0,1,2,16,0
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Kiki Iriafen,F,32,8-17,0-2,0-0,7,8,15,1,0,2,4,3,16,+12
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Shakira Austin,C,23,0-9,0-1,7-8,2,9,11,5,1,0,1,1,7,+7
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Sonia Citron,G,28,8-9,2-3,3-3,0,5,5,5,0,1,0,0,21,+19
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Georgia Amoore,G,23,3-6,3-6,5-6,1,0,1,1,0,0,3,1,14,+8
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Angela Dugalic,F,4,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,-3
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Lauren Betts,C,22,4-8,0-0,0-3,3,5,8,3,1,0,2,3,8,0
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Betnijah Laney-Hamilton,G,10,1-3,0-0,0-0,0,0,0,1,1,0,0,1,2,+8
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Cotie McMahon,G,19,3-4,1-2,5-9,0,1,1,0,1,0,1,2,12,-9
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Alicia Florez,G,14,2-2,1-1,0-0,0,1,1,1,0,0,2,1,5,-2
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Rori Harmon,G,,,,,,,,,,,,,,
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Lucy Olsen,G,,,,,,,,,,,,,,
+20260924_CHI_WSH,"Thursday, September 24, 2026",regular_season,Washington Mystics,Chicago Sky,Cassandre Prosper,G,,,,,,,,,,,,,,
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Makayla Timpson,F,9,1-1,0-0,0-0,0,1,1,0,1,1,2,2,2,-13
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Aliyah Boston,C,13,2-5,0-2,0-0,1,2,3,0,1,0,1,0,4,-22
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Kelsey Mitchell,G,22,3-12,2-6,2-2,2,0,2,1,1,0,0,1,10,-36
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Lexie Hull,G,17,2-7,1-6,0-0,2,2,4,0,1,1,2,3,5,+5
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Caitlin Clark,G,18,1-12,0-7,0-0,0,4,4,3,1,0,1,1,2,-27
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Myisha Hines-Allen,F,19,3-6,0-1,0-0,0,2,2,1,1,0,4,2,6,-23
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Monique Billings,F,17,3-5,0-0,0-0,6,4,10,1,0,0,0,2,6,-12
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Grace VanSlooten,F,10,2-2,0-0,5-7,1,1,2,0,0,0,0,0,9,+15
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Michelle Onyiah,C,12,1-3,0-0,2-5,2,3,5,0,0,0,2,1,4,+17
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Sophie Cunningham,G,16,0-4,0-4,0-0,0,2,2,0,0,0,3,0,0,-20
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Tyasha Harris,G,11,1-2,1-2,1-2,0,0,0,2,0,0,0,0,4,-8
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Raven Johnson,G,23,3-8,0-0,0-1,1,2,3,4,3,1,0,1,6,+10
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Bree Hall,G,13,3-6,1-4,1-3,1,4,5,1,0,0,0,0,8,+14
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Indiana Fever,Minnesota Lynx,Mercedes Russell,C,,,,,,,,,,,,,,
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Natasha Howard,F,20,9-11,0-0,3-4,4,4,8,2,0,3,1,0,21,+29
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Napheesa Collier,F,25,2-8,2-4,0-0,1,6,7,3,1,0,1,1,6,+34
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Kayla McBride,G,24,8-13,6-10,0-0,0,2,2,3,0,0,0,2,22,+34
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Courtney Williams,G,22,4-7,1-2,0-0,0,7,7,10,1,0,4,0,9,+30
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Maya Caldwell,G,27,2-7,1-4,0-0,2,3,5,4,0,0,1,2,5,+29
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Nia Brodie,F,13,3-6,3-6,0-0,0,4,4,2,0,0,2,4,9,+2
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Chloe Bibby,F,11,0-2,0-2,0-0,0,3,3,1,0,0,2,2,0,-12
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Dorka Juhasz,F,10,1-4,0-1,0-0,1,1,2,1,0,0,1,2,2,-13
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Liatu King,F,9,1-5,0-2,0-0,1,0,1,0,0,0,0,2,2,-11
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Antonia Delaere,F,19,1-4,0-3,0-0,1,4,5,1,0,0,1,1,2,-13
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Aari McDonald,G,20,2-8,2-6,2-2,0,0,0,1,2,0,0,2,8,-9
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Anastasiia Olairi Kosu,F,,,,,,,,,,,,,,
+20260925_IND_MIN,"Friday, September 25, 2026",regular_season,Minnesota Lynx,Indiana Fever,Olivia Miles,G,,,,,,,,,,,,,,
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Kayla Thornton,F,25,0-3,0-3,3-3,0,2,2,0,1,1,1,2,3,+11
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Gabby Williams,F,20,6-14,2-3,0-0,0,2,2,2,1,0,0,2,14,+4
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Cecilia Zandalasini,F,15,1-6,0-2,0-0,0,1,1,0,0,0,0,1,2,-9
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Kiah Stokes,C,32,3-4,1-1,0-0,4,8,12,3,1,1,1,3,7,+4
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Veronica Burton,G,29,5-12,1-4,6-6,1,2,3,5,1,0,1,5,17,+10
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Laeticia Amihere,F,7,0-2,0-0,0-0,1,0,1,0,0,0,1,1,0,-5
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Janelle Salaun,F,13,2-7,0-1,2-4,1,4,5,0,0,0,0,1,6,-8
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Aminata Gueye,C,4,0-1,0-0,0-0,0,0,0,0,0,0,1,2,0,-2
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Tiffany Hayes,G,12,2-6,0-1,2-3,0,1,1,0,0,1,2,2,6,-5
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Kaila Charles,G,22,0-2,0-0,3-4,2,3,5,1,0,0,0,1,3,-1
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Kaitlyn Chen,G,21,8-12,1-3,1-1,0,3,3,2,1,0,2,0,18,+6
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Ashten Prechtel,F,,,,,,,,,,,,,,
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Iliana Rupert,C,,,,,,,,,,,,,,
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Miela Sowah,G,,,,,,,,,,,,,,
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Golden State Valkyries,Los Angeles Sparks,Juste Jocyte,G,,,,,,,,,,,,,,
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Nneka Ogwumike,F,35,8-17,0-4,1-2,2,13,15,5,1,0,2,2,17,-4
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Dearica Hamby,F,30,4-7,0-1,7-9,2,4,6,1,0,1,2,3,15,-7
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Erica Wheeler,G,19,2-9,1-4,0-0,0,2,2,5,0,0,1,3,5,+5
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Ariel Atkins,G,28,3-9,1-3,0-0,0,1,1,4,1,0,0,4,7,0
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Rae Burrell,G,34,5-15,4-6,1-1,1,3,4,1,0,1,0,2,15,-2
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Jihyun Park,F,6,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,+1
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Tonie Morgan,G,21,2-3,0-1,0-2,1,1,2,4,0,0,1,1,4,-6
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Chance Gray,G,9,1-2,1-2,0-0,0,1,1,1,0,0,2,1,3,+1
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Monique Akoa Makani,G,18,3-6,2-4,1-1,0,2,2,1,0,0,4,1,9,+7
+20260925_GS_LA,"Friday, September 25, 2026",regular_season,Los Angeles Sparks,Golden State Valkyries,Emma Cannon,F,,,,,,,,,,,,,,
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Stephanie Talbot,F,31,6-6,1-1,1-1,1,3,4,0,2,1,0,1,14,+17
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Brianna Turner,F,11,0-1,0-0,0-0,0,3,3,0,0,1,0,0,0,+5
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,A'ja Wilson,C,35,16-28,1-3,1-1,3,7,10,4,1,0,1,1,34,+12
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Chelsea Gray,G,36,5-10,1-4,1-1,0,4,4,10,5,0,7,1,12,+18
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Jackie Young,G,34,2-8,1-2,0-0,2,5,7,11,3,0,4,2,5,+12
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Cheyenne Parker-Tyus,F,11,0-1,0-0,0-0,0,0,0,1,1,1,0,1,0,+6
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Kalani Brown,C,5,3-5,0-0,2-2,2,0,2,0,0,2,0,0,8,+11
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Jewell Loyd,G,25,9-14,5-9,2-3,0,2,2,0,0,0,1,2,25,+9
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Mai Yamamoto,G,14,1-2,0-0,0-0,1,0,1,1,0,0,0,1,2,0
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Kierstan Bell,F,,,,,,,,,,,,,,
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Dana Evans,G,,,,,,,,,,,,,,
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Ta'Niya Latson,G,,,,,,,,,,,,,,
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Las Vegas Aces,Phoenix Mercury,Justine Pissott,G,,,,,,,,,,,,,,
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Alyssa Thomas,F,26,3-8,0-0,0-0,2,5,7,9,1,0,3,1,6,-12
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Natasha Mack,F,26,6-11,0-0,0-0,2,5,7,1,4,4,3,1,12,-15
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Noemie Brochant,F,30,4-8,1-4,0-1,1,2,3,3,2,0,3,0,9,-5
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Sami Whitcomb,G,19,1-5,1-5,0-0,1,1,2,1,1,0,1,1,3,-10
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Kahleah Copper,G,31,7-15,2-7,2-2,1,5,6,3,3,0,4,1,18,-8
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Valeriane Ayayi,F,10,0-3,0-1,3-4,1,2,3,2,0,0,0,1,3,-13
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Maddy Westbeld,F,13,3-5,1-2,0-0,2,0,2,1,1,0,1,1,7,-7
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Marta Suarez,F,15,2-3,2-3,0-0,0,2,2,0,0,0,2,4,6,-2
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Lexi Held,G,11,1-3,0-1,3-4,0,1,1,0,0,0,1,1,5,-6
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Shay Ciezki,G,19,4-9,1-3,4-4,0,0,0,1,0,0,0,2,13,-12
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Kyara Linskens,C,,,,,,,,,,,,,,
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Kelsey Plum,G,,,,,,,,,,,,,,
+20260925_LV_PHX,"Friday, September 25, 2026",regular_season,Phoenix Mercury,Las Vegas Aces,Saylor Poffenbarger,G,,,,,,,,,,,,,,
