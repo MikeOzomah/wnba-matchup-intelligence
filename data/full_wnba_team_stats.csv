@@ -681,5 +681,7 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260930_ATL_WSH,"Wednesday, September 30, 2026",Washington Mystics,Atlanta Dream,WSH,22-58,38,7-22,32,24-28,86,12,30,42,13,3,1,19,27,75
 20261001_GS_DAL,"Thursday, October 01, 2026",Golden State Valkyries,Dallas Wings,GS,34-73,47,12-27,44,20-23,87,6,23,29,21,8,2,10,28,100
 20261001_GS_DAL,"Thursday, October 01, 2026",Dallas Wings,Golden State Valkyries,DAL,32-64,50,12-23,52,32-37,86,7,22,29,20,6,2,13,22,108
-20261002_IND_LV,"Friday, October 02, 2026",Indiana Fever,Las Vegas Aces,IND,,49,,39,,,,,,,,,,,0
-20261002_IND_LV,"Friday, October 02, 2026",Las Vegas Aces,Indiana Fever,LV,,49,,36,,,,,,,,,,,0
+20261002_IND_LV,"Friday, October 02, 2026",Indiana Fever,Las Vegas Aces,IND,30-78,38,9-32,28,14-20,70,9,29,38,16,8,6,10,27,83
+20261002_IND_LV,"Friday, October 02, 2026",Las Vegas Aces,Indiana Fever,LV,29-64,45,8-20,40,28-35,80,2,32,34,15,4,4,10,19,94
+20261003_DAL_GS,"Saturday, October 03, 2026",Dallas Wings,Golden State Valkyries,DAL,26-59,44,5-16,31,16-19,84,6,30,36,13,4,5,10,23,73
+20261003_DAL_GS,"Saturday, October 03, 2026",Golden State Valkyries,Dallas Wings,GS,27-77,35,9-29,31,14-18,78,14,26,40,17,5,5,6,18,77
