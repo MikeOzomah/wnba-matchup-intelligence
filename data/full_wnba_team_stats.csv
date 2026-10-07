@@ -689,3 +689,7 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20261004_NY_ATL,"Sunday, October 04, 2026",Atlanta Dream,New York Liberty,ATL,32-71,45,10-26,38,18-23,78,9,25,34,20,14,4,13,12,92
 20261004_LV_GS,"Sunday, October 04, 2026",Las Vegas Aces,Golden State Valkyries,LV,21-62,34,7-21,33,11-15,73,2,23,25,12,9,3,6,13,60
 20261004_LV_GS,"Sunday, October 04, 2026",Golden State Valkyries,Las Vegas Aces,GS,26-69,38,7-24,29,12-16,75,17,35,52,13,5,6,13,15,71
+20261007_NY_ATL,"Wednesday, October 07, 2026",New York Liberty,Atlanta Dream,NY,,46,,35,,,,,,,,,,,0
+20261007_NY_ATL,"Wednesday, October 07, 2026",Atlanta Dream,New York Liberty,ATL,,44,,33,,,,,,,,,,,0
+20261008_LV_GS,"Thursday, October 08, 2026",Las Vegas Aces,Golden State Valkyries,LV,,49,,36,,,,,,,,,,,0
+20261008_LV_GS,"Thursday, October 08, 2026",Golden State Valkyries,Las Vegas Aces,GS,,42,,34,,,,,,,,,,,0
