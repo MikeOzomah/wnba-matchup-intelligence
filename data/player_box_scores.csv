@@ -8504,3 +8504,52 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20261004_LV_GS,"Sunday, October 04, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Ashten Prechtel,F,,,,,,,,,,,,,,
 20261004_LV_GS,"Sunday, October 04, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Miela Sowah,G,,,,,,,,,,,,,,
 20261004_LV_GS,"Sunday, October 04, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Juste Jocyte,G,,,,,,,,,,,,,,
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Breanna Stewart,F,43,11-21,2-4,11-13,1,10,11,6,1,2,1,3,35,+2
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Leonie Fiebich,F,43,2-5,0-3,0-0,0,5,5,3,1,0,2,5,4,-2
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Jonquel Jones,C,38,8-11,2-4,3-4,3,5,8,0,1,4,6,5,21,+3
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Sabrina Ionescu,G,38,3-8,2-4,2-6,0,4,4,7,1,0,2,3,10,+8
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Pauline Astier,G,14,2-6,1-2,0-0,0,1,1,1,0,0,1,1,5,-6
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Han Xu,C,7,0-1,0-0,0-0,0,0,0,0,0,1,1,0,0,-6
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Rebekah Gardner,G,6,1-1,1-1,0-0,0,0,0,1,0,0,0,0,3,-5
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Rebecca Allen,G,2,0-0,0-0,0-0,0,1,1,0,0,0,0,2,0,-5
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Marine Johannes,G,3,0-1,0-1,0-0,0,0,0,1,0,0,0,0,0,-7
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Marine Fauthoux,G,31,8-10,4-6,0-0,1,5,6,4,2,0,3,6,20,+3
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Anneli Maley,F,,,,,,,,,,,,,,
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,New York Liberty,Atlanta Dream,Raquel Carrera,F,,,,,,,,,,,,,,
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,DeWanna Bonner,F,34,2-11,1-4,5-6,1,3,4,3,1,0,0,1,10,-9
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Naz Hillmon,F,44,5-11,1-6,1-1,2,6,8,5,1,0,0,1,12,+2
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Angel Reese,F,39,8-16,1-2,6-6,5,2,7,2,1,2,2,5,23,+11
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Jordin Canada,G,39,9-15,3-6,2-2,0,5,5,8,1,0,4,2,23,+7
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Rhyne Howard,G,44,5-20,2-6,6-6,1,6,7,4,2,0,0,4,18,0
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Madina Okot,C,1,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,-1
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Te-Hina Paopao,G,10,1-2,1-1,1-2,0,0,0,0,0,0,1,1,4,+4
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Isobel Borlase,G,14,4-9,3-5,0-0,2,2,4,0,1,0,0,3,11,+1
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Brionna Jones,F,,,,,,,,,,,,,,
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Sika Kone,F,,,,,,,,,,,,,,
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Shatori Walker-Kimbrough,G,,,,,,,,,,,,,,
+20261007_NY_ATL,"Wednesday, October 07, 2026",regular_season,Atlanta Dream,New York Liberty,Allisha Gray,G,,,,,,,,,,,,,,
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Stephanie Talbot,F,21,3-4,2-2,2-2,1,3,4,0,0,1,1,4,10,-5
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Brianna Turner,F,11,0-0,0-0,0-0,0,1,1,0,0,0,0,0,0,-13
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,A'ja Wilson,C,36,9-16,0-1,6-6,1,6,7,2,1,1,2,3,24,+1
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Chelsea Gray,G,39,7-15,3-8,2-2,1,2,3,6,2,0,4,0,19,0
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Jackie Young,G,37,2-7,2-4,8-10,0,0,0,8,4,0,2,5,14,+5
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Cheyenne Parker-Tyus,F,8,0-0,0-0,0-0,0,1,1,0,0,0,0,1,0,-1
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Kierstan Bell,F,1,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0,-2
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Kalani Brown,C,24,3-8,0-0,3-4,3,5,8,0,0,0,0,1,9,+3
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Dana Evans,G,18,1-3,1-2,2-2,0,0,0,2,1,0,2,1,5,+1
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Justine Pissott,G,2,0-2,0-1,0-0,0,1,1,0,0,0,0,1,0,+1
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Las Vegas Aces,Golden State Valkyries,Mai Yamamoto,G,4,0-2,0-1,0-0,0,0,0,1,0,0,0,0,0,0
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Kayla Thornton,F,30,3-7,3-5,7-7,2,1,3,0,0,0,1,3,16,-1
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Gabby Williams,F,30,7-17,3-8,3-4,1,4,5,3,1,0,1,2,20,-6
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Cecilia Zandalasini,F,20,1-4,1-4,2-2,2,2,4,0,2,0,2,1,5,+5
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Kiah Stokes,C,29,0-1,0-1,0-0,1,6,7,1,0,1,0,5,0,-7
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Veronica Burton,G,28,1-3,1-3,5-6,0,1,1,3,1,0,1,4,8,+2
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Janelle Salaun,F,4,1-2,0-1,0-0,0,1,1,0,1,0,0,0,2,+7
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Aminata Gueye,C,13,1-6,0-2,0-0,2,0,2,1,0,0,4,5,2,+3
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Tiffany Hayes,G,17,6-10,1-2,8-8,1,1,2,2,2,0,0,3,21,+4
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Kaila Charles,G,17,1-3,0-2,0-0,1,4,5,2,0,0,1,2,2,+3
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Kaitlyn Chen,G,12,3-5,1-1,0-0,0,0,0,0,0,0,2,0,7,0
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Laeticia Amihere,F,,,,,,,,,,,,,,
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Ashten Prechtel,F,,,,,,,,,,,,,,
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Miela Sowah,G,,,,,,,,,,,,,,
+20261008_LV_GS,"Thursday, October 08, 2026",regular_season,Golden State Valkyries,Las Vegas Aces,Juste Jocyte,G,,,,,,,,,,,,,,
