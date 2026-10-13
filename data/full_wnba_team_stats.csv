@@ -113,8 +113,6 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260529_PHX_NY,"Friday, May 29, 2026",New York Liberty,Phoenix Mercury,NY,26-60,43,8-25,32,15-17,88,7,33,40,18,5,5,16,21,75
 20260529_LA_WSH,"Friday, May 29, 2026",Los Angeles Sparks,Washington Mystics,LA,33-66,50,6-20,30,20-28,71,9,20,29,23,8,2,14,24,92
 20260529_LA_WSH,"Friday, May 29, 2026",Washington Mystics,Los Angeles Sparks,WSH,31-61,51,5-22,23,20-29,69,7,24,31,26,4,4,15,27,87
-20260529_MIN_CHI,"Friday, May 29, 2026",Minnesota Lynx,Chicago Sky,MIN,28-71,39,8-28,29,15-18,83,6,37,43,20,13,7,14,17,79
-20260529_MIN_CHI,"Friday, May 29, 2026",Chicago Sky,Minnesota Lynx,CHI,20-70,29,5-30,17,13-18,72,9,32,41,15,6,6,17,19,58
 20260530_ATL_POR,"Saturday, May 30, 2026",Atlanta Dream,Portland Fire,ATL,30-68,44,9-30,30,17-20,85,12,17,29,22,16,1,15,14,86
 20260530_ATL_POR,"Saturday, May 30, 2026",Portland Fire,Atlanta Dream,POR,25-56,45,9-27,33,7-8,88,6,17,23,18,4,4,28,22,66
 20260530_SEA_TOR,"Saturday, May 30, 2026",Seattle Storm,Toronto Tempo,SEA,29-71,41,7-27,26,7-8,88,9,23,32,21,7,4,17,20,72
@@ -127,8 +125,6 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260531_LV_GS,"Sunday, May 31, 2026",Golden State Valkyries,Las Vegas Aces,GS,25-74,34,16-35,46,15-17,88,9,24,33,16,9,0,12,21,81
 20260602_SEA_DAL,"Tuesday, June 02, 2026",Seattle Storm,Dallas Wings,SEA,20-61,33,4-19,21,12-17,71,6,30,36,11,6,7,17,22,56
 20260602_SEA_DAL,"Tuesday, June 02, 2026",Dallas Wings,Seattle Storm,DAL,29-81,36,5-25,20,16-24,67,18,30,48,19,7,1,8,15,79
-20260602_MIN_PHX,"Tuesday, June 02, 2026",Minnesota Lynx,Phoenix Mercury,MIN,44-69,64,10-17,59,13-13,100,8,27,35,28,10,5,11,22,111
-20260602_MIN_PHX,"Tuesday, June 02, 2026",Phoenix Mercury,Minnesota Lynx,PHX,22-64,34,10-27,37,23-27,85,11,13,24,18,6,0,14,12,77
 20260602_CON_ATL,"Tuesday, June 02, 2026",Connecticut Sun,Atlanta Dream,CON,26-55,47,4-17,24,19-29,66,3,25,28,17,8,5,14,18,75
 20260602_CON_ATL,"Tuesday, June 02, 2026",Atlanta Dream,Connecticut Sun,ATL,32-68,47,14-37,38,13-18,72,9,26,35,22,10,1,13,20,91
 20260602_CHI_WSH,"Tuesday, June 02, 2026",Chicago Sky,Washington Mystics,CHI,28-64,44,6-16,38,10-16,63,5,24,29,19,9,10,18,22,72
