@@ -1234,6 +1234,31 @@ game_id,date,season_phase,team,opponent,player,position,min,fg,3pt,ft,oreb,dreb,
 20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Indya Nivar,G,2,1-1,1-1,0-0,0,1,1,0,0,0,0,0,3,0
 20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Isobel Borlase,G,16,2-7,1-4,0-0,1,3,4,2,0,1,0,0,5,+7
 20260524_PHX_ATL,"Sunday, May 24, 2026",regular_season,Atlanta Dream,Phoenix Mercury,Brionna Jones,F,,,,,,,,,,,,,,
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Jessica Shepard,F,33,5-9,0-1,0-1,2,9,11,6,0,0,1,3,10,+21
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Alanna Smith,F,15,0-1,0-1,0-0,0,2,2,3,1,0,0,3,0,-9
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Odyssey Sims,G,8,0-0,0-0,0-0,0,0,0,2,0,0,0,0,0,+3
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Arike Ogunbowale,G,38,5-20,5-13,4-6,0,4,4,5,1,0,3,2,19,+18
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Paige Bueckers,G,36,7-13,2-4,8-8,2,4,6,2,0,0,1,4,24,+8
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Maddy Siegrist,F,6,1-1,0-0,0-0,0,1,1,0,1,1,1,1,2,+2
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Awak Kuier,F,24,2-3,2-3,4-4,1,5,6,1,0,2,1,0,10,+17
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Li Yueru,C,3,0-1,0-1,0-0,0,1,1,0,0,0,0,0,0,-4
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Azzi Fudd,G,32,9-15,6-12,0-0,0,2,2,3,3,2,1,3,24,+22
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Aziaha James,G,4,1-2,0-0,0-0,1,0,1,0,0,0,0,0,2,-3
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Alysha Clark,F,,,,,,,,,,,,,,
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Dulcy Fankam Mendjiadeu,F,,,,,,,,,,,,,,
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,JJ Quinerly,G,,,,,,,,,,,,,,
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,Dallas Wings,New York Liberty,Costanza Verona,G,,,,,,,,,,,,,,
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Breanna Stewart,F,34,7-18,0-2,0-0,4,7,11,3,1,0,2,1,14,-17
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Satou Sabally,F,25,6-14,3-6,5-5,1,1,2,2,0,0,1,4,20,-17
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Jonquel Jones,C,29,5-11,0-3,4-5,2,5,7,2,1,0,1,3,14,-7
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Marine Johannes,G,22,0-3,0-3,0-0,1,2,3,5,0,0,1,3,0,-1
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Sabrina Ionescu,G,31,4-15,2-5,1-2,0,5,5,7,0,0,1,2,11,-13
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Anneli Maley,F,11,0-2,0-2,0-0,2,1,3,0,1,0,0,4,0,+4
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Raquel Carrera,F,1,0-0,0-0,0-0,0,0,0,1,0,0,0,0,0,0
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Han Xu,C,12,2-4,2-3,0-0,0,2,2,0,0,0,0,0,6,-5
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Rebekah Gardner,G,16,2-2,0-0,0-0,0,1,1,0,0,0,1,0,4,-8
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Pauline Astier,G,18,2-3,1-2,2-2,0,0,0,1,1,0,2,1,7,-11
+20260524_DAL_NY,"Sunday, May 24, 2026",regular_season,New York Liberty,Dallas Wings,Rebecca Allen,G,,,,,,,,,,,,,,
 20260524_WSH_SEA,"Sunday, May 24, 2026",regular_season,Washington Mystics,Seattle Storm,Michaela Onyenwere,F,17,1-3,0-1,4-4,0,0,0,0,1,0,2,4,6,+6
 20260524_WSH_SEA,"Sunday, May 24, 2026",regular_season,Washington Mystics,Seattle Storm,Kiki Iriafen,F,26,4-8,1-1,4-6,1,3,4,0,2,1,0,2,13,-10
 20260524_WSH_SEA,"Sunday, May 24, 2026",regular_season,Washington Mystics,Seattle Storm,Shakira Austin,C,29,4-7,1-2,3-3,0,4,4,0,2,2,1,3,12,-10

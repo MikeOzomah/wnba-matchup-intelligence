@@ -87,6 +87,8 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20260524_LA_LV,"Sunday, May 24, 2026",Las Vegas Aces,Los Angeles Sparks,LV,34-76,45,10-29,34,17-21,81,13,23,36,21,6,9,14,20,95
 20260524_PHX_ATL,"Sunday, May 24, 2026",Phoenix Mercury,Atlanta Dream,PHX,29-66,44,4-21,19,18-19,95,9,27,36,14,8,6,15,19,80
 20260524_PHX_ATL,"Sunday, May 24, 2026",Atlanta Dream,Phoenix Mercury,ATL,30-68,44,11-26,42,11-21,52,12,26,38,22,9,3,14,16,82
+20260524_DAL_NY,"Sunday, May 24, 2026",Dallas Wings,New York Liberty,DAL,30-65,46,15-35,43,16-19,84,6,28,34,22,6,5,8,16,91
+20260524_DAL_NY,"Sunday, May 24, 2026",New York Liberty,Dallas Wings,NY,28-72,39,8-26,31,12-14,86,10,24,34,21,4,0,9,18,76
 20260524_WSH_SEA,"Sunday, May 24, 2026",Washington Mystics,Seattle Storm,WSH,23-57,40,4-20,20,35-41,85,6,20,26,14,9,5,13,26,85
 20260524_WSH_SEA,"Sunday, May 24, 2026",Seattle Storm,Washington Mystics,SEA,26-59,44,13-28,46,32-34,94,3,21,24,20,10,3,14,28,97
 20260526_POR_NY,"Tuesday, May 26, 2026",Portland Fire,New York Liberty,POR,31-75,41,9-26,35,10-14,71,8,21,29,18,12,6,12,22,81
