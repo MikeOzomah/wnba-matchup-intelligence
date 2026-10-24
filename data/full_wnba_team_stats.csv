@@ -699,3 +699,5 @@ game_id,date,team,opponent,team_abbr,fg,fg_pct,3pt,3p_pct,ft,ft_pct,oreb,dreb,re
 20261020_ATL_GS,"Tuesday, October 20, 2026",Golden State Valkyries,Atlanta Dream,GS,21-61,34,7-24,29,16-19,84,6,26,32,10,8,8,18,23,65
 20261022_GS_ATL,"Thursday, October 22, 2026",Golden State Valkyries,Atlanta Dream,GS,24-69,35,12-30,40,11-17,65,9,25,34,19,6,5,15,21,71
 20261022_GS_ATL,"Thursday, October 22, 2026",Atlanta Dream,Golden State Valkyries,ATL,34-69,49,9-22,41,20-29,69,6,31,37,26,9,4,8,17,97
+20261024_GS_ATL,"Saturday, October 24, 2026",Golden State Valkyries,Atlanta Dream,GS,0-2,0,0-1,0,0-0,0,1,0,1,0,0,0,1,2,0
+20261024_GS_ATL,"Saturday, October 24, 2026",Atlanta Dream,Golden State Valkyries,ATL,0-0,0,0-0,0,2-2,100,0,1,1,0,0,0,0,0,2
